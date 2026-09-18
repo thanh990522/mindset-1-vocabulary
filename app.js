@@ -257,10 +257,7 @@ function updateOverallProgress() {
   overallProgressBar.style.width = `${Math.round((learned / total) * 100)}%`;
 }
 
-function renderLearn(query = "") {
-  const oldSearch = document.querySelector("#vocab-search");
-  const hadFocus = document.activeElement === oldSearch && oldSearch !== null;
-  const cursor = hadFocus ? oldSearch.selectionStart : null;
+function renderLearn(query = "", updateOnly = false) {
   const section = currentSection();
   const normalizedQuery = query.trim().toLowerCase();
   const filteredWords = section.words.filter((word) =>
@@ -268,7 +265,14 @@ function renderLearn(query = "") {
       .some((field) => String(field ?? "").toLowerCase().includes(normalizedQuery))
   );
 
-  modeContent.innerHTML = `
+  const cards = filteredWords.length
+    ? filteredWords.map((word) => renderVocabCard(section, word)).join("")
+    : '<div class="empty-state"><span>🕵️</span>No vocabulary matches your search.</div>';
+
+  if (updateOnly) {
+    modeContent.querySelector(".vocab-grid").innerHTML = cards;
+  } else {
+    modeContent.innerHTML = `
     <div class="learn-tools">
       <p>Tap <strong>🔊 Listen</strong> to listen. Mark each word when you feel confident.</p>
       <label class="search-box">
@@ -276,18 +280,10 @@ function renderLearn(query = "") {
         <input id="vocab-search" type="search" value="${escapeHtml(query)}" placeholder="Search English or Vietnamese…" aria-label="Search vocabulary" />
       </label>
     </div>
-    <div class="vocab-grid">
-      ${filteredWords.length ? filteredWords.map((word) => renderVocabCard(section, word)).join("") : `
-        <div class="empty-state"><span>🕵️</span>No vocabulary matches your search.</div>
-      `}
-    </div>
+    <div class="vocab-grid">${cards}</div>
   `;
 
-  document.querySelector("#vocab-search").addEventListener("input", (event) => renderLearn(event.target.value));
-  if (hadFocus) {
-    const search = document.querySelector("#vocab-search");
-    search.focus();
-    if (cursor !== null) search.setSelectionRange(cursor, cursor);
+    document.querySelector("#vocab-search").addEventListener("input", (event) => renderLearn(event.target.value, true));
   }
   bindAudioButtons();
 
@@ -530,6 +526,8 @@ function renderMatchOption(text, id, type, matchState) {
 function selectMatchOption(type, id) {
   const section = currentSection();
   const matchState = getMatchingState(section);
+  matchState.wrongWord = null;
+  matchState.wrongMeaning = null;
 
   if (type === "word") matchState.selectedWord = id;
   else matchState.selectedMeaning = id;
@@ -619,4 +617,3 @@ const requestedUnitId = window.location.hash.slice(1) || availableUnits()[0]?.id
 loadUnit(requestedUnitId).catch((error) => {
   modeContent.innerHTML = `<div class="empty-state"><span>⚠️</span>${escapeHtml(error.message)}</div>`;
 });
-
