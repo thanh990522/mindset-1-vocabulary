@@ -1,0 +1,56 @@
+{
+  "source": "Mindset 1 Vocab List.docx",
+  "units": [
+    {
+      "number": 1,
+      "title": "Relationships",
+      "sections": 3,
+      "terms": 35
+    },
+    {
+      "number": 2,
+      "title": "Places and Buildings",
+      "sections": 5,
+      "terms": 47
+    },
+    {
+      "number": 3,
+      "title": "Education and Employment",
+      "sections": 2,
+      "terms": 24
+    },
+    {
+      "number": 4,
+      "title": "Food and Drink",
+      "sections": 5,
+      "terms": 69
+    },
+    {
+      "number": 5,
+      "title": "Consumerism",
+      "sections": 5,
+      "terms": 47
+    },
+    {
+      "number": 6,
+      "title": "Leisure Time",
+      "sections": 2,
+      "terms": 26
+    },
+    {
+      "number": 7,
+      "title": "Fame and Media",
+      "sections": 3,
+      "terms": 36
+    },
+    {
+      "number": 8,
+      "title": "The Natural World",
+      "sections": 4,
+      "terms": 41
+    }
+  ],
+  "totalTerms": 325,
+  "distinctTerms": 307,
+  "duplicateRowsRemoved": 20
+}

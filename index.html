@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0878d1" />
+    <meta name="description" content="Mindset for IELTS 1 vocabulary: 8 units, IPA, Vietnamese meanings, examples, flashcards and matching." />
+    <title>Mindset for IELTS 1 | Vocabulary Adventure</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#lesson">Skip to lesson</a>
+
+    <div class="sky-decor decor-one" aria-hidden="true">✦</div>
+    <div class="sky-decor decor-two" aria-hidden="true">✧</div>
+    <div class="sky-decor decor-three" aria-hidden="true">★</div>
+
+    <header class="hero">
+      <nav class="school-bar" aria-label="Course information">
+        <a class="school-brand" href="#" aria-label="Mindset for IELTS 1 home">
+          <span class="brand-mark" aria-hidden="true">M1</span>
+          <span>
+            <strong>MINDSET FOR IELTS 1</strong>
+            <small>Build your vocabulary • Grow your confidence</small>
+          </span>
+        </a>
+        <div class="school-meta">
+          <span><b>Course</b> Mindset 1</span>
+          <span><b>Teacher</b> Mr. Hà Chí Thanh</span>
+        </div>
+      </nav>
+
+      <div class="hero-content">
+        <div class="hero-copy">
+          <span class="eyebrow">✨ MINDSET 1 VOCABULARY ADVENTURE</span>
+          <h1><span id="hero-unit-number" class="hero-unit-number">Unit 1:</span> <span id="hero-unit-title">Relationships</span></h1>
+          <p id="hero-unit-subtitle">Build your word power through colourful lessons, flip cards, and quick matching challenges.</p>
+          <div class="hero-stats" aria-label="Unit statistics">
+            <span>📚 <strong id="hero-section-count">3</strong> sections</span>
+            <span>🔤 <strong id="hero-word-count">35</strong> terms</span>
+            <span>🔊 <strong>English</strong> pronunciation</span>
+          </div>
+        </div>
+        <div class="hero-art" aria-hidden="true">
+          <div class="planet">🌎</div>
+          <div class="cloud cloud-a">☁️</div>
+          <div class="cloud cloud-b">☁️</div>
+          <div class="pencil">✏️</div>
+          <div class="book">📖</div>
+          <div class="star star-a">⭐</div>
+          <div class="star star-b">✨</div>
+        </div>
+      </div>
+    </header>
+
+    <main id="lesson" class="lesson-shell">
+      <section class="unit-switcher" aria-labelledby="course-heading">
+        <div class="unit-switcher-copy">
+          <span class="mini-label">MINDSET 1 VOCABULARY COURSE</span>
+          <h2 id="course-heading">Choose your unit</h2>
+          <p>All 8 units are ready. Choose any unit and continue your vocabulary adventure.</p>
+        </div>
+        <label class="unit-select-wrap" for="unit-select">
+          <span>📚 Select unit</span>
+          <select id="unit-select" aria-label="Choose a vocabulary unit"></select>
+        </label>
+        <div id="course-status" class="course-status" aria-live="polite"></div>
+      </section>
+
+      <section class="unit-toolbar" aria-labelledby="unit-heading">
+        <div>
+          <span class="mini-label">CURRENT MISSION</span>
+          <h2 id="unit-heading">Choose a section</h2>
+        </div>
+        <div class="overall-progress" aria-label="Overall learning progress">
+          <div class="progress-copy">
+            <span>Your progress</span>
+            <strong id="overall-progress-text">0 / 35 learned</strong>
+          </div>
+          <div class="progress-track"><span id="overall-progress-bar"></span></div>
+        </div>
+      </section>
+
+      <nav id="section-tabs" class="section-tabs" aria-label="Vocabulary sections"></nav>
+
+      <section class="workspace">
+        <div class="section-heading">
+          <div id="section-icon" class="section-icon" aria-hidden="true">🏙️</div>
+          <div>
+            <span id="section-kicker" class="mini-label">UNIT 1 • READING 1</span>
+            <h2 id="section-title">Family members</h2>
+            <p id="section-description">Study every word, listen carefully, then practise.</p>
+          </div>
+          <div id="section-count" class="count-chip">10 terms</div>
+        </div>
+
+        <nav id="mode-tabs" class="mode-tabs" aria-label="Learning modes">
+          <button type="button" class="mode-tab active" data-mode="learn" aria-pressed="true">
+            <span>📘</span><b>Learn</b><small>Vocabulary first</small>
+          </button>
+          <button type="button" class="mode-tab" data-mode="flashcards" aria-pressed="false">
+            <span>🃏</span><b>Flashcards</b><small>Flip & remember</small>
+          </button>
+          <button type="button" class="mode-tab" data-mode="matching" aria-pressed="false">
+            <span>🧩</span><b>Matching</b><small>Match the meaning</small>
+          </button>
+        </nav>
+
+        <div id="mode-content" class="mode-content" aria-live="polite"></div>
+      </section>
+    </main>
+
+    <footer>
+      <div>
+        <span class="brand-mark small" aria-hidden="true">M1</span>
+        <p><strong>Mindset for IELTS 1 • Vocabulary</strong><br />Teacher: Mr. Hà Chí Thanh</p>
+      </div>
+      <p>Pronunciation uses your device’s English voice, with US English preferred. Progress is saved in this browser.</p>
+    </footer>
+
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <noscript><p class="empty-state">Please enable JavaScript to use the vocabulary activities.</p></noscript>
+    <script type="module" src="app.js"></script>
+  </body>
+</html>
+
