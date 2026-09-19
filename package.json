@@ -1,7 +1,7 @@
 {
   "name": "mindset-1-vocabulary",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "type": "module",
-  "scripts": { "test": "node scripts/check-data.mjs" }
+  "scripts": { "build": "python3 scripts/build-data.py", "test": "node scripts/check-data.mjs" }
 }

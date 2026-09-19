@@ -1,619 +1,254 @@
-import { availableUnits, unitsRegistry } from "./data/units.js";
+import { unitsRegistry } from "./data/units.js?v=20260918-3";
 
-const CAMBRIDGE_DICTIONARY_BASE = "https://dictionary.cambridge.org/dictionary/english/";
-const STORAGE_KEY = "mindset-1-vocabulary-progress-v1";
-const ROUND_SIZE = 6;
+const $ = (selector) => document.querySelector(selector);
+const PAGE_SIZE = 12;
+const STORAGE_KEY = "mindset-1-vocabulary-progress-v2";
+const OLD_KEY = "mindset-1-vocabulary-progress-v1";
+const labels = { word: "Từ đơn", phrase: "Cụm từ", collocation: "Collocation", structure: "Cấu trúc" };
+const state = { units: [], unit: null, skill: "reading", page: 1, group: "all", query: "", type: "all", status: "all", direction: "en", learned: new Set(), shuffled: null, flipped: new Set() };
+let toastTimer;
 
-const sectionTabs = document.querySelector("#section-tabs");
-const modeTabs = [...document.querySelectorAll(".mode-tab")];
-const modeContent = document.querySelector("#mode-content");
-const sectionIcon = document.querySelector("#section-icon");
-const sectionKicker = document.querySelector("#section-kicker");
-const sectionTitle = document.querySelector("#section-title");
-const sectionDescription = document.querySelector("#section-description");
-const sectionCount = document.querySelector("#section-count");
-const overallProgressText = document.querySelector("#overall-progress-text");
-const overallProgressBar = document.querySelector("#overall-progress-bar");
-const toast = document.querySelector("#toast");
-const unitSelect = document.querySelector("#unit-select");
-const courseStatus = document.querySelector("#course-status");
-const unitHeading = document.querySelector("#unit-heading");
-const heroUnitNumber = document.querySelector("#hero-unit-number");
-const heroUnitTitle = document.querySelector("#hero-unit-title");
-const heroUnitSubtitle = document.querySelector("#hero-unit-subtitle");
-const heroSectionCount = document.querySelector("#hero-section-count");
-const heroWordCount = document.querySelector("#hero-word-count");
-
-let unit = null;
-
-const state = {
-  activeSection: 0,
-  mode: "learn",
-  learned: loadLearnedWords(),
-  flashDecks: new Map(),
-  flashIndexes: new Map(),
-  matching: new Map(),
-  toastTimer: null,
-  activeAudio: null,
-  loadSequence: 0,
-  matchingTimer: null
-};
-
-function loadLearnedWords() {
-  try {
-    const stored = JSON.parse(localStorage.getItem(STORAGE_KEY) || "[]");
-    return new Set(Array.isArray(stored) ? stored : []);
-  } catch {
-    return new Set();
-  }
+function escapeHTML(value) {
+  return String(value).replace(/[&<>"']/g, (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[char]);
 }
 
-function saveLearnedWords() {
-  try {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify([...state.learned]));
-  } catch {
-    showToast("Your progress is available for this session. Browser storage is unavailable.");
-  }
+function searchKey(text) {
+  return text.normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[đĐ]/g, "d").toLowerCase().replace(/[’‘]/g, "'").trim();
 }
 
-function wordKey(section, word) {
-  return `${unit.id}:${section.id}:${word.word}`;
+function sectionWords(section) {
+  return section.groups.flatMap((group) => group.words.map((word) => ({ ...word, groupId: group.id, groupTitle: group.title, source: group.source, origin: group.origin })));
 }
 
-function escapeHtml(value) {
-  return String(value)
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#039;");
-}
+function currentSection() { return state.unit.sections.find((section) => section.id === state.skill); }
+function currentWords() { return sectionWords(currentSection()); }
 
-function shuffle(items) {
-  const copy = [...items];
-  for (let index = copy.length - 1; index > 0; index -= 1) {
-    const randomIndex = Math.floor(Math.random() * (index + 1));
-    [copy[index], copy[randomIndex]] = [copy[randomIndex], copy[index]];
-  }
-  return copy;
-}
-
-function currentSection() {
-  return unit.sections[state.activeSection];
-}
-
-function validateUnit(candidate) {
-  if (!candidate || !candidate.id || !candidate.number || !candidate.title || !Array.isArray(candidate.sections) || !candidate.sections.length) {
-    throw new Error("The unit data does not follow the required schema.");
-  }
-
-  candidate.sections.forEach((section) => {
-    if (!section.id || !section.label || !Array.isArray(section.words)) {
-      throw new Error(`Invalid section data in ${candidate.id}.`);
-    }
-  });
-}
-
-async function loadUnit(unitId, { updateHistory = true } = {}) {
-  const fallback = availableUnits()[0];
-  const requested = unitsRegistry.find((item) => item.id === unitId);
-  const target = requested?.status === "available" && requested.module ? requested : fallback;
-
-  if (!target) {
-    throw new Error("No vocabulary unit is currently available.");
-  }
-
-  stopPronunciation();
-  window.clearTimeout(state.matchingTimer);
-  const sequence = ++state.loadSequence;
-  const unitModule = await import(target.module);
-  if (sequence !== state.loadSequence) return;
-  validateUnit(unitModule.default);
-  unit = unitModule.default;
-  state.activeSection = 0;
-  state.mode = "learn";
-  state.flashDecks.clear();
-  state.flashIndexes.clear();
-  state.matching.clear();
-
-  if (updateHistory || window.location.hash !== `#${unit.id}`) {
-    window.history.replaceState(null, "", `#${unit.id}`);
-  }
-
-  renderAll();
-}
-
-function renderUnitSelector() {
-  unitSelect.innerHTML = unitsRegistry.map((item) => {
-    const available = item.status === "available" && item.module;
-    const suffix = available ? "Available" : "Coming soon";
-    return `<option value="${item.id}" ${item.id === unit.id ? "selected" : ""} ${available ? "" : "disabled"}>${item.icon} Unit ${item.number} — ${escapeHtml(item.title)} (${suffix})</option>`;
-  }).join("");
-
-  const ready = availableUnits().length;
-  courseStatus.innerHTML = `<strong>${ready}/${unitsRegistry.length}</strong><span>units available</span>`;
-}
-
-function updateUnitShell() {
-  const totalWords = unit.sections.reduce((sum, section) => sum + section.words.length, 0);
-  heroUnitNumber.textContent = `Unit ${unit.number}:`;
-  heroUnitTitle.textContent = unit.title;
-  heroUnitSubtitle.textContent = unit.subtitle;
-  heroSectionCount.textContent = unit.sections.length;
-  heroWordCount.textContent = totalWords;
-  unitHeading.textContent = `Unit ${unit.number}: Choose a section`;
-  sectionTabs.setAttribute("aria-label", `Unit ${unit.number} vocabulary sections`);
-  document.title = `Unit ${unit.number}: ${unit.title} | Mindset 1 Vocabulary`;
-}
-
-function showToast(message) {
-  window.clearTimeout(state.toastTimer);
+function notify(message) {
+  const toast = $("#toast");
+  clearTimeout(toastTimer);
   toast.textContent = message;
-  toast.classList.add("show");
-  state.toastTimer = window.setTimeout(() => toast.classList.remove("show"), 3000);
+  toast.hidden = false;
+  toastTimer = setTimeout(() => { toast.hidden = true; }, 4200);
 }
 
-function dictionaryUrl(word) {
-  const lookup = word.dictionaryWord || word.audioWord || word.word.split("/")[0].trim();
-  const slug = lookup
-    .toLowerCase()
-    .replaceAll("&", "and")
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-|-$/g, "");
-  return `${CAMBRIDGE_DICTIONARY_BASE}${slug}`;
+function saveProgress() {
+  try { localStorage.setItem(STORAGE_KEY, JSON.stringify({ version: 2, learned: [...state.learned] })); }
+  catch { notify("Trình duyệt chưa cho lưu dữ liệu. Tiến độ vẫn được giữ trong phiên này."); }
 }
 
-function stopPronunciation() {
-  window.speechSynthesis?.cancel();
-  state.activeAudio = null;
-  document.querySelectorAll(".audio-button.playing").forEach(button => button.classList.remove("playing"));
+function restoreProgress() {
+  let saved;
+  try { saved = JSON.parse(localStorage.getItem(STORAGE_KEY) || "null"); } catch { /* Start clean if data is unavailable or corrupt. */ }
+  const allIds = new Set(state.units.flatMap((unit) => unit.sections.flatMap(sectionWords).map((word) => word.id)));
+  if (saved?.version === 2 && Array.isArray(saved.learned)) {
+    state.learned = new Set(saved.learned.filter((id) => typeof id === "string" && allIds.has(id)));
+    return;
+  }
+  // Migrate only once; a later unmark must survive a reload.
+  try {
+    const old = JSON.parse(localStorage.getItem(OLD_KEY) || "[]");
+    if (Array.isArray(old)) {
+      const oldTerms = new Set(old.filter((key) => typeof key === "string").map((key) => {
+        const [unitId, , ...term] = key.split(":");
+        return `${unitId}:${searchKey(term.join(":"))}`;
+      }));
+      for (const unit of state.units) for (const word of unit.sections.flatMap(sectionWords)) {
+        if (oldTerms.has(`${unit.id}:${searchKey(word.word)}`)) state.learned.add(word.id);
+      }
+    }
+  } catch { /* A blocked storage API does not block studying. */ }
+  saveProgress();
 }
 
-function playPronunciation(word, button) {
-  stopPronunciation();
+function filteredWords() {
+  let words = currentWords();
+  if (state.group !== "all") words = words.filter((word) => word.groupId === state.group);
+  if (state.type !== "all") words = words.filter((word) => state.type === "phrase" ? ["phrase", "collocation"].includes(word.type) : word.type === state.type);
+  if (state.status !== "all") words = words.filter((word) => state.learned.has(word.id) === (state.status === "learned"));
+  const terms = searchKey(state.query).split(/\s+/).filter(Boolean);
+  if (terms.length) words = words.filter((word) => {
+    const haystack = searchKey([word.word, word.meaning, word.example || "", word.groupTitle].join(" "));
+    return terms.every((term) => haystack.includes(term));
+  });
+  if (state.shuffled) words.sort((a, b) => state.shuffled.get(a.id) - state.shuffled.get(b.id));
+  return words;
+}
+
+function updateProgress() {
+  const all = state.unit.sections.flatMap(sectionWords);
+  const done = all.filter((word) => state.learned.has(word.id)).length;
+  $("#progress-text").textContent = `${done} / ${all.length} thẻ đã nhớ trong Unit`;
+  $("#unit-progress").max = all.length;
+  $("#unit-progress").value = done;
+  const words = currentWords();
+  $("#skill-progress").textContent = `${words.filter((word) => state.learned.has(word.id)).length} / ${words.length} đã nhớ`;
+}
+
+const speakerIcon = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M11 5 6 9H3v6h3l5 4V5Z"/><path d="M15 8a6 6 0 0 1 0 8m3-11a10 10 0 0 1 0 14"/></svg>';
+
+function cardHTML(word) {
+  const learned = state.learned.has(word.id);
+  const flipped = state.flipped.has(word.id);
+  const english = `<span class="term" lang="en">${escapeHTML(word.word)}</span>${word.ipa ? `<span class="ipa" lang="en">${escapeHTML(word.ipa)}</span>` : ""}`;
+  const vietnamese = `<span class="meaning" lang="vi">${escapeHTML(word.meaning)}</span>`;
+  const example = word.example ? `<span class="example"><span class="example-label">Ví dụ luyện tập</span><span lang="en">${escapeHTML(word.example)}</span></span>${word.exampleTranslation ? `<span class="example-translation">${escapeHTML(word.exampleTranslation)}</span>` : ""}` : "";
+  const primary = state.direction === "en" ? word.word : word.meaning;
+  const originNote = word.origin === "extension" ? "Bổ sung để luyện tập theo chủ đề và mục tiêu bài học." : word.origin === "transcript" ? "Từ transcript; một số cụm được chuẩn hóa về dạng cơ bản để học." : word.origin === "passage" ? "Từ bài đọc; một số cụm được chuẩn hóa về dạng cơ bản để học." : "Ngôn ngữ trong bài học và mẫu trả lời; cụm có thể được chuẩn hóa để học.";
+  return `<article class="vocab-card${learned ? " is-learned" : ""}" data-card="${word.id}">
+    <div class="card-meta"><span class="card-topic" lang="en">${escapeHTML(word.groupTitle)}</span><span class="card-kind">${labels[word.type]}</span></div>
+    <button class="flip${flipped ? " is-flipped" : ""}" type="button" data-action="flip" data-id="${word.id}" aria-pressed="${flipped}" aria-label="Lật thẻ: ${escapeHTML(primary)}">
+      <span class="face front" aria-hidden="${flipped}">${state.direction === "en" ? english : vietnamese}<span class="flip-hint">Nhấn để xem ${state.direction === "en" ? "nghĩa" : "từ tiếng Anh"}</span></span>
+      <span class="face back" aria-hidden="${!flipped}">${state.direction === "en" ? vietnamese : english}${example}${word.origin === "extension" ? '<span class="extension-tag">Bổ sung luyện tập</span>' : ""}<span class="flip-hint">Nhấn để lật lại</span></span>
+    </button>
+    <div class="card-actions"><button class="audio-button" type="button" data-action="speak" data-id="${word.id}">${speakerIcon}${word.type === "structure" && word.example ? "Nghe ví dụ" : "Nghe"}</button><button class="learn-button" type="button" data-action="learn" data-id="${word.id}" aria-pressed="${learned}">${learned ? "✓ Đã nhớ" : "+ Đánh dấu đã nhớ"}</button></div>
+    <details class="card-source"><summary>Nguồn${word.origin === "extension" ? " · Bổ sung" : ""}</summary><p>${escapeHTML(word.source)}</p><p>${originNote}</p></details>
+  </article>`;
+}
+
+function renderCards() {
+  const words = filteredWords();
+  const pages = Math.max(1, Math.ceil(words.length / PAGE_SIZE));
+  state.page = Math.min(Math.max(1, state.page), pages);
+  const start = (state.page - 1) * PAGE_SIZE;
+  $("#cards").innerHTML = words.length ? words.slice(start, start + PAGE_SIZE).map(cardHTML).join("") : '<div class="empty-state"><p>Không có thẻ phù hợp với bộ lọc này.</p><button type="button" data-action="reset">Xem lại tất cả thẻ</button></div>';
+  $("#cards").setAttribute("aria-busy", "false");
+  $("#result-count").textContent = words.length ? `${words.length} thẻ · Đang xem ${start + 1}–${Math.min(start + PAGE_SIZE, words.length)}` : "0 thẻ phù hợp";
+  $("#page-count").textContent = `Trang ${state.page} / ${pages}`;
+  $("#previous-page").disabled = state.page <= 1;
+  $("#next-page").disabled = state.page >= pages;
+  $("#shuffle").disabled = words.length < 2;
+  updateProgress();
+}
+
+function resetFilters() {
+  state.query = ""; state.group = "all"; state.type = "all"; state.status = "all";
+  state.page = 1; state.shuffled = null; state.flipped.clear();
+  $("#search").value = "";
+  for (const id of ["group-select", "type-select", "status-select"]) $(`#${id}`).value = "all";
+  renderCards();
+}
+
+function showSection() {
+  $("#unit-select").value = state.unit.id;
+  $("#unit-number").textContent = `Unit ${String(state.unit.number).padStart(2, "0")}`;
+  $("#unit-title").textContent = state.unit.title;
+  $("#skill-tabs").innerHTML = state.unit.sections.map((section) => `<button class="skill-tab" type="button" data-skill="${section.id}" aria-current="${section.id === state.skill}">${section.label}<small>${sectionWords(section).length}</small></button>`).join("");
+  const section = currentSection();
+  $("#skill-description").textContent = section.description;
+  $("#group-select").innerHTML = '<option value="all">Tất cả nội dung</option>' + section.groups.map((group) => `<option value="${group.id}">${escapeHTML(group.title)} (${group.words.length})${group.origin === "extension" ? " · Bổ sung" : ""}</option>`).join("");
+  resetFilters();
+}
+
+function readRoute() {
+  const skillHadFocus = document.activeElement?.matches("[data-skill]");
+  const [unitId, skill] = location.hash.slice(1).split("/");
+  const unit = state.units.find((candidate) => candidate.id === unitId) || state.units[0];
+  const nextSkill = unit.sections.some((section) => section.id === skill) ? skill : "reading";
+  if (unit !== state.unit || nextSkill !== state.skill) {
+    state.unit = unit; state.skill = nextSkill;
+    if ("speechSynthesis" in window) speechSynthesis.cancel();
+    showSection();
+    if (skillHadFocus) $(`#skill-tabs [data-skill="${state.skill}"]`).focus();
+  }
+}
+
+function speak(word) {
   if (!("speechSynthesis" in window) || !("SpeechSynthesisUtterance" in window)) {
-    showToast("This browser cannot play speech. Use the dictionary link to listen.");
-    return;
+    notify("Trình duyệt này chưa hỗ trợ đọc tiếng Anh."); return;
   }
-  const utterance = new SpeechSynthesisUtterance(word.audioWord || word.word);
-  const voices = window.speechSynthesis.getVoices();
-  const voice = voices.find(item => item.lang.replace("_", "-").toLowerCase() === "en-us")
-    || voices.find(item => item.lang.toLowerCase().startsWith("en"));
-  if (voices.length && !voice) {
-    showToast("No English voice is installed. Use the dictionary link to listen.");
-    return;
-  }
+  speechSynthesis.cancel();
+  const text = word.type === "structure" && word.example ? word.example : word.word.replace(/\.\.\./g, " ").replace(/\//g, ", ");
+  const utterance = new SpeechSynthesisUtterance(text);
+  const voices = speechSynthesis.getVoices();
+  const voice = voices.find((v) => /^en[-_]US$/i.test(v.lang)) || voices.find((v) => /^en/i.test(v.lang));
+  if (voice) utterance.voice = voice;
   utterance.lang = voice?.lang || "en-US";
-  utterance.voice = voice || null;
-  utterance.rate = 0.82;
-  state.activeAudio = utterance;
-  button?.classList.add("playing");
-  const finish = () => {
-    if (state.activeAudio !== utterance) return;
-    button?.classList.remove("playing");
-    state.activeAudio = null;
-  };
-  utterance.onend = finish;
-  utterance.onerror = event => {
-    finish();
-    if (!["canceled", "interrupted"].includes(event.error)) showToast("Speech is unavailable. Use the dictionary link to listen.");
-  };
-  window.speechSynthesis.speak(utterance);
+  utterance.rate = 0.88;
+  utterance.onerror = (event) => { if (!["interrupted", "canceled"].includes(event.error)) notify("Chưa phát được giọng đọc. Hãy kiểm tra giọng tiếng Anh trên thiết bị."); };
+  speechSynthesis.speak(utterance);
 }
 
-function renderSectionTabs() {
-  sectionTabs.innerHTML = unit.sections.map((section, index) => {
-    const learnedCount = section.words.filter((word) => state.learned.has(wordKey(section, word))).length;
-    return `
-      <button
-        type="button"
-        class="section-tab ${index === state.activeSection ? "active" : ""}"
-        data-section-index="${index}"
-        data-color="${section.color}"
-        aria-pressed="${index === state.activeSection}"
-      >
-        <span aria-hidden="true">${section.icon}</span>
-        <span><b>${section.label}</b><small>${learnedCount}/${section.words.length} learned</small></span>
-        <i class="tab-status ${learnedCount ? "has-progress" : ""}" aria-hidden="true"></i>
-      </button>
-    `;
-  }).join("");
-
-  sectionTabs.querySelectorAll(".section-tab").forEach((button) => {
-    button.addEventListener("click", () => {
-      stopPronunciation();
-      window.clearTimeout(state.matchingTimer);
-      state.activeSection = Number(button.dataset.sectionIndex);
-      state.mode = "learn";
-      renderAll();
-    });
-  });
-}
-
-function renderSectionHeading() {
-  const section = currentSection();
-  sectionIcon.textContent = section.icon;
-  sectionKicker.textContent = `Unit ${unit.number} • ${section.label}`;
-  sectionTitle.textContent = section.title || `${section.label} Vocabulary`;
-  sectionDescription.textContent = `Study ${section.words.length} terms with IPA, Vietnamese meanings and examples. Then practise with flashcards and matching.`;
-  sectionCount.textContent = `${section.words.length} terms`;
-}
-
-function updateModeTabs() {
-  modeTabs.forEach((button) => {
-    const isActive = button.dataset.mode === state.mode;
-    button.classList.toggle("active", isActive);
-    button.setAttribute("aria-pressed", String(isActive));
-  });
-}
-
-function updateOverallProgress() {
-  const total = unit.sections.reduce((sum, section) => sum + section.words.length, 0);
-  const learned = unit.sections.reduce(
-    (sum, section) => sum + section.words.filter((word) => state.learned.has(wordKey(section, word))).length,
-    0
-  );
-  overallProgressText.textContent = `${learned} / ${total} learned`;
-  overallProgressBar.style.width = `${Math.round((learned / total) * 100)}%`;
-}
-
-function renderLearn(query = "", updateOnly = false) {
-  const section = currentSection();
-  const normalizedQuery = query.trim().toLowerCase();
-  const filteredWords = section.words.filter((word) =>
-    [word.word, word.meaning, word.pos, word.definition, word.note, word.source]
-      .some((field) => String(field ?? "").toLowerCase().includes(normalizedQuery))
-  );
-
-  const cards = filteredWords.length
-    ? filteredWords.map((word) => renderVocabCard(section, word)).join("")
-    : '<div class="empty-state"><span>🕵️</span>No vocabulary matches your search.</div>';
-
-  if (updateOnly) {
-    modeContent.querySelector(".vocab-grid").innerHTML = cards;
-  } else {
-    modeContent.innerHTML = `
-    <div class="learn-tools">
-      <p>Tap <strong>🔊 Listen</strong> to listen. Mark each word when you feel confident.</p>
-      <label class="search-box">
-        <span aria-hidden="true">🔎</span>
-        <input id="vocab-search" type="search" value="${escapeHtml(query)}" placeholder="Search English or Vietnamese…" aria-label="Search vocabulary" />
-      </label>
-    </div>
-    <div class="vocab-grid">${cards}</div>
-  `;
-
-    document.querySelector("#vocab-search").addEventListener("input", (event) => renderLearn(event.target.value, true));
-  }
-  bindAudioButtons();
-
-  modeContent.querySelectorAll(".learn-button").forEach((button) => {
-    button.addEventListener("click", () => {
-      const word = section.words[Number(button.dataset.wordIndex)];
-      const key = wordKey(section, word);
-      if (state.learned.has(key)) state.learned.delete(key);
-      else state.learned.add(key);
-      saveLearnedWords();
-      renderLearn(document.querySelector("#vocab-search")?.value || "");
-      renderSectionTabs();
-      updateOverallProgress();
-    });
-  });
-}
-
-function renderVocabCard(section, word) {
-  const index = section.words.indexOf(word);
-  const learned = state.learned.has(wordKey(section, word));
-  const bandClass = String(word.band || "Core").toLowerCase();
-  return `
-    <article class="vocab-card ${learned ? "learned" : ""}">
-      <div class="word-row">
-        <span class="word-emoji" aria-hidden="true">${word.icon}</span>
-        <div class="word-text">
-          <h3>${escapeHtml(word.word)}</h3>
-          <p>${escapeHtml(word.ipa)}</p>
-        </div>
-        <button class="audio-button" type="button" data-word-index="${index}" aria-label="Play the pronunciation of ${escapeHtml(word.word)}">🔊 Listen</button>
-      </div>
-      <div class="word-badges">
-        <span class="number-badge">No. ${index + 1}</span>
-        <span class="pos-badge">${escapeHtml(word.pos)}</span>
-        ${word.level ? `<span class="level-badge">CEFR ${escapeHtml(word.level)}</span>` : ""}
-        ${word.band ? `<span class="band-badge ${escapeHtml(bandClass)}">${escapeHtml(word.band)}</span>` : ""}
-      </div>
-      ${word.note ? `<p class="word-note">${escapeHtml(word.note)}</p>` : ""}
-      ${word.definition ? `<p class="definition">${escapeHtml(word.definition)}</p>` : ""}
-      <p class="meaning">🇻🇳 ${escapeHtml(word.meaning)}</p>
-      <p class="example">“${escapeHtml(word.example)}”
-        ${word.translation ? `<em>${escapeHtml(word.translation)}</em>` : ""}
-        ${word.source ? `<small class="book-source">📘 ${escapeHtml(word.source)}</small>` : ""}
-      </p>
-      <div class="card-actions">
-        <a class="dictionary-link" href="${dictionaryUrl(word)}" target="_blank" rel="noopener noreferrer">Dictionary ↗</a>
-        <button class="learn-button ${learned ? "is-learned" : ""}" type="button" data-word-index="${index}">${learned ? "✓ Learned" : "+ Mark learned"}</button>
-      </div>
-    </article>
-  `;
-}
-
-function getFlashDeck(section) {
-  if (!state.flashDecks.has(section.id)) {
-    state.flashDecks.set(section.id, shuffle(section.words.map((_, index) => index)));
-    state.flashIndexes.set(section.id, 0);
-  }
-  return state.flashDecks.get(section.id);
-}
-
-function renderFlashcards() {
-  const section = currentSection();
-  const deck = getFlashDeck(section);
-  const index = state.flashIndexes.get(section.id) || 0;
-  const wordIndex = deck[index];
-  const word = section.words[wordIndex];
-  const progress = Math.round(((index + 1) / deck.length) * 100);
-
-  modeContent.innerHTML = `
-    <div class="flash-toolbar">
-      <p>Say the word aloud, flip the card, and check your memory.</p>
-      <button id="shuffle-cards" class="soft-button" type="button">🔀 Shuffle deck</button>
-    </div>
-    <div class="flash-layout">
-      <div class="flash-stage">
-        <button id="flashcard" class="flashcard" type="button" aria-label="Flip the flashcard">
-          <span class="flashcard-inner">
-            <span class="flash-face flash-front">
-              <span class="flash-emoji" aria-hidden="true">${word.icon}</span>
-              <h3>${escapeHtml(word.word)}</h3>
-              <span class="flash-ipa">${escapeHtml(word.ipa)}</span>
-              <span class="flash-level">${escapeHtml(word.pos)}</span>
-              <span class="flip-hint">Tap to reveal the meaning ↻</span>
-            </span>
-            <span class="flash-face flash-back">
-              <span class="flash-emoji" aria-hidden="true">${word.icon}</span>
-              <h3>${escapeHtml(word.word)}</h3>
-              ${word.definition ? `<p class="flash-definition">${escapeHtml(word.definition)}</p>` : ""}
-              <p class="flash-meaning">${escapeHtml(word.meaning)}</p>
-              <p class="flash-example">${escapeHtml(word.example)}</p>
-              <p class="flash-translation">${escapeHtml(word.translation)}</p>
-              ${word.source ? `<small class="flash-book-source">📘 ${escapeHtml(word.source)}</small>` : ""}
-              <span class="flip-hint" style="color:#71859a">Tap to see the front ↻</span>
-            </span>
-          </span>
-        </button>
-      </div>
-      <aside class="flash-side">
-        <div class="flash-counter"><span>Card progress</span><strong>${index + 1} / ${deck.length}</strong></div>
-        <div class="flash-progress"><span style="width:${progress}%"></span></div>
-        <div class="flash-controls">
-          <button id="previous-card" class="soft-button" type="button" ${index === 0 ? "disabled" : ""}>← Previous</button>
-          <button id="next-card" class="primary-button" type="button">${index === deck.length - 1 ? "Restart ↻" : "Next →"}</button>
-          <button class="audio-button wide" type="button" data-word-index="${wordIndex}">🔊 Listen</button>
-        </div>
-        <p class="flash-source">Listen with your device’s English voice. Read the example aloud, too.</p>
-      </aside>
-    </div>
-  `;
-
-  document.querySelector("#flashcard").addEventListener("click", (event) => event.currentTarget.classList.toggle("flipped"));
-  document.querySelector("#previous-card").addEventListener("click", () => {
-    state.flashIndexes.set(section.id, Math.max(0, index - 1));
-    renderFlashcards();
-  });
-  document.querySelector("#next-card").addEventListener("click", () => {
-    state.flashIndexes.set(section.id, index === deck.length - 1 ? 0 : index + 1);
-    renderFlashcards();
-  });
-  document.querySelector("#shuffle-cards").addEventListener("click", () => {
-    state.flashDecks.set(section.id, shuffle(section.words.map((_, itemIndex) => itemIndex)));
-    state.flashIndexes.set(section.id, 0);
-    showToast("Flashcards shuffled! 🎉");
-    renderFlashcards();
-  });
-  bindAudioButtons();
-}
-
-function getMatchingState(section) {
-  if (!state.matching.has(section.id)) {
-    state.matching.set(section.id, {
-      order: shuffle(section.words.map((_, index) => index)),
-      roundStart: 0,
-      meaningOrder: [],
-      selectedWord: null,
-      selectedMeaning: null,
-      matched: new Set(),
-      wrongWord: null,
-      wrongMeaning: null,
-      totalCorrect: 0,
-      completed: false
-    });
-  }
-  return state.matching.get(section.id);
-}
-
-function prepareMeaningOrder(matchState) {
-  const roundIds = matchState.order.slice(matchState.roundStart, matchState.roundStart + ROUND_SIZE);
-  if (!matchState.meaningOrder.length || !matchState.meaningOrder.every((id) => roundIds.includes(id))) {
-    matchState.meaningOrder = shuffle(roundIds);
-  }
-  return roundIds;
-}
-
-function renderMatching() {
-  const section = currentSection();
-  const matchState = getMatchingState(section);
-
-  if (matchState.completed) {
-    modeContent.innerHTML = `
-      <div class="round-complete" style="margin-top:20px">
-        <span>🏆</span>
-        <h3>Section complete!</h3>
-        <p>You matched all ${section.words.length} words in ${Math.ceil(section.words.length / ROUND_SIZE)} rounds.</p>
-        <button id="replay-matching" class="next-round-button" type="button">Play again 🔄</button>
-      </div>
-    `;
-    document.querySelector("#replay-matching").addEventListener("click", () => {
-      state.matching.delete(section.id);
-      renderMatching();
-    });
-    return;
-  }
-
-  const roundIds = prepareMeaningOrder(matchState);
-  const roundNumber = Math.floor(matchState.roundStart / ROUND_SIZE) + 1;
-  const totalRounds = Math.ceil(section.words.length / ROUND_SIZE);
-  const roundComplete = roundIds.every((id) => matchState.matched.has(id));
-
-  modeContent.innerHTML = `
-    <div class="matching-topbar">
-      <div class="matching-instructions"><span>💡</span><span>Choose one English word, then choose its Vietnamese meaning. Each round contains up to ${ROUND_SIZE} pairs.</span></div>
-      <div class="matching-status">
-        <span class="round-chip">Round ${roundNumber}/${totalRounds}</span>
-        <span class="score-chip">✓ ${matchState.totalCorrect}/${section.words.length}</span>
-      </div>
-    </div>
-    <div class="matching-board">
-      <div class="match-column">
-        <p class="column-title">English words</p>
-        ${roundIds.map((id) => renderMatchOption(section.words[id].word, id, "word", matchState)).join("")}
-      </div>
-      <div class="match-column">
-        <p class="column-title">Vietnamese meanings</p>
-        ${matchState.meaningOrder.map((id) => renderMatchOption(section.words[id].meaning, id, "meaning", matchState)).join("")}
-      </div>
-    </div>
-    ${roundComplete ? `
-      <div class="round-complete">
-        <span>${roundNumber === totalRounds ? "🏆" : "🌟"}</span>
-        <h3>${roundNumber === totalRounds ? "Amazing work!" : "Round complete!"}</h3>
-        <p>${roundNumber === totalRounds ? "You matched every word in this section." : "Ready for the next set of words?"}</p>
-        <button id="next-matching-round" class="next-round-button" type="button">${roundNumber === totalRounds ? "Finish section" : "Next round →"}</button>
-      </div>
-    ` : ""}
-  `;
-
-  modeContent.querySelectorAll(".match-option").forEach((button) => {
-    button.addEventListener("click", () => selectMatchOption(button.dataset.type, Number(button.dataset.id)));
-  });
-
-  document.querySelector("#next-matching-round")?.addEventListener("click", () => {
-    if (roundNumber === totalRounds) {
-      matchState.completed = true;
+$("#cards").addEventListener("click", (event) => {
+  const button = event.target.closest("button[data-action]");
+  if (!button || !state.unit) return;
+  const action = button.dataset.action;
+  if (action === "reset") { resetFilters(); $("#search").focus(); return; }
+  const word = currentWords().find((item) => item.id === button.dataset.id);
+  if (!word) return;
+  if (action === "flip") {
+    const flipped = !state.flipped.has(word.id);
+    if (flipped) state.flipped.add(word.id); else state.flipped.delete(word.id);
+    button.classList.toggle("is-flipped", flipped);
+    button.setAttribute("aria-pressed", String(flipped));
+    button.querySelector(".front").setAttribute("aria-hidden", String(flipped));
+    button.querySelector(".back").setAttribute("aria-hidden", String(!flipped));
+    const revealed = state.direction === "en" ? (flipped ? word.meaning : word.word) : (flipped ? word.word : word.meaning);
+    button.setAttribute("aria-label", `${revealed}${flipped && word.example ? `. Ví dụ: ${word.example}` : ""}. Nhấn để lật lại`);
+  } else if (action === "speak") speak(word);
+  else if (action === "learn") {
+    const learned = !state.learned.has(word.id);
+    if (learned) state.learned.add(word.id); else state.learned.delete(word.id);
+    saveProgress();
+    if (state.status === "all") {
+      button.setAttribute("aria-pressed", String(learned));
+      button.textContent = learned ? "✓ Đã nhớ" : "+ Đánh dấu đã nhớ";
+      button.closest("article").classList.toggle("is-learned", learned);
+      updateProgress();
     } else {
-      matchState.roundStart += ROUND_SIZE;
-      matchState.meaningOrder = [];
-      matchState.selectedWord = null;
-      matchState.selectedMeaning = null;
+      renderCards();
+      ($("#cards .learn-button") || $("#status-select")).focus();
     }
-    renderMatching();
-  });
-}
-
-function renderMatchOption(text, id, type, matchState) {
-  const isSelected = type === "word" ? matchState.selectedWord === id : matchState.selectedMeaning === id;
-  const isWrong = type === "word" ? matchState.wrongWord === id : matchState.wrongMeaning === id;
-  const isMatched = matchState.matched.has(id);
-  return `
-    <button
-      type="button"
-      class="match-option ${isSelected ? "selected" : ""} ${isWrong ? "wrong" : ""} ${isMatched ? "matched" : ""}"
-      data-type="${type}"
-      data-id="${id}"
-      ${isMatched ? "disabled" : ""}
-    >${isMatched ? "✓ " : ""}${escapeHtml(text)}</button>
-  `;
-}
-
-function selectMatchOption(type, id) {
-  const section = currentSection();
-  const matchState = getMatchingState(section);
-  matchState.wrongWord = null;
-  matchState.wrongMeaning = null;
-
-  if (type === "word") matchState.selectedWord = id;
-  else matchState.selectedMeaning = id;
-
-  if (matchState.selectedWord !== null && matchState.selectedMeaning !== null) {
-    if (matchState.selectedWord === matchState.selectedMeaning) {
-      const matchedId = matchState.selectedWord;
-      matchState.matched.add(matchedId);
-      matchState.totalCorrect += 1;
-      matchState.selectedWord = null;
-      matchState.selectedMeaning = null;
-      state.learned.add(wordKey(section, section.words[matchedId]));
-      saveLearnedWords();
-      renderSectionTabs();
-      updateOverallProgress();
-      showToast("Correct match! ⭐");
-      renderMatching();
-      return;
-    }
-
-    matchState.wrongWord = matchState.selectedWord;
-    matchState.wrongMeaning = matchState.selectedMeaning;
-    matchState.selectedWord = null;
-    matchState.selectedMeaning = null;
-    renderMatching();
-    window.clearTimeout(state.matchingTimer);
-    const activeUnitId = unit.id;
-    state.matchingTimer = window.setTimeout(() => {
-      matchState.wrongWord = null;
-      matchState.wrongMeaning = null;
-      if (unit.id === activeUnitId && currentSection() === section && state.mode === "matching") renderMatching();
-    }, 520);
-    return;
-  }
-
-  renderMatching();
-}
-
-function bindAudioButtons() {
-  const section = currentSection();
-  modeContent.querySelectorAll(".audio-button[data-word-index]").forEach((button) => {
-    button.addEventListener("click", () => playPronunciation(section.words[Number(button.dataset.wordIndex)], button));
-  });
-}
-
-function renderMode() {
-  if (state.mode === "flashcards") renderFlashcards();
-  else if (state.mode === "matching") renderMatching();
-  else renderLearn();
-}
-
-function renderAll() {
-  updateUnitShell();
-  renderUnitSelector();
-  renderSectionTabs();
-  renderSectionHeading();
-  updateModeTabs();
-  updateOverallProgress();
-  renderMode();
-}
-
-modeTabs.forEach((button) => {
-  button.addEventListener("click", () => {
-    stopPronunciation();
-    window.clearTimeout(state.matchingTimer);
-    state.mode = button.dataset.mode;
-    updateModeTabs();
-    renderMode();
-  });
-});
-
-unitSelect.addEventListener("change", () => {
-  loadUnit(unitSelect.value).catch((error) => {
-    showToast(error.message);
-    renderUnitSelector();
-  });
-});
-
-window.addEventListener("hashchange", () => {
-  const requestedId = window.location.hash.slice(1);
-  if (requestedId && requestedId !== unit?.id) {
-    loadUnit(requestedId, { updateHistory: false }).catch((error) => showToast(error.message));
   }
 });
 
-const requestedUnitId = window.location.hash.slice(1) || availableUnits()[0]?.id;
-loadUnit(requestedUnitId).catch((error) => {
-  modeContent.innerHTML = `<div class="empty-state"><span>⚠️</span>${escapeHtml(error.message)}</div>`;
+$("#skill-tabs").addEventListener("click", (event) => {
+  const button = event.target.closest("[data-skill]");
+  if (button) location.hash = `${state.unit.id}/${button.dataset.skill}`;
 });
+$("#unit-select").addEventListener("change", (event) => { location.hash = `${event.target.value}/${state.skill}`; });
+$("#search").addEventListener("input", (event) => {
+  state.query = event.target.value; state.page = 1; state.flipped.clear(); renderCards();
+});
+for (const [id, property] of [["group-select", "group"], ["type-select", "type"], ["status-select", "status"], ["direction", "direction"]]) {
+  $(`#${id}`).addEventListener("change", (event) => {
+    state[property] = event.target.value; state.page = 1; state.flipped.clear(); renderCards();
+  });
+}
+$("#clear-filters").addEventListener("click", resetFilters);
+$("#shuffle").addEventListener("click", () => {
+  const deck = currentWords();
+  for (let i = deck.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [deck[i], deck[j]] = [deck[j], deck[i]];
+  }
+  state.shuffled = new Map(deck.map((word, index) => [word.id, index]));
+  state.page = 1; state.flipped.clear(); renderCards(); notify("Đã trộn thứ tự thẻ.");
+});
+for (const [id, delta] of [["previous-page", -1], ["next-page", 1]]) {
+  $(`#${id}`).addEventListener("click", () => {
+    state.page += delta; state.flipped.clear(); renderCards();
+    $("#cards").focus({ preventScroll: true });
+    $("#cards").scrollIntoView({ block: "start", behavior: "instant" });
+  });
+}
+window.addEventListener("hashchange", () => { if (state.units.length) readRoute(); });
+
+async function init() {
+  const controls = [...document.querySelectorAll("main input, main select, main button")];
+  controls.forEach((control) => { control.disabled = true; });
+  try {
+    state.units = await Promise.all(unitsRegistry.map(async (meta) => (await import(meta.module)).default));
+    restoreProgress();
+    const total = state.units.reduce((sum, unit) => sum + unit.count, 0);
+    $("#library-count").textContent = `${total.toLocaleString("vi-VN")} thẻ · 8 Unit · 4 kỹ năng`;
+    $("#unit-select").innerHTML = state.units.map((unit) => `<option value="${unit.id}">${String(unit.number).padStart(2, "0")} · ${escapeHTML(unit.title)}</option>`).join("");
+    controls.forEach((control) => { control.disabled = false; });
+    readRoute();
+  } catch (error) {
+    console.error("Vocabulary could not be loaded", error);
+    $("#cards").setAttribute("aria-busy", "false");
+    $("#cards").innerHTML = '<div class="empty-state">Chưa tải được bộ thẻ. Vui lòng kiểm tra kết nối rồi tải lại trang.<button type="button" id="retry-load">Thử lại</button></div>';
+    $("#retry-load").addEventListener("click", init);
+  }
+}
+init();

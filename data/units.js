@@ -3,66 +3,56 @@ export const unitsRegistry = [
     "id": "unit-1",
     "number": 1,
     "title": "Relationships",
-    "icon": "👥",
-    "status": "available",
-    "module": "./data/unit1.js"
+    "count": 245,
+    "module": "./data/unit1.js?v=20260918-3"
   },
   {
     "id": "unit-2",
     "number": 2,
     "title": "Places and Buildings",
-    "icon": "🏡",
-    "status": "available",
-    "module": "./data/unit2.js"
+    "count": 253,
+    "module": "./data/unit2.js?v=20260918-3"
   },
   {
     "id": "unit-3",
     "number": 3,
     "title": "Education and Employment",
-    "icon": "🎓",
-    "status": "available",
-    "module": "./data/unit3.js"
+    "count": 269,
+    "module": "./data/unit3.js?v=20260918-3"
   },
   {
     "id": "unit-4",
     "number": 4,
     "title": "Food and Drink",
-    "icon": "🍽️",
-    "status": "available",
-    "module": "./data/unit4.js"
+    "count": 250,
+    "module": "./data/unit4.js?v=20260918-3"
   },
   {
     "id": "unit-5",
     "number": 5,
     "title": "Consumerism",
-    "icon": "🛍️",
-    "status": "available",
-    "module": "./data/unit5.js"
+    "count": 263,
+    "module": "./data/unit5.js?v=20260918-3"
   },
   {
     "id": "unit-6",
     "number": 6,
     "title": "Leisure Time",
-    "icon": "🎨",
-    "status": "available",
-    "module": "./data/unit6.js"
+    "count": 250,
+    "module": "./data/unit6.js?v=20260918-3"
   },
   {
     "id": "unit-7",
     "number": 7,
-    "title": "Fame and Media",
-    "icon": "🌟",
-    "status": "available",
-    "module": "./data/unit7.js"
+    "title": "Fame and the Media",
+    "count": 261,
+    "module": "./data/unit7.js?v=20260918-3"
   },
   {
     "id": "unit-8",
     "number": 8,
-    "title": "The Natural World",
-    "icon": "🐬",
-    "status": "available",
-    "module": "./data/unit8.js"
+    "title": "Natural World",
+    "count": 279,
+    "module": "./data/unit8.js?v=20260918-3"
   }
 ];
-
-export function availableUnits() { return unitsRegistry.filter(unit => unit.status === "available" && unit.module); }

@@ -1,125 +1,43 @@
 <!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="theme-color" content="#0878d1" />
-    <meta name="description" content="Mindset for IELTS 1 vocabulary: 8 units, IPA, Vietnamese meanings, examples, flashcards and matching." />
-    <title>Mindset for IELTS 1 | Vocabulary Adventure</title>
-    <link rel="stylesheet" href="styles.css" />
-  </head>
-  <body>
-    <a class="skip-link" href="#lesson">Skip to lesson</a>
-
-    <div class="sky-decor decor-one" aria-hidden="true">✦</div>
-    <div class="sky-decor decor-two" aria-hidden="true">✧</div>
-    <div class="sky-decor decor-three" aria-hidden="true">★</div>
-
-    <header class="hero">
-      <nav class="school-bar" aria-label="Course information">
-        <a class="school-brand" href="#" aria-label="Mindset for IELTS 1 home">
-          <span class="brand-mark" aria-hidden="true">M1</span>
-          <span>
-            <strong>MINDSET FOR IELTS 1</strong>
-            <small>Build your vocabulary • Grow your confidence</small>
-          </span>
-        </a>
-        <div class="school-meta">
-          <span><b>Course</b> Mindset 1</span>
-          <span><b>Teacher</b> Mr. Hà Chí Thanh</span>
-        </div>
-      </nav>
-
-      <div class="hero-content">
-        <div class="hero-copy">
-          <span class="eyebrow">✨ MINDSET 1 VOCABULARY ADVENTURE</span>
-          <h1><span id="hero-unit-number" class="hero-unit-number">Unit 1:</span> <span id="hero-unit-title">Relationships</span></h1>
-          <p id="hero-unit-subtitle">Build your word power through colourful lessons, flip cards, and quick matching challenges.</p>
-          <div class="hero-stats" aria-label="Unit statistics">
-            <span>📚 <strong id="hero-section-count">3</strong> sections</span>
-            <span>🔤 <strong id="hero-word-count">35</strong> terms</span>
-            <span>🔊 <strong>English</strong> pronunciation</span>
-          </div>
-        </div>
-        <div class="hero-art" aria-hidden="true">
-          <div class="planet">🌎</div>
-          <div class="cloud cloud-a">☁️</div>
-          <div class="cloud cloud-b">☁️</div>
-          <div class="pencil">✏️</div>
-          <div class="book">📖</div>
-          <div class="star star-a">⭐</div>
-          <div class="star star-b">✨</div>
-        </div>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6f7f9">
+  <meta name="description" content="Học từ vựng Mindset for IELTS 1 bằng thẻ lật: 8 Unit, 4 kỹ năng, nghĩa tiếng Việt, collocation, cấu trúc và nguồn trong sách.">
+  <title>Mindset 1 · Vocabulary</title>
+  <link rel="stylesheet" href="styles.css?v=20260918-3">
+  <script type="module" src="app.js?v=20260918-3"></script>
+</head>
+<body>
+  <a class="skip-link" href="#cards">Đến bộ thẻ</a>
+  <header class="site-header">
+    <div class="brand"><span class="brand-mark" aria-hidden="true">M1</span><div><strong>Mindset for IELTS 1</strong><span>Vocabulary · Mr. Hà Chí Thanh</span></div></div>
+    <span id="library-count" class="library-count">8 Unit · 4 kỹ năng</span>
+  </header>
+  <main class="shell" id="main">
+    <section class="intro" aria-labelledby="page-title">
+      <div><p class="eyebrow">Mỗi ngày một chút, nhớ lâu hơn</p><h1 id="page-title">Học từ trong ngữ cảnh.</h1><p class="intro-copy">Chọn bài học, thử nhớ nghĩa rồi lật thẻ. Học cả cụm để dùng đúng khi nói và viết.</p></div>
+      <label class="unit-picker" for="unit-select">Bài học<select id="unit-select" disabled><option>Đang tải bài học…</option></select></label>
+    </section>
+    <section class="study" aria-label="Bộ thẻ từ vựng">
+      <div class="unit-heading"><div><p id="unit-number" class="eyebrow">Unit 1</p><h2 id="unit-title">Relationships</h2></div><div class="progress-block"><span id="progress-text">Đang tải…</span><progress id="unit-progress" value="0" max="1" aria-label="Tiến độ học trong Unit"></progress></div></div>
+      <nav id="skill-tabs" class="skill-tabs" aria-label="Kỹ năng"></nav>
+      <div class="skill-heading"><p id="skill-description"></p><span id="skill-progress"></span></div>
+      <div class="filters">
+        <label class="search-label" for="search">Tìm từ hoặc nghĩa<input id="search" type="search" placeholder="Ví dụ: family, gia đình…" autocomplete="off"></label>
+        <label for="group-select">Nội dung<select id="group-select"><option value="all">Tất cả nội dung</option></select></label>
+        <label for="type-select">Loại thẻ<select id="type-select"><option value="all">Tất cả loại thẻ</option><option value="word">Từ đơn</option><option value="phrase">Cụm từ & collocation</option><option value="structure">Cấu trúc</option></select></label>
+        <label for="status-select">Trạng thái<select id="status-select"><option value="all">Tất cả trạng thái</option><option value="new">Chưa nhớ</option><option value="learned">Đã nhớ</option></select></label>
       </div>
-    </header>
-
-    <main id="lesson" class="lesson-shell">
-      <section class="unit-switcher" aria-labelledby="course-heading">
-        <div class="unit-switcher-copy">
-          <span class="mini-label">MINDSET 1 VOCABULARY COURSE</span>
-          <h2 id="course-heading">Choose your unit</h2>
-          <p>All 8 units are ready. Choose any unit and continue your vocabulary adventure.</p>
-        </div>
-        <label class="unit-select-wrap" for="unit-select">
-          <span>📚 Select unit</span>
-          <select id="unit-select" aria-label="Choose a vocabulary unit"></select>
-        </label>
-        <div id="course-status" class="course-status" aria-live="polite"></div>
-      </section>
-
-      <section class="unit-toolbar" aria-labelledby="unit-heading">
-        <div>
-          <span class="mini-label">CURRENT MISSION</span>
-          <h2 id="unit-heading">Choose a section</h2>
-        </div>
-        <div class="overall-progress" aria-label="Overall learning progress">
-          <div class="progress-copy">
-            <span>Your progress</span>
-            <strong id="overall-progress-text">0 / 35 learned</strong>
-          </div>
-          <div class="progress-track"><span id="overall-progress-bar"></span></div>
-        </div>
-      </section>
-
-      <nav id="section-tabs" class="section-tabs" aria-label="Vocabulary sections"></nav>
-
-      <section class="workspace">
-        <div class="section-heading">
-          <div id="section-icon" class="section-icon" aria-hidden="true">🏙️</div>
-          <div>
-            <span id="section-kicker" class="mini-label">UNIT 1 • READING 1</span>
-            <h2 id="section-title">Family members</h2>
-            <p id="section-description">Study every word, listen carefully, then practise.</p>
-          </div>
-          <div id="section-count" class="count-chip">10 terms</div>
-        </div>
-
-        <nav id="mode-tabs" class="mode-tabs" aria-label="Learning modes">
-          <button type="button" class="mode-tab active" data-mode="learn" aria-pressed="true">
-            <span>📘</span><b>Learn</b><small>Vocabulary first</small>
-          </button>
-          <button type="button" class="mode-tab" data-mode="flashcards" aria-pressed="false">
-            <span>🃏</span><b>Flashcards</b><small>Flip & remember</small>
-          </button>
-          <button type="button" class="mode-tab" data-mode="matching" aria-pressed="false">
-            <span>🧩</span><b>Matching</b><small>Match the meaning</small>
-          </button>
-        </nav>
-
-        <div id="mode-content" class="mode-content" aria-live="polite"></div>
-      </section>
-    </main>
-
-    <footer>
-      <div>
-        <span class="brand-mark small" aria-hidden="true">M1</span>
-        <p><strong>Mindset for IELTS 1 • Vocabulary</strong><br />Teacher: Mr. Hà Chí Thanh</p>
-      </div>
-      <p>Pronunciation uses your device’s English voice, with US English preferred. Progress is saved in this browser.</p>
-    </footer>
-
-    <div id="toast" class="toast" role="status" aria-live="polite"></div>
-    <noscript><p class="empty-state">Please enable JavaScript to use the vocabulary activities.</p></noscript>
-    <script type="module" src="app.js?v=20260918-2"></script>
-  </body>
+      <div class="deck-toolbar"><p id="result-count" role="status" aria-live="polite"></p><div class="deck-actions"><label class="direction-label" for="direction">Mặt trước<select id="direction"><option value="en">Tiếng Anh</option><option value="vi">Tiếng Việt</option></select></label><button id="shuffle" type="button" class="quiet-button">Trộn thẻ</button><button id="clear-filters" type="button" class="quiet-button">Bỏ bộ lọc</button></div></div>
+      <div id="cards" class="card-grid" tabindex="-1" aria-label="Các thẻ từ vựng" aria-busy="true"><p class="empty-state">Đang chuẩn bị bộ thẻ…</p></div>
+      <nav class="pagination" aria-label="Các trang thẻ"><button id="previous-page" type="button">← Trang trước</button><span id="page-count">1 / 1</span><button id="next-page" type="button">Trang sau →</button></nav>
+    </section>
+    <details class="help"><summary>Cách học & nguồn nội dung</summary><div class="help-content"><p>Nhấn thẻ hoặc dùng phím Enter / Space để lật. Chọn “Đã nhớ” để lưu tiến độ trên trình duyệt này. Dùng mặt trước tiếng Việt để luyện nhớ từ tiếng Anh.</p><p>Reading bám các bài đọc; Listening bám transcript trong Student’s Book, đối chiếu Teacher’s Book. Các cụm có thể được đưa về dạng cơ bản để dễ học. Nguồn dùng số trang in trong sách; SB = Student’s Book, TB = Teacher’s Book.</p><p>Speaking/Writing gồm ngôn ngữ trong bài học và phần “Bổ sung luyện tập”. Các ví dụ trên thẻ là ví dụ luyện tập. Nhấn “Nguồn” để xem trang và track của nhóm thẻ.</p><p>Nút nghe dùng giọng tiếng Anh có trên thiết bị, ưu tiên giọng Mỹ. Giọng đọc máy không phải audio gốc của sách. Phiên âm có ở những từ được giữ từ bộ dữ liệu trước.</p><p><a href="https://github.com/thanh990522/mindset-1-vocabulary/blob/main/CONTENT_NOTES.md" target="_blank" rel="noopener">Xem ghi chú đối chiếu nội dung</a></p></div></details>
+  </main>
+  <footer class="site-footer">Mindset 1 Vocabulary <span>Học một cụm. Dùng trong một câu.</span></footer>
+  <div id="toast" role="status" aria-live="polite" class="toast" hidden></div>
+  <noscript><p class="empty-state">Hãy bật JavaScript để sử dụng thẻ lật.</p></noscript>
+</body>
 </html>

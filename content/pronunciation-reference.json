@@ -1,0 +1,1844 @@
+{
+  "brother": {
+    "ipa": "/ˈbrʌðər/",
+    "pos": "noun",
+    "example": "My brother is a doctor.",
+    "translation": "Anh trai của tôi là bác sĩ."
+  },
+  "cousin": {
+    "ipa": "/ˈkʌzən/",
+    "pos": "noun",
+    "example": "My cousin is a teacher.",
+    "translation": "Em họ của tôi là giáo viên."
+  },
+  "father-in-law": {
+    "ipa": "/ˈfɑːðər ɪn lɔː/",
+    "pos": "noun",
+    "example": "My father-in-law is retired.",
+    "translation": "Bố chồng của tôi đã nghỉ hưu."
+  },
+  "grandfather": {
+    "ipa": "/ˈɡrændˌfɑːðər/",
+    "pos": "noun",
+    "example": "My grandfather is very wise.",
+    "translation": "Ông của tôi rất khôn ngoan."
+  },
+  "uncle": {
+    "ipa": "/ˈʌŋkəl/",
+    "pos": "noun",
+    "example": "My uncle is a businessman.",
+    "translation": "Chú tôi là doanh nhân."
+  },
+  "aunt": {
+    "ipa": "/ænt/",
+    "pos": "noun",
+    "example": "My aunt is a nurse.",
+    "translation": "Cô tôi là y tá."
+  },
+  "nephew": {
+    "ipa": "/ˈnefjuː/",
+    "pos": "noun",
+    "example": "My nephew loves playing soccer.",
+    "translation": "Cháu trai của tôi thích chơi bóng đá."
+  },
+  "niece": {
+    "ipa": "/niːs/",
+    "pos": "noun",
+    "example": "My niece is studying abroad.",
+    "translation": "Cháu gái của tôi đang du học."
+  },
+  "great-aunt": {
+    "ipa": "/ˈɡreɪtˌænt/",
+    "pos": "noun",
+    "example": "My great-aunt is a writer.",
+    "translation": "Chị gái của bà tôi là nhà văn."
+  },
+  "grandmother": {
+    "ipa": "/ˈɡrændˌmʌðər/",
+    "pos": "noun",
+    "example": "My grandmother loves gardening.",
+    "translation": "Bà của tôi thích làm vườn."
+  },
+  "thicker": {
+    "ipa": "/ˈθɪkər/",
+    "pos": "adjective",
+    "example": "The thicker the blanket, the warmer it is.",
+    "translation": "Chăn càng dày thì càng ấm."
+  },
+  "value": {
+    "ipa": "/ˈvæljuː/",
+    "pos": "noun",
+    "example": "The value of this painting is immeasurable.",
+    "translation": "Giá trị của bức tranh này là không thể đo lường được."
+  },
+  "asia": {
+    "ipa": "/ˈeɪʒə/",
+    "pos": "noun",
+    "example": "Asia is the largest continent.",
+    "translation": "Châu Á là châu lục lớn nhất."
+  },
+  "middle east": {
+    "ipa": "/ˌmɪdl ˈiːst/",
+    "pos": "noun",
+    "example": "The Middle East is known for its rich cultural heritage.",
+    "translation": "Trung Đông nổi tiếng với di sản văn hóa phong phú của nó."
+  },
+  "south america": {
+    "ipa": "/saʊθ əˈmɛrɪkə/",
+    "pos": "noun",
+    "example": "South America has a diverse range of flora and fauna.",
+    "translation": "Nam Mỹ có một loạt đa dạng các loài thực vật và động vật."
+  },
+  "sub-saharan africa": {
+    "ipa": "/sʌb səˈhærən ˈæfrɪkə/",
+    "pos": "noun",
+    "example": "Sub-Saharan Africa includes many different cultures.",
+    "translation": "Châu Phi cận Sahara có nhiều nền văn hóa khác nhau."
+  },
+  "south africa": {
+    "ipa": "/saʊθ ˈæfrɪkə/",
+    "pos": "noun",
+    "example": "South Africa has a diverse population.",
+    "translation": "Nam Phi có một dân số đa dạng."
+  },
+  "europe": {
+    "ipa": "/ˈjʊrəp/",
+    "pos": "noun",
+    "example": "Europe has a rich history.",
+    "translation": "Châu Âu có một lịch sử phong phú."
+  },
+  "australia": {
+    "ipa": "/ɔːˈstreɪliə/",
+    "pos": "noun",
+    "example": "Australia has many unique animals.",
+    "translation": "Úc có nhiều loài động vật độc đáo."
+  },
+  "north america": {
+    "ipa": "/nɔːrθ əˈmɛrɪkə/",
+    "pos": "noun",
+    "example": "North America has many different climates.",
+    "translation": "Bắc Mỹ có nhiều khí hậu khác nhau."
+  },
+  "lack of": {
+    "ipa": "/læk ʌv/",
+    "pos": "phrase",
+    "example": "The lack of rainfall caused crops to fail.",
+    "translation": "Tình trạng thiếu mưa khiến mùa màng thất bát."
+  },
+  "colour": {
+    "ipa": "/ˈkʌlər/",
+    "pos": "noun",
+    "example": "The color of the sky is blue.",
+    "translation": "Màu của bầu trời là xanh."
+  },
+  "food": {
+    "ipa": "/fuːd/",
+    "pos": "noun",
+    "example": "I love Italian food.",
+    "translation": "Tôi yêu đồ ăn Ý."
+  },
+  "presents": {
+    "ipa": "/ˈprez(ə)nts/",
+    "pos": "noun",
+    "example": "She received many presents on her birthday.",
+    "translation": "Cô ấy nhận được nhiều món quà vào ngày sinh nhật của mình."
+  },
+  "the meaning of something": {
+    "ipa": "/ðə ˈmiːnɪŋ əv ˈsʌmθɪŋ/",
+    "pos": "phrase",
+    "example": "I don’t understand the meaning of this word.",
+    "translation": "Tôi không hiểu ý nghĩa của từ này."
+  },
+  "the relationship between the people": {
+    "ipa": "/ðə rɪˈleɪʃ(ə)nʃɪp bɪˈtwiːn ðə ˈpiːpl/",
+    "pos": "phrase",
+    "example": "The relationship between parents and children is very important.",
+    "translation": "Mối quan hệ giữa cha mẹ và con cái rất quan trọng."
+  },
+  "the type of event": {
+    "ipa": "/ðə taɪp əv ɪˈvent/",
+    "pos": "phrase",
+    "example": "The type of event determines what you should wear.",
+    "translation": "Loại sự kiện quyết định bạn nên mặc gì."
+  },
+  "maintain": {
+    "ipa": "/meɪnˈteɪn/",
+    "pos": "verb",
+    "example": "It’s important to maintain a healthy lifestyle.",
+    "translation": "Cần phải duy trì một lối sống lành mạnh."
+  },
+  "expand": {
+    "ipa": "/ɪkˈspænd/",
+    "pos": "verb",
+    "example": "The company plans to expand its operations overseas.",
+    "translation": "Công ty dự định mở rộng hoạt động của mình ở nước ngoài."
+  },
+  "opportunities": {
+    "ipa": "/ˌɑːpərˈtuːnətiz/",
+    "pos": "noun",
+    "example": "The new project will create many job opportunities.",
+    "translation": "Dự án mới sẽ tạo ra nhiều cơ hội việc làm."
+  },
+  "geographically mobile": {
+    "ipa": "/dʒiːəʊˈɡræfɪkli ˈməʊbaɪl/",
+    "pos": "adjective",
+    "example": "Being geographically mobile is an advantage in today’s global economy.",
+    "translation": "Việc có khả năng di chuyển địa lý là một lợi thế trong nền kinh tế toàn cầu hiện nay."
+  },
+  "convenience": {
+    "ipa": "/kənˈviːniəns/",
+    "pos": "noun",
+    "example": "Online shopping offers convenience.",
+    "translation": "Mua sắm trực tuyến mang lại sự tiện lợi."
+  },
+  "definitely": {
+    "ipa": "/ˈdefɪnətli/",
+    "pos": "adverb",
+    "example": "I will definitely be there on time.",
+    "translation": "Tôi chắc chắn sẽ đến đúng giờ."
+  },
+  "mental health": {
+    "ipa": "/ˌmentl ˈhelθ/",
+    "pos": "noun",
+    "example": "Mental health is just as important as physical health.",
+    "translation": "Sức khỏe tâm lý cũng quan trọng như sức khỏe thể chất."
+  },
+  "generally": {
+    "ipa": "/ˈdʒenrəli/",
+    "pos": "adverb",
+    "example": "Generally speaking, I prefer tea over coffee.",
+    "translation": "Nói chung, tôi thích trà hơn cà phê."
+  },
+  "igloo": {
+    "ipa": "/ˈɪɡluː/",
+    "pos": "noun",
+    "example": "An igloo is a shelter made from blocks of snow.",
+    "translation": "Nhà tuyết là nơi trú ẩn được làm từ các khối tuyết."
+  },
+  "treehouse": {
+    "ipa": "/ˈtriːhaʊs/",
+    "pos": "noun",
+    "example": "The kids love playing in their treehouse.",
+    "translation": "Trẻ em rất thích chơi trong căn nhà cây của mình."
+  },
+  "houseboat": {
+    "ipa": "/ˈhaʊsbəʊt/",
+    "pos": "noun",
+    "example": "They live on a houseboat on the river.",
+    "translation": "Họ sống trên một chiếc thuyền nhà trên sông."
+  },
+  "shipping container homes": {
+    "ipa": "/ˈʃɪpɪŋ kənˈteɪnər həʊmz/",
+    "pos": "noun",
+    "example": "Shipping container homes are becoming increasingly popular.",
+    "translation": "Những ngôi nhà container đang trở nên ngày càng phổ biến."
+  },
+  "terrace": {
+    "ipa": "/ˈterəs/",
+    "pos": "noun",
+    "example": "We had dinner on the terrace.",
+    "translation": "Chúng tôi đã ăn tối trên sân thượng."
+  },
+  "see-through": {
+    "ipa": "/ˌsiː ˈθruː/",
+    "pos": "adjective",
+    "example": "The dress had a see-through panel at the back.",
+    "translation": "Chiếc váy có một phần vải trong suốt ở phía sau."
+  },
+  "daylight": {
+    "ipa": "/ˈdeɪlaɪt/",
+    "pos": "noun",
+    "example": "The room was filled with daylight.",
+    "translation": "Căn phòng tràn ngập ánh sáng ban ngày."
+  },
+  "utility": {
+    "ipa": "/juːˈtɪləti/",
+    "pos": "noun",
+    "example": "The utility of this tool is undeniable.",
+    "translation": "Công dụng của công cụ này là không thể chối cãi."
+  },
+  "shortage": {
+    "ipa": "/ˈʃɔːtɪdʒ/",
+    "pos": "noun",
+    "example": "There is a shortage of food in the area.",
+    "translation": "Khu vực đó thiếu thốn thực phẩm."
+  },
+  "centigrade": {
+    "ipa": "/ˈsentɪɡreɪd/",
+    "pos": "adjective",
+    "example": "The temperature outside is 20 degrees centigrade.",
+    "translation": "Nhiệt độ bên ngoài là 20 độ xêntêgrét."
+  },
+  "roast": {
+    "ipa": "/roʊst/",
+    "pos": "verb",
+    "example": "We’re going to roast a chicken for dinner.",
+    "translation": "Chúng tôi sẽ nướng một con gà cho bữa tối."
+  },
+  "squawking": {
+    "ipa": "/ˈskwɔːkɪŋ/",
+    "pos": "verb (-ing)",
+    "example": "The parrot was squawking loudly.",
+    "translation": "Con vẹt đang kêu to."
+  },
+  "log": {
+    "ipa": "/lɒɡ/",
+    "pos": "noun",
+    "example": "We used logs to build the cabin.",
+    "translation": "Chúng tôi dùng các khúc gỗ để xây căn nhà gỗ."
+  },
+  "homesick": {
+    "ipa": "/ˈhəʊmsɪk/",
+    "pos": "adjective",
+    "example": "She felt homesick after moving to a new city.",
+    "translation": "Cô ấy cảm thấy nhớ nhà sau khi chuyển đến một thành phố mới."
+  },
+  "the host": {
+    "ipa": "/ðə həʊst/",
+    "pos": "noun",
+    "example": "The host greeted us warmly when we arrived.",
+    "translation": "Người chủ nhà chào đón chúng tôi nồng nhiệt khi chúng tôi đến."
+  },
+  "forward": {
+    "ipa": "/ˈfɔːwəd/",
+    "pos": "adverb",
+    "example": "He leaned forward to get a better view.",
+    "translation": "Anh ấy nghiêng người về phía trước để nhìn rõ hơn."
+  },
+  "pleasant": {
+    "ipa": "/ˈplɛz(ə)nt/",
+    "pos": "adjective",
+    "example": "We had a pleasant evening together.",
+    "translation": "Chúng tôi đã có một buổi tối vui vẻ bên nhau."
+  },
+  "familiar": {
+    "ipa": "/fəˈmɪljər/",
+    "pos": "adjective",
+    "example": "This place is familiar to me.",
+    "translation": "Nơi này quen thuộc với tôi."
+  },
+  "confronting": {
+    "ipa": "/kənˈfrʌntɪŋ/",
+    "pos": "adjective",
+    "example": "The situation was very confronting for her.",
+    "translation": "Tình huống đó rất khó khăn đối với cô ấy."
+  },
+  "importance": {
+    "ipa": "/ɪmˈpɔːt(ə)ns/",
+    "pos": "noun",
+    "example": "The importance of education cannot be overstated.",
+    "translation": "Giáo dục có tầm quan trọng vô cùng lớn."
+  },
+  "areas": {
+    "ipa": "/ˈɛəriəz/",
+    "pos": "noun",
+    "example": "The area around the lake is beautiful.",
+    "translation": "Khu vực xung quanh hồ rất đẹp."
+  },
+  "buildings": {
+    "ipa": "/ˈbɪldɪŋz/",
+    "pos": "noun",
+    "example": "The buildings in this city are very tall.",
+    "translation": "Các công trình xây dựng trong thành phố này rất cao."
+  },
+  "climate": {
+    "ipa": "/ˈklaɪmət/",
+    "pos": "noun",
+    "example": "The climate in this region is very hot and humid.",
+    "translation": "Khí hậu ở khu vực này rất nóng và ẩm."
+  },
+  "location": {
+    "ipa": "/loʊˈkeɪʃn/",
+    "pos": "noun",
+    "example": "The location of the new restaurant is perfect.",
+    "translation": "Vị trí của nhà hàng mới rất hoàn hảo."
+  },
+  "opinion": {
+    "ipa": "/əˈpɪnjən/",
+    "pos": "noun",
+    "example": "In my opinion, this movie is not very good.",
+    "translation": "Theo ý kiến của tôi, bộ phim này không tốt lắm."
+  },
+  "ancient": {
+    "ipa": "/ˈeɪnʃənt/",
+    "pos": "adjective",
+    "example": "The ancient ruins are fascinating to explore.",
+    "translation": "Những di tích cổ đại thật thú vị để khám phá."
+  },
+  "colourful": {
+    "ipa": "/ˈkʌlərfəl/",
+    "pos": "adjective",
+    "example": "The garden is full of colourful flowers.",
+    "translation": "Khu vườn đầy hoa sặc sỡ màu sắc."
+  },
+  "cool": {
+    "ipa": "/kuːl/",
+    "pos": "adjective",
+    "example": "The air conditioning makes the room cool and comfortable.",
+    "translation": "Điều hòa giúp phòng mát mẻ và thoải mái."
+  },
+  "enormous": {
+    "ipa": "/ɪˈnɔrməs/",
+    "pos": "adjective",
+    "example": "The elephant was enormous and majestic.",
+    "translation": "Con voi to lớn và uy nghi."
+  },
+  "high-rise": {
+    "ipa": "/ˈhaɪˌraɪz/",
+    "pos": "noun, adjective",
+    "example": "The high-rise building was visible from miles away.",
+    "translation": "Tòa nhà cao tầng có thể nhìn thấy từ xa."
+  },
+  "tourist": {
+    "ipa": "/ˈtʊr.ɪst/",
+    "pos": "noun",
+    "example": "The tourist was taking pictures of the scenery.",
+    "translation": "Du khách đang chụp ảnh cảnh vật."
+  },
+  "in the south": {
+    "ipa": "/ɪn ðə saʊθ/",
+    "pos": "prepositional phrase",
+    "example": "The weather is warmer in the south.",
+    "translation": "Thời tiết ấm hơn ở phía Nam."
+  },
+  "indoor": {
+    "ipa": "/ˈɪn.dɔːr/",
+    "pos": "adjective",
+    "example": "The indoor pool was heated.",
+    "translation": "Hồ bơi trong nhà được sưởi ấm."
+  },
+  "incredible": {
+    "ipa": "/ɪnˈkredəbl/",
+    "pos": "adjective",
+    "example": "The view from the top of the mountain was incredible.",
+    "translation": "Cảnh quan từ đỉnh núi rất đáng kinh ngạc."
+  },
+  "magnificent": {
+    "ipa": "/mæɡˈnɪf.ə.sənt/",
+    "pos": "adjective",
+    "example": "The palace was magnificent.",
+    "translation": "Cung điện rất hùng vĩ."
+  },
+  "narrow": {
+    "ipa": "/ˈnær.oʊ/",
+    "pos": "adjective",
+    "example": "The narrow alley was difficult to navigate.",
+    "translation": "Con hẻm chật hẹp khó đi qua."
+  },
+  "polluted": {
+    "ipa": "/pəˈluː.t̬ɪd/",
+    "pos": "adjective",
+    "example": "The polluted river was unsafe for swimming.",
+    "translation": "Dòng sông bị ô nhiễm không an toàn để bơi lội."
+  },
+  "huge": {
+    "ipa": "/hjuːdʒ/",
+    "pos": "adjective",
+    "example": "The huge elephant was impressive to see.",
+    "translation": "Con voi khổng lồ rất đáng ngạc nhiên."
+  },
+  "hotel and catering": {
+    "ipa": "/hoʊˈtel ənd ˈkeɪtərɪŋ/",
+    "pos": "noun",
+    "example": "The hotel and catering industry is a major employer.",
+    "translation": "Ngành khách sạn và dịch vụ ăn uống là một nhà tuyển dụng chính."
+  },
+  "construction": {
+    "ipa": "/kənˈstrʌkʃən/",
+    "pos": "noun",
+    "example": "The construction of the new bridge was completed ahead of schedule.",
+    "translation": "Việc xây dựng cây cầu mới đã hoàn thành sớm hơn kế hoạch."
+  },
+  "health": {
+    "ipa": "/helθ/",
+    "pos": "noun",
+    "example": "Health is wealth.",
+    "translation": "Sức khỏe là của cải."
+  },
+  "sports and leisure": {
+    "ipa": "/spɔːrts ənd ˈliːʒər/",
+    "pos": "noun",
+    "example": "Sports and leisure activities are good for mental health.",
+    "translation": "Các hoạt động thể thao và giải trí tốt cho sức khỏe tinh thần."
+  },
+  "information technology": {
+    "ipa": "/ˌɪnfərˈmeɪʃən tekˈnɑːlədʒi/",
+    "pos": "noun",
+    "example": "Information technology has revolutionized the way we live and work.",
+    "translation": "Công nghệ thông tin đã cách mạng hóa cách chúng ta sống và làm việc."
+  },
+  "art and design": {
+    "ipa": "/ɑːrt ənd dɪˈzaɪn/",
+    "pos": "noun",
+    "example": "Art and design are important for creative expression.",
+    "translation": "Nghệ thuật và thiết kế quan trọng cho việc thể hiện sáng tạo."
+  },
+  "retail": {
+    "ipa": "/ˈriːteɪl/",
+    "pos": "noun",
+    "example": "Retail sales were up by 10% this year.",
+    "translation": "Doanh số bán lẻ tăng 10% trong năm nay."
+  },
+  "emergency services": {
+    "ipa": "/ɪˈmɜːrdʒənsi ˈsɜːrvɪsɪz/",
+    "pos": "noun",
+    "example": "The emergency services arrived quickly.",
+    "translation": "Dịch vụ khẩn cấp đã đến nhanh chóng."
+  },
+  "farming": {
+    "ipa": "/ˈfɑːrmɪŋ/",
+    "pos": "noun",
+    "example": "Farming is an important industry in many countries.",
+    "translation": "Nông nghiệp là một ngành công nghiệp quan trọng ở nhiều quốc gia."
+  },
+  "entertainment": {
+    "ipa": "/ˌentərˈteɪnmənt/",
+    "pos": "noun",
+    "example": "The entertainment industry is a major source of employment.",
+    "translation": "Ngành giải trí là một nguồn việc làm chính."
+  },
+  "education": {
+    "ipa": "/ˌedjʊˈkeɪʃn/",
+    "pos": "noun",
+    "example": "Education is the key to success.",
+    "translation": "Giáo dục là chìa khóa cho thành công."
+  },
+  "science (research and development)": {
+    "ipa": "/ˈsaɪəns (rɪˈsɜːrtʃ ənd dɪˈveləpmənt)/",
+    "pos": "noun",
+    "example": "Science and technology are advancing rapidly.",
+    "translation": "Khoa học và công nghệ đang phát triển rất nhanh."
+  },
+  "travel and transport": {
+    "ipa": "/ˈtrævəl ənd ˈtrænspɔːrt/",
+    "pos": "noun",
+    "example": "Travel and transport are essential for economic growth.",
+    "translation": "Du lịch và vận tải là rất quan trọng cho sự phát triển kinh tế."
+  },
+  "tourism": {
+    "ipa": "/ˈtʊrɪzəm/",
+    "pos": "noun",
+    "example": "Tourism is a major source of revenue for many countries.",
+    "translation": "Du lịch là một nguồn thu chính cho nhiều quốc gia."
+  },
+  "tired": {
+    "ipa": "/taɪrd/",
+    "pos": "adjective",
+    "example": "I’m too tired to go out tonight.",
+    "translation": "Tôi quá mệt để đi ra ngoài tối nay."
+  },
+  "boring": {
+    "ipa": "/ˈbɔːrɪŋ/",
+    "pos": "adjective",
+    "example": "The movie was really boring.",
+    "translation": "Bộ phim thật sự nhạt nhẽo."
+  },
+  "embarrassed": {
+    "ipa": "/ɪmˈbærəst/",
+    "pos": "adjective",
+    "example": "I felt embarrassed when I realized my mistake.",
+    "translation": "Tôi cảm thấy xấu hổ khi nhận ra sai lầm của mình."
+  },
+  "challenging": {
+    "ipa": "/ˈtʃæləndʒɪŋ/",
+    "pos": "adjective",
+    "example": "The project was challenging but rewarding.",
+    "translation": "Dự án thử thách nhưng đáng giá."
+  },
+  "fascinated": {
+    "ipa": "/ˈfæsəneɪtɪd/",
+    "pos": "adjective",
+    "example": "I was fascinated by the beauty of the sunset.",
+    "translation": "Tôi bị mê hoặc bởi vẻ đẹp của hoàng hôn."
+  },
+  "great": {
+    "ipa": "/ɡreɪt/",
+    "pos": "adjective",
+    "example": "The concert was great.",
+    "translation": "Buổi hòa nhạc rất tuyệt vời."
+  },
+  "thrilled": {
+    "ipa": "/θrɪld/",
+    "pos": "adjective",
+    "example": "I was thrilled to receive the award.",
+    "translation": "Tôi rất hào hứng khi nhận được giải thưởng."
+  },
+  "not very exciting": {
+    "ipa": "/nɑːt ˈveri ɪkˈsaɪtɪŋ/",
+    "pos": "adjective",
+    "example": "The movie was not very exciting.",
+    "translation": "Bộ phim không thú vị lắm."
+  },
+  "interesting": {
+    "ipa": "/ˈɪntrəstɪŋ/",
+    "pos": "adjective",
+    "example": "The book was interesting and informative.",
+    "translation": "Cuốn sách thú vị và cung cấp thông tin bổ ích."
+  },
+  "amazed": {
+    "ipa": "/əˈmeɪzd/",
+    "pos": "adjective",
+    "example": "I was amazed by the size of the elephant.",
+    "translation": "Tôi ngạc nhiên trước kích thước của con voi."
+  },
+  "burger": {
+    "ipa": "/ˈbɜːrɡər/",
+    "pos": "noun",
+    "example": "I had a burger for lunch.",
+    "translation": "Tôi ăn một chiếc bánh burger cho bữa trưa."
+  },
+  "chicken": {
+    "ipa": "/ˈtʃɪkən/",
+    "pos": "noun",
+    "example": "I ordered chicken for dinner.",
+    "translation": "Tôi đặt gà cho bữa tối."
+  },
+  "cereal": {
+    "ipa": "/ˈsɪrɪəl/",
+    "pos": "noun",
+    "example": "I had cereal with milk for breakfast.",
+    "translation": "Tôi ăn ngũ cốc với sữa cho bữa sáng."
+  },
+  "noodle": {
+    "ipa": "/ˈnuːdl/",
+    "pos": "noun",
+    "example": "I love noodle soup.",
+    "translation": "Tôi rất thích súp mì."
+  },
+  "chips": {
+    "ipa": "/tʃɪps/",
+    "pos": "noun",
+    "example": "I had chips with my sandwich.",
+    "translation": "Tôi ăn khoai tây chiên với bánh mì kẹp của mình."
+  },
+  "rice": {
+    "ipa": "/raɪs/",
+    "pos": "noun",
+    "example": "I had rice with my curry.",
+    "translation": "Tôi ăn cơm với món cà ri của mình."
+  },
+  "curry": {
+    "ipa": "/ˈkʌri/",
+    "pos": "noun",
+    "example": "I love chicken curry.",
+    "translation": "Tôi rất thích cà ri gà."
+  },
+  "salad": {
+    "ipa": "/ˈsæləd/",
+    "pos": "noun",
+    "example": "I had a salad for lunch.",
+    "translation": "Tôi ăn rau trộn cho bữa trưa."
+  },
+  "fish": {
+    "ipa": "/fɪʃ/",
+    "pos": "noun",
+    "example": "I love grilled fish.",
+    "translation": "Tôi rất thích cá nướng."
+  },
+  "toast": {
+    "ipa": "/toʊst/",
+    "pos": "noun",
+    "example": "I had toast with butter and jam for breakfast.",
+    "translation": "Tôi đã ăn bánh mì nướng với bơ và mứt cho bữa sáng."
+  },
+  "mashed potato": {
+    "ipa": "/mæʃt pəˈteɪtoʊ/",
+    "pos": "noun",
+    "example": "I love mashed potatoes with gravy.",
+    "translation": "Tôi rất thích khoai tây nghiền với sốt thịt hầm."
+  },
+  "vegetable": {
+    "ipa": "/ˈvedʒtəbl/",
+    "pos": "noun",
+    "example": "I had steamed vegetables for dinner.",
+    "translation": "Tôi đã có rau hấp cho bữa tối."
+  },
+  "fingertips": {
+    "ipa": "/ˈfɪŋɡərtɪps/",
+    "pos": "noun",
+    "example": "I felt the sand between my fingertips.",
+    "translation": "Tôi cảm thấy cát giữa đầu ngón tay của mình."
+  },
+  "the palm": {
+    "ipa": "/ðə pɑːm/",
+    "pos": "noun",
+    "example": "I read my fortune from the lines on my palm.",
+    "translation": "Tôi đọc vận mệnh của mình từ những đường nét trên lòng bàn tay."
+  },
+  "thumb": {
+    "ipa": "/θʌm/",
+    "pos": "noun",
+    "example": "I hurt my thumb playing basketball.",
+    "translation": "Tôi làm đau ngón tay cái khi chơi bóng rổ."
+  },
+  "lentil": {
+    "ipa": "/ˈlentl/",
+    "pos": "noun",
+    "example": "I made lentil soup for dinner.",
+    "translation": "Tôi nấu súp đậu lăng cho bữa tối."
+  },
+  "subcontinent": {
+    "ipa": "/ˌsʌbˈkɑːntɪnənt/",
+    "pos": "noun",
+    "example": "India is part of the Indian subcontinent.",
+    "translation": "Ấn Độ là một phần của lục địa phụ Ấn Độ."
+  },
+  "identity": {
+    "ipa": "/aɪˈdentəti/",
+    "pos": "noun",
+    "example": "Food is an important part of our cultural identity.",
+    "translation": "Ẩm thực là một phần quan trọng trong bản sắc văn hóa của chúng ta."
+  },
+  "fizzy drink": {
+    "ipa": "/ˈfɪzi drɪŋk/",
+    "pos": "noun",
+    "example": "I prefer fizzy drinks to still drinks.",
+    "translation": "Tôi thích nước giải khát có ga hơn nước không có ga."
+  },
+  "colleagues": {
+    "ipa": "/ˈkɑːliːɡz/",
+    "pos": "noun",
+    "example": "My colleagues are very supportive.",
+    "translation": "Các đồng nghiệp của tôi luôn sẵn lòng giúp đỡ."
+  },
+  "polite": {
+    "ipa": "/pəˈlaɪt/",
+    "pos": "adjective",
+    "example": "It’s polite to say “please” and “thank you.”",
+    "translation": "Lịch sự khi nói “xin vui lòng” và “cảm ơn”."
+  },
+  "abroad": {
+    "ipa": "/əˈbrɔːd/",
+    "pos": "adverb",
+    "example": "I’ve never been abroad before.",
+    "translation": "Tôi chưa từng đi ra nước ngoài trước đây."
+  },
+  "vegetarianism": {
+    "ipa": "/ˌvedʒəˈteriənɪzəm/",
+    "pos": "noun",
+    "example": "Vegetarianism is becoming more common.",
+    "translation": "Chế độ ăn chay đang trở nên phổ biến hơn."
+  },
+  "vegetarian": {
+    "ipa": "/ˌvɛdʒ.əˈteə.ri.ən/",
+    "pos": "noun, adjective",
+    "example": "She has been a vegetarian for five years.",
+    "translation": "Cô ấy đã là người ăn chay được năm năm."
+  },
+  "cookery": {
+    "ipa": "/ˈkʊkəri/",
+    "pos": "noun",
+    "example": "I’m taking a course in cookery.",
+    "translation": "Tôi đang học môn nghệ thuật nấu ăn."
+  },
+  "sophisticated": {
+    "ipa": "/səˈfɪstɪkeɪtɪd/",
+    "pos": "adjective",
+    "example": "She has a sophisticated taste in music.",
+    "translation": "Cô ấy có gu âm nhạc tinh tế."
+  },
+  "cuisine": {
+    "ipa": "/kwɪˈziːn/",
+    "pos": "noun",
+    "example": "I love Vietnamese cuisine.",
+    "translation": "Tôi yêu ẩm thực Việt Nam."
+  },
+  "instant": {
+    "ipa": "/ˈɪnstənt/",
+    "pos": "adjective",
+    "example": "Instant noodles are quick and easy to prepare.",
+    "translation": "Mì ăn liền chế biến nhanh và dễ."
+  },
+  "humour": {
+    "ipa": "/ˈhjuːmər/",
+    "pos": "noun",
+    "example": "He has a great sense of humour.",
+    "translation": "Anh ta có khiếu hài hước tuyệt vời."
+  },
+  "foul language": {
+    "ipa": "/faʊl ˈlæŋɡwɪdʒ/",
+    "pos": "noun",
+    "example": "He was reprimanded for using foul language.",
+    "translation": "Anh ta bị khiển trách vì dùng lời nói tục tĩu."
+  },
+  "shout": {
+    "ipa": "/ʃaʊt/",
+    "pos": "verb",
+    "example": "She shouted at him to stop.",
+    "translation": "Cô ta hét lên yêu cầu anh ta dừng lại."
+  },
+  "a contestant": {
+    "ipa": "/ə kənˈtestənt/",
+    "pos": "noun",
+    "example": "The contestants are competing for a cash prize.",
+    "translation": "Các thí sinh đang cạnh tranh giành giải thưởng tiền mặt."
+  },
+  "eliminated": {
+    "ipa": "/ɪˈlɪməneɪtɪd/",
+    "pos": "verb (past participle)",
+    "example": "She was eliminated from the competition in the first round.",
+    "translation": "Cô ta bị loại khỏi cuộc thi trong vòng đấu đầu tiên."
+  },
+  "judges": {
+    "ipa": "/dʒʌdʒɪz/",
+    "pos": "noun",
+    "example": "The judges will announce the winner tomorrow.",
+    "translation": "Ban giám khảo sẽ công bố người chiến thắng vào ngày mai."
+  },
+  "takeaway": {
+    "ipa": "/ˈteɪkəweɪ/",
+    "pos": "noun",
+    "example": "I ordered some Chinese takeaway.",
+    "translation": "Tôi đã đặt món ăn mang đi Trung Quốc."
+  },
+  "bake": {
+    "ipa": "/beɪk/",
+    "pos": "verb",
+    "example": "I’m going to bake a cake.",
+    "translation": "Tôi sẽ nướng bánh."
+  },
+  "boil": {
+    "ipa": "/bɔɪl/",
+    "pos": "verb",
+    "example": "Boil the water before adding the pasta.",
+    "translation": "Hãy đun nước trước khi cho mì vào."
+  },
+  "fry": {
+    "ipa": "/fraɪ/",
+    "pos": "verb",
+    "example": "I’m going to fry some chicken.",
+    "translation": "Tôi sẽ chiên thịt gà."
+  },
+  "grill": {
+    "ipa": "/ɡrɪl/",
+    "pos": "verb",
+    "example": "I’m going to grill some fish.",
+    "translation": "Tôi sẽ nướng cá."
+  },
+  "apples": {
+    "ipa": "/ˈæpəlz/",
+    "pos": "noun",
+    "example": "I like to eat apples.",
+    "translation": "Tôi thích ăn táo."
+  },
+  "bananas": {
+    "ipa": "/bəˈnænəz/",
+    "pos": "noun",
+    "example": "I like to eat bananas.",
+    "translation": "Tôi thích ăn chuối."
+  },
+  "beef": {
+    "ipa": "/biːf/",
+    "pos": "noun",
+    "example": "I’m cooking beef stew for dinner.",
+    "translation": "Tôi đang nấu thịt bò hầm cho bữa tối."
+  },
+  "biscuits": {
+    "ipa": "/ˈbɪskɪts/",
+    "pos": "noun",
+    "example": "Would you like a biscuit with your tea?",
+    "translation": "Bạn có muốn một cái bánh quy với trà không?"
+  },
+  "cake": {
+    "ipa": "/keɪk/",
+    "pos": "noun",
+    "example": "Would you like a slice of cake?",
+    "translation": "Bạn có muốn một miếng bánh không?"
+  },
+  "steak": {
+    "ipa": "/steɪk/",
+    "pos": "noun",
+    "example": "I'm going to cook a steak for dinner.",
+    "translation": "Tôi sẽ nấu một miếng bít tết cho bữa tối."
+  },
+  "potatoes": {
+    "ipa": "/pəˈteɪtəʊz/",
+    "pos": "noun",
+    "example": "I like to eat potatoes with my steak.",
+    "translation": "Tôi thích ăn khoai tây với thịt bò của mình."
+  },
+  "carrots": {
+    "ipa": "/ˈkærəts/",
+    "pos": "noun",
+    "example": "Carrots are good for your eyesight.",
+    "translation": "Cà rốt tốt cho thị lực của bạn."
+  },
+  "chocolate": {
+    "ipa": "/ˈtʃɒklət/",
+    "pos": "noun",
+    "example": "I love chocolate ice cream.",
+    "translation": "Tôi yêu kem socola."
+  },
+  "lamb": {
+    "ipa": "/læm/",
+    "pos": "noun",
+    "example": "I'm cooking lamb chops for dinner.",
+    "translation": "Tôi đang nấu sườn cừu cho bữa tối."
+  },
+  "cucumbers": {
+    "ipa": "/ˈkjuːkʌmbəz/",
+    "pos": "noun",
+    "example": "Cucumbers are good in salads.",
+    "translation": "Dưa chuột ngon trong các món salad."
+  },
+  "pastries": {
+    "ipa": "/ˈpeɪstriz/",
+    "pos": "noun",
+    "example": "Would you like some pastries with your coffee?",
+    "translation": "Bạn có muốn dùng một ít bánh ngọt với cà phê không?"
+  },
+  "cabbage": {
+    "ipa": "/ˈkæbɪdʒ/",
+    "pos": "noun",
+    "example": "I’m making cabbage soup for lunch.",
+    "translation": "Tôi đang nấu súp bắp cải cho bữa trưa."
+  },
+  "cheese": {
+    "ipa": "/tʃiːz/",
+    "pos": "noun",
+    "example": "I like to eat cheese with crackers.",
+    "translation": "Tôi thích ăn phô mai với bánh quy."
+  },
+  "egg": {
+    "ipa": "/eɡ/",
+    "pos": "noun",
+    "example": "I'm going to make scrambled eggs for breakfast.",
+    "translation": "Tôi sẽ làm trứng bác cho bữa sáng."
+  },
+  "tomatoes": {
+    "ipa": "/təˈmeɪtoʊz/",
+    "pos": "noun",
+    "example": "Tomatoes are good in salads.",
+    "translation": "Cà chua ngon trong các món salad."
+  },
+  "yogurt": {
+    "ipa": "/ˈjoʊɡərt/",
+    "pos": "noun",
+    "example": "I like to eat yoghurt with honey.",
+    "translation": "Tôi thích ăn sữa chua với mật ong."
+  },
+  "ginger": {
+    "ipa": "/ˈdʒɪndʒər/",
+    "pos": "noun",
+    "example": "I’m going to make ginger tea for my sore throat.",
+    "translation": "Tôi sẽ làm trà gừng cho cổ họng đau của mình."
+  },
+  "chillies": {
+    "ipa": "/ˈtʃɪliz/",
+    "pos": "noun",
+    "example": "I like to eat spicy food with chillies.",
+    "translation": "Tôi thích ăn đồ ăn cay với ớt."
+  },
+  "onions": {
+    "ipa": "/ˈʌnjənz/",
+    "pos": "noun",
+    "example": "Onions are good in soups and stews.",
+    "translation": "Hành tây ngon trong các món súp và hầm."
+  },
+  "soy sauce": {
+    "ipa": "/sɔɪ sɔːs/",
+    "pos": "noun",
+    "example": "I like to use soy sauce in my stir-fry dishes.",
+    "translation": "Tôi thích dùng xì dầu trong các món xào của mình."
+  },
+  "spices": {
+    "ipa": "/ˈspaɪsɪz/",
+    "pos": "noun",
+    "example": "I like to use spices in my cooking.",
+    "translation": "Tôi thích dùng gia vị trong nấu ăn của mình."
+  },
+  "flour": {
+    "ipa": "/ˈflaʊər/",
+    "pos": "noun",
+    "example": "I’m going to make bread with flour.",
+    "translation": "Tôi sẽ làm bánh mì với bột mì."
+  },
+  "garlic": {
+    "ipa": "/ˈɡɑːrlɪk/",
+    "pos": "noun",
+    "example": "I’m going to make garlic bread.",
+    "translation": "Tôi sẽ làm bánh mì tỏi."
+  },
+  "buy clothes": {
+    "ipa": "/baɪ kləʊðz/",
+    "pos": "verb",
+    "example": "I need to buy some new clothes.",
+    "translation": "Tôi cần mua một số quần áo mới."
+  },
+  "buy or rent an apartment": {
+    "ipa": "/baɪ ɔːr rent ən əˈpɑːtmənt/",
+    "pos": "verb",
+    "example": "I’m looking to buy or rent an apartment.",
+    "translation": "Tôi đang tìm kiếm để mua hoặc thuê một căn hộ."
+  },
+  "check your health": {
+    "ipa": "/tʃek jɔːr helθ/",
+    "pos": "verb",
+    "example": "You should check your health regularly.",
+    "translation": "Bạn nên kiểm tra sức khỏe của mình thường xuyên."
+  },
+  "go climbing": {
+    "ipa": "/ɡəʊ ˈklaɪmɪŋ/",
+    "pos": "verb",
+    "example": "I’m planning to go climbing next weekend.",
+    "translation": "Tôi đang lên kế hoạch để đi leo núi vào cuối tuần tới."
+  },
+  "go in a hot air balloon": {
+    "ipa": "/ɡoʊ ɪn ə hɑːt er bəˈluːn/",
+    "pos": "verb",
+    "example": "I’ve always wanted to go in a hot air balloon.",
+    "translation": "Tôi luôn muốn đi trên khinh khí cầu nóng."
+  },
+  "go to the beach": {
+    "ipa": "/ɡoʊ tə ðə biːtʃ/",
+    "pos": "verb",
+    "example": "I love going to the beach in the summer.",
+    "translation": "Tôi thích đi đến bãi biển vào mùa hè."
+  },
+  "have a snack": {
+    "ipa": "/hæv ə snæk/",
+    "pos": "verb",
+    "example": "I usually have a snack in the afternoon.",
+    "translation": "Tôi thường ăn vặt vào buổi chiều."
+  },
+  "have a beauty treatment": {
+    "ipa": "/hæv ə ˈbjuːti ˈtriːtmənt/",
+    "pos": "verb",
+    "example": "I’m going to have a beauty treatment tomorrow.",
+    "translation": "Tôi sẽ làm đẹp vào ngày mai."
+  },
+  "have an expensive meal": {
+    "ipa": "/hæv ən ɪkˈspensɪv miːl/",
+    "pos": "verb",
+    "example": "We had an expensive meal at a fancy restaurant last night.",
+    "translation": "Chúng tôi đã có một bữa tối đắt tiền tại một nhà hàng sang trọng vào tối qua."
+  },
+  "see a film": {
+    "ipa": "/siː ə fɪlm/",
+    "pos": "verb",
+    "example": "I’m going to see a film tonight.",
+    "translation": "Tôi sẽ đi xem phim tối nay."
+  },
+  "see an art exhibition": {
+    "ipa": "/siː ən ɑːrt ˌeksɪˈbɪʃən/",
+    "pos": "verb",
+    "example": "We went to see an art exhibition last weekend.",
+    "translation": "Chúng tôi đã đi xem triển lãm nghệ thuật vào cuối tuần trước."
+  },
+  "see plants and trees": {
+    "ipa": "/siː plænts ənd triːz/",
+    "pos": "verb",
+    "example": "We went to see plants and trees at the botanical garden.",
+    "translation": "Chúng tôi đã đi xem cây cối và thực vật tại vườn thực vật."
+  },
+  "ski": {
+    "ipa": "/skiː/",
+    "pos": "verb",
+    "example": "I’m going to ski in the mountains.",
+    "translation": "Tôi sẽ đi trượt tuyết trên núi."
+  },
+  "hang out": {
+    "ipa": "/hæŋ aʊt/",
+    "pos": "verb",
+    "example": "I’m going to hang out with my friends.",
+    "translation": "Tôi sẽ đi chơi với bạn bè của mình."
+  },
+  "specialise": {
+    "ipa": "/ˈspeʃəlaɪz/",
+    "pos": "verb",
+    "example": "I specialise in computer science.",
+    "translation": "Tôi chuyên về khoa học máy tính."
+  },
+  "predicted": {
+    "ipa": "/prɪˈdɪktɪd/",
+    "pos": "adjective / past participle",
+    "example": "The predicted outcome was not favourable.",
+    "translation": "Kết quả dự đoán không thuận lợi."
+  },
+  "electrical item": {
+    "ipa": "/ɪˈlektrɪkəl ˈaɪtəm/",
+    "pos": "noun",
+    "example": "I need to buy an electrical item for my home.",
+    "translation": "Tôi cần mua một thiết bị điện cho nhà của mình."
+  },
+  "bowling alleys": {
+    "ipa": "/ˈboʊlɪŋ ˈæliz/",
+    "pos": "noun",
+    "example": "We went to the bowling alley last night.",
+    "translation": "Chúng tôi đã đi đến sân chơi bowling tối qua."
+  },
+  "concert halls": {
+    "ipa": "/ˈkɑːnsərt hɔːlz/",
+    "pos": "noun",
+    "example": "We went to the concert hall to see a show.",
+    "translation": "Chúng tôi đã đi đến nhà hát để xem một buổi biểu diễn."
+  },
+  "billiards": {
+    "ipa": "/ˈbɪljərdz/",
+    "pos": "noun",
+    "example": "Do you want to play billiards?",
+    "translation": "Bạn có muốn chơi bi-a không?"
+  },
+  "public transport": {
+    "ipa": "/ˌpʌblɪk ˈtrænspɔːrt/",
+    "pos": "noun",
+    "example": "I usually take public transport to work.",
+    "translation": "Tôi thường đi phương tiện giao thông công cộng đến nơi làm việc của mình."
+  },
+  "waterfall": {
+    "ipa": "/ˈwɔːtərfɔːl/",
+    "pos": "noun",
+    "example": "We went to see the waterfall last weekend.",
+    "translation": "Chúng tôi đã đi xem thác nước vào cuối tuần trước."
+  },
+  "identical": {
+    "ipa": "/aɪˈdɛntɪkəl/",
+    "pos": "adjective",
+    "example": "The twins have identical faces but different personalities.",
+    "translation": "Cặp song sinh có khuôn mặt giống hệt nhau nhưng tính cách khác nhau."
+  },
+  "unique": {
+    "ipa": "/juːˈniːk/",
+    "pos": "adjective",
+    "example": "She has a unique style of singing that no one can imitate.",
+    "translation": "Cô ấy có phong cách hát độc đáo mà không ai có thể bắt chước."
+  },
+  "mass-produced": {
+    "ipa": "/ˌmæs prəˈdjuːst/",
+    "pos": "adjective",
+    "example": "These cups are mass-produced in a factory.",
+    "translation": "Những chiếc cốc này được sản xuất hàng loạt trong nhà máy."
+  },
+  "stall": {
+    "ipa": "/stɔːl/",
+    "pos": "noun",
+    "example": "He bought some books from a stall at the flea market.",
+    "translation": "Anh ấy mua vài cuốn sách ở một sạp hàng tại chợ đồ cũ."
+  },
+  "antiques": {
+    "ipa": "/ænˈtiːks/",
+    "pos": "noun",
+    "example": "She collects antiques from different countries.",
+    "translation": "Cô ấy sưu tầm đồ cổ từ nhiều quốc gia."
+  },
+  "vendor": {
+    "ipa": "/ˈvɛndər/",
+    "pos": "noun",
+    "example": "The vendor gave me a discount because I bought a lot of items",
+    "translation": "Người bán hàng cho tôi giảm giá vì tôi mua nhiều món hàng"
+  },
+  "a sheet": {
+    "ipa": "/ə ʃiːt/",
+    "pos": "noun",
+    "example": "I need a sheet of paper to write a letter.",
+    "translation": "Tôi cần một tờ giấy để viết thư."
+  },
+  "flea market": {
+    "ipa": "/fliː ˈmɑːkɪt/",
+    "pos": "noun",
+    "example": "I like to go to the flea market and look for bargains.",
+    "translation": "Tôi thích đi chợ trời và tìm kiếm những món hời"
+  },
+  "handicrafts": {
+    "ipa": "/ˈhændikræfts/",
+    "pos": "noun",
+    "example": "She sells her handicrafts at the local market every weekend",
+    "translation": "Cô ấy bán đồ thủ công của mình ở chợ địa phương vào mỗi cuối tuần"
+  },
+  "rugs": {
+    "ipa": "/rʌɡz/",
+    "pos": "noun",
+    "example": "He has a collection of rugs from different countries",
+    "translation": "Anh ấy có một bộ sưu tập thảm từ các nước khác nhau"
+  },
+  "decorations": {
+    "ipa": "/ˌdekəˈreɪʃənz/",
+    "pos": "noun",
+    "example": "She loves to make her own decorations for Christmas",
+    "translation": "Cô ấy thích tự làm đồ trang trí cho Giáng sinh"
+  },
+  "festive seasons": {
+    "ipa": "/ˈfestɪv ˈsiːzənz/",
+    "pos": "noun",
+    "example": "During the festive seasons, people often exchange gifts and greetings",
+    "translation": "Trong những mùa lễ hội, mọi người thường trao nhau quà và lời chúc"
+  },
+  "coffee shop": {
+    "ipa": "/ˈkɒf.i ʃɒp/",
+    "pos": "noun",
+    "example": "I like to work at the coffee shop because it has a nice atmosphere.",
+    "translation": "Tôi thích làm việc ở quán cà phê vì nó có không khí dễ chịu."
+  },
+  "department store": {
+    "ipa": "/dɪˈpɑːt.mənt stɔːr/",
+    "pos": "noun",
+    "example": "She bought a new dress from the department store.",
+    "translation": "Cô ấy mua một chiếc váy mới từ cửa hàng bách hóa."
+  },
+  "outdoor market": {
+    "ipa": "/ˈaʊt.dɔːr ˈmɑː.kɪt/",
+    "pos": "noun",
+    "example": "You can find fresh fruits and vegetables at the outdoor market.",
+    "translation": "Bạn có thể tìm thấy trái cây và rau quả tươi tại chợ ngoài trời."
+  },
+  "shopping centre": {
+    "ipa": "/ˈʃɒp.ɪŋ ˌsen.tər/",
+    "pos": "noun",
+    "example": "He went to the shopping centre to buy a new laptop.",
+    "translation": "Anh ấy đi đến trung tâm mua sắm để mua một chiếc laptop mới."
+  },
+  "supermarket": {
+    "ipa": "/ˈsuː.pəˌmɑː.kɪt/",
+    "pos": "noun",
+    "example": "They usually do their grocery shopping at the supermarket.",
+    "translation": "Họ thường mua đồ tạp hóa ở siêu thị."
+  },
+  "afford": {
+    "ipa": "/əˈfɔːd/",
+    "pos": "verb",
+    "example": "I can’t afford to buy a new car.",
+    "translation": "Tôi không đủ khả năng mua một chiếc xe mới."
+  },
+  "place": {
+    "ipa": "/pleɪs/",
+    "pos": "noun",
+    "example": "This is a nice place to have a picnic.",
+    "translation": "Đây là một nơi đẹp để dã ngoại."
+  },
+  "all sorts of": {
+    "ipa": "/ɔːl sɔːts əv/",
+    "pos": "phrase",
+    "example": "She likes all sorts of music.",
+    "translation": "Cô ấy thích mọi loại nhạc."
+  },
+  "original": {
+    "ipa": "/əˈrɪdʒ.ən.əl/",
+    "pos": "adjective",
+    "example": "He has a very original style of painting.",
+    "translation": "Anh ấy có một phong cách hội họa rất sáng tạo."
+  },
+  "atmosphere": {
+    "ipa": "/ˈæt.mə.sfɪər/",
+    "pos": "noun",
+    "example": "The atmosphere in the restaurant was very romantic.",
+    "translation": "Bầu không khí trong nhà hàng rất lãng mạn."
+  },
+  "selection": {
+    "ipa": "/sɪˈlek.ʃən/",
+    "pos": "noun",
+    "example": "They have a wide selection of books and magazines.",
+    "translation": "Họ có rất nhiều loại sách và tạp chí để lựa chọn."
+  },
+  "convenient": {
+    "ipa": "/kənˈviː.ni.ənt/",
+    "pos": "adjective",
+    "example": "The hotel is very convenient for the airport.",
+    "translation": "Khách sạn nằm ở vị trí thuận tiện để đến sân bay."
+  },
+  "reasonable": {
+    "ipa": "/ˈriː.zən.ə.bəl/",
+    "pos": "adjective",
+    "example": "The price was reasonable for the quality of the food.",
+    "translation": "Giá cả hợp lý với chất lượng của thức ăn."
+  },
+  "behind": {
+    "ipa": "/bɪˈhaɪnd/",
+    "pos": "preposition",
+    "example": "The cat is hiding behind the sofa.",
+    "translation": "Con mèo đang trốn phía sau ghế sofa."
+  },
+  "go past": {
+    "ipa": "/ɡəʊ pɑːst/",
+    "pos": "verb phrase",
+    "example": "Go past the post office and turn left at the traffic lights.",
+    "translation": "Đi qua bưu điện và rẽ trái ở đèn giao thông."
+  },
+  "go straight ahead": {
+    "ipa": "/ɡoʊ streɪt əˈhed/",
+    "pos": "verb phrase",
+    "example": "Go straight ahead until you see a big church.",
+    "translation": "Đi thẳng cho đến khi bạn thấy một nhà thờ lớn."
+  },
+  "in front of": {
+    "ipa": "/ɪn ˈfrʌnt əv/",
+    "pos": "preposition",
+    "example": "There is a fountain in front of the hotel.",
+    "translation": "Có một đài phun nước phía trước khách sạn."
+  },
+  "next to": {
+    "ipa": "/nekst tuː/",
+    "pos": "preposition",
+    "example": "The bank is next to the supermarket.",
+    "translation": "Ngân hàng nằm bên cạnh siêu thị."
+  },
+  "opposite": {
+    "ipa": "/ˈɒp.ə.zɪt/",
+    "pos": "preposition",
+    "example": "The park is opposite the school.",
+    "translation": "Công viên đối diện với trường học."
+  },
+  "turn left": {
+    "ipa": "/tɜːn left/",
+    "pos": "verb phrase",
+    "example": "Turn left at the corner and you will see the library.",
+    "translation": "Rẽ trái ở góc đường và bạn sẽ thấy thư viện."
+  },
+  "turn right": {
+    "ipa": "/tɜːn raɪt/",
+    "pos": "verb phrase",
+    "example": "Turn right at the end of the street and you will find the hospital.",
+    "translation": "Rẽ phải ở cuối đường và bạn sẽ tìm thấy bệnh viện."
+  },
+  "amusing": {
+    "ipa": "/əˈmjuːzɪŋ/",
+    "pos": "adjective",
+    "example": "He told us an amusing story about his childhood.",
+    "translation": "Anh ấy kể cho chúng tôi một câu chuyện hài hước về thời thơ ấu."
+  },
+  "enjoyable": {
+    "ipa": "/ɪnˈdʒɔɪəbl/",
+    "pos": "adjective",
+    "example": "We had a very enjoyable evening at the theatre.",
+    "translation": "Chúng tôi có một buổi tối rất vui ở nhà hát."
+  },
+  "excellent": {
+    "ipa": "/ˈeksələnt/",
+    "pos": "adjective",
+    "example": "He speaks excellent English.",
+    "translation": "Anh ấy nói tiếng Anh rất giỏi."
+  },
+  "exciting": {
+    "ipa": "/ɪkˈsaɪtɪŋ/",
+    "pos": "adjective",
+    "example": "It was an exciting game of football.",
+    "translation": "Đó là một trận bóng đá hấp dẫn."
+  },
+  "brilliant": {
+    "ipa": "/ˈbrɪljənt/",
+    "pos": "adjective",
+    "example": "She is a brilliant mathematician.",
+    "translation": "Cô ấy là một nhà toán học tài giỏi."
+  },
+  "healthy": {
+    "ipa": "/ˈhelθi/",
+    "pos": "adjective",
+    "example": "Eating fruit and vegetables is healthy.",
+    "translation": "Ăn trái cây và rau củ có lợi cho sức khỏe."
+  },
+  "peaceful": {
+    "ipa": "/ˈpiːsfl/",
+    "pos": "adjective",
+    "example": "She lives in a peaceful village in the countryside.",
+    "translation": "Cô ấy sống trong một ngôi làng yên bình ở nông thôn."
+  },
+  "relaxing": {
+    "ipa": "/rɪˈlæksɪŋ/",
+    "pos": "adjective",
+    "example": "Listening to music is relaxing for me.",
+    "translation": "Nghe nhạc giúp tôi thư giãn."
+  },
+  "dangerous": {
+    "ipa": "/ˈdeɪndʒərəs/",
+    "pos": "adjective",
+    "example": "Driving too fast is dangerous.",
+    "translation": "Lái xe quá nhanh rất nguy hiểm."
+  },
+  "miserable": {
+    "ipa": "/ˈmɪzərəbl/",
+    "pos": "adjective",
+    "example": "He felt miserable after losing his job.",
+    "translation": "Anh ấy cảm thấy khổ sở sau khi mất việc."
+  },
+  "exhausting": {
+    "ipa": "/ɪɡˈzɔːstɪŋ/",
+    "pos": "adjective",
+    "example": "Climbing a mountain is exhausting.",
+    "translation": "Leo núi rất tốn sức."
+  },
+  "frightening": {
+    "ipa": "/ˈfraɪtənɪŋ/",
+    "pos": "adjective",
+    "example": "The news of the war was frightening.",
+    "translation": "Tin tức về cuộc chiến thật đáng sợ."
+  },
+  "tiring": {
+    "ipa": "/ˈtaɪərɪŋ/",
+    "pos": "adjective",
+    "example": "Studying for hours is tiring.",
+    "translation": "Học liên tục nhiều giờ gây mệt mỏi."
+  },
+  "useless": {
+    "ipa": "/ˈjuːsləs/",
+    "pos": "adjective",
+    "example": "This old computer is useless.",
+    "translation": "Chiếc máy tính cũ này không còn dùng được."
+  },
+  "harmful": {
+    "ipa": "/ˈhɑːrmfl/",
+    "pos": "adjective",
+    "example": "Smoking is harmful to your health.",
+    "translation": "Hút thuốc có hại cho sức khỏe."
+  },
+  "stressful": {
+    "ipa": "/ˈstresfl/",
+    "pos": "adjective",
+    "example": "Working under a tight deadline is stressful.",
+    "translation": "Làm việc dưới áp lực thời hạn là rất căng thẳng."
+  },
+  "hopeless": {
+    "ipa": "/ˈhəʊpləs/",
+    "pos": "adjective",
+    "example": "He felt hopeless after failing the exam.",
+    "translation": "Anh ấy cảm thấy vô vọng sau khi trượt kỳ thi."
+  },
+  "affairs": {
+    "ipa": "/əˈfeəz/",
+    "pos": "noun (plural)",
+    "example": "He is in charge of foreign affairs for the government.",
+    "translation": "Anh ấy phụ trách các vấn đề ngoại giao cho chính phủ."
+  },
+  "charity": {
+    "ipa": "/ˈtʃærəti/",
+    "pos": "noun (uncountable or countable)",
+    "example": "She donated some money to a charity for children.",
+    "translation": "Cô ấy quyên góp một số tiền cho một tổ chức từ thiện dành cho trẻ em."
+  },
+  "specialist": {
+    "ipa": "/ˈspeʃəlɪst/",
+    "pos": "noun",
+    "example": "He is a specialist in computer science.",
+    "translation": "Anh ấy là một chuyên gia về khoa học máy tính."
+  },
+  "tropical": {
+    "ipa": "/ˈtrɒpɪkl/",
+    "pos": "adjective",
+    "example": "She loves tropical fruits like mangoes and pineapples.",
+    "translation": "Cô ấy thích những loại trái cây nhiệt đới như xoài và dứa."
+  },
+  "communicate": {
+    "ipa": "/kəˈmjuːnɪkeɪt/",
+    "pos": "verb",
+    "example": "He communicated his feelings to her through a letter.",
+    "translation": "Anh ấy đã truyền đạt cảm xúc của mình cho cô ấy qua một lá thư."
+  },
+  "content": {
+    "ipa": "/ˈkɑːntent/",
+    "pos": "noun",
+    "example": "The content of the book is very interesting.",
+    "translation": "Nội dung của cuốn sách rất thú vị."
+  },
+  "loyalty": {
+    "ipa": "/ˈlɔɪəlti/",
+    "pos": "noun (uncountable or countable)",
+    "example": "He showed his loyalty to his country by joining the army.",
+    "translation": "Anh ấy đã thể hiện sự trung thành với đất nước của mình bằng cách gia nhập quân đội."
+  },
+  "faithful": {
+    "ipa": "/ˈfeɪθfl/",
+    "pos": "adjective",
+    "example": "She was faithful to her husband until he died.",
+    "translation": "Cô ấy đã trung thành với chồng của mình cho đến khi ông qua đời."
+  },
+  "ceremony": {
+    "ipa": "/ˈserəməni/",
+    "pos": "noun (countable or uncountable)",
+    "example": "They held a ceremony to celebrate their graduation.",
+    "translation": "Họ đã tổ chức một buổi lễ để kỷ niệm ngày tốt nghiệp của họ."
+  },
+  "commemorate": {
+    "ipa": "/kəˈmeməreɪt/",
+    "pos": "verb",
+    "example": "They built a statue to commemorate the hero.",
+    "translation": "Họ đã xây dựng một bức tượng để tưởng nhớ anh hùng."
+  },
+  "substantial": {
+    "ipa": "/səbˈstænʃl/",
+    "pos": "adjective",
+    "example": "He made a substantial contribution to the project.",
+    "translation": "Anh ấy đã có một đóng góp lớn lao cho dự án."
+  },
+  "orphaned cubs": {
+    "ipa": "/ˈɔːfənd kʌbz/",
+    "pos": "noun (plural)",
+    "example": "The orphaned cubs were rescued by a wildlife organisation.",
+    "translation": "Những con thú non mồ côi được một tổ chức bảo vệ động vật hoang dã cứu hộ."
+  },
+  "foster parents": {
+    "ipa": "/ˈfɒstə ˈpeərənts/",
+    "pos": "noun (plural)",
+    "example": "They became foster parents to two children from a poor family.",
+    "translation": "Họ đã trở thành cha mẹ nuôi cho hai đứa trẻ từ một gia đình nghèo."
+  },
+  "ivory": {
+    "ipa": "/ˈaɪvəri/",
+    "pos": "noun (uncountable or countable)",
+    "example": "Ivory is a valuable material that is often used for making jewelry or art.",
+    "translation": "Ngà voi là một chất liệu quý giá thường được dùng để làm trang sức hay nghệ thuật."
+  },
+  "inspire": {
+    "ipa": "/ɪnˈspaɪər/",
+    "pos": "verb",
+    "example": "She inspires me to be a better person.",
+    "translation": "Cô ấy truyền cảm hứng cho tôi để trở thành một người tốt hơn."
+  },
+  "active": {
+    "ipa": "/ˈæk.tɪv/",
+    "pos": "adjective",
+    "example": "She is an active person who enjoys sport.",
+    "translation": "Cô ấy là người năng động và thích thể thao."
+  },
+  "brave": {
+    "ipa": "/breɪv/",
+    "pos": "adjective",
+    "example": "The brave soldier saved his comrades.",
+    "translation": "Chiến sĩ can đảm đã cứu đồng đội của mình."
+  },
+  "charming": {
+    "ipa": "/ˈtʃɑː.mɪŋ/",
+    "pos": "adjective",
+    "example": "The charming actress captivated the audience.",
+    "translation": "Nữ diễn viên duyên dáng đã thu hút khán giả."
+  },
+  "professional": {
+    "ipa": "/prəˈfeʃ.ən.əl/",
+    "pos": "adjective",
+    "example": "The professional athlete won the championship.",
+    "translation": "Vận động viên chuyên nghiệp đã giành được chức vô địch."
+  },
+  "talented": {
+    "ipa": "/ˈtæl.ən.tɪd/",
+    "pos": "adjective",
+    "example": "The talented musician played the piano beautifully.",
+    "translation": "Nhạc sĩ tài năng đã chơi piano rất hay."
+  },
+  "cruel": {
+    "ipa": "/kruːəl/",
+    "pos": "adjective",
+    "example": "The cruel dictator oppressed his people.",
+    "translation": "Kẻ độc tài tàn bạo đã áp bức nhân dân của mình."
+  },
+  "expert": {
+    "ipa": "/ˈek.spɜːt/",
+    "pos": "noun",
+    "example": "The expert in finance advised the company on its investments.",
+    "translation": "Chuyên gia tài chính đã tư vấn cho công ty về các khoản đầu tư của nó."
+  },
+  "powerful": {
+    "ipa": "/ˈpaʊə.fəl/",
+    "pos": "adjective",
+    "example": "The powerful king ruled over his kingdom with an iron fist.",
+    "translation": "Vua quyền lực đã cai trị vương quốc của mình bằng sự tàn bạo."
+  },
+  "generous": {
+    "ipa": "/ˈdʒen.rəs/",
+    "pos": "adjective",
+    "example": "The generous donor gave a large sum of money to charity.",
+    "translation": "Người quyên góp hào phóng đã cho một khoản tiền lớn cho từ thiện."
+  },
+  "experienced": {
+    "ipa": "/ɪkˈspɪr.iənst/",
+    "pos": "adjective",
+    "example": "The experienced teacher helped her students succeed.",
+    "translation": "Giáo viên giàu kinh nghiệm đã giúp học sinh của cô ấy thành công."
+  },
+  "honest": {
+    "ipa": "/ˈɑː.nɪst/",
+    "pos": "adjective",
+    "example": "The honest politician refused to take bribes.",
+    "translation": "Chính trị gia trung thực đã từ chối nhận hối lộ."
+  },
+  "and": {
+    "ipa": "/ænd/",
+    "pos": "conjunction",
+    "example": "I like coffee and tea.",
+    "translation": "Tôi thích cà phê và trà."
+  },
+  "because": {
+    "ipa": "/bɪˈkɑːz/",
+    "pos": "conjunction",
+    "example": "I’m tired because I stayed up late.",
+    "translation": "Tôi mệt vì tôi thức khuya."
+  },
+  "but": {
+    "ipa": "/bʌt/",
+    "pos": "conjunction",
+    "example": "I want to go, but I’m too tired.",
+    "translation": "Tôi muốn đi, nhưng tôi quá mệt."
+  },
+  "in spite of": {
+    "ipa": "/ɪn ˈspaɪt əv/",
+    "pos": "preposition",
+    "example": "In spite of the rain, we went hiking.",
+    "translation": "Mặc dù trời mưa, chúng tôi đi leo núi."
+  },
+  "so": {
+    "ipa": "/soʊ/",
+    "pos": "conjunction",
+    "example": "It was raining, so we stayed home.",
+    "translation": "Trời đang mưa, vì vậy chúng tôi ở nhà."
+  },
+  "when": {
+    "ipa": "/wen/",
+    "pos": "conjunction",
+    "example": "I was sleeping when you called me.",
+    "translation": "Tôi đang ngủ khi bạn gọi cho tôi."
+  },
+  "who": {
+    "ipa": "/huː/",
+    "pos": "pronoun",
+    "example": "Who is that?",
+    "translation": "Đó là ai?"
+  },
+  "whose": {
+    "ipa": "/huːz/",
+    "pos": "determiner / pronoun",
+    "example": "Whose book is this?",
+    "translation": "Cuốn sách này của ai?"
+  },
+  "why": {
+    "ipa": "/waɪ/",
+    "pos": "adverb",
+    "example": "Why are you crying?",
+    "translation": "Tại sao bạn đang khóc?"
+  },
+  "creatures": {
+    "ipa": "/ˈkriːtʃərz/",
+    "pos": "noun",
+    "example": "The creatures of the forest were fascinating.",
+    "translation": "Những sinh vật trong rừng rất thú vị."
+  },
+  "predators": {
+    "ipa": "/ˈpredətərz/",
+    "pos": "noun",
+    "example": "Lions are predators that hunt other animals.",
+    "translation": "Sư tử là loài săn mồi, săn các động vật khác."
+  },
+  "herded": {
+    "ipa": "/ˈhɜːrdɪd/",
+    "pos": "verb (past)",
+    "example": "The shepherd herded his sheep into the pen.",
+    "translation": "Người chăn cừu đã dắt đàn cừu của mình vào chuồng."
+  },
+  "protective": {
+    "ipa": "/prəˈtektɪv/",
+    "pos": "adjective",
+    "example": "The mother bear was protective of her cubs.",
+    "translation": "Con gấu mẹ đã bảo vệ cho các con của nó."
+  },
+  "unconscious": {
+    "ipa": "/ʌnˈkɑːnʃəs/",
+    "pos": "adjective",
+    "example": "The patient was unconscious after the surgery.",
+    "translation": "Bệnh nhân không tỉnh táo sau phẫu thuật."
+  },
+  "a pod": {
+    "ipa": "/ə pɑːd/",
+    "pos": "noun",
+    "example": "A pod of dolphins swam alongside the boat.",
+    "translation": "Một đàn cá heo bơi bên cạnh chiếc thuyền."
+  },
+  "approached": {
+    "ipa": "/əˈproʊtʃt/",
+    "pos": "verb (past)",
+    "example": "The stranger approached me and asked for directions.",
+    "translation": "Người lạ đã lại gần tôi và hỏi đường đi."
+  },
+  "gently": {
+    "ipa": "/ˈdʒentli/",
+    "pos": "adverb",
+    "example": "She spoke gently to the crying child.",
+    "translation": "Cô ấy nói nhẹ nhàng với đứa trẻ đang khóc."
+  },
+  "species": {
+    "ipa": "/ˈspiːʃiːz/",
+    "pos": "noun",
+    "example": "There are many different species of birds in this forest.",
+    "translation": "Có nhiều loài chim khác nhau trong rừng này."
+  },
+  "pygmy sperm whales": {
+    "ipa": "/ˈpɪɡmi spɜrm weɪlz/",
+    "pos": "noun",
+    "example": "Pygmy sperm whales live in deep ocean waters.",
+    "translation": "Cá nhà táng lùn sống ở vùng nước sâu ngoài đại dương."
+  },
+  "attempts": {
+    "ipa": "/əˈtempts/",
+    "pos": "noun",
+    "example": "Despite several attempts to fix the problem, it persisted.",
+    "translation": "Mặc dù đã có nhiều nỗ lực để giải quyết vấn đề nhưng vấn đề vẫn tiếp diễn."
+  },
+  "mammals": {
+    "ipa": "/ˈmæməlz/",
+    "pos": "noun",
+    "example": "Humans are mammals.",
+    "translation": "Con người là loài động vật có vú."
+  },
+  "migrating": {
+    "ipa": "/ˈmaɪɡreɪtɪŋ/",
+    "pos": "adjective",
+    "example": "The migrating birds flew south for the winter.",
+    "translation": "Những con chim di cư bay về phía nam vào mùa đông."
+  },
+  "temperatures": {
+    "ipa": "/ˈtemprətʃərz/",
+    "pos": "noun",
+    "example": "The temperatures in the desert can reach over 100 degrees Fahrenheit.",
+    "translation": "Nhiệt độ ở sa mạc có thể lên tới hơn 100 độ Fahrenheit."
+  },
+  "conservation": {
+    "ipa": "/ˌkɑːn.sɚˈveɪ.ʃən/",
+    "pos": "noun",
+    "example": "Conservation of natural resources is important.",
+    "translation": "Bảo tồn tài nguyên thiên nhiên là rất quan trọng."
+  },
+  "welfare": {
+    "ipa": "/ˈwel.fer/",
+    "pos": "noun",
+    "example": "The government provides welfare for the poor.",
+    "translation": "Chính phủ cung cấp phúc lợi cho người nghèo."
+  },
+  "threatened": {
+    "ipa": "/ˈθret.ənd/",
+    "pos": "adjective",
+    "example": "The endangered species is threatened by habitat loss.",
+    "translation": "Loài đang bị đe dọa bởi mất môi trường sống."
+  },
+  "orangutan": {
+    "ipa": "/ɔːˈræŋ.ɡə.tæn/",
+    "pos": "noun",
+    "example": "The orangutan is an endangered species.",
+    "translation": "Con đười ươi là một loài đang bị đe dọa."
+  },
+  "breed": {
+    "ipa": "/briːd/",
+    "pos": "noun",
+    "example": "The breed of dog is a golden retriever.",
+    "translation": "Giống chó là chó săn vịt vàng."
+  },
+  "reintroduce": {
+    "ipa": "/ˌriː.ɪn.trəˈduːs/",
+    "pos": "verb",
+    "example": "The zoo plans to reintroduce the tigers into the wild.",
+    "translation": "Sở thú dự định đưa những con hổ trở lại môi trường tự nhiên."
+  },
+  "plain": {
+    "ipa": "/pleɪn/",
+    "pos": "adjective",
+    "example": "The plain white shirt goes with everything.",
+    "translation": "Áo sơ mi trắng đơn giản phù hợp với mọi thứ."
+  },
+  "scratching": {
+    "ipa": "/ˈskrætʃɪŋ/",
+    "pos": "noun",
+    "example": "The scratching on the door woke me up.",
+    "translation": "Tiếng cào trên cửa làm tôi tỉnh dậy."
+  },
+  "paddock": {
+    "ipa": "/ˈpæd.ək/",
+    "pos": "noun",
+    "example": "The horses were grazing in the paddock.",
+    "translation": "Những con ngựa đang gặm cỏ trong bãi chăn có hàng rào."
+  },
+  "oases": {
+    "ipa": "/oʊˈeɪ.siːz/",
+    "pos": "noun",
+    "example": "Travellers can find water at oases in the desert.",
+    "translation": "Khách bộ hành có thể tìm thấy nước tại các ốc đảo trong sa mạc."
+  },
+  "arabian leopard": {
+    "ipa": "/əˈreɪbiən ˈlɛpərd/",
+    "pos": "noun",
+    "example": "The Arabian leopard lives in mountainous areas.",
+    "translation": "Báo hoa mai Ả Rập sống ở những vùng núi."
+  },
+  "blue-ringed octopus": {
+    "ipa": "/ˌbluː rɪŋd ˈɑːktəpəs/",
+    "pos": "noun",
+    "example": "The blue-ringed octopus has bright blue rings.",
+    "translation": "Bạch tuộc vòng xanh có những vòng màu xanh sáng."
+  },
+  "mountain gorilla": {
+    "ipa": "/ˈmaʊntən ɡəˈrɪlə/",
+    "pos": "noun",
+    "example": "The mountain gorilla lives in mountain forests.",
+    "translation": "Khỉ đột núi sống trong các khu rừng trên núi."
+  },
+  "père david's deer": {
+    "ipa": "/per ˈdeɪvɪdz dɪr/",
+    "pos": "noun",
+    "example": "Père David's deer have long tails.",
+    "translation": "Hươu Père David có đuôi dài."
+  },
+  "camel": {
+    "ipa": "/ˈkæməl/",
+    "pos": "noun",
+    "example": "The camel is a desert animal.",
+    "translation": "Lạc đà là một loài động vật sống ở sa mạc."
+  },
+  "deer": {
+    "ipa": "/dɪr/",
+    "pos": "noun",
+    "example": "The deer ran through the forest.",
+    "translation": "Con hươu chạy qua rừng."
+  },
+  "dolphin": {
+    "ipa": "/ˈdɒlfɪn/",
+    "pos": "noun",
+    "example": "The dolphin is a highly intelligent marine mammal.",
+    "translation": "Cá heo là một loài động vật biển có vú thông minh."
+  },
+  "eagle": {
+    "ipa": "/ˈiːɡl/",
+    "pos": "noun",
+    "example": "The eagle soared through the sky.",
+    "translation": "Đại bàng bay lượn trên bầu trời."
+  },
+  "hard antlers": {
+    "ipa": "/hɑrd ˈæntlərz/",
+    "pos": "noun",
+    "example": "The deer has hard antlers on its head.",
+    "translation": "Con hươu có cặp gạc cứng trên đầu."
+  },
+  "big claws": {
+    "ipa": "/bɪɡ klɔz/",
+    "pos": "noun",
+    "example": "The big claws of the bear were sharp.",
+    "translation": "Móng vuốt lớn của con gấu rất sắc nhọn."
+  },
+  "long fin": {
+    "ipa": "/lɔŋ fɪn/",
+    "pos": "noun",
+    "example": "The long fin of the shark was visible above the water.",
+    "translation": "Vây dài của con cá mập có thể nhìn thấy trên mặt nước."
+  },
+  "round hump": {
+    "ipa": "/raʊnd hʌmp/",
+    "pos": "noun",
+    "example": "The round hump on the camel’s back was used for storing fat.",
+    "translation": "Gù tròn trên lưng của con lạc đà được sử dụng để tích trữ chất béo."
+  },
+  "desert": {
+    "ipa": "/ˈdezərt/",
+    "pos": "noun",
+    "example": "The desert is a harsh environment to live in.",
+    "translation": "Sa mạc là một môi trường khắc nghiệt để sống."
+  },
+  "forest": {
+    "ipa": "/ˈfɔːrɪst/",
+    "pos": "noun",
+    "example": "The forest was filled with tall trees and dense undergrowth.",
+    "translation": "Rừng có nhiều cây cao và bụi rậm."
+  },
+  "nest": {
+    "ipa": "/nest/",
+    "pos": "noun",
+    "example": "The bird built its nest in the tree.",
+    "translation": "Chim xây tổ trên cây."
+  },
+  "underwater": {
+    "ipa": "/ˌʌndərˈwɔːtər/",
+    "pos": "adverb",
+    "example": "The fish swam underwater for hours.",
+    "translation": "Con cá bơi dưới nước trong vài giờ."
+  }
+}

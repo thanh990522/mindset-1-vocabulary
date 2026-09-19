@@ -1,35 +1,58 @@
-import assert from 'node:assert/strict';
-import { unitsRegistry } from '../data/units.js';
+import assert from "node:assert/strict";
+import { readFile } from "node:fs/promises";
+import { unitsRegistry } from "../data/units.js";
 
-const unitIds = new Set();
-let terms = 0;
-for (const entry of unitsRegistry) {
-  assert(!unitIds.has(entry.id), `Duplicate unit: ${entry.id}`);
-  unitIds.add(entry.id);
-  const { default: unit } = await import(new URL(`../${entry.module}`, import.meta.url));
-  assert.equal(unit.id, entry.id);
-  assert.equal(unit.title, entry.title);
-  const sectionIds = new Set();
+const root = new URL("../", import.meta.url);
+const stats = JSON.parse(await readFile(new URL("data/stats.json", root), "utf8"));
+const ids = new Set();
+const terms = new Set();
+let total = 0, sections = 0, groups = 0, examples = 0, extensions = 0;
+assert.equal(unitsRegistry.length, 8);
+for (const meta of unitsRegistry) {
+  const unit = (await import(new URL(meta.module, root))).default;
+  assert.equal(unit.id, meta.id);
+  assert.deepEqual(unit.sections.map(s => s.id), ["reading", "listening", "speaking", "writing"]);
+  let unitTotal = 0;
   for (const section of unit.sections) {
-    assert(section.words.length > 0, `Empty section: ${unit.id}/${section.id}`);
-    assert(!sectionIds.has(section.id), `Duplicate section: ${section.id}`);
-    sectionIds.add(section.id);
-    const words = new Set();
-    const meanings = new Set();
-    for (const word of section.words) {
-      const context = `${unit.id}/${section.id}/${word.word}`;
-      for (const field of ['word', 'ipa', 'pos', 'meaning', 'example', 'translation']) {
-        assert(typeof word[field] === 'string' && word[field].trim(), `${context}: missing ${field}`);
-        assert(!/undefined|null|®|depending on dialects/.test(word[field]), `${context}: corrupt ${field}`);
+    sections++;
+    const withinSkill = new Set();
+    let skillTotal = 0;
+    assert.ok(section.groups.length);
+    for (const group of section.groups) {
+      groups++;
+      assert.ok(group.title && group.words.length && /SB/.test(group.source) && /TB/.test(group.source));
+      if (section.id === "reading") assert.equal(group.origin, "passage");
+      if (section.id === "listening") {
+        assert.equal(group.origin, "transcript");
+        assert.match(group.source, /tracks?/i);
       }
-      assert(/^\/[^/]+\/$/.test(word.ipa), `${context}: malformed IPA`);
-      assert(!words.has(word.word.toLowerCase()), `${context}: duplicate term`);
-      assert(!meanings.has(word.meaning.toLowerCase()), `${context}: ambiguous matching answer`);
-      assert(word.translation.toLowerCase() !== word.word.toLowerCase(), `${context}: untranslated example`);
-      words.add(word.word.toLowerCase());
-      meanings.add(word.meaning.toLowerCase());
-      terms++;
+      if (group.origin === "extension") assert.ok(["speaking", "writing"].includes(section.id));
+      for (const word of group.words) {
+        assert.ok(word.id && word.word && word.meaning, `Missing field in ${unit.id}`);
+        assert.ok(!ids.has(word.id), `Duplicate id ${word.id}`); ids.add(word.id);
+        const key = word.word.toLowerCase();
+        assert.ok(!withinSkill.has(key), `Duplicate ${key} in ${unit.id}/${section.id}`); withinSkill.add(key);
+        terms.add(key);
+        assert.ok(["word", "phrase", "collocation", "structure"].includes(word.type));
+        for (const text of [word.word, word.meaning, word.example || "", word.ipa || ""]) {
+          assert.equal(text, text.normalize("NFC"), `Non-NFC text: ${text}`);
+          assert.doesNotMatch(text, /[\u0000-\u001f\ufffd]/u, `Invalid character in ${word.id}`);
+          assert.ok(!/<[^>]+>/.test(text), "Vocabulary must be plain text");
+        }
+        if (word.example) examples++;
+        if (group.origin === "extension") extensions++;
+        skillTotal++;
+      }
     }
+    assert.ok(skillTotal >= 25, `${unit.id}/${section.id} unexpectedly sparse`);
+    assert.equal(skillTotal, stats.perUnit[unit.number - 1][section.id]);
+    unitTotal += skillTotal;
   }
+  assert.equal(unitTotal, unit.count);
+  assert.equal(unitTotal, meta.count);
+  total += unitTotal;
 }
-console.log(`Validated ${unitsRegistry.length} units and ${terms} learning entries.`);
+assert.equal(total, stats.total);
+assert.equal(terms.size, stats.uniqueTerms);
+assert.equal(sections, 32);
+console.log(JSON.stringify({ passed: true, units: unitsRegistry.length, sections, groups, total, uniqueTerms: terms.size, examples, extensionCards: extensions }, null, 2));

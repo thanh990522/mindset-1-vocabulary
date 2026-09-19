@@ -1,56 +1,73 @@
 {
-  "source": "Mindset 1 Vocab List.docx",
-  "units": [
+  "version": "20260918-3",
+  "units": 8,
+  "skills": 32,
+  "total": 2070,
+  "uniqueTerms": 2042,
+  "perUnit": [
     {
-      "number": 1,
-      "title": "Relationships",
-      "sections": 3,
-      "terms": 35
+      "unit": 1,
+      "total": 245,
+      "reading": 70,
+      "listening": 66,
+      "speaking": 53,
+      "writing": 56
     },
     {
-      "number": 2,
-      "title": "Places and Buildings",
-      "sections": 5,
-      "terms": 47
+      "unit": 2,
+      "total": 253,
+      "reading": 76,
+      "listening": 73,
+      "speaking": 56,
+      "writing": 48
     },
     {
-      "number": 3,
-      "title": "Education and Employment",
-      "sections": 2,
-      "terms": 24
+      "unit": 3,
+      "total": 269,
+      "reading": 92,
+      "listening": 51,
+      "speaking": 79,
+      "writing": 47
     },
     {
-      "number": 4,
-      "title": "Food and Drink",
-      "sections": 5,
-      "terms": 69
+      "unit": 4,
+      "total": 250,
+      "reading": 85,
+      "listening": 74,
+      "speaking": 60,
+      "writing": 31
     },
     {
-      "number": 5,
-      "title": "Consumerism",
-      "sections": 5,
-      "terms": 47
+      "unit": 5,
+      "total": 263,
+      "reading": 99,
+      "listening": 70,
+      "speaking": 52,
+      "writing": 42
     },
     {
-      "number": 6,
-      "title": "Leisure Time",
-      "sections": 2,
-      "terms": 26
+      "unit": 6,
+      "total": 250,
+      "reading": 71,
+      "listening": 87,
+      "speaking": 51,
+      "writing": 41
     },
     {
-      "number": 7,
-      "title": "Fame and Media",
-      "sections": 3,
-      "terms": 36
+      "unit": 7,
+      "total": 261,
+      "reading": 78,
+      "listening": 103,
+      "speaking": 44,
+      "writing": 36
     },
     {
-      "number": 8,
-      "title": "The Natural World",
-      "sections": 4,
-      "terms": 41
+      "unit": 8,
+      "total": 279,
+      "reading": 97,
+      "listening": 86,
+      "speaking": 53,
+      "writing": 43
     }
-  ],
-  "totalTerms": 325,
-  "distinctTerms": 307,
-  "duplicateRowsRemoved": 20
+  ]
 }
