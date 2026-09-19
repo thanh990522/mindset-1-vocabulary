@@ -140,6 +140,7 @@ function showSection() {
 }
 
 function readRoute() {
+  if (state.unit && location.hash === "#cards") return;
   const skillHadFocus = document.activeElement?.matches("[data-skill]");
   const [unitId, skill] = location.hash.slice(1).split("/");
   const unit = state.units.find((candidate) => candidate.id === unitId) || state.units[0];
