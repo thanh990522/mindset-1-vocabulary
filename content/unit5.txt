@@ -1,273 +1,273 @@
 @reading|The future of malls|SB pp. 87–89; TB pp. 47–48
-shopping malls|các trung tâm mua sắm
-hang out|tụ tập; dành thời gian thư giãn
-a food court|khu ăn uống tập trung
-keep malls alive|duy trì hoạt động của các trung tâm mua sắm
-online shopping|mua sắm trực tuyến
-change to survive|thay đổi để tồn tại
-be home to|là nơi có
-specialise|chuyên kinh doanh một nhóm sản phẩm
-electrical items|các mặt hàng điện
-downtown|khu trung tâm thành phố
-bowling alleys|các khu chơi bowling
-climbing walls|các bức tường leo núi nhân tạo
-concert halls|các phòng hòa nhạc
-a recreation centre|trung tâm vui chơi, giải trí
-a family day out|một ngày cả gia đình đi chơi
-ski slopes|các dốc trượt tuyết
-minigolf|gôn mini
-go-karts|xe đua nhỏ dùng để giải trí
-balloon rides|các chuyến đi khinh khí cầu
-billiards|bi-a
-grab a burger|ăn vội một chiếc bánh burger
-fine dining|trải nghiệm ẩm thực cao cấp
-spas|các cơ sở chăm sóc sức khỏe và làm đẹp
-fitness centres|các trung tâm thể hình
-office space|diện tích văn phòng
-in one location|tại cùng một địa điểm
-remain in business|tiếp tục kinh doanh
-a growing trend|một xu hướng đang phát triển
-seasonal changes|những thay đổi theo mùa
-pop-ups|các cửa hàng hoặc điểm bán mở tạm thời
-temporary shops|cửa hàng tạm thời
-stalls and kiosks|quầy hàng và ki-ốt
-urban beach|bãi biển nhân tạo trong đô thị
-main lobby|sảnh chính
-promotions and events|các chương trình quảng bá và sự kiện
-bungee jumping|nhảy bungee
-free health checks|kiểm tra sức khỏe miễn phí
-consider the environment|cân nhắc yếu tố môi trường
-open-air malls|các trung tâm mua sắm ngoài trời
-natural features|các yếu tố thiên nhiên
-public transport|giao thông công cộng
-natural sources of heat and light|nguồn nhiệt và ánh sáng tự nhiên
-waterfalls|thác nước
-virtual malls|các trung tâm mua sắm ảo
-find bargains|tìm được món hàng giá hời
-creative innovations|những đổi mới sáng tạo
-go from strength to strength|ngày càng phát triển vững mạnh
+shopping malls|các trung tâm mua sắm|||noun_phrase
+hang out|tụ tập; dành thời gian thư giãn|||phrasal_verb
+a food court|khu ăn uống tập trung|||noun_phrase
+keep malls alive|duy trì hoạt động của các trung tâm mua sắm|||verb_phrase
+online shopping|mua sắm trực tuyến|||noun_phrase
+change to survive|thay đổi để tồn tại|||verb_phrase
+be home to|là nơi có|||verb_phrase
+specialise|chuyên kinh doanh một nhóm sản phẩm|||verb
+electrical items|các mặt hàng điện|||noun_phrase
+downtown|khu trung tâm thành phố|||noun
+bowling alleys|các khu chơi bowling|||noun_phrase
+climbing walls|các bức tường leo núi nhân tạo|||noun_phrase
+concert halls|các phòng hòa nhạc|||noun_phrase
+a recreation centre|trung tâm vui chơi, giải trí|||noun_phrase
+a family day out|một ngày cả gia đình đi chơi|||noun_phrase
+ski slopes|các dốc trượt tuyết|||noun_phrase
+minigolf|gôn mini|||noun
+go-karts|xe đua nhỏ dùng để giải trí|||noun
+balloon rides|các chuyến đi khinh khí cầu|||noun_phrase
+billiards|bi-a|||noun
+grab a burger|ăn vội một chiếc bánh burger|||verb_phrase
+fine dining|trải nghiệm ẩm thực cao cấp|||noun_phrase
+spas|các cơ sở chăm sóc sức khỏe và làm đẹp|||noun
+fitness centres|các trung tâm thể hình|||noun_phrase
+office space|diện tích văn phòng|||noun_phrase
+in one location|tại cùng một địa điểm|||prepositional_phrase
+remain in business|tiếp tục kinh doanh|||verb_phrase
+a growing trend|một xu hướng đang phát triển|||noun_phrase
+seasonal changes|những thay đổi theo mùa|||noun_phrase
+pop-ups|các cửa hàng hoặc điểm bán mở tạm thời|||noun
+temporary shops|cửa hàng tạm thời|||noun_phrase
+stalls and kiosks|quầy hàng và ki-ốt|||noun_phrase
+urban beach|bãi biển nhân tạo trong đô thị|||noun_phrase
+main lobby|sảnh chính|||noun_phrase
+promotions and events|các chương trình quảng bá và sự kiện|||noun_phrase
+bungee jumping|nhảy bungee|||noun_phrase
+free health checks|kiểm tra sức khỏe miễn phí|||noun_phrase
+consider the environment|cân nhắc yếu tố môi trường|||verb_phrase
+open-air malls|các trung tâm mua sắm ngoài trời|||noun_phrase
+natural features|các yếu tố thiên nhiên|||noun_phrase
+public transport|giao thông công cộng|||noun_phrase
+natural sources of heat and light|nguồn nhiệt và ánh sáng tự nhiên|||noun_phrase
+waterfalls|thác nước|||noun
+virtual malls|các trung tâm mua sắm ảo|||noun_phrase
+find bargains|tìm được món hàng giá hời|||verb_phrase
+creative innovations|những đổi mới sáng tạo|||noun_phrase
+go from strength to strength|ngày càng phát triển vững mạnh|||idiom
 @reading|Markets around the world|SB p. 91; TB p. 48
-chain stores|các cửa hàng thuộc chuỗi
-identical|giống hệt nhau
-reveal the local culture|thể hiện văn hóa địa phương
-agriculture|nông nghiệp
-farmers' markets|chợ nông sản do nông dân bán trực tiếp
-fresh produce|nông sản tươi
-craft and antique markets|chợ đồ thủ công và đồ cổ
-unique|độc đáo; có một không hai
-consumer|người tiêu dùng
-packaging|bao bì; việc đóng gói
-shipping|vận chuyển hàng
-advertising|quảng cáo
-increase costs|làm tăng chi phí
-mass-produced|được sản xuất hàng loạt
-vary hugely|khác nhau rất nhiều
-moose|nai sừng tấm
-reindeer|tuần lộc
-salami|xúc xích khô
-locally produced|được sản xuất tại địa phương
-reasonably priced|có giá hợp lý
-second-hand clothes|quần áo đã qua sử dụng
-vintage|thuộc phong cách thời trước
-ethically made clothes|quần áo được sản xuất theo chuẩn mực đạo đức
-create a unique look|tạo diện mạo riêng biệt
-a market stall|một quầy hàng ở chợ
-at a bargain price|với giá hời
-flea market|chợ đồ cũ
-unwanted items|các món đồ không còn cần đến
-local crafts|đồ thủ công địa phương
-vendors|những người bán hàng
-lay out their goods|bày hàng hóa ra
-a sheet on the ground|tấm vải trải trên mặt đất
-car boot sales|chợ bán đồ cũ từ cốp xe
-handicrafts|hàng thủ công mỹ nghệ
-typical of the region|đặc trưng của vùng
-souvenirs|quà lưu niệm
-traditional textiles|vải dệt truyền thống
-glassware|đồ thủy tinh
-ceramics|đồ gốm
-original designs|các thiết kế độc đáo
-affordable prices|giá phải chăng
-hand-made rugs and carpets|thảm nhỏ và thảm lớn làm thủ công
-handloom fabrics|vải dệt bằng khung cửi thủ công
-silk scarves|khăn lụa
-seasonal markets|chợ họp theo mùa
-the festive season|mùa lễ hội
-wooden huts|những gian nhà nhỏ bằng gỗ
-embroidered lace|ren thêu
-scented candles|nến thơm
-Christmas tree ornaments|đồ trang trí cây thông Giáng sinh
-puppets and dolls|con rối và búp bê
-traditional costumes|trang phục truyền thống
+chain stores|các cửa hàng thuộc chuỗi|||noun_phrase
+identical|giống hệt nhau|||adjective
+reveal the local culture|thể hiện văn hóa địa phương|||verb_phrase
+agriculture|nông nghiệp|||noun
+farmers' markets|chợ nông sản do nông dân bán trực tiếp|||noun_phrase
+fresh produce|nông sản tươi|||noun_phrase
+craft and antique markets|chợ đồ thủ công và đồ cổ|||noun_phrase
+unique|độc đáo; có một không hai|||adjective
+consumer|người tiêu dùng|||noun
+packaging|bao bì; việc đóng gói|||noun
+shipping|vận chuyển hàng|||noun
+advertising|quảng cáo|||noun
+increase costs|làm tăng chi phí|||verb_phrase
+mass-produced|được sản xuất hàng loạt|||adjective
+vary hugely|khác nhau rất nhiều|||verb_phrase
+moose|nai sừng tấm|||noun
+reindeer|tuần lộc|||noun
+salami|xúc xích khô|||noun
+locally produced|được sản xuất tại địa phương|||participle_phrase
+reasonably priced|có giá hợp lý|||adjective_phrase
+second-hand clothes|quần áo đã qua sử dụng|||noun_phrase
+vintage|thuộc phong cách thời trước|||adjective
+ethically made clothes|quần áo được sản xuất theo chuẩn mực đạo đức|||noun_phrase
+create a unique look|tạo diện mạo riêng biệt|||verb_phrase
+a market stall|một quầy hàng ở chợ|||noun_phrase
+at a bargain price|với giá hời|||prepositional_phrase
+flea market|chợ đồ cũ|||noun_phrase
+unwanted items|các món đồ không còn cần đến|||noun_phrase
+local crafts|đồ thủ công địa phương|||noun_phrase
+vendors|những người bán hàng|||noun
+lay out their goods|bày hàng hóa ra|||verb_phrase
+a sheet on the ground|tấm vải trải trên mặt đất|||noun_phrase
+car boot sales|chợ bán đồ cũ từ cốp xe|||noun_phrase
+handicrafts|hàng thủ công mỹ nghệ|||noun
+typical of the region|đặc trưng của vùng|||adjective_phrase
+souvenirs|quà lưu niệm|||noun
+traditional textiles|vải dệt truyền thống|||noun_phrase
+glassware|đồ thủy tinh|||noun
+ceramics|đồ gốm|||noun
+original designs|các thiết kế độc đáo|||noun_phrase
+affordable prices|giá phải chăng|||noun_phrase
+hand-made rugs and carpets|thảm nhỏ và thảm lớn làm thủ công|||noun_phrase
+handloom fabrics|vải dệt bằng khung cửi thủ công|||noun_phrase
+silk scarves|khăn lụa|||noun_phrase
+seasonal markets|chợ họp theo mùa|||noun_phrase
+the festive season|mùa lễ hội|||noun_phrase
+wooden huts|những gian nhà nhỏ bằng gỗ|||noun_phrase
+embroidered lace|ren thêu|||noun_phrase
+scented candles|nến thơm|||noun_phrase
+Christmas tree ornaments|đồ trang trí cây thông Giáng sinh|||noun_phrase
+puppets and dolls|con rối và búp bê|||noun_phrase
+traditional costumes|trang phục truyền thống|||noun_phrase
 @listening|Sales, products and shopping places|SB scripts p. 183, tracks 40–42; TB pp. 50–52
-summer sale|đợt giảm giá mùa hè
-reduce prices|giảm giá
-holiday season|mùa nghỉ lễ
-swimwear|đồ bơi
-on special offer|đang được bán với giá ưu đãi
-a good selection|nhiều lựa chọn phong phú
-footwear department|khu bán giày dép
-half price|bằng một nửa giá thông thường
-a wide choice|nhiều lựa chọn
-miss out|bỏ lỡ cơ hội
-keep the sun off your face|che nắng cho mặt
-clothing stalls|các quầy quần áo
-jewellery|đồ trang sức
-necklace|dây chuyền
-under one roof|trong cùng một tòa nhà
-a new branch|một chi nhánh mới
-sporting goods company|công ty kinh doanh đồ thể thao
-enjoy a lot of success|đạt nhiều thành công
-striker|tiền đạo
-home match|trận đấu trên sân nhà
-explore the city centre|khám phá trung tâm thành phố
-make good presents|thích hợp làm quà
-electronic stores|các cửa hàng điện tử
-good quality|chất lượng tốt
-complaints|các lời phàn nàn
-opening days and times|ngày và giờ mở cửa
-as follows|như sau
-shirts and jackets|áo sơ mi và áo khoác
-trousers|quần dài
-invest money in|đầu tư tiền vào
-fashions change|xu hướng thời trang thay đổi
+summer sale|đợt giảm giá mùa hè|||noun_phrase
+reduce prices|giảm giá|||verb_phrase
+holiday season|mùa nghỉ lễ|||noun_phrase
+swimwear|đồ bơi|||noun
+on special offer|đang được bán với giá ưu đãi|||prepositional_phrase
+a good selection|nhiều lựa chọn phong phú|||noun_phrase
+footwear department|khu bán giày dép|||noun_phrase
+half price|bằng một nửa giá thông thường|||noun_phrase
+a wide choice|nhiều lựa chọn|||noun_phrase
+miss out|bỏ lỡ cơ hội|||phrasal_verb
+keep the sun off your face|che nắng cho mặt|||verb_phrase
+clothing stalls|các quầy quần áo|||noun_phrase
+jewellery|đồ trang sức|||noun
+necklace|dây chuyền|||noun
+under one roof|trong cùng một tòa nhà|||prepositional_phrase
+a new branch|một chi nhánh mới|||noun_phrase
+sporting goods company|công ty kinh doanh đồ thể thao|||noun_phrase
+enjoy a lot of success|đạt nhiều thành công|||verb_phrase
+striker|tiền đạo|||noun
+home match|trận đấu trên sân nhà|||noun_phrase
+explore the city centre|khám phá trung tâm thành phố|||verb_phrase
+make good presents|thích hợp làm quà|||verb_phrase
+electronic stores|các cửa hàng điện tử|||noun_phrase
+good quality|chất lượng tốt|||noun_phrase
+complaints|các lời phàn nàn|||noun
+opening days and times|ngày và giờ mở cửa|||noun_phrase
+as follows|như sau|||expression
+shirts and jackets|áo sơ mi và áo khoác|||noun_phrase
+trousers|quần dài|||noun
+invest money in|đầu tư tiền vào|||verb_phrase
+fashions change|xu hướng thời trang thay đổi|||expression
 @listening|Announcements and complaints|SB scripts p. 184, tracks 43–44; TB p. 52
-adventure writer|tác giả truyện phiêu lưu
-sign copies of his latest book|ký tặng các bản sách mới nhất của ông ấy
-be expected to arrive|dự kiến đến
-quarter past two|hai giờ mười lăm
-half past three|ba giờ rưỡi
-queues start to form|các hàng người bắt đầu hình thành
-noon|buổi trưa; mười hai giờ trưa
-complain about|phàn nàn về
-the service|dịch vụ; cách phục vụ
-rubbish bins|thùng rác
-empty cans|lon rỗng
-sweet wrappers|vỏ kẹo
-well worth a visit|rất đáng đến thăm
+adventure writer|tác giả truyện phiêu lưu|||noun_phrase
+sign copies of his latest book|ký tặng các bản sách mới nhất của ông ấy|||verb_phrase
+be expected to arrive|dự kiến đến|||verb_phrase
+quarter past two|hai giờ mười lăm|||noun_phrase
+half past three|ba giờ rưỡi|||noun_phrase
+queues start to form|các hàng người bắt đầu hình thành|||expression
+noon|buổi trưa; mười hai giờ trưa|||noun
+complain about|phàn nàn về|||verb_phrase
+the service|dịch vụ; cách phục vụ|||noun_phrase
+rubbish bins|thùng rác|||noun_phrase
+empty cans|lon rỗng|||noun_phrase
+sweet wrappers|vỏ kẹo|||noun_phrase
+well worth a visit|rất đáng đến thăm|||adjective_phrase
 @listening|A shopping tour|SB scripts p. 184, track 45; TB pp. 52–53
-tour leader|người dẫn đoàn
-tonight's performance|buổi biểu diễn tối nay
-on this site|tại địa điểm này
-put on musicals|tổ chức biểu diễn nhạc kịch
-be rebuilt after a fire|được xây lại sau một vụ cháy
-striking modern design|thiết kế hiện đại nổi bật
-well-known performers|các nghệ sĩ nổi tiếng
-make our way down to|di chuyển đến
-at the latest|muộn nhất
-craft market|chợ đồ thủ công
-hand-painted local pottery|đồ gốm địa phương vẽ tay
-leather goods|đồ da
-jewellery stalls|các quầy trang sức
-disappointed|thất vọng
-local cheeses|các loại phô mai địa phương
-peach juice|nước ép đào
-pomegranate juice|nước ép lựu
-on sale|đang được bày bán
-open-air dining area|khu ăn uống ngoài trời
-exhibition centre|trung tâm triển lãm
-on the outskirts of the city|ở vùng ngoại ô thành phố
-a huge venue|một địa điểm tổ chức rất lớn
-devoted to footwear|dành riêng cho giày dép
-entrance|lối vào
-exhausted|kiệt sức
-rest your weary feet|cho đôi chân mỏi được nghỉ ngơi
+tour leader|người dẫn đoàn|||noun_phrase
+tonight's performance|buổi biểu diễn tối nay|||noun_phrase
+on this site|tại địa điểm này|||prepositional_phrase
+put on musicals|tổ chức biểu diễn nhạc kịch|||verb_phrase
+be rebuilt after a fire|được xây lại sau một vụ cháy|||verb_phrase
+striking modern design|thiết kế hiện đại nổi bật|||noun_phrase
+well-known performers|các nghệ sĩ nổi tiếng|||noun_phrase
+make our way down to|di chuyển đến|||verb_phrase
+at the latest|muộn nhất|||prepositional_phrase
+craft market|chợ đồ thủ công|||noun_phrase
+hand-painted local pottery|đồ gốm địa phương vẽ tay|||noun_phrase
+leather goods|đồ da|||noun_phrase
+jewellery stalls|các quầy trang sức|||noun_phrase
+disappointed|thất vọng|||adjective
+local cheeses|các loại phô mai địa phương|||noun_phrase
+peach juice|nước ép đào|||noun_phrase
+pomegranate juice|nước ép lựu|||noun_phrase
+on sale|đang được bày bán|||prepositional_phrase
+open-air dining area|khu ăn uống ngoài trời|||noun_phrase
+exhibition centre|trung tâm triển lãm|||noun_phrase
+on the outskirts of the city|ở vùng ngoại ô thành phố|||prepositional_phrase
+a huge venue|một địa điểm tổ chức rất lớn|||noun_phrase
+devoted to footwear|dành riêng cho giày dép|||adjective_phrase
+entrance|lối vào|||noun
+exhausted|kiệt sức|||adjective
+rest your weary feet|cho đôi chân mỏi được nghỉ ngơi|||verb_phrase
 @speaking|Shops and shopping preferences|SB pp. 102–105, tracks 46–48; TB pp. 53–55
-a traditional food market|một khu chợ thực phẩm truyền thống
-all sorts of|đủ các loại
-independent shops|các cửa hàng độc lập
-an amazing selection|một sự lựa chọn đa dạng đáng kinh ngạc
-arts and crafts|đồ mỹ thuật và thủ công
-have a great atmosphere|có bầu không khí rất dễ chịu
-street performers|nghệ sĩ đường phố
-lively and friendly|sôi động và thân thiện
-out-of-the-way|ở xa; khó đến
-be keen on fashion|rất thích thời trang
-go clothes shopping|đi mua quần áo
-try on clothes|thử quần áo
-can't afford to buy|không đủ tiền mua
-go to the sales|đi mua sắm trong đợt giảm giá
-designer shoes|giày của thương hiệu hoặc nhà thiết kế nổi tiếng
-at reasonable prices|với giá hợp lý
-original gifts|những món quà độc đáo
-inconvenient|bất tiện
-lack of choice|thiếu lựa chọn
-a landmark|một địa điểm nổi bật, dễ nhận biết
-large and spacious|lớn và rộng rãi
-in a good location|ở một vị trí thuận tiện
-multi-storey car park|bãi đỗ xe nhiều tầng
-on the ground floor|ở tầng trệt
-gold jewellery|trang sức bằng vàng
-sales assistants|nhân viên bán hàng
-friendly and helpful|thân thiện và nhiệt tình giúp đỡ
-close down|đóng cửa ngừng kinh doanh
+a traditional food market|một khu chợ thực phẩm truyền thống|||noun_phrase
+all sorts of|đủ các loại|||quantifier
+independent shops|các cửa hàng độc lập|||noun_phrase
+an amazing selection|một sự lựa chọn đa dạng đáng kinh ngạc|||noun_phrase
+arts and crafts|đồ mỹ thuật và thủ công|||noun_phrase
+have a great atmosphere|có bầu không khí rất dễ chịu|||verb_phrase
+street performers|nghệ sĩ đường phố|||noun_phrase
+lively and friendly|sôi động và thân thiện|||adjective_phrase
+out-of-the-way|ở xa; khó đến|||adjective
+be keen on fashion|rất thích thời trang|||verb_phrase
+go clothes shopping|đi mua quần áo|||verb_phrase
+try on clothes|thử quần áo|||verb_phrase
+can't afford to buy|không đủ tiền mua|||verb_phrase
+go to the sales|đi mua sắm trong đợt giảm giá|||verb_phrase
+designer shoes|giày của thương hiệu hoặc nhà thiết kế nổi tiếng|||noun_phrase
+at reasonable prices|với giá hợp lý|||prepositional_phrase
+original gifts|những món quà độc đáo|||noun_phrase
+inconvenient|bất tiện|||adjective
+lack of choice|thiếu lựa chọn|||noun_phrase
+a landmark|một địa điểm nổi bật, dễ nhận biết|||noun_phrase
+large and spacious|lớn và rộng rãi|||adjective_phrase
+in a good location|ở một vị trí thuận tiện|||prepositional_phrase
+multi-storey car park|bãi đỗ xe nhiều tầng|||noun_phrase
+on the ground floor|ở tầng trệt|||prepositional_phrase
+gold jewellery|trang sức bằng vàng|||noun_phrase
+sales assistants|nhân viên bán hàng|||noun_phrase
+friendly and helpful|thân thiện và nhiệt tình giúp đỡ|||adjective_phrase
+close down|đóng cửa ngừng kinh doanh|||phrasal_verb
 @speaking|Useful shopping-answer structures|Bổ sung theo mục tiêu SB pp. 102–105; TB pp. 53–55
-The shop I visit most often is ...|Cửa hàng tôi thường ghé nhất là ...|structure|The shop I visit most often is a small bookshop near my school.
-It offers a wide range of ...|Cửa hàng cung cấp nhiều loại ...|structure|It offers a wide range of affordable clothes.
-I usually go there whenever I need ...|Tôi thường đến đó mỗi khi cần ...|structure|I usually go there whenever I need a gift.
-What keeps me coming back is ...|Điều khiến tôi tiếp tục quay lại là ...|structure|What keeps me coming back is the friendly service.
-good value for money|đáng đồng tiền|collocation
-compare prices|so sánh giá|collocation
-stick to a budget|chi tiêu trong ngân sách đã định|collocation
-make an impulse purchase|mua hàng bốc đồng|collocation
+The shop I visit most often is ...|Cửa hàng tôi thường ghé nhất là ...|structure|The shop I visit most often is a small bookshop near my school.|sentence_pattern
+It offers a wide range of ...|Cửa hàng cung cấp nhiều loại ...|structure|It offers a wide range of affordable clothes.|sentence_pattern
+I usually go there whenever I need ...|Tôi thường đến đó mỗi khi cần ...|structure|I usually go there whenever I need a gift.|sentence_pattern
+What keeps me coming back is ...|Điều khiến tôi tiếp tục quay lại là ...|structure|What keeps me coming back is the friendly service.|sentence_pattern
+good value for money|đáng đồng tiền|collocation||noun_phrase
+compare prices|so sánh giá|collocation||verb_phrase
+stick to a budget|chi tiêu trong ngân sách đã định|collocation||verb_phrase
+make an impulse purchase|mua hàng bốc đồng|collocation||verb_phrase
 @writing|Consumerism: arguments and evidence|SB pp. 92–97; TB pp. 48–50
-advantages and disadvantages|ưu điểm và nhược điểm
-positive aspects|các mặt tích cực
-negative aspects|các mặt tiêu cực
-drawbacks|những hạn chế; bất lợi
-benefits|những lợi ích
-all things considered|sau khi cân nhắc mọi mặt
-in my view|theo quan điểm của tôi
-personally|về phần tôi; theo ý kiến cá nhân
-a wider range of products|nhiều loại sản phẩm đa dạng hơn
-choose things in person|trực tiếp lựa chọn đồ
-save money on petrol|tiết kiệm tiền xăng
-bus fares|tiền vé xe buýt
-credit card details|thông tin thẻ tín dụng
-pay for postage|trả phí gửi hàng
-support local shops|ủng hộ cửa hàng địa phương
-a threat to small shops|mối đe dọa đối với cửa hàng nhỏ
-local communities|cộng đồng địa phương
-agree to some extent|đồng ý ở một mức độ nhất định
-have an impact on|có ảnh hưởng đến
-outweigh the disadvantages|lớn hơn các bất lợi
-queues at the checkout|hàng người chờ ở quầy thanh toán
-strong competition|sự cạnh tranh mạnh mẽ
-both sides of the argument|cả hai phía của lập luận
-a cashless society|xã hội không dùng tiền mặt
-forms of payment|các hình thức thanh toán
-supporting evidence|bằng chứng hỗ trợ lập luận
-refund money|hoàn tiền
-free delivery|giao hàng miễn phí
-insurance and foreign currency|bảo hiểm và ngoại tệ
-loyalty cards|thẻ khách hàng thân thiết
-family-run shops|cửa hàng do gia đình điều hành
-return items|trả lại hàng
-knowledgeable staff|nhân viên am hiểu sản phẩm
-give character to a town|tạo nét riêng cho một thị trấn
-for instance|chẳng hạn
-entertainment facilities|các tiện ích giải trí
+advantages and disadvantages|ưu điểm và nhược điểm|||noun_phrase
+positive aspects|các mặt tích cực|||noun_phrase
+negative aspects|các mặt tiêu cực|||noun_phrase
+drawbacks|những hạn chế; bất lợi|||noun
+benefits|những lợi ích|||noun
+all things considered|sau khi cân nhắc mọi mặt|||expression
+in my view|theo quan điểm của tôi|||prepositional_phrase
+personally|về phần tôi; theo ý kiến cá nhân|||adverb
+a wider range of products|nhiều loại sản phẩm đa dạng hơn|||noun_phrase
+choose things in person|trực tiếp lựa chọn đồ|||verb_phrase
+save money on petrol|tiết kiệm tiền xăng|||verb_phrase
+bus fares|tiền vé xe buýt|||noun_phrase
+credit card details|thông tin thẻ tín dụng|||noun_phrase
+pay for postage|trả phí gửi hàng|||verb_phrase
+support local shops|ủng hộ cửa hàng địa phương|||verb_phrase
+a threat to small shops|mối đe dọa đối với cửa hàng nhỏ|||noun_phrase
+local communities|cộng đồng địa phương|||noun_phrase
+agree to some extent|đồng ý ở một mức độ nhất định|||verb_phrase
+have an impact on|có ảnh hưởng đến|||verb_phrase
+outweigh the disadvantages|lớn hơn các bất lợi|||verb_phrase
+queues at the checkout|hàng người chờ ở quầy thanh toán|||noun_phrase
+strong competition|sự cạnh tranh mạnh mẽ|||noun_phrase
+both sides of the argument|cả hai phía của lập luận|||noun_phrase
+a cashless society|xã hội không dùng tiền mặt|||noun_phrase
+forms of payment|các hình thức thanh toán|||noun_phrase
+supporting evidence|bằng chứng hỗ trợ lập luận|||noun_phrase
+refund money|hoàn tiền|||verb_phrase
+free delivery|giao hàng miễn phí|||noun_phrase
+insurance and foreign currency|bảo hiểm và ngoại tệ|||noun_phrase
+loyalty cards|thẻ khách hàng thân thiết|||noun_phrase
+family-run shops|cửa hàng do gia đình điều hành|||noun_phrase
+return items|trả lại hàng|||verb_phrase
+knowledgeable staff|nhân viên am hiểu sản phẩm|||noun_phrase
+give character to a town|tạo nét riêng cho một thị trấn|||verb_phrase
+for instance|chẳng hạn|||prepositional_phrase
+entertainment facilities|các tiện ích giải trí|||noun_phrase
 @writing|Useful consumerism essay frames|Bổ sung theo mục tiêu SB pp. 92–97; TB pp. 48–50
-One major advantage of ... is that ...|Một ưu điểm lớn của ... là ...|structure|One major advantage of online shopping is that it saves time.
-A possible drawback is ...|Một hạn chế có thể có là ...|structure|A possible drawback is the cost of returning goods.
-This can be illustrated by ...|Điều này có thể được minh họa bằng ...|structure|This can be illustrated by the experience of small family shops.
-Although ... offers several benefits, ...|Mặc dù ... đem lại một số lợi ích, ...|structure|Although online shopping offers several benefits, local shops remain useful.
-I believe the advantages outweigh the disadvantages because ...|Tôi cho rằng lợi ích lớn hơn bất lợi vì ...|structure|I believe the advantages outweigh the disadvantages because customers gain more choice.
-In conclusion, I would argue that ...|Tóm lại, tôi cho rằng ...|structure|In conclusion, I would argue that both kinds of shop have a role to play.
+One major advantage of ... is that ...|Một ưu điểm lớn của ... là ...|structure|One major advantage of online shopping is that it saves time.|sentence_pattern
+A possible drawback is ...|Một hạn chế có thể có là ...|structure|A possible drawback is the cost of returning goods.|sentence_pattern
+This can be illustrated by ...|Điều này có thể được minh họa bằng ...|structure|This can be illustrated by the experience of small family shops.|sentence_pattern
+Although ... offers several benefits, ...|Mặc dù ... đem lại một số lợi ích, ...|structure|Although online shopping offers several benefits, local shops remain useful.|sentence_pattern
+I believe the advantages outweigh the disadvantages because ...|Tôi cho rằng lợi ích lớn hơn bất lợi vì ...|structure|I believe the advantages outweigh the disadvantages because customers gain more choice.|sentence_pattern
+In conclusion, I would argue that ...|Tóm lại, tôi cho rằng ...|structure|In conclusion, I would argue that both kinds of shop have a role to play.|sentence_pattern
 @speaking|Things to do at a shopping mall|Bổ sung ứng dụng từ SB pp. 86–87, 98, 102–105; TB pp. 47, 50, 53–55
-buy clothes|mua quần áo
-buy or rent an apartment|mua hoặc thuê căn hộ
-check your health|kiểm tra sức khỏe
-go climbing|đi leo núi; leo vách
-go in a hot-air balloon|đi khinh khí cầu
-go to the beach|đi biển
-have a snack|ăn nhẹ
-have a beauty treatment|sử dụng dịch vụ làm đẹp
-have an expensive meal|ăn một bữa đắt tiền
-see a film|xem phim
-see an art exhibition|xem triển lãm nghệ thuật
-coffee shop|quán cà phê
-department store|cửa hàng bách hóa
-outdoor market|chợ ngoài trời
-shopping centre|trung tâm mua sắm
-supermarket|siêu thị
+buy clothes|mua quần áo|||verb_phrase
+buy or rent an apartment|mua hoặc thuê căn hộ|||verb_phrase
+check your health|kiểm tra sức khỏe|||verb_phrase
+go climbing|đi leo núi; leo vách|||verb_phrase
+go in a hot-air balloon|đi khinh khí cầu|||verb_phrase
+go to the beach|đi biển|||verb_phrase
+have a snack|ăn nhẹ|||verb_phrase
+have a beauty treatment|sử dụng dịch vụ làm đẹp|||verb_phrase
+have an expensive meal|ăn một bữa đắt tiền|||verb_phrase
+see a film|xem phim|||verb_phrase
+see an art exhibition|xem triển lãm nghệ thuật|||verb_phrase
+coffee shop|quán cà phê|||noun_phrase
+department store|cửa hàng bách hóa|||noun_phrase
+outdoor market|chợ ngoài trời|||noun_phrase
+shopping centre|trung tâm mua sắm|||noun_phrase
+supermarket|siêu thị|||noun

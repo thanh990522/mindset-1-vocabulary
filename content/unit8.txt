@@ -1,290 +1,290 @@
 @reading|Marine mammals helping humans|SB pp. 147–149; TB pp. 73–74
-intelligent creatures|những sinh vật thông minh
-a special relationship|một mối quan hệ đặc biệt
-pregnant|mang thai
-be in trouble|gặp nguy hiểm; gặp khó khăn
-predators|động vật săn mồi
-automatic or instinctive|tự động hoặc theo bản năng
-actively decide|chủ động quyết định
-wildlife filmmaker|nhà làm phim về động vật hoang dã
-come to his rescue|đến cứu anh ấy
-drive the shark away|xua con cá mập đi
-campaigner|người vận động cho một mục tiêu xã hội
-incident|sự việc; vụ việc
-great white shark|cá mập trắng lớn
-a pod of dolphins|một đàn cá heo
-herd the swimmers into a group|dồn những người bơi thành một nhóm
-form a protective ring|tạo thành một vòng bảo vệ
-get away|thoát đi
-scuba diver|người lặn có bình dưỡng khí
-unconscious|bất tỉnh
-survive|sống sót
-watch over|trông chừng; bảo vệ
-lose hope|mất hy vọng
-the boat sank|chiếc thuyền đã chìm
-keep going|tiếp tục cố gắng
-approach|tiến đến gần
-gently push|đẩy nhẹ
-give up|bỏ cuộc
-moral support|sự hỗ trợ về tinh thần
-encouragement|sự động viên
-save someone's life|cứu mạng ai
-species|loài; các loài
-pygmy sperm whales|cá nhà táng nhỏ
-be in difficulty|gặp khó khăn
-sand bank|bãi cát ngầm; doi cát
-failed attempts|những nỗ lực không thành công
-bottlenose dolphin|cá heo mũi chai
-communicate with|giao tiếp với
-channel|luồng nước; lạch
-mammals|động vật có vú
-film crew|đoàn làm phim
-humpback whales|cá voi lưng gù
-migrating grey whales|những con cá voi xám đang di cư
-orcas|cá voi sát thủ
-apply for a job|ứng tuyển một công việc
-dive down|lặn xuống
-freezing temperatures|nhiệt độ lạnh cóng
-beluga whales|cá voi trắng
-sense that someone is in trouble|cảm nhận được ai đó đang gặp nguy hiểm
-grip|giữ chặt; ngoạm chặt
-the surface|mặt nước; bề mặt
-marine mammals|động vật có vú sống ở biển
-date back to|có từ thời
-Ancient Greece|Hy Lạp cổ đại
+intelligent creatures|những sinh vật thông minh|||noun_phrase
+a special relationship|một mối quan hệ đặc biệt|||noun_phrase
+pregnant|mang thai|||adjective
+be in trouble|gặp nguy hiểm; gặp khó khăn|||verb_phrase
+predators|động vật săn mồi|||noun
+automatic or instinctive|tự động hoặc theo bản năng|||adjective_phrase
+actively decide|chủ động quyết định|||verb_phrase
+wildlife filmmaker|nhà làm phim về động vật hoang dã|||noun_phrase
+come to his rescue|đến cứu anh ấy|||verb_phrase
+drive the shark away|xua con cá mập đi|||verb_phrase
+campaigner|người vận động cho một mục tiêu xã hội|||noun
+incident|sự việc; vụ việc|||noun
+great white shark|cá mập trắng lớn|||noun_phrase
+a pod of dolphins|một đàn cá heo|||noun_phrase
+herd the swimmers into a group|dồn những người bơi thành một nhóm|||verb_phrase
+form a protective ring|tạo thành một vòng bảo vệ|||verb_phrase
+get away|thoát đi|||phrasal_verb
+scuba diver|người lặn có bình dưỡng khí|||noun_phrase
+unconscious|bất tỉnh|||adjective
+survive|sống sót|||verb
+watch over|trông chừng; bảo vệ|||phrasal_verb
+lose hope|mất hy vọng|||verb_phrase
+the boat sank|chiếc thuyền đã chìm|||expression
+keep going|tiếp tục cố gắng|||verb_phrase
+approach|tiến đến gần|||verb
+gently push|đẩy nhẹ|||verb_phrase
+give up|bỏ cuộc|||phrasal_verb
+moral support|sự hỗ trợ về tinh thần|||noun_phrase
+encouragement|sự động viên|||noun
+save someone's life|cứu mạng ai|||verb_phrase
+species|loài; các loài|||noun
+pygmy sperm whales|cá nhà táng nhỏ|||noun_phrase
+be in difficulty|gặp khó khăn|||verb_phrase
+sand bank|bãi cát ngầm; doi cát|||noun_phrase
+failed attempts|những nỗ lực không thành công|||noun_phrase
+bottlenose dolphin|cá heo mũi chai|||noun_phrase
+communicate with|giao tiếp với|||verb_phrase
+channel|luồng nước; lạch|||noun
+mammals|động vật có vú|||noun
+film crew|đoàn làm phim|||noun_phrase
+humpback whales|cá voi lưng gù|||noun_phrase
+migrating grey whales|những con cá voi xám đang di cư|||noun_phrase
+orcas|cá voi sát thủ|||noun
+apply for a job|ứng tuyển một công việc|||verb_phrase
+dive down|lặn xuống|||verb_phrase
+freezing temperatures|nhiệt độ lạnh cóng|||noun_phrase
+beluga whales|cá voi trắng|||noun_phrase
+sense that someone is in trouble|cảm nhận được ai đó đang gặp nguy hiểm|||verb_phrase
+grip|giữ chặt; ngoạm chặt|||verb
+the surface|mặt nước; bề mặt|||noun_phrase
+marine mammals|động vật có vú sống ở biển|||noun_phrase
+date back to|có từ thời|||verb_phrase
+Ancient Greece|Hy Lạp cổ đại|||proper_noun
 @reading|The changing role of zoos|SB pp. 150–151; TB p. 74
-on display|được trưng bày; cho khách xem
-royalty|hoàng gia
-leopards and camels|báo hoa mai và lạc đà
-main purpose|mục đích chính
-conservation of animals|bảo tồn động vật
-get a balance between|đạt sự cân bằng giữa
-natural surroundings|môi trường xung quanh tự nhiên
-share their knowledge|chia sẻ kiến thức của họ
-aquariums|các thủy cung
-animal welfare|phúc lợi động vật
-coordinate breeding programmes|phối hợp các chương trình nhân giống
-threatened species|các loài đang bị đe dọa
-Siberian tiger|hổ Siberia
-orangutan|đười ươi
-breed|sinh sản; nhân giống
-reintroduce endangered species|đưa các loài có nguy cơ tuyệt chủng trở lại
-natural habitats|môi trường sống tự nhiên
-protected forests|các khu rừng được bảo vệ
-recreate natural habitats|tái tạo môi trường sống tự nhiên
-accurately|một cách chính xác
-open space|không gian rộng, thoáng
-enrichment|các hoạt động làm phong phú môi trường sống của động vật
-improve their wellbeing|cải thiện sức khỏe và trạng thái sống của chúng
-climbing frames|khung để leo trèo
-feeding puzzles|dụng cụ đòi hỏi động vật giải đố để lấy thức ăn
-scratch|cào
-dig|đào
-solve problems|giải quyết vấn đề
-paddock|khu đất có rào cho động vật
-positive changes in behaviour|thay đổi tích cực trong hành vi
-functional forest|hệ thống mô phỏng rừng để động vật di chuyển
-towers and cables|các tháp và dây cáp
-above the ground|ở phía trên mặt đất
-swing around|đu di chuyển quanh
-native|thuộc quê gốc; bản địa
-have access to|có thể tiếp cận; sử dụng
-oases|các khu nghỉ tách biệt, yên tĩnh trong ngữ cảnh này
-apart from the group|tách khỏi đàn
-engage the public|thu hút sự tham gia của công chúng
-enclosures|các khu nuôi nhốt có rào
-keep up with|theo dõi tình hình của
-over-hunted|bị săn bắt quá mức
-the ecology of the planet|hệ sinh thái của hành tinh
-maintain the balance of nature|duy trì sự cân bằng tự nhiên
+on display|được trưng bày; cho khách xem|||prepositional_phrase
+royalty|hoàng gia|||noun
+leopards and camels|báo hoa mai và lạc đà|||noun_phrase
+main purpose|mục đích chính|||noun_phrase
+conservation of animals|bảo tồn động vật|||noun_phrase
+get a balance between|đạt sự cân bằng giữa|||verb_phrase
+natural surroundings|môi trường xung quanh tự nhiên|||noun_phrase
+share their knowledge|chia sẻ kiến thức của họ|||verb_phrase
+aquariums|các thủy cung|||noun
+animal welfare|phúc lợi động vật|||noun_phrase
+coordinate breeding programmes|phối hợp các chương trình nhân giống|||verb_phrase
+threatened species|các loài đang bị đe dọa|||noun_phrase
+Siberian tiger|hổ Siberia|||noun_phrase
+orangutan|đười ươi|||noun
+breed|sinh sản; nhân giống|||verb
+reintroduce endangered species|đưa các loài có nguy cơ tuyệt chủng trở lại|||verb_phrase
+natural habitats|môi trường sống tự nhiên|||noun_phrase
+protected forests|các khu rừng được bảo vệ|||noun_phrase
+recreate natural habitats|tái tạo môi trường sống tự nhiên|||verb_phrase
+accurately|một cách chính xác|||adverb
+open space|không gian rộng, thoáng|||noun_phrase
+enrichment|các hoạt động làm phong phú môi trường sống của động vật|||noun
+improve their wellbeing|cải thiện sức khỏe và trạng thái sống của chúng|||verb_phrase
+climbing frames|khung để leo trèo|||noun_phrase
+feeding puzzles|dụng cụ đòi hỏi động vật giải đố để lấy thức ăn|||noun_phrase
+scratch|cào|||verb
+dig|đào|||verb
+solve problems|giải quyết vấn đề|||verb_phrase
+paddock|khu đất có rào cho động vật|||noun
+positive changes in behaviour|thay đổi tích cực trong hành vi|||noun_phrase
+functional forest|hệ thống mô phỏng rừng để động vật di chuyển|||noun_phrase
+towers and cables|các tháp và dây cáp|||noun_phrase
+above the ground|ở phía trên mặt đất|||prepositional_phrase
+swing around|đu di chuyển quanh|||verb_phrase
+native|thuộc quê gốc; bản địa|||adjective
+have access to|có thể tiếp cận; sử dụng|||verb_phrase
+oases|các khu nghỉ tách biệt, yên tĩnh trong ngữ cảnh này|||noun
+apart from the group|tách khỏi đàn|||prepositional_phrase
+engage the public|thu hút sự tham gia của công chúng|||verb_phrase
+enclosures|các khu nuôi nhốt có rào|||noun
+keep up with|theo dõi tình hình của|||verb_phrase
+over-hunted|bị săn bắt quá mức|||participle_phrase
+the ecology of the planet|hệ sinh thái của hành tinh|||noun_phrase
+maintain the balance of nature|duy trì sự cân bằng tự nhiên|||verb_phrase
 @listening|Identifying animals|SB scripts pp. 187–188, track 66; TB p. 76
-creature|sinh vật
-thick hair|lông dày
-members of the species|các cá thể thuộc loài
-apes|vượn; các loài linh trưởng không đuôi
-fur|bộ lông thú
-tentacles|xúc tu
-bright blue rings|các vòng màu xanh lam sáng
-frightened|hoảng sợ
-poisonous|có độc
-desert areas|các vùng sa mạc
-mountains and valleys|núi và thung lũng
-balance|giữ thăng bằng
-black and yellow coats|bộ lông màu đen và vàng
-big cats|các loài thú lớn thuộc họ mèo
-strange-looking|có hình dáng lạ
-the tropics|vùng nhiệt đới
-antlers|gạc hươu
-hooves|móng guốc
-partly on land|một phần trên cạn
+creature|sinh vật|||noun
+thick hair|lông dày|||noun_phrase
+members of the species|các cá thể thuộc loài|||noun_phrase
+apes|vượn; các loài linh trưởng không đuôi|||noun
+fur|bộ lông thú|||noun
+tentacles|xúc tu|||noun
+bright blue rings|các vòng màu xanh lam sáng|||noun_phrase
+frightened|hoảng sợ|||adjective
+poisonous|có độc|||adjective
+desert areas|các vùng sa mạc|||noun_phrase
+mountains and valleys|núi và thung lũng|||noun_phrase
+balance|giữ thăng bằng|||verb
+black and yellow coats|bộ lông màu đen và vàng|||noun_phrase
+big cats|các loài thú lớn thuộc họ mèo|||noun_phrase
+strange-looking|có hình dáng lạ|||adjective
+the tropics|vùng nhiệt đới|||noun_phrase
+antlers|gạc hươu|||noun
+hooves|móng guốc|||noun
+partly on land|một phần trên cạn|||prepositional_phrase
 @listening|Mountain gorillas|SB scripts p. 188, track 67; TB p. 77
-originate in|có nguồn gốc từ
-tropical mountain forests|rừng núi nhiệt đới
-build nests out of leaves|làm tổ bằng lá
-on the ground|trên mặt đất
-physical features|các đặc điểm hình thể
-male gorilla|khỉ đột đực
-silverback|khỉ đột đực trưởng thành có lưng bạc
-blackback|khỉ đột đực trẻ có lưng đen
-an obvious reason|một lý do rõ ràng
-diet|chế độ ăn
-herbivores|động vật ăn thực vật
-survive on a diet of plants|sống nhờ chế độ ăn thực vật
-occasionally|thỉnh thoảng
-insects|côn trùng
-a warm climate|khí hậu ấm
-threats|các mối đe dọa
-in serious danger of disappearing|có nguy cơ nghiêm trọng biến mất
-human activity|hoạt động của con người
-cut down trees|chặt cây
-close family groups|các nhóm gia đình gắn bó
-suffer as a result of hunting|chịu tổn hại do nạn săn bắt
-in other words|nói cách khác
-I'd like to conclude by ...|Tôi muốn kết thúc bằng việc ...|structure
+originate in|có nguồn gốc từ|||verb_phrase
+tropical mountain forests|rừng núi nhiệt đới|||noun_phrase
+build nests out of leaves|làm tổ bằng lá|||verb_phrase
+on the ground|trên mặt đất|||prepositional_phrase
+physical features|các đặc điểm hình thể|||noun_phrase
+male gorilla|khỉ đột đực|||noun_phrase
+silverback|khỉ đột đực trưởng thành có lưng bạc|||noun
+blackback|khỉ đột đực trẻ có lưng đen|||noun
+an obvious reason|một lý do rõ ràng|||noun_phrase
+diet|chế độ ăn|||noun
+herbivores|động vật ăn thực vật|||noun
+survive on a diet of plants|sống nhờ chế độ ăn thực vật|||verb_phrase
+occasionally|thỉnh thoảng|||adverb
+insects|côn trùng|||noun
+a warm climate|khí hậu ấm|||noun_phrase
+threats|các mối đe dọa|||noun
+in serious danger of disappearing|có nguy cơ nghiêm trọng biến mất|||prepositional_phrase
+human activity|hoạt động của con người|||noun_phrase
+cut down trees|chặt cây|||verb_phrase
+close family groups|các nhóm gia đình gắn bó|||noun_phrase
+suffer as a result of hunting|chịu tổn hại do nạn săn bắt|||verb_phrase
+in other words|nói cách khác|||prepositional_phrase
+I'd like to conclude by ...|Tôi muốn kết thúc bằng việc ...|structure||sentence_pattern
 @listening|American bullfrogs|SB scripts p. 188, track 68; TB pp. 77–78
-unpopular|không được ưa thích
-on purpose|cố ý
-aquatic plants|thực vật thủy sinh
-accidentally introduced|được đưa vào một cách vô tình
-appearance|ngoại hình
-female|con cái; thuộc giống cái
-weigh up to|nặng tới
-broad and flat|rộng và phẳng
-dark spots|các đốm sẫm màu
-throat|cổ họng
-eardrums|màng nhĩ
-native species|các loài bản địa
-breed quickly|sinh sản nhanh
-lay eggs|đẻ trứng
-greedy|tham ăn
-food sources|nguồn thức ăn
-carry a disease|mang mầm bệnh
-cause financial damage|gây thiệt hại về tài chính
-monitor animals in the wild|theo dõi động vật trong tự nhiên
-living species|loài sinh vật
-a new environment|một môi trường mới
+unpopular|không được ưa thích|||adjective
+on purpose|cố ý|||prepositional_phrase
+aquatic plants|thực vật thủy sinh|||noun_phrase
+accidentally introduced|được đưa vào một cách vô tình|||participle_phrase
+appearance|ngoại hình|||noun
+female|con cái; thuộc giống cái|||noun_adjective
+weigh up to|nặng tới|||verb_phrase
+broad and flat|rộng và phẳng|||adjective_phrase
+dark spots|các đốm sẫm màu|||noun_phrase
+throat|cổ họng|||noun
+eardrums|màng nhĩ|||noun
+native species|các loài bản địa|||noun_phrase
+breed quickly|sinh sản nhanh|||verb_phrase
+lay eggs|đẻ trứng|||verb_phrase
+greedy|tham ăn|||adjective
+food sources|nguồn thức ăn|||noun_phrase
+carry a disease|mang mầm bệnh|||verb_phrase
+cause financial damage|gây thiệt hại về tài chính|||verb_phrase
+monitor animals in the wild|theo dõi động vật trong tự nhiên|||verb_phrase
+living species|loài sinh vật|||noun_phrase
+a new environment|một môi trường mới|||noun_phrase
 @listening|Box jellyfish|SB scripts p. 188, track 69; TB pp. 78–79
-box jellyfish|sứa hộp
-warm coastal seas|vùng biển ven bờ ấm
-shaped like a cube|có hình khối lập phương
-rounded corners|các góc bo tròn
-light blue|màu xanh lam nhạt
-grow to a length of|phát triển tới chiều dài
-sting|vết chích; chích bằng nọc
-cells|các tế bào
-produce a poison|tạo ra chất độc
-come into contact with|tiếp xúc với
-stick to the skin|bám vào da
-victim|nạn nhân
-a severe sting|vết chích nghiêm trọng
-have a heart attack|bị đau tim
-go into shock|rơi vào tình trạng sốc
-extreme pain|cơn đau dữ dội
-revive|làm hồi tỉnh; hồi sức
-vinegar|giấm
-warning signs|biển cảnh báo
-remove the tentacles|gỡ bỏ các xúc tu
-seawater|nước biển
-ease the pain|làm dịu cơn đau
-medical help|sự trợ giúp y tế
+box jellyfish|sứa hộp|||noun_phrase
+warm coastal seas|vùng biển ven bờ ấm|||noun_phrase
+shaped like a cube|có hình khối lập phương|||participle_phrase
+rounded corners|các góc bo tròn|||noun_phrase
+light blue|màu xanh lam nhạt|||adjective_phrase
+grow to a length of|phát triển tới chiều dài|||verb_phrase
+sting|vết chích; chích bằng nọc|||noun_verb
+cells|các tế bào|||noun
+produce a poison|tạo ra chất độc|||verb_phrase
+come into contact with|tiếp xúc với|||verb_phrase
+stick to the skin|bám vào da|||verb_phrase
+victim|nạn nhân|||noun
+a severe sting|vết chích nghiêm trọng|||noun_phrase
+have a heart attack|bị đau tim|||verb_phrase
+go into shock|rơi vào tình trạng sốc|||verb_phrase
+extreme pain|cơn đau dữ dội|||noun_phrase
+revive|làm hồi tỉnh; hồi sức|||verb
+vinegar|giấm|||noun
+warning signs|biển cảnh báo|||noun_phrase
+remove the tentacles|gỡ bỏ các xúc tu|||verb_phrase
+seawater|nước biển|||noun
+ease the pain|làm dịu cơn đau|||verb_phrase
+medical help|sự trợ giúp y tế|||noun_phrase
 @speaking|Animal appearance and habitats|SB pp. 156, 161–165; TB pp. 76, 79–80
-wild animal|động vật hoang dã
-Arabian leopard|báo hoa mai Ả Rập
-blue-ringed octopus|bạch tuộc vòng xanh
-mountain gorilla|khỉ đột núi
-Père David's deer|hươu Père David; mi lộc
-deer|hươu
-eagle|đại bàng
-big claws|móng vuốt lớn
-long fin|vây dài
-round hump|bướu tròn
-hard antlers|gạc cứng
-underwater|dưới nước
-plains|đồng bằng; vùng đất bằng phẳng rộng
-a thick coat of fur|bộ lông dày
-horn|sừng
-jungle|rừng rậm
-trunk|vòi voi
-a long tail|đuôi dài
-sharp teeth|răng sắc
-brightly coloured feathers|bộ lông vũ sặc sỡ
+wild animal|động vật hoang dã|||noun_phrase
+Arabian leopard|báo hoa mai Ả Rập|||noun_phrase
+blue-ringed octopus|bạch tuộc vòng xanh|||noun_phrase
+mountain gorilla|khỉ đột núi|||noun_phrase
+Père David's deer|hươu Père David; mi lộc|||noun_phrase
+deer|hươu|||noun
+eagle|đại bàng|||noun
+big claws|móng vuốt lớn|||noun_phrase
+long fin|vây dài|||noun_phrase
+round hump|bướu tròn|||noun_phrase
+hard antlers|gạc cứng|||noun_phrase
+underwater|dưới nước|||adverb
+plains|đồng bằng; vùng đất bằng phẳng rộng|||noun
+a thick coat of fur|bộ lông dày|||noun_phrase
+horn|sừng|||noun
+jungle|rừng rậm|||noun
+trunk|vòi voi|||noun
+a long tail|đuôi dài|||noun_phrase
+sharp teeth|răng sắc|||noun_phrase
+brightly coloured feathers|bộ lông vũ sặc sỡ|||noun_phrase
 @speaking|Pets, zoos and protecting wildlife|SB pp. 163–165, tracks 70–71; TB pp. 79–80
-prevent illegal hunting|ngăn chặn săn bắt trái phép
-punish hunters|trừng phạt người săn bắt
-provide money for zoos|cấp kinh phí cho vườn thú
-track wild animals|theo dõi vị trí động vật hoang dã
-field trips|các chuyến học tập thực địa
-animal products|các sản phẩm từ động vật
-real animal fur|lông thú thật
-demand drops|nhu cầu giảm
-become extinct|tuyệt chủng
-keep a pet|nuôi thú cưng
-look after pets|chăm sóc thú cưng
-responsibility|tinh thần trách nhiệm
-trust|sự tin cậy
-patience|sự kiên nhẫn
-risky|có rủi ro
-unnatural|không tự nhiên
-friendship|tình bạn; sự gắn bó
-inconvenient|bất tiện
-gadgets|thiết bị nhỏ, tiện ích công nghệ
-release animals|thả động vật
-monitor in the wild|theo dõi trong môi trường tự nhiên
-cages|chuồng; lồng
-educational|có tính giáo dục
-better conditions|điều kiện tốt hơn
-animal welfare|phúc lợi động vật
+prevent illegal hunting|ngăn chặn săn bắt trái phép|||verb_phrase
+punish hunters|trừng phạt người săn bắt|||verb_phrase
+provide money for zoos|cấp kinh phí cho vườn thú|||verb_phrase
+track wild animals|theo dõi vị trí động vật hoang dã|||verb_phrase
+field trips|các chuyến học tập thực địa|||noun_phrase
+animal products|các sản phẩm từ động vật|||noun_phrase
+real animal fur|lông thú thật|||noun_phrase
+demand drops|nhu cầu giảm|||expression
+become extinct|tuyệt chủng|||verb_phrase
+keep a pet|nuôi thú cưng|||verb_phrase
+look after pets|chăm sóc thú cưng|||verb_phrase
+responsibility|tinh thần trách nhiệm|||noun
+trust|sự tin cậy|||noun
+patience|sự kiên nhẫn|||noun
+risky|có rủi ro|||adjective
+unnatural|không tự nhiên|||adjective
+friendship|tình bạn; sự gắn bó|||noun
+inconvenient|bất tiện|||adjective
+gadgets|thiết bị nhỏ, tiện ích công nghệ|||noun
+release animals|thả động vật|||verb_phrase
+monitor in the wild|theo dõi trong môi trường tự nhiên|||verb_phrase
+cages|chuồng; lồng|||noun
+educational|có tính giáo dục|||adjective
+better conditions|điều kiện tốt hơn|||noun_phrase
+animal welfare|phúc lợi động vật|||noun_phrase
 @speaking|Useful nature-answer structures|Bổ sung theo mục tiêu SB pp. 161–165; TB pp. 79–80
-It is easily recognised by ...|Có thể dễ dàng nhận ra nó nhờ ...|structure|It is easily recognised by its black and white fur.
-It mainly feeds on ...|Nó chủ yếu ăn ...|structure|It mainly feeds on leaves and fruit.
-Its natural habitat is ...|Môi trường sống tự nhiên của nó là ...|structure|Its natural habitat is tropical forest.
-It seems to me that ...|Theo tôi thì ...|structure|It seems to me that children benefit from caring for pets.
-One practical way to protect wildlife is to ...|Một cách thiết thực để bảo vệ động vật hoang dã là ...|structure|One practical way to protect wildlife is to preserve forests.
-The reason I say this is that ...|Lý do tôi nói vậy là ...|structure|The reason I say this is that animals need space to live naturally.
-If nothing is done, ... may ...|Nếu không hành động, ... có thể ...|structure|If nothing is done, more species may disappear.
-responsible pet ownership|việc nuôi thú cưng có trách nhiệm|collocation
+It is easily recognised by ...|Có thể dễ dàng nhận ra nó nhờ ...|structure|It is easily recognised by its black and white fur.|sentence_pattern
+It mainly feeds on ...|Nó chủ yếu ăn ...|structure|It mainly feeds on leaves and fruit.|sentence_pattern
+Its natural habitat is ...|Môi trường sống tự nhiên của nó là ...|structure|Its natural habitat is tropical forest.|sentence_pattern
+It seems to me that ...|Theo tôi thì ...|structure|It seems to me that children benefit from caring for pets.|sentence_pattern
+One practical way to protect wildlife is to ...|Một cách thiết thực để bảo vệ động vật hoang dã là ...|structure|One practical way to protect wildlife is to preserve forests.|sentence_pattern
+The reason I say this is that ...|Lý do tôi nói vậy là ...|structure|The reason I say this is that animals need space to live naturally.|sentence_pattern
+If nothing is done, ... may ...|Nếu không hành động, ... có thể ...|structure|If nothing is done, more species may disappear.|sentence_pattern
+responsible pet ownership|việc nuôi thú cưng có trách nhiệm|collocation||noun_phrase
 @writing|Environment: causes and solutions|SB pp. 152–155; TB pp. 74–76
-endangered species|các loài có nguy cơ tuyệt chủng|collocation
-air pollution|ô nhiễm không khí|collocation
-renewable energy|năng lượng tái tạo|collocation
-natural habitats|môi trường sống tự nhiên|collocation
-global warming|sự nóng lên toàn cầu|collocation
-fossil fuels|nhiên liệu hóa thạch|collocation
-sea temperatures|nhiệt độ nước biển
-take action|hành động
-clean sources of energy|các nguồn năng lượng sạch
-recycle|tái chế
-maintain vehicles properly|bảo dưỡng phương tiện đúng cách
-prevent damage to the environment|ngăn tổn hại cho môi trường
-future generations|các thế hệ tương lai
-get cars serviced regularly|đem xe đi bảo dưỡng định kỳ
-be at risk|có nguy cơ
-die out|tuyệt chủng; biến mất dần
-fur, horns and bones|lông, sừng và xương động vật
-destroy natural habitats|phá hủy môi trường sống tự nhiên
-rainforests|rừng mưa nhiệt đới
-pollution from industry|ô nhiễm do công nghiệp
-sea creatures|sinh vật biển
-give punishments|đưa ra hình phạt
-hunt illegally|săn bắt trái phép
-education programmes|các chương trình giáo dục
-invest in clean energy|đầu tư vào năng lượng sạch
-solar and wind power|năng lượng mặt trời và năng lượng gió
-burn fossil fuels|đốt nhiên liệu hóa thạch
-power stations|các nhà máy điện
-population growth|gia tăng dân số
-share cars|đi chung xe
-greenhouse gases|khí nhà kính
-carbon dioxide|khí cacbon điôxít
-release oxygen|giải phóng ôxy
-generate energy|tạo ra năng lượng
-save electricity|tiết kiệm điện
+endangered species|các loài có nguy cơ tuyệt chủng|collocation||noun_phrase
+air pollution|ô nhiễm không khí|collocation||noun_phrase
+renewable energy|năng lượng tái tạo|collocation||noun_phrase
+natural habitats|môi trường sống tự nhiên|collocation||noun_phrase
+global warming|sự nóng lên toàn cầu|collocation||noun_phrase
+fossil fuels|nhiên liệu hóa thạch|collocation||noun_phrase
+sea temperatures|nhiệt độ nước biển|||noun_phrase
+take action|hành động|||verb_phrase
+clean sources of energy|các nguồn năng lượng sạch|||noun_phrase
+recycle|tái chế|||verb
+maintain vehicles properly|bảo dưỡng phương tiện đúng cách|||verb_phrase
+prevent damage to the environment|ngăn tổn hại cho môi trường|||verb_phrase
+future generations|các thế hệ tương lai|||noun_phrase
+get cars serviced regularly|đem xe đi bảo dưỡng định kỳ|||verb_phrase
+be at risk|có nguy cơ|||verb_phrase
+die out|tuyệt chủng; biến mất dần|||phrasal_verb
+fur, horns and bones|lông, sừng và xương động vật|||noun_phrase
+destroy natural habitats|phá hủy môi trường sống tự nhiên|||verb_phrase
+rainforests|rừng mưa nhiệt đới|||noun
+pollution from industry|ô nhiễm do công nghiệp|||noun_phrase
+sea creatures|sinh vật biển|||noun_phrase
+give punishments|đưa ra hình phạt|||verb_phrase
+hunt illegally|săn bắt trái phép|||verb_phrase
+education programmes|các chương trình giáo dục|||noun_phrase
+invest in clean energy|đầu tư vào năng lượng sạch|||verb_phrase
+solar and wind power|năng lượng mặt trời và năng lượng gió|||noun_phrase
+burn fossil fuels|đốt nhiên liệu hóa thạch|||verb_phrase
+power stations|các nhà máy điện|||noun_phrase
+population growth|gia tăng dân số|||noun_phrase
+share cars|đi chung xe|||verb_phrase
+greenhouse gases|khí nhà kính|||noun_phrase
+carbon dioxide|khí cacbon điôxít|||noun_phrase
+release oxygen|giải phóng ôxy|||verb_phrase
+generate energy|tạo ra năng lượng|||verb_phrase
+save electricity|tiết kiệm điện|||verb_phrase
 @writing|Useful cause–solution and conclusion frames|Bổ sung theo mục tiêu SB pp. 152–155; TB pp. 74–76
-One major cause of ... is ...|Một nguyên nhân chính của ... là ...|structure|One major cause of habitat loss is deforestation.
-This problem could be addressed by ...|Vấn đề này có thể được giải quyết bằng ...|structure|This problem could be addressed by restoring forests.
-Governments should invest more in ...|Các chính phủ nên đầu tư thêm vào ...|structure|Governments should invest more in clean public transport.
-Both individuals and governments have a role to play in ...|Cả cá nhân lẫn chính phủ đều có vai trò trong ...|structure|Both individuals and governments have a role to play in protecting wildlife.
-To conclude, ... requires both ... and ...|Để kết luận, ... cần cả ... lẫn ...|structure|To conclude, wildlife protection requires both strong laws and public support.
-reduce carbon emissions|giảm phát thải cacbon|collocation
-habitat destruction|sự phá hủy môi trường sống|collocation
-enforce environmental laws|thực thi luật bảo vệ môi trường|collocation
+One major cause of ... is ...|Một nguyên nhân chính của ... là ...|structure|One major cause of habitat loss is deforestation.|sentence_pattern
+This problem could be addressed by ...|Vấn đề này có thể được giải quyết bằng ...|structure|This problem could be addressed by restoring forests.|sentence_pattern
+Governments should invest more in ...|Các chính phủ nên đầu tư thêm vào ...|structure|Governments should invest more in clean public transport.|sentence_pattern
+Both individuals and governments have a role to play in ...|Cả cá nhân lẫn chính phủ đều có vai trò trong ...|structure|Both individuals and governments have a role to play in protecting wildlife.|sentence_pattern
+To conclude, ... requires both ... and ...|Để kết luận, ... cần cả ... lẫn ...|structure|To conclude, wildlife protection requires both strong laws and public support.|sentence_pattern
+reduce carbon emissions|giảm phát thải cacbon|collocation||verb_phrase
+habitat destruction|sự phá hủy môi trường sống|collocation||noun_phrase
+enforce environmental laws|thực thi luật bảo vệ môi trường|collocation||verb_phrase

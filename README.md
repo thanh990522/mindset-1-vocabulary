@@ -21,12 +21,12 @@ Một từ có thể xuất hiện ở nhiều kỹ năng vì ngữ cảnh khác
 
 ## Học với thẻ
 
-- Tất cả từ, cụm từ, collocation và cấu trúc đều dùng thẻ lật Anh–Việt, có thể đổi mặt trước.
+- Tất cả từ, cụm từ, collocation và cấu trúc đều dùng thẻ lật Anh–Việt, có thể đổi mặt trước. Mỗi thẻ có nhãn loại từ theo ngữ cảnh: danh từ, động từ, tính từ, cụm từ hoặc cấu trúc câu.
 - Lọc theo Unit, kỹ năng, nội dung, loại thẻ và trạng thái đã nhớ; tìm bằng tiếng Anh hoặc tiếng Việt có/không dấu.
 - Trộn thẻ, phân trang và lưu tiến độ trên trình duyệt. Tiến độ bản cũ được chuyển cho những từ còn khớp trong cùng Unit.
 - Xem nguồn trang/track trên từng thẻ. Các ví dụ là ví dụ luyện tập.
 - Nút nghe dùng giọng tiếng Anh của thiết bị; không phải bản thu của sách. Phiên âm chỉ giữ ở những mục khớp dữ liệu cũ.
-- Giao diện tinh gọn, font Arial với font dự phòng hỗ trợ tiếng Việt, dùng được bằng bàn phím và trên điện thoại.
+- Theme vàng–xanh dương, thẻ tự co chiều cao theo mặt đang xem, font Arial với font dự phòng hỗ trợ tiếng Việt, dùng được bằng bàn phím và trên điện thoại.
 
 Xem [ghi chú đối chiếu nội dung](CONTENT_NOTES.md) để biết phạm vi nguồn và quy tắc biên soạn.
 
@@ -36,10 +36,11 @@ Nguồn chỉnh sửa nằm trong `content/unit1.txt` đến `content/unit8.txt`
 
 ```text
 @reading|Tên nhóm|SB pp. 8–11; TB pp. 12–13
-term|nghĩa tiếng Việt|loại thẻ tùy chọn|ví dụ tùy chọn
+term|nghĩa tiếng Việt|loại thẻ tùy chọn|ví dụ tùy chọn|loại từ
+extended family|gia đình nhiều thế hệ|||noun_phrase
 ```
 
-Các loại thẻ: `word`, `phrase`, `collocation`, `structure`. Bắt đầu nguồn bằng `Bổ sung` cho nhóm ứng dụng Speaking/Writing. Không dùng dấu `|` bên trong nội dung của một trường.
+Các loại thẻ: `word`, `phrase`, `collocation`, `structure`. Bắt đầu nguồn bằng `Bổ sung` cho nhóm ứng dụng Speaking/Writing. Trường thứ năm là loại từ bắt buộc, dùng mã trong `content/parts-of-speech.json`. Giữ trường trống bằng dấu `||` nếu bỏ qua loại thẻ hoặc ví dụ. Không dùng dấu `|` bên trong nội dung của một trường.
 
 ```bash
 npm run build

@@ -1,254 +1,254 @@
 @reading|Blood is thicker than water|SB pp. 8–9; TB pp. 12–13
-blood is thicker than water|Một giọt máu đào hơn ao nước lã
-value their friends' opinions|coi trọng ý kiến của bạn bè
-enjoy their company|thích ở bên họ
-miss out|bỏ lỡ điều có ích hoặc thú vị
-extended family|gia đình nhiều thế hệ hoặc có họ hàng cùng sống
-in addition to|ngoài ra; bên cạnh
-on the other hand|mặt khác
-lack of close contact|thiếu sự liên lạc gần gũi
-relatives|họ hàng
-at a disadvantage|ở thế bất lợi
-have a great influence|có ảnh hưởng lớn
-grow up|lớn lên; trưởng thành
-advantages|những lợi ích
-love and attention|tình yêu thương và sự quan tâm
-retired|đã nghỉ hưu
-busy and stressed|bận rộn và căng thẳng
-patient|kiên nhẫn
-handled|đã xử lý
-problems children and young people face|những vấn đề trẻ em và người trẻ phải đối mặt
-understand the needs of older people|hiểu nhu cầu của người lớn tuổi
-caring|biết quan tâm đến người khác
-selfish|ích kỷ
-grandparents' stories|những câu chuyện của ông bà
-feel closer to|cảm thấy gần gũi hơn với
-young adults|những người trẻ đã trưởng thành
-living alone|sống một mình
-lonely|cô đơn
-remaining with the family|tiếp tục sống cùng gia đình
-stage of their lives|giai đoạn trong cuộc đời họ
-avoid|tránh
-save money|tiết kiệm tiền
-education|việc học; giáo dục
-gain|có được; thu được
-keeping in close contact|giữ liên lạc thường xuyên và gần gũi
-proverb|tục ngữ
-come and go|đến rồi đi; không tồn tại mãi
-on your side|đứng về phía bạn
-appreciate|trân trọng; biết ơn
-forever|mãi mãi
-Asia|châu Á
-the Middle East|Trung Đông
-South America|Nam Mỹ
-Sub-Saharan Africa|châu Phi cận Sahara
-South Africa|Nam Phi
-Europe|châu Âu
-Australia|nước Úc
-North America|Bắc Mỹ
+blood is thicker than water|Một giọt máu đào hơn ao nước lã|||idiom
+value their friends' opinions|coi trọng ý kiến của bạn bè|||verb_phrase
+enjoy their company|thích ở bên họ|||verb_phrase
+miss out|bỏ lỡ điều có ích hoặc thú vị|||phrasal_verb
+extended family|gia đình nhiều thế hệ hoặc có họ hàng cùng sống|||noun_phrase
+in addition to|ngoài ra; bên cạnh|||preposition
+on the other hand|mặt khác|||prepositional_phrase
+lack of close contact|thiếu sự liên lạc gần gũi|||noun_phrase
+relatives|họ hàng|||noun
+at a disadvantage|ở thế bất lợi|||prepositional_phrase
+have a great influence|có ảnh hưởng lớn|||verb_phrase
+grow up|lớn lên; trưởng thành|||phrasal_verb
+advantages|những lợi ích|||noun
+love and attention|tình yêu thương và sự quan tâm|||noun_phrase
+retired|đã nghỉ hưu|||adjective
+busy and stressed|bận rộn và căng thẳng|||adjective_phrase
+patient|kiên nhẫn|||adjective
+handled|đã xử lý|||verb
+problems children and young people face|những vấn đề trẻ em và người trẻ phải đối mặt|||noun_phrase
+understand the needs of older people|hiểu nhu cầu của người lớn tuổi|||verb_phrase
+caring|biết quan tâm đến người khác|||adjective
+selfish|ích kỷ|||adjective
+grandparents' stories|những câu chuyện của ông bà|||noun_phrase
+feel closer to|cảm thấy gần gũi hơn với|||verb_phrase
+young adults|những người trẻ đã trưởng thành|||noun_phrase
+living alone|sống một mình|||gerund_phrase
+lonely|cô đơn|||adjective
+remaining with the family|tiếp tục sống cùng gia đình|||gerund_phrase
+stage of their lives|giai đoạn trong cuộc đời họ|||noun_phrase
+avoid|tránh|||verb
+save money|tiết kiệm tiền|||verb_phrase
+education|việc học; giáo dục|||noun
+gain|có được; thu được|||verb
+keeping in close contact|giữ liên lạc thường xuyên và gần gũi|||gerund_phrase
+proverb|tục ngữ|||noun
+come and go|đến rồi đi; không tồn tại mãi|||verb_phrase
+on your side|đứng về phía bạn|||prepositional_phrase
+appreciate|trân trọng; biết ơn|||verb
+forever|mãi mãi|||adverb
+Asia|châu Á|||proper_noun
+the Middle East|Trung Đông|||proper_noun
+South America|Nam Mỹ|||proper_noun
+Sub-Saharan Africa|châu Phi cận Sahara|||proper_noun
+South Africa|Nam Phi|||proper_noun
+Europe|châu Âu|||proper_noun
+Australia|nước Úc|||proper_noun
+North America|Bắc Mỹ|||proper_noun
 @reading|Social media and friendship|SB p. 11; TB p. 13
-scientific studies|các nghiên cứu khoa học
-friendship|tình bạn
-maintain|duy trì
-relationships|các mối quan hệ
-the explosion of social media|sự phát triển bùng nổ của mạng xã hội
-real friends|những người bạn thực sự
-expand|mở rộng
-opportunities|những cơ hội
-geographically mobile|có khả năng chuyển nơi ở hoặc làm việc
-nowadays|ngày nay
-different cultures|những nền văn hóa khác nhau
-different backgrounds|những hoàn cảnh xuất thân khác nhau
-make friends|kết bạn
-remain friends for life|duy trì tình bạn suốt đời
-security at work|sự ổn định trong công việc
-build new relationships|xây dựng những mối quan hệ mới
-free time|thời gian rảnh
-convenience|sự thuận tiện
-similar interests and opinions|sở thích và quan điểm tương đồng
-definitely|chắc chắn
-mental health problems|các vấn đề sức khỏe tinh thần
-generally|nhìn chung
-physical state of health|tình trạng sức khỏe thể chất
+scientific studies|các nghiên cứu khoa học|||noun_phrase
+friendship|tình bạn|||noun
+maintain|duy trì|||verb
+relationships|các mối quan hệ|||noun
+the explosion of social media|sự phát triển bùng nổ của mạng xã hội|||noun_phrase
+real friends|những người bạn thực sự|||noun_phrase
+expand|mở rộng|||verb
+opportunities|những cơ hội|||noun
+geographically mobile|có khả năng chuyển nơi ở hoặc làm việc|||adjective_phrase
+nowadays|ngày nay|||adverb
+different cultures|những nền văn hóa khác nhau|||noun_phrase
+different backgrounds|những hoàn cảnh xuất thân khác nhau|||noun_phrase
+make friends|kết bạn|||verb_phrase
+remain friends for life|duy trì tình bạn suốt đời|||verb_phrase
+security at work|sự ổn định trong công việc|||noun_phrase
+build new relationships|xây dựng những mối quan hệ mới|||verb_phrase
+free time|thời gian rảnh|||noun_phrase
+convenience|sự thuận tiện|||noun
+similar interests and opinions|sở thích và quan điểm tương đồng|||noun_phrase
+definitely|chắc chắn|||adverb
+mental health problems|các vấn đề sức khỏe tinh thần|||noun_phrase
+generally|nhìn chung|||adverb
+physical state of health|tình trạng sức khỏe thể chất|||noun_phrase
 @listening|Restaurant reservation|Tracks 02, 04–05 • SB transcript p. 177; TB pp. 15–16
-make a reservation|đặt chỗ trước
-hold on|chờ một chút
-a table for 12|bàn dành cho 12 người
-celebration dinner|bữa tối để ăn mừng
-the day after|ngày hôm sau
-a party of 12|một nhóm 12 người
-fully booked|đã kín chỗ
-available for private hire|có thể thuê riêng
-seat up to 20 people|có chỗ ngồi cho tối đa 20 người
-plenty of space|nhiều không gian
-a set three-course menu|thực đơn cố định gồm ba món
-per person|mỗi người
-supply|cung cấp
-at no extra charge|không tính thêm phí
-in total|tổng cộng
-go ahead|tiến hành
-make a booking|đặt chỗ
-take your details|ghi lại thông tin của bạn
+make a reservation|đặt chỗ trước|||verb_phrase
+hold on|chờ một chút|||phrasal_verb
+a table for 12|bàn dành cho 12 người|||noun_phrase
+celebration dinner|bữa tối để ăn mừng|||noun_phrase
+the day after|ngày hôm sau|||noun_phrase
+a party of 12|một nhóm 12 người|||noun_phrase
+fully booked|đã kín chỗ|||adjective_phrase
+available for private hire|có thể thuê riêng|||adjective_phrase
+seat up to 20 people|có chỗ ngồi cho tối đa 20 người|||verb_phrase
+plenty of space|nhiều không gian|||noun_phrase
+a set three-course menu|thực đơn cố định gồm ba món|||noun_phrase
+per person|mỗi người|||prepositional_phrase
+supply|cung cấp|||verb
+at no extra charge|không tính thêm phí|||prepositional_phrase
+in total|tổng cộng|||prepositional_phrase
+go ahead|tiến hành|||phrasal_verb
+make a booking|đặt chỗ|||verb_phrase
+take your details|ghi lại thông tin của bạn|||verb_phrase
 @listening|Buying and wrapping a gift|Tracks 02, 06–07 • SB transcript p. 177; TB pp. 15–16
-sales assistant|nhân viên bán hàng
-a piece of jewellery|một món trang sức
-have anything particular in mind|đang nghĩ đến thứ gì cụ thể
-necklace|vòng cổ; dây chuyền
-a pair of earrings|một đôi bông tai
-stones|đá gắn trên trang sức
-silver|bạc
-handmade|được làm thủ công
-we've got a sale on|cửa hàng đang có đợt giảm giá
-at the moment|hiện tại
-giftwrap|gói quà
-charge|tính phí
-wrapping paper|giấy gói quà
-luxury wrapping service|dịch vụ gói quà cao cấp
-ribbon|ruy băng
-personal message|lời nhắn riêng
-extra|thêm; phụ trội
-option|lựa chọn
-cash or card|tiền mặt hoặc thẻ
-favourite colour|màu yêu thích
+sales assistant|nhân viên bán hàng|||noun_phrase
+a piece of jewellery|một món trang sức|||noun_phrase
+have anything particular in mind|đang nghĩ đến thứ gì cụ thể|||verb_phrase
+necklace|vòng cổ; dây chuyền|||noun
+a pair of earrings|một đôi bông tai|||noun_phrase
+stones|đá gắn trên trang sức|||noun
+silver|bạc|||noun
+handmade|được làm thủ công|||adjective
+we've got a sale on|cửa hàng đang có đợt giảm giá|||expression
+at the moment|hiện tại|||prepositional_phrase
+giftwrap|gói quà|||verb
+charge|tính phí|||verb
+wrapping paper|giấy gói quà|||noun_phrase
+luxury wrapping service|dịch vụ gói quà cao cấp|||noun_phrase
+ribbon|ruy băng|||noun
+personal message|lời nhắn riêng|||noun_phrase
+extra|thêm; phụ trội|||adverb
+option|lựa chọn|||noun
+cash or card|tiền mặt hoặc thẻ|||noun_phrase
+favourite colour|màu yêu thích|||noun_phrase
 @listening|A first birthday celebration|Track 08 • SB transcripts pp. 177–178; TB p. 17
-history assignment|bài tập môn lịch sử
-taking a break|đang nghỉ giải lao
-family celebration|dịp ăn mừng của gia đình
-niece|cháu gái: con của anh, chị hoặc em
-wedding|đám cưới
-graduation|lễ tốt nghiệp
-neighbours|hàng xóm
-big day|ngày trọng đại
-perfect location|địa điểm lý tưởng
-taking photographs|chụp ảnh
-traditional hat|mũ truyền thống
-purse|ví nhỏ; túi đựng tiền nhỏ
-made of silk|làm bằng lụa
-good luck|sự may mắn
-culture|văn hóa
-belt|thắt lưng; đai
-a long life|cuộc sống trường thọ
-rice cakes|bánh làm từ gạo
-rainbow|cầu vồng
-bright green|màu xanh lá tươi
-get on really well together|rất hòa hợp với nhau
-guests|khách mời
-gift bag|túi quà
-candle|nến
-the other way round|theo chiều ngược lại
-receives money|nhận tiền
-in a way|xét theo một khía cạnh
-have a cup of tea|uống một tách trà
+history assignment|bài tập môn lịch sử|||noun_phrase
+taking a break|đang nghỉ giải lao|||verb_phrase
+family celebration|dịp ăn mừng của gia đình|||noun_phrase
+niece|cháu gái: con của anh, chị hoặc em|||noun
+wedding|đám cưới|||noun
+graduation|lễ tốt nghiệp|||noun
+neighbours|hàng xóm|||noun
+big day|ngày trọng đại|||noun_phrase
+perfect location|địa điểm lý tưởng|||noun_phrase
+taking photographs|chụp ảnh|||verb_phrase
+traditional hat|mũ truyền thống|||noun_phrase
+purse|ví nhỏ; túi đựng tiền nhỏ|||noun
+made of silk|làm bằng lụa|||participle_phrase
+good luck|sự may mắn|||noun_phrase
+culture|văn hóa|||noun
+belt|thắt lưng; đai|||noun
+a long life|cuộc sống trường thọ|||noun_phrase
+rice cakes|bánh làm từ gạo|||noun_phrase
+rainbow|cầu vồng|||noun
+bright green|màu xanh lá tươi|||adjective_phrase
+get on really well together|rất hòa hợp với nhau|||verb_phrase
+guests|khách mời|||noun
+gift bag|túi quà|||noun_phrase
+candle|nến|||noun
+the other way round|theo chiều ngược lại|||adverb_phrase
+receives money|nhận tiền|||verb_phrase
+in a way|xét theo một khía cạnh|||prepositional_phrase
+have a cup of tea|uống một tách trà|||verb_phrase
 @speaking|Family and shared activities|SB pp. 8, 19–23; tracks 09–14; TB pp. 12, 17–19
-father|bố; cha
-mother|mẹ
-brother|anh trai; em trai
-sister|chị gái; em gái
-cousin|anh, chị hoặc em họ
-father-in-law|bố vợ; bố chồng
-sister-in-law|chị/em dâu; chị/em gái của vợ hoặc chồng
-grandfather|ông
-grandmother|bà
-uncle|chú; bác; cậu; dượng
-aunt|cô; dì; bác gái; thím; mợ
-nephew|cháu trai: con của anh, chị hoặc em
-great-aunt|chị hoặc em gái của ông/bà
-a large family|một gia đình đông người
-a small family|một gia đình ít người
-a typical family|một gia đình điển hình
-a close family|một gia đình gắn bó
-a happy family|một gia đình hạnh phúc
-the baby of the family|người con nhỏ tuổi nhất trong gia đình
-spend time together|dành thời gian bên nhau
-once a week|mỗi tuần một lần
-at weekends|vào cuối tuần
-go for a long walk|đi dạo một quãng dài
-in the fresh air|ở ngoài trời thoáng đãng
-have a barbecue|tổ chức một bữa nướng ngoài trời
-eat out|ăn ở ngoài
-go bowling|đi chơi bowling
-go to the cinema|đi xem phim
-get married|kết hôn
-look forward to + V-ing|mong chờ làm điều gì
-be similar to|giống với
-look like|có ngoại hình giống
-have the same interests|có cùng sở thích
-in character|về tính cách
-easy-going|dễ tính
-calm|điềm tĩnh
-a twin brother|anh/em trai sinh đôi
-different personalities|những tính cách khác nhau
-work long hours|làm việc nhiều giờ
-tidy my room|dọn phòng của tôi
+father|bố; cha|||noun
+mother|mẹ|||noun
+brother|anh trai; em trai|||noun
+sister|chị gái; em gái|||noun
+cousin|anh, chị hoặc em họ|||noun
+father-in-law|bố vợ; bố chồng|||noun
+sister-in-law|chị/em dâu; chị/em gái của vợ hoặc chồng|||noun
+grandfather|ông|||noun
+grandmother|bà|||noun
+uncle|chú; bác; cậu; dượng|||noun
+aunt|cô; dì; bác gái; thím; mợ|||noun
+nephew|cháu trai: con của anh, chị hoặc em|||noun
+great-aunt|chị hoặc em gái của ông/bà|||noun
+a large family|một gia đình đông người|||noun_phrase
+a small family|một gia đình ít người|||noun_phrase
+a typical family|một gia đình điển hình|||noun_phrase
+a close family|một gia đình gắn bó|||noun_phrase
+a happy family|một gia đình hạnh phúc|||noun_phrase
+the baby of the family|người con nhỏ tuổi nhất trong gia đình|||noun_phrase
+spend time together|dành thời gian bên nhau|||verb_phrase
+once a week|mỗi tuần một lần|||adverb_phrase
+at weekends|vào cuối tuần|||prepositional_phrase
+go for a long walk|đi dạo một quãng dài|||verb_phrase
+in the fresh air|ở ngoài trời thoáng đãng|||prepositional_phrase
+have a barbecue|tổ chức một bữa nướng ngoài trời|||verb_phrase
+eat out|ăn ở ngoài|||phrasal_verb
+go bowling|đi chơi bowling|||verb_phrase
+go to the cinema|đi xem phim|||verb_phrase
+get married|kết hôn|||verb_phrase
+look forward to + V-ing|mong chờ làm điều gì|||sentence_pattern
+be similar to|giống với|||verb_phrase
+look like|có ngoại hình giống|||verb_phrase
+have the same interests|có cùng sở thích|||verb_phrase
+in character|về tính cách|||prepositional_phrase
+easy-going|dễ tính|||adjective
+calm|điềm tĩnh|||adjective
+a twin brother|anh/em trai sinh đôi|||noun_phrase
+different personalities|những tính cách khác nhau|||noun_phrase
+work long hours|làm việc nhiều giờ|||verb_phrase
+tidy my room|dọn phòng của tôi|||verb_phrase
 @speaking|Useful family answer frames|Bổ sung theo mục tiêu SB pp. 19–23 / TB pp. 17–19
-an only child|con một
-a close-knit family|gia đình gắn bó khăng khít
-take after someone|giống một người thân về ngoại hình hoặc tính cách
-have a lot in common|có nhiều điểm chung
-support each other|hỗ trợ lẫn nhau
-share household chores|chia sẻ việc nhà
-spend quality time with|dành thời gian trọn vẹn, có ý nghĩa bên ai
-turn to someone for advice|tìm đến ai để xin lời khuyên
-I come from a ... family.|Tôi xuất thân từ một gia đình ...|structure|I come from a close-knit family of four.
-I'm closest to ... because ...|Tôi thân nhất với ... vì ...|structure|I'm closest to my sister because she always listens to me.
-We usually ..., especially at weekends.|Chúng tôi thường ..., nhất là cuối tuần.|structure|We usually cook together, especially at weekends.
-Although we have different personalities, ...|Mặc dù có tính cách khác nhau, ...|structure|Although we have different personalities, we get on well.
-I'd like to spend more time with ...|Tôi muốn dành nhiều thời gian hơn bên ...|structure|I'd like to spend more time with my grandparents.
+an only child|con một|||noun_phrase
+a close-knit family|gia đình gắn bó khăng khít|||noun_phrase
+take after someone|giống một người thân về ngoại hình hoặc tính cách|||phrasal_verb
+have a lot in common|có nhiều điểm chung|||verb_phrase
+support each other|hỗ trợ lẫn nhau|||verb_phrase
+share household chores|chia sẻ việc nhà|||verb_phrase
+spend quality time with|dành thời gian trọn vẹn, có ý nghĩa bên ai|||verb_phrase
+turn to someone for advice|tìm đến ai để xin lời khuyên|||verb_phrase
+I come from a ... family.|Tôi xuất thân từ một gia đình ...|structure|I come from a close-knit family of four.|sentence_pattern
+I'm closest to ... because ...|Tôi thân nhất với ... vì ...|structure|I'm closest to my sister because she always listens to me.|sentence_pattern
+We usually ..., especially at weekends.|Chúng tôi thường ..., nhất là cuối tuần.|structure|We usually cook together, especially at weekends.|sentence_pattern
+Although we have different personalities, ...|Mặc dù có tính cách khác nhau, ...|structure|Although we have different personalities, we get on well.|sentence_pattern
+I'd like to spend more time with ...|Tôi muốn dành nhiều thời gian hơn bên ...|structure|I'd like to spend more time with my grandparents.|sentence_pattern
 @writing|Processes, equipment and materials|SB pp. 12–15; TB pp. 13–15
-describe a process|mô tả một quy trình
-stages in the production of|các giai đoạn trong việc sản xuất
-stringhoppers|món mì sợi nhỏ từ bột gạo của Sri Lanka
-rice grinder|máy xay gạo
-stringhopper press|dụng cụ ép sợi mì stringhopper
-stringhopper mats|vỉ hoặc khay đỡ các vắt mì stringhopper
-a piece of equipment|một thiết bị; một dụng cụ
-handles|tay cầm
-base|phần đế
-tray|khay
-metal|kim loại
-plastic|nhựa
-wood|gỗ
-cloth|vải
-round|hình tròn
-square|hình vuông
-triangular|có hình tam giác
-rectangular|có hình chữ nhật
-shallow baskets|những chiếc rổ nông
-a criss-cross pattern|hoa văn đan chéo
-grind into flour|xay thành bột
-mix with water|trộn với nước
-form a dough|tạo thành khối bột nhào
-push through|ép qua
-place onto|đặt lên trên
-cook in a steamer|nấu trong nồi hấp
-serve with spicy curries|dùng kèm các món cà ri cay
-cherry jam|mứt anh đào
-spread a sheet|trải một tấm bạt hoặc tấm vải
-a mechanical arm|một cánh tay cơ khí
-transport by lorry|vận chuyển bằng xe tải
-processing plant|nhà máy chế biến
-remove the leaves and stems|loại bỏ lá và cuống
-take out the stone|lấy hạt cứng ra
-metal spike|que nhọn bằng kim loại
-add ingredients|thêm nguyên liệu
-lemon juice|nước cốt chanh
-pectin|pectin: chất giúp mứt đông lại
-check the quality|kiểm tra chất lượng
-put into jars|cho vào lọ
-put a lid on|đậy nắp
-keep the jam fresh|giữ mứt tươi ngon
-add a label|gắn nhãn
-ready to be sold|sẵn sàng được bán
+describe a process|mô tả một quy trình|||verb_phrase
+stages in the production of|các giai đoạn trong việc sản xuất|||noun_phrase
+stringhoppers|món mì sợi nhỏ từ bột gạo của Sri Lanka|||noun
+rice grinder|máy xay gạo|||noun_phrase
+stringhopper press|dụng cụ ép sợi mì stringhopper|||noun_phrase
+stringhopper mats|vỉ hoặc khay đỡ các vắt mì stringhopper|||noun_phrase
+a piece of equipment|một thiết bị; một dụng cụ|||noun_phrase
+handles|tay cầm|||noun
+base|phần đế|||noun
+tray|khay|||noun
+metal|kim loại|||noun
+plastic|nhựa|||noun
+wood|gỗ|||noun
+cloth|vải|||noun
+round|hình tròn|||adjective
+square|hình vuông|||adjective
+triangular|có hình tam giác|||adjective
+rectangular|có hình chữ nhật|||adjective
+shallow baskets|những chiếc rổ nông|||noun_phrase
+a criss-cross pattern|hoa văn đan chéo|||noun_phrase
+grind into flour|xay thành bột|||verb_phrase
+mix with water|trộn với nước|||verb_phrase
+form a dough|tạo thành khối bột nhào|||verb_phrase
+push through|ép qua|||verb_phrase
+place onto|đặt lên trên|||verb_phrase
+cook in a steamer|nấu trong nồi hấp|||verb_phrase
+serve with spicy curries|dùng kèm các món cà ri cay|||verb_phrase
+cherry jam|mứt anh đào|||noun_phrase
+spread a sheet|trải một tấm bạt hoặc tấm vải|||verb_phrase
+a mechanical arm|một cánh tay cơ khí|||noun_phrase
+transport by lorry|vận chuyển bằng xe tải|||verb_phrase
+processing plant|nhà máy chế biến|||noun_phrase
+remove the leaves and stems|loại bỏ lá và cuống|||verb_phrase
+take out the stone|lấy hạt cứng ra|||verb_phrase
+metal spike|que nhọn bằng kim loại|||noun_phrase
+add ingredients|thêm nguyên liệu|||verb_phrase
+lemon juice|nước cốt chanh|||noun_phrase
+pectin|pectin: chất giúp mứt đông lại|||noun
+check the quality|kiểm tra chất lượng|||verb_phrase
+put into jars|cho vào lọ|||verb_phrase
+put a lid on|đậy nắp|||verb_phrase
+keep the jam fresh|giữ mứt tươi ngon|||verb_phrase
+add a label|gắn nhãn|||verb_phrase
+ready to be sold|sẵn sàng được bán|||adjective_phrase
 @writing|Sequencing and passive process frames|Bổ sung theo mục tiêu SB pp. 12–15 / TB pp. 13–15
-first / next / then / finally|đầu tiên / tiếp theo / sau đó / cuối cùng
-after that|sau đó
-at the next stage|ở giai đoạn tiếp theo
-the final stage|giai đoạn cuối cùng
-be followed by|được tiếp nối bởi
-undergo several stages|trải qua nhiều giai đoạn
-The diagram illustrates how ... is produced.|Sơ đồ minh họa cách ... được sản xuất.|structure|The diagram illustrates how cherry jam is produced.
-Overall, the process consists of ... main stages.|Nhìn chung, quy trình gồm ... giai đoạn chính.|structure|Overall, the process consists of nine main stages.
-The process begins with ... and ends with ...|Quy trình bắt đầu bằng ... và kết thúc bằng ...|structure|The process begins with collecting fruit and ends with labelling jars.
-S + is/are + past participle|Cấu trúc hiện tại đơn bị động để mô tả quy trình.|structure|The fruit is washed before it is cooked.
-Once ... has been ..., it is ...|Sau khi ... đã được ..., nó được ...|structure|Once the jam has been cooked, it is poured into jars.
-Before being ..., ... is ...|Trước khi được ..., ... được ...|structure|Before being sold, the jam is checked for quality.
+first / next / then / finally|đầu tiên / tiếp theo / sau đó / cuối cùng|||adverb
+after that|sau đó|||prepositional_phrase
+at the next stage|ở giai đoạn tiếp theo|||prepositional_phrase
+the final stage|giai đoạn cuối cùng|||noun_phrase
+be followed by|được tiếp nối bởi|||verb_phrase
+undergo several stages|trải qua nhiều giai đoạn|||verb_phrase
+The diagram illustrates how ... is produced.|Sơ đồ minh họa cách ... được sản xuất.|structure|The diagram illustrates how cherry jam is produced.|sentence_pattern
+Overall, the process consists of ... main stages.|Nhìn chung, quy trình gồm ... giai đoạn chính.|structure|Overall, the process consists of nine main stages.|sentence_pattern
+The process begins with ... and ends with ...|Quy trình bắt đầu bằng ... và kết thúc bằng ...|structure|The process begins with collecting fruit and ends with labelling jars.|sentence_pattern
+S + is/are + past participle|Cấu trúc hiện tại đơn bị động để mô tả quy trình.|structure|The fruit is washed before it is cooked.|sentence_pattern
+Once ... has been ..., it is ...|Sau khi ... đã được ..., nó được ...|structure|Once the jam has been cooked, it is poured into jars.|sentence_pattern
+Before being ..., ... is ...|Trước khi được ..., ... được ...|structure|Before being sold, the jam is checked for quality.|sentence_pattern

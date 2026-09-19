@@ -1,279 +1,279 @@
 @reading|Globalisation of education|SB pp. 45–47; TB pp. 29–30
-globalisation|toàn cầu hóa
-affect|ảnh hưởng đến
-aspects of our lives|các khía cạnh của cuộc sống
-distance learning|học từ xa
-attend a college|theo học một trường cao đẳng
-blended learning|học kết hợp trực tiếp và trực tuyến
-in a traditional way|theo cách truyền thống
-via email|qua thư điện tử
-lifelong learning|học tập suốt đời
-working lives|quãng đời làm việc
-retirement|thời kỳ nghỉ hưu
-webinars|hội thảo trực tuyến
-online seminars|các buổi chuyên đề trực tuyến
-get a qualification|đạt được bằng cấp; chứng chỉ
-give up work|ngừng làm việc
-disrupt family life|làm xáo trộn cuộc sống gia đình
-benefit from|hưởng lợi từ
-degree programmes|các chương trình đào tạo cấp bằng
-employers|người sử dụng lao động
-a valuable opportunity|một cơ hội quý giá
-internationally recognised degree|bằng cấp được quốc tế công nhận
-at a much cheaper price|với chi phí thấp hơn nhiều
-go abroad|ra nước ngoài
-improve their chances of|nâng cao cơ hội của họ trong việc
-world-class degrees|bằng cấp có chất lượng hàng đầu thế giới
-access to ideas and knowledge|khả năng tiếp cận ý tưởng và kiến thức
-international students|sinh viên quốc tế
-enrich|làm phong phú thêm
-developing countries|các nước đang phát triển
-the elite|tầng lớp tinh hoa; nhóm giàu có, có đặc quyền
-rural areas|vùng nông thôn
-primary education|giáo dục tiểu học
-reliable internet connections|kết nối internet ổn định
-own a computer|sở hữu máy tính
-westernisation|sự Tây phương hóa
-local knowledge|tri thức địa phương
-treat every culture with respect|tôn trọng mọi nền văn hóa
-approaches|các cách tiếp cận
-the flow of ideas and information|dòng trao đổi ý tưởng và thông tin
-educational institutions|các cơ sở giáo dục
-change their focus|thay đổi trọng tâm
-overseas students|sinh viên nước ngoài
-compete for|cạnh tranh để có được
-strategies|các chiến lược
-education fairs|các hội chợ giáo dục
-publicity material|tài liệu quảng bá
-advertisements|các quảng cáo
-emphasis on|sự chú trọng vào
-customer care|chăm sóc khách hàng
-settle in|thích nghi với môi trường mới
-academic culture|văn hóa học thuật
-host country|nước sở tại
-developed countries|các nước phát triển
-leave ... behind|bỏ ... lại phía sau
+globalisation|toàn cầu hóa|||noun
+affect|ảnh hưởng đến|||verb
+aspects of our lives|các khía cạnh của cuộc sống|||noun_phrase
+distance learning|học từ xa|||noun_phrase
+attend a college|theo học một trường cao đẳng|||verb_phrase
+blended learning|học kết hợp trực tiếp và trực tuyến|||noun_phrase
+in a traditional way|theo cách truyền thống|||prepositional_phrase
+via email|qua thư điện tử|||prepositional_phrase
+lifelong learning|học tập suốt đời|||noun_phrase
+working lives|quãng đời làm việc|||noun_phrase
+retirement|thời kỳ nghỉ hưu|||noun
+webinars|hội thảo trực tuyến|||noun
+online seminars|các buổi chuyên đề trực tuyến|||noun_phrase
+get a qualification|đạt được bằng cấp; chứng chỉ|||verb_phrase
+give up work|ngừng làm việc|||verb_phrase
+disrupt family life|làm xáo trộn cuộc sống gia đình|||verb_phrase
+benefit from|hưởng lợi từ|||verb_phrase
+degree programmes|các chương trình đào tạo cấp bằng|||noun_phrase
+employers|người sử dụng lao động|||noun
+a valuable opportunity|một cơ hội quý giá|||noun_phrase
+internationally recognised degree|bằng cấp được quốc tế công nhận|||noun_phrase
+at a much cheaper price|với chi phí thấp hơn nhiều|||prepositional_phrase
+go abroad|ra nước ngoài|||verb_phrase
+improve their chances of|nâng cao cơ hội của họ trong việc|||verb_phrase
+world-class degrees|bằng cấp có chất lượng hàng đầu thế giới|||noun_phrase
+access to ideas and knowledge|khả năng tiếp cận ý tưởng và kiến thức|||noun_phrase
+international students|sinh viên quốc tế|||noun_phrase
+enrich|làm phong phú thêm|||verb
+developing countries|các nước đang phát triển|||noun_phrase
+the elite|tầng lớp tinh hoa; nhóm giàu có, có đặc quyền|||noun_phrase
+rural areas|vùng nông thôn|||noun_phrase
+primary education|giáo dục tiểu học|||noun_phrase
+reliable internet connections|kết nối internet ổn định|||noun_phrase
+own a computer|sở hữu máy tính|||verb_phrase
+westernisation|sự Tây phương hóa|||noun
+local knowledge|tri thức địa phương|||noun_phrase
+treat every culture with respect|tôn trọng mọi nền văn hóa|||verb_phrase
+approaches|các cách tiếp cận|||noun
+the flow of ideas and information|dòng trao đổi ý tưởng và thông tin|||noun_phrase
+educational institutions|các cơ sở giáo dục|||noun_phrase
+change their focus|thay đổi trọng tâm|||verb_phrase
+overseas students|sinh viên nước ngoài|||noun_phrase
+compete for|cạnh tranh để có được|||verb_phrase
+strategies|các chiến lược|||noun
+education fairs|các hội chợ giáo dục|||noun_phrase
+publicity material|tài liệu quảng bá|||noun_phrase
+advertisements|các quảng cáo|||noun
+emphasis on|sự chú trọng vào|||noun_phrase
+customer care|chăm sóc khách hàng|||noun_phrase
+settle in|thích nghi với môi trường mới|||phrasal_verb
+academic culture|văn hóa học thuật|||noun_phrase
+host country|nước sở tại|||noun_phrase
+developed countries|các nước phát triển|||noun_phrase
+leave ... behind|bỏ ... lại phía sau|||phrasal_verb
 @reading|Work-based learning|SB p. 48; TB p. 30
-work-based learning|học tập gắn với công việc
-a trend towards|xu hướng hướng tới
-a closer connection|mối liên hệ chặt chẽ hơn
-school leavers|học sinh vừa rời trường phổ thông
-be well prepared|được chuẩn bị tốt
-do well at work|làm việc tốt
-apprenticeships|các chương trình học nghề qua thực hành
-an expert|một chuyên gia; người thành thạo
-trades|các nghề thủ công hoặc kỹ thuật
-electricians|thợ điện
-at all levels|ở mọi cấp độ
-grammar schools|trường trung học tuyển sinh theo năng lực ở Anh
-technical schools|trường kỹ thuật
-work-based subjects|các môn học gắn với nghề nghiệp
-in practice|trên thực tế
-academic and non-academic|thiên về học thuật và không thiên về học thuật
-produce good results|mang lại kết quả tốt
-an equal system|một hệ thống công bằng
-vocational qualifications|bằng cấp nghề
-certificates|các chứng chỉ
-practical skills|kỹ năng thực hành
-quality training|đào tạo có chất lượng
-practical experience|kinh nghiệm thực tế
-specialised qualifications|bằng cấp chuyên biệt
-partnerships|các quan hệ hợp tác
-Masters|bậc thạc sĩ
-doctorate level|bậc tiến sĩ
-deliver a course online|giảng dạy khóa học trực tuyến
-miss work|nghỉ làm; vắng mặt ở nơi làm việc
-retired employees|những người lao động đã nghỉ hưu
-tutors|người hướng dẫn học tập; gia sư
-mentors|người cố vấn
-coaches|người huấn luyện
-fields such as nursing|các lĩnh vực như điều dưỡng
-careers|các nghề nghiệp
-lecturers|giảng viên
-work experience|kinh nghiệm làm việc
-at different stages of their lives|ở các giai đoạn khác nhau của cuộc đời
+work-based learning|học tập gắn với công việc|||noun_phrase
+a trend towards|xu hướng hướng tới|||noun_phrase
+a closer connection|mối liên hệ chặt chẽ hơn|||noun_phrase
+school leavers|học sinh vừa rời trường phổ thông|||noun_phrase
+be well prepared|được chuẩn bị tốt|||verb_phrase
+do well at work|làm việc tốt|||verb_phrase
+apprenticeships|các chương trình học nghề qua thực hành|||noun
+an expert|một chuyên gia; người thành thạo|||noun_phrase
+trades|các nghề thủ công hoặc kỹ thuật|||noun
+electricians|thợ điện|||noun
+at all levels|ở mọi cấp độ|||prepositional_phrase
+grammar schools|trường trung học tuyển sinh theo năng lực ở Anh|||noun_phrase
+technical schools|trường kỹ thuật|||noun_phrase
+work-based subjects|các môn học gắn với nghề nghiệp|||noun_phrase
+in practice|trên thực tế|||prepositional_phrase
+academic and non-academic|thiên về học thuật và không thiên về học thuật|||adjective_phrase
+produce good results|mang lại kết quả tốt|||verb_phrase
+an equal system|một hệ thống công bằng|||noun_phrase
+vocational qualifications|bằng cấp nghề|||noun_phrase
+certificates|các chứng chỉ|||noun
+practical skills|kỹ năng thực hành|||noun_phrase
+quality training|đào tạo có chất lượng|||noun_phrase
+practical experience|kinh nghiệm thực tế|||noun_phrase
+specialised qualifications|bằng cấp chuyên biệt|||noun_phrase
+partnerships|các quan hệ hợp tác|||noun
+Masters|bậc thạc sĩ|||noun
+doctorate level|bậc tiến sĩ|||noun_phrase
+deliver a course online|giảng dạy khóa học trực tuyến|||verb_phrase
+miss work|nghỉ làm; vắng mặt ở nơi làm việc|||verb_phrase
+retired employees|những người lao động đã nghỉ hưu|||noun_phrase
+tutors|người hướng dẫn học tập; gia sư|||noun
+mentors|người cố vấn|||noun
+coaches|người huấn luyện|||noun
+fields such as nursing|các lĩnh vực như điều dưỡng|||noun_phrase
+careers|các nghề nghiệp|||noun
+lecturers|giảng viên|||noun
+work experience|kinh nghiệm làm việc|||noun_phrase
+at different stages of their lives|ở các giai đoạn khác nhau của cuộc đời|||prepositional_phrase
 @listening|A new job in a department store|SB scripts pp. 180–181, tracks 26–27; TB pp. 33–34
-take a seat|mời ngồi
-delighted|rất vui mừng
-store assistant|nhân viên bán hàng
-look forward to the challenge|mong chờ thử thách sắp tới
-finish a course|hoàn thành một khóa học
-information technology|công nghệ thông tin
-computing and phones section|khu máy tính và điện thoại
-department store|cửa hàng bách hóa
-audio equipment|thiết bị âm thanh
-be based in|làm việc tại; được bố trí ở
-a wider range of|nhiều loại ... đa dạng hơn
-computer equipment|thiết bị máy tính
-smart watches|đồng hồ thông minh
-attract customers|thu hút khách hàng
-a completely new look|diện mạo hoàn toàn mới
-rename|đổi tên
-be known as|được gọi là
-move on|chuyển sang phần tiếp theo
+take a seat|mời ngồi|||verb_phrase
+delighted|rất vui mừng|||adjective
+store assistant|nhân viên bán hàng|||noun_phrase
+look forward to the challenge|mong chờ thử thách sắp tới|||verb_phrase
+finish a course|hoàn thành một khóa học|||verb_phrase
+information technology|công nghệ thông tin|||noun_phrase
+computing and phones section|khu máy tính và điện thoại|||noun_phrase
+department store|cửa hàng bách hóa|||noun_phrase
+audio equipment|thiết bị âm thanh|||noun_phrase
+be based in|làm việc tại; được bố trí ở|||verb_phrase
+a wider range of|nhiều loại ... đa dạng hơn|||noun_phrase
+computer equipment|thiết bị máy tính|||noun_phrase
+smart watches|đồng hồ thông minh|||noun_phrase
+attract customers|thu hút khách hàng|||verb_phrase
+a completely new look|diện mạo hoàn toàn mới|||noun_phrase
+rename|đổi tên|||verb
+be known as|được gọi là|||verb_phrase
+move on|chuyển sang phần tiếp theo|||phrasal_verb
 @listening|Booking a food photography course|SB scripts pp. 180–181, tracks 26, 28; TB pp. 33–35
-book a place|đăng ký giữ một chỗ
-food photography|nhiếp ảnh món ăn
-food technology|công nghệ thực phẩm
-in luck|gặp may
-spaces left|những chỗ còn lại
-take bookings|nhận đăng ký; nhận đặt chỗ
-limited to twelve participants|giới hạn ở mười hai người tham gia
-check the details|kiểm tra thông tin chi tiết
-leaflet|tờ thông tin; tờ rơi
-an early start|việc bắt đầu từ sớm
-a couple of hours|khoảng hai giờ
-according to|theo như
-digital camera|máy ảnh kỹ thuật số
-the basics of|kiến thức cơ bản về
-camera angles|các góc chụp
-close-up shots|ảnh chụp cận cảnh
-wide-angle shots|ảnh chụp góc rộng
-shots taken from above|ảnh chụp từ trên xuống
-edit pictures|chỉnh sửa ảnh
-the purpose of the workshop|mục đích của buổi học thực hành
-in the first place|ngay từ đầu
-hands-on session|buổi học thực hành trực tiếp
-on location|tại địa điểm thực tế
-just round the corner|ở ngay gần đó
-have the opportunity to|có cơ hội làm gì
-practise taking photographs|luyện chụp ảnh
-a practical course|một khóa học thực hành
-the full fee|toàn bộ học phí
-a light lunch|bữa trưa nhẹ
-refreshments|đồ ăn nhẹ và thức uống
-bring along|mang theo
-drinks and snacks|đồ uống và đồ ăn vặt
-confirm your place|xác nhận chỗ đăng ký của bạn
+book a place|đăng ký giữ một chỗ|||verb_phrase
+food photography|nhiếp ảnh món ăn|||noun_phrase
+food technology|công nghệ thực phẩm|||noun_phrase
+in luck|gặp may|||prepositional_phrase
+spaces left|những chỗ còn lại|||noun_phrase
+take bookings|nhận đăng ký; nhận đặt chỗ|||verb_phrase
+limited to twelve participants|giới hạn ở mười hai người tham gia|||participle_phrase
+check the details|kiểm tra thông tin chi tiết|||verb_phrase
+leaflet|tờ thông tin; tờ rơi|||noun
+an early start|việc bắt đầu từ sớm|||noun_phrase
+a couple of hours|khoảng hai giờ|||noun_phrase
+according to|theo như|||preposition
+digital camera|máy ảnh kỹ thuật số|||noun_phrase
+the basics of|kiến thức cơ bản về|||noun_phrase
+camera angles|các góc chụp|||noun_phrase
+close-up shots|ảnh chụp cận cảnh|||noun_phrase
+wide-angle shots|ảnh chụp góc rộng|||noun_phrase
+shots taken from above|ảnh chụp từ trên xuống|||noun_phrase
+edit pictures|chỉnh sửa ảnh|||verb_phrase
+the purpose of the workshop|mục đích của buổi học thực hành|||noun_phrase
+in the first place|ngay từ đầu|||prepositional_phrase
+hands-on session|buổi học thực hành trực tiếp|||noun_phrase
+on location|tại địa điểm thực tế|||prepositional_phrase
+just round the corner|ở ngay gần đó|||prepositional_phrase
+have the opportunity to|có cơ hội làm gì|||verb_phrase
+practise taking photographs|luyện chụp ảnh|||verb_phrase
+a practical course|một khóa học thực hành|||noun_phrase
+the full fee|toàn bộ học phí|||noun_phrase
+a light lunch|bữa trưa nhẹ|||noun_phrase
+refreshments|đồ ăn nhẹ và thức uống|||noun
+bring along|mang theo|||phrasal_verb
+drinks and snacks|đồ uống và đồ ăn vặt|||noun_phrase
+confirm your place|xác nhận chỗ đăng ký của bạn|||verb_phrase
 @speaking|Work, study and feelings|SB pp. 58–61, tracks 29–30; TB pp. 35–36
-emergency services|các lực lượng ứng cứu khẩn cấp
-farming|nghề nông
-research and development|nghiên cứu và phát triển
-entertainment|ngành giải trí
-travel and transport|đi lại và vận tải
-tourism|ngành du lịch
-feel amazed|cảm thấy kinh ngạc
-an amazing job|một công việc tuyệt vời
-feel thrilled|cảm thấy rất hào hứng
-a thrilling experience|một trải nghiệm đầy phấn khích
-feel bored|cảm thấy chán
-a boring task|một nhiệm vụ nhàm chán
-feel challenged|cảm thấy được thử thách
-a challenging job|một công việc đầy thử thách
-feel fascinated|cảm thấy rất hứng thú
-a fascinating subject|một môn học hấp dẫn
-feel tired|cảm thấy mệt
-a tiring day|một ngày mệt mỏi
-feel embarrassed|cảm thấy ngượng ngùng
-an embarrassing experience|một trải nghiệm gây ngượng ngùng
-give a presentation|thuyết trình
-in front of my colleagues|trước mặt các đồng nghiệp
-work long hours|làm việc nhiều giờ
-a part-time course|một khóa học bán thời gian
-fashion and textiles|thời trang và dệt may
-in my third year|đang học năm thứ ba
-wool and leather|len và da thuộc
-be made out of|được làm từ
-computer software|phần mềm máy tính
-create new designs|tạo các mẫu thiết kế mới
-shades of colour|các sắc độ màu
-fashion photographer|nhiếp ảnh gia thời trang
-get some experience|tích lũy kinh nghiệm
-fashion shows|các buổi trình diễn thời trang
-my dream will come true|ước mơ của tôi sẽ thành hiện thực
+emergency services|các lực lượng ứng cứu khẩn cấp|||noun_phrase
+farming|nghề nông|||noun
+research and development|nghiên cứu và phát triển|||noun_phrase
+entertainment|ngành giải trí|||noun
+travel and transport|đi lại và vận tải|||noun_phrase
+tourism|ngành du lịch|||noun
+feel amazed|cảm thấy kinh ngạc|||verb_phrase
+an amazing job|một công việc tuyệt vời|||noun_phrase
+feel thrilled|cảm thấy rất hào hứng|||verb_phrase
+a thrilling experience|một trải nghiệm đầy phấn khích|||noun_phrase
+feel bored|cảm thấy chán|||verb_phrase
+a boring task|một nhiệm vụ nhàm chán|||noun_phrase
+feel challenged|cảm thấy được thử thách|||verb_phrase
+a challenging job|một công việc đầy thử thách|||noun_phrase
+feel fascinated|cảm thấy rất hứng thú|||verb_phrase
+a fascinating subject|một môn học hấp dẫn|||noun_phrase
+feel tired|cảm thấy mệt|||verb_phrase
+a tiring day|một ngày mệt mỏi|||noun_phrase
+feel embarrassed|cảm thấy ngượng ngùng|||verb_phrase
+an embarrassing experience|một trải nghiệm gây ngượng ngùng|||noun_phrase
+give a presentation|thuyết trình|||verb_phrase
+in front of my colleagues|trước mặt các đồng nghiệp|||prepositional_phrase
+work long hours|làm việc nhiều giờ|||verb_phrase
+a part-time course|một khóa học bán thời gian|||noun_phrase
+fashion and textiles|thời trang và dệt may|||noun_phrase
+in my third year|đang học năm thứ ba|||prepositional_phrase
+wool and leather|len và da thuộc|||noun_phrase
+be made out of|được làm từ|||verb_phrase
+computer software|phần mềm máy tính|||noun_phrase
+create new designs|tạo các mẫu thiết kế mới|||verb_phrase
+shades of colour|các sắc độ màu|||noun_phrase
+fashion photographer|nhiếp ảnh gia thời trang|||noun_phrase
+get some experience|tích lũy kinh nghiệm|||verb_phrase
+fashion shows|các buổi trình diễn thời trang|||noun_phrase
+my dream will come true|ước mơ của tôi sẽ thành hiện thực|||expression
 @speaking|Learning something new|SB pp. 62–63, track 31; TB pp. 36–37
-introduce your talk|mở đầu bài nói
-make notes|ghi chú
-cover all the points|đề cập đủ mọi ý
-I'd like to tell you about ...|Tôi muốn kể với bạn về ...|structure
-an active and sporty person|một người năng động và thích thể thao
-learn to ski|học trượt tuyết
-chair lift|ghế cáp treo
-nursery slope|dốc trượt dành cho người mới học
-fall over|ngã
-keep my balance|giữ thăng bằng
-learn in a group|học theo nhóm
-learn individually|học riêng; học cá nhân
-win a competition|thắng một cuộc thi
-a silver cup|cúp bạc
-learning experience|trải nghiệm học tập
-ski downhill|trượt tuyết xuống dốc
-for the very first time|lần đầu tiên trong đời
-feel proud of myself|cảm thấy tự hào về bản thân
-the bottom of the slope|chân dốc
+introduce your talk|mở đầu bài nói|||verb_phrase
+make notes|ghi chú|||verb_phrase
+cover all the points|đề cập đủ mọi ý|||verb_phrase
+I'd like to tell you about ...|Tôi muốn kể với bạn về ...|structure||sentence_pattern
+an active and sporty person|một người năng động và thích thể thao|||noun_phrase
+learn to ski|học trượt tuyết|||verb_phrase
+chair lift|ghế cáp treo|||noun_phrase
+nursery slope|dốc trượt dành cho người mới học|||noun_phrase
+fall over|ngã|||phrasal_verb
+keep my balance|giữ thăng bằng|||verb_phrase
+learn in a group|học theo nhóm|||verb_phrase
+learn individually|học riêng; học cá nhân|||verb_phrase
+win a competition|thắng một cuộc thi|||verb_phrase
+a silver cup|cúp bạc|||noun_phrase
+learning experience|trải nghiệm học tập|||noun_phrase
+ski downhill|trượt tuyết xuống dốc|||verb_phrase
+for the very first time|lần đầu tiên trong đời|||prepositional_phrase
+feel proud of myself|cảm thấy tự hào về bản thân|||verb_phrase
+the bottom of the slope|chân dốc|||noun_phrase
 @speaking|Useful study and experience frames|Bổ sung theo mục tiêu SB pp. 58–63; TB pp. 35–37
-I'm currently studying ... at ...|Hiện tôi đang học ... tại ...|structure|I'm currently studying business at a local university.
-The most rewarding part of my course is ...|Phần đáng quý nhất trong khóa học của tôi là ...|structure|The most rewarding part of my course is solving real problems.
-At first, I found it difficult to ...|Lúc đầu, tôi thấy khó để ...|structure|At first, I found it difficult to speak in front of others.
-With practice, I gradually became more ...|Nhờ luyện tập, tôi dần trở nên ... hơn.|structure|With practice, I gradually became more confident.
-This experience taught me how to ...|Trải nghiệm này đã dạy tôi cách ...|structure|This experience taught me how to work in a team.
-gain practical experience|tích lũy kinh nghiệm thực tế|collocation
-develop transferable skills|phát triển kỹ năng có thể áp dụng trong nhiều công việc|collocation
-step outside my comfort zone|bước ra khỏi vùng an toàn của bản thân|collocation
+I'm currently studying ... at ...|Hiện tôi đang học ... tại ...|structure|I'm currently studying business at a local university.|sentence_pattern
+The most rewarding part of my course is ...|Phần đáng quý nhất trong khóa học của tôi là ...|structure|The most rewarding part of my course is solving real problems.|sentence_pattern
+At first, I found it difficult to ...|Lúc đầu, tôi thấy khó để ...|structure|At first, I found it difficult to speak in front of others.|sentence_pattern
+With practice, I gradually became more ...|Nhờ luyện tập, tôi dần trở nên ... hơn.|structure|With practice, I gradually became more confident.|sentence_pattern
+This experience taught me how to ...|Trải nghiệm này đã dạy tôi cách ...|structure|This experience taught me how to work in a team.|sentence_pattern
+gain practical experience|tích lũy kinh nghiệm thực tế|collocation||verb_phrase
+develop transferable skills|phát triển kỹ năng có thể áp dụng trong nhiều công việc|collocation||verb_phrase
+step outside my comfort zone|bước ra khỏi vùng an toàn của bản thân|collocation||verb_phrase
 @writing|Charts: changes and education data|SB pp. 49–53; TB pp. 30–32
-line graph|biểu đồ đường
-bar chart|biểu đồ cột
-pie chart|biểu đồ tròn
-table|bảng số liệu
-an upward trend|xu hướng tăng
-a steady rise|sự gia tăng đều đặn
-rise gradually|tăng dần
-increase from ... to ...|tăng từ ... lên ...
-increase by ...|tăng thêm một lượng ...
-a decrease in|sự giảm xuống về
-a fall followed by a rise|một đợt giảm tiếp theo là một đợt tăng
-drop|giảm; sự sụt giảm
-decline|giảm; sự suy giảm
-growth|sự tăng trưởng
-throughout the period|trong suốt giai đoạn
-at all points|ở tất cả các thời điểm
-return to|trở về mức
-recent graduates|những người mới tốt nghiệp đại học
-non-graduates|những người không có bằng đại học
-unemployed|thất nghiệp
-out of work|không có việc làm
-full-time education|giáo dục toàn thời gian
-employer-funded training|đào tạo do người sử dụng lao động tài trợ
-participation|sự tham gia
-new entrants|những người mới tham gia; mới nhập học
-teacher training programmes|các chương trình đào tạo giáo viên
-percentage|tỷ lệ phần trăm
-proportion|tỷ trọng; tỷ lệ
-over a third|hơn một phần ba
-a little under a third|ít hơn một phần ba một chút
-about one in ten|khoảng một trong mười
-just under a sixth|chỉ dưới một phần sáu một chút
-in second place|ở vị trí thứ hai
-the least popular|ít phổ biến nhất
-literacy rate|tỷ lệ biết đọc, biết viết
-region and gender|vùng địa lý và giới tính
-vertical axis|trục tung
-horizontal axis|trục hoành
-make comparisons|đưa ra các so sánh
-the greatest difference|sự chênh lệch lớn nhất
+line graph|biểu đồ đường|||noun_phrase
+bar chart|biểu đồ cột|||noun_phrase
+pie chart|biểu đồ tròn|||noun_phrase
+table|bảng số liệu|||noun
+an upward trend|xu hướng tăng|||noun_phrase
+a steady rise|sự gia tăng đều đặn|||noun_phrase
+rise gradually|tăng dần|||verb_phrase
+increase from ... to ...|tăng từ ... lên ...|||sentence_pattern
+increase by ...|tăng thêm một lượng ...|||sentence_pattern
+a decrease in|sự giảm xuống về|||noun_phrase
+a fall followed by a rise|một đợt giảm tiếp theo là một đợt tăng|||noun_phrase
+drop|giảm; sự sụt giảm|||noun_verb
+decline|giảm; sự suy giảm|||noun_verb
+growth|sự tăng trưởng|||noun
+throughout the period|trong suốt giai đoạn|||prepositional_phrase
+at all points|ở tất cả các thời điểm|||prepositional_phrase
+return to|trở về mức|||verb_phrase
+recent graduates|những người mới tốt nghiệp đại học|||noun_phrase
+non-graduates|những người không có bằng đại học|||noun
+unemployed|thất nghiệp|||adjective
+out of work|không có việc làm|||prepositional_phrase
+full-time education|giáo dục toàn thời gian|||noun_phrase
+employer-funded training|đào tạo do người sử dụng lao động tài trợ|||noun_phrase
+participation|sự tham gia|||noun
+new entrants|những người mới tham gia; mới nhập học|||noun_phrase
+teacher training programmes|các chương trình đào tạo giáo viên|||noun_phrase
+percentage|tỷ lệ phần trăm|||noun
+proportion|tỷ trọng; tỷ lệ|||noun
+over a third|hơn một phần ba|||number
+a little under a third|ít hơn một phần ba một chút|||number
+about one in ten|khoảng một trong mười|||number
+just under a sixth|chỉ dưới một phần sáu một chút|||number
+in second place|ở vị trí thứ hai|||prepositional_phrase
+the least popular|ít phổ biến nhất|||adjective_phrase
+literacy rate|tỷ lệ biết đọc, biết viết|||noun_phrase
+region and gender|vùng địa lý và giới tính|||noun_phrase
+vertical axis|trục tung|||noun_phrase
+horizontal axis|trục hoành|||noun_phrase
+make comparisons|đưa ra các so sánh|||verb_phrase
+the greatest difference|sự chênh lệch lớn nhất|||noun_phrase
 @writing|Accurate data-report structures|Bổ sung theo mục tiêu SB pp. 49–53; TB pp. 30–32
-The chart compares ... in terms of ...|Biểu đồ so sánh ... xét về ...|structure|The chart compares seven regions in terms of literacy rates.
-Overall, ... showed an upward trend.|Nhìn chung, ... cho thấy xu hướng tăng.|structure|Overall, the proportion of graduates showed an upward trend.
-... accounted for ...% of the total.|... chiếm ...% tổng số.|structure|Full-time students accounted for 60% of the total.
-... remained stable at ...|... giữ ổn định ở mức ...|structure|The rate remained stable at 20%.
-... rose by ... percentage points.|... tăng thêm ... điểm phần trăm.|structure|The rate rose from 20% to 25%, an increase of five percentage points.
-... was twice as high as ...|... cao gấp đôi ...|structure|The male unemployment rate was twice as high as the female rate.
-... was higher than ..., at ...% and ...%, respectively.|... cao hơn ..., lần lượt ở mức ...% và ...%.|structure|The rate for men was higher than that for women, at 80% and 60%, respectively.
+The chart compares ... in terms of ...|Biểu đồ so sánh ... xét về ...|structure|The chart compares seven regions in terms of literacy rates.|sentence_pattern
+Overall, ... showed an upward trend.|Nhìn chung, ... cho thấy xu hướng tăng.|structure|Overall, the proportion of graduates showed an upward trend.|sentence_pattern
+... accounted for ...% of the total.|... chiếm ...% tổng số.|structure|Full-time students accounted for 60% of the total.|sentence_pattern
+... remained stable at ...|... giữ ổn định ở mức ...|structure|The rate remained stable at 20%.|sentence_pattern
+... rose by ... percentage points.|... tăng thêm ... điểm phần trăm.|structure|The rate rose from 20% to 25%, an increase of five percentage points.|sentence_pattern
+... was twice as high as ...|... cao gấp đôi ...|structure|The male unemployment rate was twice as high as the female rate.|sentence_pattern
+... was higher than ..., at ...% and ...%, respectively.|... cao hơn ..., lần lượt ở mức ...% và ...%.|structure|The rate for men was higher than that for women, at 80% and 60%, respectively.|sentence_pattern
 @speaking|Jobs and areas of study|Bổ sung ứng dụng từ SB pp. 54–55, 58–61; TB pp. 33, 35–36
-hotel and catering|ngành khách sạn và dịch vụ ăn uống
-construction|ngành xây dựng
-health care|chăm sóc sức khỏe
-sports and leisure|thể thao và giải trí
-art and design|mỹ thuật và thiết kế
-retail|ngành bán lẻ
-chef|đầu bếp
-building engineering|kỹ thuật xây dựng
-badminton coach|huấn luyện viên cầu lông
-computing|ngành máy tính; tin học
-medicine|ngành y
-graphic designer|nhà thiết kế đồ họa
-web designer|nhà thiết kế web
-shop management|quản lý cửa hàng
-fitness training|tập luyện thể lực
-not very exciting|không thú vị lắm
-interesting|thú vị
+hotel and catering|ngành khách sạn và dịch vụ ăn uống|||noun_phrase
+construction|ngành xây dựng|||noun
+health care|chăm sóc sức khỏe|||noun_phrase
+sports and leisure|thể thao và giải trí|||noun_phrase
+art and design|mỹ thuật và thiết kế|||noun_phrase
+retail|ngành bán lẻ|||noun
+chef|đầu bếp|||noun
+building engineering|kỹ thuật xây dựng|||noun_phrase
+badminton coach|huấn luyện viên cầu lông|||noun_phrase
+computing|ngành máy tính; tin học|||noun
+medicine|ngành y|||noun
+graphic designer|nhà thiết kế đồ họa|||noun_phrase
+web designer|nhà thiết kế web|||noun_phrase
+shop management|quản lý cửa hàng|||noun_phrase
+fitness training|tập luyện thể lực|||noun_phrase
+not very exciting|không thú vị lắm|||adjective_phrase
+interesting|thú vị|||adjective

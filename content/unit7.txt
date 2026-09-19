@@ -1,272 +1,272 @@
 @reading|Becoming famous through the internet|SB pp. 126–129; TB pp. 64–65
-talent|tài năng
-play an instrument|chơi một nhạc cụ
-webcam|máy quay dùng cho máy tính
-internet connection|kết nối internet
-creativity|sự sáng tạo
-hair and makeup|tạo kiểu tóc và trang điểm
-comedy|hài kịch; nội dung hài
-news and current affairs|tin tức và các vấn đề thời sự
-raise money for a charity|quyên góp tiền cho một tổ chức từ thiện
-specialist|chuyên biệt; chuyên môn
-keep tropical fish|nuôi cá nhiệt đới
-particular to one country|chỉ riêng ở một quốc gia
-upload short films|tải các đoạn phim ngắn lên
-release a video|phát hành một video
-present tips and advice|đưa ra các mẹo và lời khuyên
-how-to guides|các bài hướng dẫn cách làm
-view adverts|xem quảng cáo
-platform|nền tảng
-earn money|kiếm tiền
-original|độc đáo; có tính sáng tạo
-achieve fame|trở nên nổi tiếng
-last|kéo dài; tồn tại lâu
-communicate through short messages|giao tiếp bằng tin nhắn ngắn
-entertaining content|nội dung giải trí hấp dẫn
-put up photos|đăng ảnh lên
-photographer|nhiếp ảnh gia
-create your own blog|tạo blog riêng
-be aware of|nhận biết; nắm được
-topics and issues|các chủ đề và vấn đề
-trending|đang được nhiều người quan tâm
-short extracts from videos|các đoạn trích ngắn từ video
-photo editing|chỉnh sửa ảnh
-imagination|trí tưởng tượng
-dream of|mơ ước về
-at least|ít nhất
-have their photo taken|được chụp ảnh
-have a chat|trò chuyện
+talent|tài năng|||noun
+play an instrument|chơi một nhạc cụ|||verb_phrase
+webcam|máy quay dùng cho máy tính|||noun
+internet connection|kết nối internet|||noun_phrase
+creativity|sự sáng tạo|||noun
+hair and makeup|tạo kiểu tóc và trang điểm|||noun_phrase
+comedy|hài kịch; nội dung hài|||noun
+news and current affairs|tin tức và các vấn đề thời sự|||noun_phrase
+raise money for a charity|quyên góp tiền cho một tổ chức từ thiện|||verb_phrase
+specialist|chuyên biệt; chuyên môn|||adjective
+keep tropical fish|nuôi cá nhiệt đới|||verb_phrase
+particular to one country|chỉ riêng ở một quốc gia|||adjective_phrase
+upload short films|tải các đoạn phim ngắn lên|||verb_phrase
+release a video|phát hành một video|||verb_phrase
+present tips and advice|đưa ra các mẹo và lời khuyên|||verb_phrase
+how-to guides|các bài hướng dẫn cách làm|||noun_phrase
+view adverts|xem quảng cáo|||verb_phrase
+platform|nền tảng|||noun
+earn money|kiếm tiền|||verb_phrase
+original|độc đáo; có tính sáng tạo|||adjective
+achieve fame|trở nên nổi tiếng|||verb_phrase
+last|kéo dài; tồn tại lâu|||verb
+communicate through short messages|giao tiếp bằng tin nhắn ngắn|||verb_phrase
+entertaining content|nội dung giải trí hấp dẫn|||noun_phrase
+put up photos|đăng ảnh lên|||verb_phrase
+photographer|nhiếp ảnh gia|||noun
+create your own blog|tạo blog riêng|||verb_phrase
+be aware of|nhận biết; nắm được|||verb_phrase
+topics and issues|các chủ đề và vấn đề|||noun_phrase
+trending|đang được nhiều người quan tâm|||adjective
+short extracts from videos|các đoạn trích ngắn từ video|||noun_phrase
+photo editing|chỉnh sửa ảnh|||noun_phrase
+imagination|trí tưởng tượng|||noun
+dream of|mơ ước về|||verb_phrase
+at least|ít nhất|||prepositional_phrase
+have their photo taken|được chụp ảnh|||verb_phrase
+have a chat|trò chuyện|||verb_phrase
 @reading|Famous animals: Hachiko, Knut and Elsa|SB pp. 130–131; TB p. 65
-personality and talents|tính cách và tài năng
-rescue people|cứu người
-play a role in a war|đóng vai trò trong một cuộc chiến
-loyalty to his owner|lòng trung thành với chủ
-professor|giáo sư
-die suddenly|qua đời đột ngột
-faithful dog|chú chó trung thành
-station staff|nhân viên nhà ga
-food and treats|thức ăn và đồ thưởng cho động vật
-a ceremony|một buổi lễ
-commemorate|tưởng niệm
-polar bear|gấu Bắc Cực
-be rejected by his mother|bị mẹ bỏ rơi
-be raised by zookeepers|được nhân viên vườn thú nuôi dưỡng
-popular with the public|được công chúng yêu thích
-attendance|lượng người đến tham quan
-revenue|doanh thu
-substantial amounts of money|những khoản tiền đáng kể
-be handled by humans|được con người trực tiếp bế, chạm hoặc chăm sóc
-human contact|sự tiếp xúc với con người
-die of a virus|chết vì nhiễm vi-rút
-lioness|sư tử cái
-game warden|nhân viên bảo vệ động vật hoang dã
-defend himself|tự vệ
-feel guilty|cảm thấy có lỗi
-orphaned cubs|những con non mất mẹ
-bring them up|nuôi chúng lớn
-live in the wild|sống trong tự nhiên
-foster parents|cha mẹ nuôi
-be made into a film|được chuyển thể thành phim
-star in a film|đóng vai chính trong phim
-foundation|quỹ; tổ chức
-protect wildlife|bảo vệ động vật hoang dã
-improve conditions|cải thiện điều kiện
-zoos and circuses|các vườn thú và rạp xiếc
-hunting for sport|săn bắn để tiêu khiển
-ivory|ngà voi
-inspire us|truyền cảm hứng cho chúng ta
-human celebrities|những người nổi tiếng
-in their memory|để tưởng nhớ họ; chúng
-benefit from that fame|hưởng lợi từ sự nổi tiếng đó
+personality and talents|tính cách và tài năng|||noun_phrase
+rescue people|cứu người|||verb_phrase
+play a role in a war|đóng vai trò trong một cuộc chiến|||verb_phrase
+loyalty to his owner|lòng trung thành với chủ|||noun_phrase
+professor|giáo sư|||noun
+die suddenly|qua đời đột ngột|||verb_phrase
+faithful dog|chú chó trung thành|||noun_phrase
+station staff|nhân viên nhà ga|||noun_phrase
+food and treats|thức ăn và đồ thưởng cho động vật|||noun_phrase
+a ceremony|một buổi lễ|||noun_phrase
+commemorate|tưởng niệm|||verb
+polar bear|gấu Bắc Cực|||noun_phrase
+be rejected by his mother|bị mẹ bỏ rơi|||verb_phrase
+be raised by zookeepers|được nhân viên vườn thú nuôi dưỡng|||verb_phrase
+popular with the public|được công chúng yêu thích|||adjective_phrase
+attendance|lượng người đến tham quan|||noun
+revenue|doanh thu|||noun
+substantial amounts of money|những khoản tiền đáng kể|||noun_phrase
+be handled by humans|được con người trực tiếp bế, chạm hoặc chăm sóc|||verb_phrase
+human contact|sự tiếp xúc với con người|||noun_phrase
+die of a virus|chết vì nhiễm vi-rút|||verb_phrase
+lioness|sư tử cái|||noun
+game warden|nhân viên bảo vệ động vật hoang dã|||noun_phrase
+defend himself|tự vệ|||verb_phrase
+feel guilty|cảm thấy có lỗi|||verb_phrase
+orphaned cubs|những con non mất mẹ|||noun_phrase
+bring them up|nuôi chúng lớn|||verb_phrase
+live in the wild|sống trong tự nhiên|||verb_phrase
+foster parents|cha mẹ nuôi|||noun_phrase
+be made into a film|được chuyển thể thành phim|||verb_phrase
+star in a film|đóng vai chính trong phim|||verb_phrase
+foundation|quỹ; tổ chức|||noun
+protect wildlife|bảo vệ động vật hoang dã|||verb_phrase
+improve conditions|cải thiện điều kiện|||verb_phrase
+zoos and circuses|các vườn thú và rạp xiếc|||noun_phrase
+hunting for sport|săn bắn để tiêu khiển|||gerund_phrase
+ivory|ngà voi|||noun
+inspire us|truyền cảm hứng cho chúng ta|||verb_phrase
+human celebrities|những người nổi tiếng|||noun_phrase
+in their memory|để tưởng nhớ họ; chúng|||prepositional_phrase
+benefit from that fame|hưởng lợi từ sự nổi tiếng đó|||verb_phrase
 @listening|Rise to fame and attitudes to celebrity|SB scripts p. 186, tracks 59–60; TB p. 68
-rise to fame|quá trình trở nên nổi tiếng
-from a very early age|từ khi còn rất nhỏ
-teach himself|tự học
-musical instruments|các nhạc cụ
-youngsters|người trẻ
-put in the effort|bỏ công sức
-master the drums|chơi trống thành thạo
-trumpet|kèn trumpet
-violin|đàn vi-ô-lông
-gifted|có năng khiếu
-take part in local competitions|tham gia các cuộc thi địa phương
-come second|về nhì
-post his performance|đăng phần trình diễn của anh ấy
-attract fans|thu hút người hâm mộ
-his big break|cơ hội lớn mở đường cho sự nghiệp của anh ấy
-music executive|người quản lý cấp cao trong ngành âm nhạc
-come across|tình cờ bắt gặp
-by accident|một cách tình cờ
-recognise talent|nhận ra tài năng
-recording company|công ty thu âm
-a worldwide hit|một sản phẩm rất thành công trên toàn thế giới
-shoot to fame|nổi tiếng nhanh chóng
-global superstar|siêu sao toàn cầu
-be followed by journalists|bị các nhà báo bám theo
-have a private life|có đời sống riêng tư
-acceptable|có thể chấp nhận được
-special treatment|sự đối đãi đặc biệt
-queue|xếp hàng
-private yacht|du thuyền riêng
-mansions|những biệt thự lớn
+rise to fame|quá trình trở nên nổi tiếng|||noun_phrase
+from a very early age|từ khi còn rất nhỏ|||prepositional_phrase
+teach himself|tự học|||verb_phrase
+musical instruments|các nhạc cụ|||noun_phrase
+youngsters|người trẻ|||noun
+put in the effort|bỏ công sức|||verb_phrase
+master the drums|chơi trống thành thạo|||verb_phrase
+trumpet|kèn trumpet|||noun
+violin|đàn vi-ô-lông|||noun
+gifted|có năng khiếu|||adjective
+take part in local competitions|tham gia các cuộc thi địa phương|||verb_phrase
+come second|về nhì|||verb_phrase
+post his performance|đăng phần trình diễn của anh ấy|||verb_phrase
+attract fans|thu hút người hâm mộ|||verb_phrase
+his big break|cơ hội lớn mở đường cho sự nghiệp của anh ấy|||noun_phrase
+music executive|người quản lý cấp cao trong ngành âm nhạc|||noun_phrase
+come across|tình cờ bắt gặp|||phrasal_verb
+by accident|một cách tình cờ|||prepositional_phrase
+recognise talent|nhận ra tài năng|||verb_phrase
+recording company|công ty thu âm|||noun_phrase
+a worldwide hit|một sản phẩm rất thành công trên toàn thế giới|||noun_phrase
+shoot to fame|nổi tiếng nhanh chóng|||verb_phrase
+global superstar|siêu sao toàn cầu|||noun_phrase
+be followed by journalists|bị các nhà báo bám theo|||verb_phrase
+have a private life|có đời sống riêng tư|||verb_phrase
+acceptable|có thể chấp nhận được|||adjective
+special treatment|sự đối đãi đặc biệt|||noun_phrase
+queue|xếp hàng|||verb
+private yacht|du thuyền riêng|||noun_phrase
+mansions|những biệt thự lớn|||noun
 @listening|Advice on becoming successful|SB scripts p. 186, track 61; TB p. 69
-three decades|ba thập kỷ
-a piece of advice|một lời khuyên
-focus on being good at something|tập trung vào việc làm giỏi một lĩnh vực
-learn from the experts|học từ các chuyên gia
-area of interest|lĩnh vực quan tâm
-observe carefully|quan sát kỹ
-experiment|thử nghiệm
-get yourself known|làm cho mọi người biết đến mình
-make opportunities for yourself|tự tạo cơ hội cho mình
-experience failure|trải qua thất bại
-on the road to success|trên con đường đi đến thành công
-countless times|vô số lần
-reach their end goal|đạt mục tiêu cuối cùng
-keep on trying|tiếp tục cố gắng
-regardless|bất chấp những điều khác
+three decades|ba thập kỷ|||noun_phrase
+a piece of advice|một lời khuyên|||noun_phrase
+focus on being good at something|tập trung vào việc làm giỏi một lĩnh vực|||verb_phrase
+learn from the experts|học từ các chuyên gia|||verb_phrase
+area of interest|lĩnh vực quan tâm|||noun_phrase
+observe carefully|quan sát kỹ|||verb_phrase
+experiment|thử nghiệm|||verb
+get yourself known|làm cho mọi người biết đến mình|||verb_phrase
+make opportunities for yourself|tự tạo cơ hội cho mình|||verb_phrase
+experience failure|trải qua thất bại|||verb_phrase
+on the road to success|trên con đường đi đến thành công|||prepositional_phrase
+countless times|vô số lần|||adverb_phrase
+reach their end goal|đạt mục tiêu cuối cùng|||verb_phrase
+keep on trying|tiếp tục cố gắng|||verb_phrase
+regardless|bất chấp những điều khác|||adverb
 @listening|Camcorder controls|SB scripts pp. 186–187, track 62; TB p. 69
-film-making|việc làm phim
-camcorder|máy quay video cầm tay
-automatic functions|các chức năng tự động
-a professional approach|cách tiếp cận chuyên nghiệp
-manual functions|các chức năng điều chỉnh bằng tay
-tutorial|bài hướng dẫn
-focus control|bộ điều chỉnh lấy nét
-focus ring|vòng lấy nét
-lens|ống kính
-anti-clockwise|ngược chiều kim đồng hồ
-clockwise|theo chiều kim đồng hồ
-a distant focus|điểm lấy nét ở xa
-iris ring|vòng điều chỉnh khẩu độ
-adjustable opening|lỗ mở có thể điều chỉnh
-aperture|khẩu độ
-let more light into the shot|cho thêm ánh sáng vào khuôn hình
-zoom function|chức năng thu phóng
-over-used|bị sử dụng quá mức
-in moderation|ở mức vừa phải
-perspective|góc nhìn
-subject|đối tượng được quay hoặc chụp
-tripod|chân máy ba chân
+film-making|việc làm phim|||noun
+camcorder|máy quay video cầm tay|||noun
+automatic functions|các chức năng tự động|||noun_phrase
+a professional approach|cách tiếp cận chuyên nghiệp|||noun_phrase
+manual functions|các chức năng điều chỉnh bằng tay|||noun_phrase
+tutorial|bài hướng dẫn|||noun
+focus control|bộ điều chỉnh lấy nét|||noun_phrase
+focus ring|vòng lấy nét|||noun_phrase
+lens|ống kính|||noun
+anti-clockwise|ngược chiều kim đồng hồ|||adverb
+clockwise|theo chiều kim đồng hồ|||adverb
+a distant focus|điểm lấy nét ở xa|||noun_phrase
+iris ring|vòng điều chỉnh khẩu độ|||noun_phrase
+adjustable opening|lỗ mở có thể điều chỉnh|||noun_phrase
+aperture|khẩu độ|||noun
+let more light into the shot|cho thêm ánh sáng vào khuôn hình|||verb_phrase
+zoom function|chức năng thu phóng|||noun_phrase
+over-used|bị sử dụng quá mức|||participle_phrase
+in moderation|ở mức vừa phải|||prepositional_phrase
+perspective|góc nhìn|||noun
+subject|đối tượng được quay hoặc chụp|||noun
+tripod|chân máy ba chân|||noun
 @listening|Making a short film|SB scripts p. 187, track 63; TB p. 70
-bursting with great ideas|tràn đầy ý tưởng hay
-come up with an idea|nghĩ ra một ý tưởng
-suit the talents of the group|phù hợp với năng khiếu của nhóm
-animation|phim hoạt hình; kỹ thuật hoạt hình
-characters|các nhân vật
-plot|cốt truyện
-ambitious|tham vọng; đặt mục tiêu cao
-complicated|phức tạp
-basic concept|ý tưởng cơ bản
-fill in the details|bổ sung chi tiết
-keep a notebook|mang theo; giữ một cuốn sổ ghi chép
-screenplay|kịch bản phim
-a series of scenes|một chuỗi cảnh phim
-script|kịch bản; lời thoại
-the lines the actors will speak|những câu thoại diễn viên sẽ nói
-camera movements|các chuyển động của máy quay
-give directions to actors|đưa chỉ dẫn cho diễn viên
-storyboard|bảng phân cảnh
-comic-book version|phiên bản truyện tranh
-speech balloons|bong bóng lời thoại
-appoint a director|chọn một đạo diễn
-a good communicator|người giao tiếp hiệu quả
-the key link|mắt xích kết nối chính
-have responsibility for|chịu trách nhiệm về
-the creative side|khía cạnh sáng tạo
-have the final say|có quyền quyết định cuối cùng
-cast your film|tuyển diễn viên cho phim
-rely on|dựa vào
-advertise on social media|đăng quảng cáo trên mạng xã hội
-spare a couple of hours|dành ra vài giờ
-assign jobs|phân công công việc
-director of photography|đạo diễn hình ảnh
-operate the camera|vận hành máy quay
-in charge of|phụ trách
-costumes and props|trang phục và đạo cụ
-hair and make-up|làm tóc và trang điểm
+bursting with great ideas|tràn đầy ý tưởng hay|||adjective_phrase
+come up with an idea|nghĩ ra một ý tưởng|||verb_phrase
+suit the talents of the group|phù hợp với năng khiếu của nhóm|||verb_phrase
+animation|phim hoạt hình; kỹ thuật hoạt hình|||noun
+characters|các nhân vật|||noun
+plot|cốt truyện|||noun
+ambitious|tham vọng; đặt mục tiêu cao|||adjective
+complicated|phức tạp|||adjective
+basic concept|ý tưởng cơ bản|||noun_phrase
+fill in the details|bổ sung chi tiết|||verb_phrase
+keep a notebook|mang theo; giữ một cuốn sổ ghi chép|||verb_phrase
+screenplay|kịch bản phim|||noun
+a series of scenes|một chuỗi cảnh phim|||noun_phrase
+script|kịch bản; lời thoại|||noun
+the lines the actors will speak|những câu thoại diễn viên sẽ nói|||noun_phrase
+camera movements|các chuyển động của máy quay|||noun_phrase
+give directions to actors|đưa chỉ dẫn cho diễn viên|||verb_phrase
+storyboard|bảng phân cảnh|||noun
+comic-book version|phiên bản truyện tranh|||noun_phrase
+speech balloons|bong bóng lời thoại|||noun_phrase
+appoint a director|chọn một đạo diễn|||verb_phrase
+a good communicator|người giao tiếp hiệu quả|||noun_phrase
+the key link|mắt xích kết nối chính|||noun_phrase
+have responsibility for|chịu trách nhiệm về|||verb_phrase
+the creative side|khía cạnh sáng tạo|||noun_phrase
+have the final say|có quyền quyết định cuối cùng|||verb_phrase
+cast your film|tuyển diễn viên cho phim|||verb_phrase
+rely on|dựa vào|||verb_phrase
+advertise on social media|đăng quảng cáo trên mạng xã hội|||verb_phrase
+spare a couple of hours|dành ra vài giờ|||verb_phrase
+assign jobs|phân công công việc|||verb_phrase
+director of photography|đạo diễn hình ảnh|||noun_phrase
+operate the camera|vận hành máy quay|||verb_phrase
+in charge of|phụ trách|||prepositional_phrase
+costumes and props|trang phục và đạo cụ|||noun_phrase
+hair and make-up|làm tóc và trang điểm|||noun_phrase
 @speaking|Describing someone you admire|SB pp. 142–145, tracks 64–65; TB pp. 70–72
-brave|dũng cảm
-brilliant|xuất sắc
-charming|duyên dáng; có sức hút
-cruel|độc ác
-experienced|có kinh nghiệm
-expert|thành thạo; chuyên gia
-generous|hào phóng
-honest|trung thực
-powerful|có quyền lực; có ảnh hưởng
-professional|chuyên nghiệp
-talented|có tài năng
-computer programmer|lập trình viên máy tính
-operating system|hệ điều hành
-come out|được phát hành; ra mắt
-be responsible for|chịu trách nhiệm về; là người tạo ra
-at a price families can afford|với mức giá các gia đình có thể chi trả
-self-made billionaire|tỷ phú tự gây dựng sự nghiệp
-give money away to charity|tặng tiền cho hoạt động từ thiện
-score goals from free kicks|ghi bàn từ các cú đá phạt
-good looks|ngoại hình đẹp
-adore|rất yêu mến; hâm mộ
-be mad about football|mê bóng đá
-hero|người hùng; thần tượng
-in spite of his fame|bất chấp sự nổi tiếng của anh ấy
-behave like a normal person|cư xử như một người bình thường
-a car breaks down|xe bị hỏng
-need a push|cần được đẩy giúp
-charity work|hoạt động từ thiện
-get millions of views|có hàng triệu lượt xem
+brave|dũng cảm|||adjective
+brilliant|xuất sắc|||adjective
+charming|duyên dáng; có sức hút|||adjective
+cruel|độc ác|||adjective
+experienced|có kinh nghiệm|||adjective
+expert|thành thạo; chuyên gia|||noun_adjective
+generous|hào phóng|||adjective
+honest|trung thực|||adjective
+powerful|có quyền lực; có ảnh hưởng|||adjective
+professional|chuyên nghiệp|||adjective
+talented|có tài năng|||adjective
+computer programmer|lập trình viên máy tính|||noun_phrase
+operating system|hệ điều hành|||noun_phrase
+come out|được phát hành; ra mắt|||phrasal_verb
+be responsible for|chịu trách nhiệm về; là người tạo ra|||verb_phrase
+at a price families can afford|với mức giá các gia đình có thể chi trả|||prepositional_phrase
+self-made billionaire|tỷ phú tự gây dựng sự nghiệp|||noun_phrase
+give money away to charity|tặng tiền cho hoạt động từ thiện|||verb_phrase
+score goals from free kicks|ghi bàn từ các cú đá phạt|||verb_phrase
+good looks|ngoại hình đẹp|||noun_phrase
+adore|rất yêu mến; hâm mộ|||verb
+be mad about football|mê bóng đá|||verb_phrase
+hero|người hùng; thần tượng|||noun
+in spite of his fame|bất chấp sự nổi tiếng của anh ấy|||prepositional_phrase
+behave like a normal person|cư xử như một người bình thường|||verb_phrase
+a car breaks down|xe bị hỏng|||expression
+need a push|cần được đẩy giúp|||verb_phrase
+charity work|hoạt động từ thiện|||noun_phrase
+get millions of views|có hàng triệu lượt xem|||verb_phrase
 @speaking|Useful celebrity-answer frames|Bổ sung theo mục tiêu SB pp. 142–145; TB pp. 70–72
-The person I admire most is ...|Người tôi ngưỡng mộ nhất là ...|structure|The person I admire most is a local athlete.
-He is best known for ...|Anh ấy nổi tiếng nhất nhờ ...|structure|He is best known for his achievements in swimming.
-What I admire about her is ...|Điều tôi ngưỡng mộ ở cô ấy là ...|structure|What I admire about her is her determination.
-Despite being famous, she ...|Mặc dù nổi tiếng, cô ấy ...|structure|Despite being famous, she treats people with respect.
-Compared with the past, celebrities now ...|So với trước đây, người nổi tiếng hiện nay ...|structure|Compared with the past, celebrities now communicate more directly with fans.
-set a good example|làm gương tốt|collocation
-a positive role model|một tấm gương tích cực|collocation
-remain down-to-earth|vẫn khiêm tốn và gần gũi|collocation
-raise awareness of a cause|nâng cao nhận thức về một vấn đề xã hội|collocation
+The person I admire most is ...|Người tôi ngưỡng mộ nhất là ...|structure|The person I admire most is a local athlete.|sentence_pattern
+He is best known for ...|Anh ấy nổi tiếng nhất nhờ ...|structure|He is best known for his achievements in swimming.|sentence_pattern
+What I admire about her is ...|Điều tôi ngưỡng mộ ở cô ấy là ...|structure|What I admire about her is her determination.|sentence_pattern
+Despite being famous, she ...|Mặc dù nổi tiếng, cô ấy ...|structure|Despite being famous, she treats people with respect.|sentence_pattern
+Compared with the past, celebrities now ...|So với trước đây, người nổi tiếng hiện nay ...|structure|Compared with the past, celebrities now communicate more directly with fans.|sentence_pattern
+set a good example|làm gương tốt|collocation||verb_phrase
+a positive role model|một tấm gương tích cực|collocation||noun_phrase
+remain down-to-earth|vẫn khiêm tốn và gần gũi|collocation||verb_phrase
+raise awareness of a cause|nâng cao nhận thức về một vấn đề xã hội|collocation||verb_phrase
 @writing|Fame, privacy and salaries|SB pp. 132–136; TB pp. 65–67
-celebrity|người nổi tiếng
-reporter|phóng viên
-blogger|người viết blog
-paparazzi|cánh săn ảnh người nổi tiếng
-fortune|khối tài sản lớn
-wealthy|giàu có
-well-known|nổi tiếng
-help good causes|hỗ trợ các hoạt động vì lợi ích cộng đồng
-make a real difference|tạo ra thay đổi thực sự
-tell lies about someone|nói dối; bịa chuyện về ai
-be affected by the pressure|bị ảnh hưởng bởi áp lực
-overwork|làm việc quá sức
-in public view|trong tầm chú ý của công chúng
-strict laws|các luật nghiêm ngặt
-ban people from taking photographs|cấm mọi người chụp ảnh
-have the right to a normal childhood|có quyền được có tuổi thơ bình thường
-child stars|ngôi sao nhí
-protect their privacy|bảo vệ sự riêng tư của họ
-fame has a price|sự nổi tiếng có cái giá của nó
-essential workers|người lao động làm các công việc thiết yếu
-receive low salaries|nhận lương thấp
-reach the top levels|đạt tới trình độ cao nhất
-reward talent|tưởng thưởng tài năng
-supply and demand|cung và cầu
-create demand|tạo ra nhu cầu
-opposing arguments|các lập luận phản đối
-supporting evidence|bằng chứng hỗ trợ
-avoid repetition|tránh lặp lại
+celebrity|người nổi tiếng|||noun
+reporter|phóng viên|||noun
+blogger|người viết blog|||noun
+paparazzi|cánh săn ảnh người nổi tiếng|||noun
+fortune|khối tài sản lớn|||noun
+wealthy|giàu có|||adjective
+well-known|nổi tiếng|||adjective
+help good causes|hỗ trợ các hoạt động vì lợi ích cộng đồng|||verb_phrase
+make a real difference|tạo ra thay đổi thực sự|||verb_phrase
+tell lies about someone|nói dối; bịa chuyện về ai|||verb_phrase
+be affected by the pressure|bị ảnh hưởng bởi áp lực|||verb_phrase
+overwork|làm việc quá sức|||verb
+in public view|trong tầm chú ý của công chúng|||prepositional_phrase
+strict laws|các luật nghiêm ngặt|||noun_phrase
+ban people from taking photographs|cấm mọi người chụp ảnh|||verb_phrase
+have the right to a normal childhood|có quyền được có tuổi thơ bình thường|||verb_phrase
+child stars|ngôi sao nhí|||noun_phrase
+protect their privacy|bảo vệ sự riêng tư của họ|||verb_phrase
+fame has a price|sự nổi tiếng có cái giá của nó|||expression
+essential workers|người lao động làm các công việc thiết yếu|||noun_phrase
+receive low salaries|nhận lương thấp|||verb_phrase
+reach the top levels|đạt tới trình độ cao nhất|||verb_phrase
+reward talent|tưởng thưởng tài năng|||verb_phrase
+supply and demand|cung và cầu|||noun_phrase
+create demand|tạo ra nhu cầu|||verb_phrase
+opposing arguments|các lập luận phản đối|||noun_phrase
+supporting evidence|bằng chứng hỗ trợ|||noun_phrase
+avoid repetition|tránh lặp lại|||verb_phrase
 @writing|Useful fame and media essay frames|Bổ sung theo mục tiêu SB pp. 132–136; TB pp. 65–67
-One benefit of being well-known is ...|Một lợi ích của việc nổi tiếng là ...|structure|One benefit of being well-known is the ability to support good causes.
-The main drawback is the loss of ...|Bất lợi chính là việc mất ...|structure|The main drawback is the loss of privacy.
-This is particularly true when ...|Điều này đặc biệt đúng khi ...|structure|This is particularly true when children are involved.
-It is often argued that ...; however, ...|Người ta thường lập luận rằng ...; tuy nhiên, ...|structure|It is often argued that fame justifies high salaries; however, essential work also deserves recognition.
-I tend to agree that ...|Tôi có xu hướng đồng ý rằng ...|structure|I tend to agree that young celebrities need greater protection.
-public interest|sự quan tâm của công chúng; lợi ích công cộng tùy ngữ cảnh|collocation
-an invasion of privacy|sự xâm phạm đời tư|collocation
-media attention|sự chú ý của truyền thông|collocation
+One benefit of being well-known is ...|Một lợi ích của việc nổi tiếng là ...|structure|One benefit of being well-known is the ability to support good causes.|sentence_pattern
+The main drawback is the loss of ...|Bất lợi chính là việc mất ...|structure|The main drawback is the loss of privacy.|sentence_pattern
+This is particularly true when ...|Điều này đặc biệt đúng khi ...|structure|This is particularly true when children are involved.|sentence_pattern
+It is often argued that ...; however, ...|Người ta thường lập luận rằng ...; tuy nhiên, ...|structure|It is often argued that fame justifies high salaries; however, essential work also deserves recognition.|sentence_pattern
+I tend to agree that ...|Tôi có xu hướng đồng ý rằng ...|structure|I tend to agree that young celebrities need greater protection.|sentence_pattern
+public interest|sự quan tâm của công chúng; lợi ích công cộng tùy ngữ cảnh|collocation||noun_phrase
+an invasion of privacy|sự xâm phạm đời tư|collocation||noun_phrase
+media attention|sự chú ý của truyền thông|collocation||noun_phrase
 @speaking|Connecting ideas about people|Bổ sung theo mục tiêu SB pp. 142–145; TB pp. 70–72
-active|năng động; tích cực
-someone who ...|một người mà ... (mệnh đề mô tả người)|structure|I admire someone who works hard and helps others.
-someone whose ...|một người có ... (chỉ quan hệ sở hữu)|structure|She is someone whose work inspires me.
-The reason why ... is that ...|Lý do ... là vì ...|structure|The reason why I admire her is that she never gives up.
-... because ...|... bởi vì ...|structure|I admire him because he is generous.
-..., but ...|..., nhưng ...|structure|She is famous, but she lives a simple life.
+active|năng động; tích cực|||adjective
+someone who ...|một người mà ... (mệnh đề mô tả người)|structure|I admire someone who works hard and helps others.|sentence_pattern
+someone whose ...|một người có ... (chỉ quan hệ sở hữu)|structure|She is someone whose work inspires me.|sentence_pattern
+The reason why ... is that ...|Lý do ... là vì ...|structure|The reason why I admire her is that she never gives up.|sentence_pattern
+... because ...|... bởi vì ...|structure|I admire him because he is generous.|sentence_pattern
+..., but ...|..., nhưng ...|structure|She is famous, but she lives a simple life.|sentence_pattern

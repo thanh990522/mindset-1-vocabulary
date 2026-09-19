@@ -1,4 +1,5 @@
-import { unitsRegistry } from "./data/units.js?v=20260918-3";
+import { unitsRegistry } from "./data/units.js?v=20260919-2";
+import { posLabels } from "./data/parts-of-speech.js?v=20260919-2";
 
 const $ = (selector) => document.querySelector(selector);
 const PAGE_SIZE = 12;
@@ -95,7 +96,7 @@ function cardHTML(word) {
   const primary = state.direction === "en" ? word.word : word.meaning;
   const originNote = word.origin === "extension" ? "Bổ sung để luyện tập theo chủ đề và mục tiêu bài học." : word.origin === "transcript" ? "Từ transcript; một số cụm được chuẩn hóa về dạng cơ bản để học." : word.origin === "passage" ? "Từ bài đọc; một số cụm được chuẩn hóa về dạng cơ bản để học." : "Ngôn ngữ trong bài học và mẫu trả lời; cụm có thể được chuẩn hóa để học.";
   return `<article class="vocab-card${learned ? " is-learned" : ""}" data-card="${word.id}">
-    <div class="card-meta"><span class="card-topic" lang="en">${escapeHTML(word.groupTitle)}</span><span class="card-kind">${labels[word.type]}</span></div>
+    <div class="card-meta"><span class="card-topic" lang="en" title="${escapeHTML(word.groupTitle)}">${escapeHTML(word.groupTitle)}</span><span class="card-pos" title="Loại từ: ${posLabels[word.pos]} · ${labels[word.type]}">${posLabels[word.pos]}</span></div>
     <button class="flip${flipped ? " is-flipped" : ""}" type="button" data-action="flip" data-id="${word.id}" aria-pressed="${flipped}" aria-label="Lật thẻ: ${escapeHTML(primary)}">
       <span class="face front" aria-hidden="${flipped}">${state.direction === "en" ? english : vietnamese}<span class="flip-hint">Nhấn để xem ${state.direction === "en" ? "nghĩa" : "từ tiếng Anh"}</span></span>
       <span class="face back" aria-hidden="${!flipped}">${state.direction === "en" ? vietnamese : english}${example}${word.origin === "extension" ? '<span class="extension-tag">Bổ sung luyện tập</span>' : ""}<span class="flip-hint">Nhấn để lật lại</span></span>

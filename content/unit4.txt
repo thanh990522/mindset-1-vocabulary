@@ -1,261 +1,261 @@
 @reading|Food culture shock|SB pp. 65–67; TB pp. 38–39
-eat with your fingers|ăn bằng tay
-rice and curry|cơm và cà ri
-form a ball|nặn thành một viên tròn
-daal|món cà ri đậu lăng
-lentil curry|cà ri đậu lăng
-fingertips|đầu ngón tay
-the palm of your hand|lòng bàn tay
-thumb|ngón tay cái
-pop it into your mouth|bỏ nhanh nó vào miệng
-attempts|những lần thử
-a disaster|một thảm họa; một lần thất bại hoàn toàn
-the Indian subcontinent|tiểu lục địa Ấn Độ
-colleagues|đồng nghiệp
-repeat the offer|nhắc lại lời mời
-be polite|lịch sự
-end up with nothing|rốt cuộc chẳng có gì
-get used to|quen với
-travel abroad|đi nước ngoài
-fast food culture|văn hóa đồ ăn nhanh
-live on junk food|sống chủ yếu bằng đồ ăn ít giá trị dinh dưỡng
-grab a sandwich|ăn vội một chiếc bánh mì kẹp
-cook fresh food|nấu thức ăn tươi
-eat as a family|ăn cùng cả gia đình
-grow their own vegetables|tự trồng rau để ăn
-keep chickens|nuôi gà
-identity|bản sắc; đặc điểm nhận dạng
-contain chemicals|chứa hóa chất
-goodness knows what else|có trời mới biết còn gì khác nữa
-a fizzy drink|đồ uống có ga
-vegetarian|người ăn chay; thuộc chế độ ăn chay
-vegetarianism|chế độ; quan niệm ăn chay
-vegans|người ăn thuần chay
-for ethical reasons|vì lý do đạo đức
-equate to prosperity|tương đương với sự sung túc
-go out for a meal|ra ngoài ăn một bữa
-alien to them|xa lạ với họ
-vegetarian products|sản phẩm dành cho người ăn chay
-food culture shock|sốc văn hóa trong ăn uống
-cereal|ngũ cốc ăn sáng
-toast|bánh mì nướng
-yoghurt|sữa chua
-steamed vegetables|rau hấp
-can't face them at breakfast|không thể nghĩ đến việc ăn chúng vào bữa sáng
+eat with your fingers|ăn bằng tay|||verb_phrase
+rice and curry|cơm và cà ri|||noun_phrase
+form a ball|nặn thành một viên tròn|||verb_phrase
+daal|món cà ri đậu lăng|||noun
+lentil curry|cà ri đậu lăng|||noun_phrase
+fingertips|đầu ngón tay|||noun
+the palm of your hand|lòng bàn tay|||noun_phrase
+thumb|ngón tay cái|||noun
+pop it into your mouth|bỏ nhanh nó vào miệng|||verb_phrase
+attempts|những lần thử|||noun
+a disaster|một thảm họa; một lần thất bại hoàn toàn|||noun_phrase
+the Indian subcontinent|tiểu lục địa Ấn Độ|||noun_phrase
+colleagues|đồng nghiệp|||noun
+repeat the offer|nhắc lại lời mời|||verb_phrase
+be polite|lịch sự|||verb_phrase
+end up with nothing|rốt cuộc chẳng có gì|||verb_phrase
+get used to|quen với|||verb_phrase
+travel abroad|đi nước ngoài|||verb_phrase
+fast food culture|văn hóa đồ ăn nhanh|||noun_phrase
+live on junk food|sống chủ yếu bằng đồ ăn ít giá trị dinh dưỡng|||verb_phrase
+grab a sandwich|ăn vội một chiếc bánh mì kẹp|||verb_phrase
+cook fresh food|nấu thức ăn tươi|||verb_phrase
+eat as a family|ăn cùng cả gia đình|||verb_phrase
+grow their own vegetables|tự trồng rau để ăn|||verb_phrase
+keep chickens|nuôi gà|||verb_phrase
+identity|bản sắc; đặc điểm nhận dạng|||noun
+contain chemicals|chứa hóa chất|||verb_phrase
+goodness knows what else|có trời mới biết còn gì khác nữa|||idiom
+a fizzy drink|đồ uống có ga|||noun_phrase
+vegetarian|người ăn chay; thuộc chế độ ăn chay|||noun_adjective
+vegetarianism|chế độ; quan niệm ăn chay|||noun
+vegans|người ăn thuần chay|||noun
+for ethical reasons|vì lý do đạo đức|||prepositional_phrase
+equate to prosperity|tương đương với sự sung túc|||verb_phrase
+go out for a meal|ra ngoài ăn một bữa|||verb_phrase
+alien to them|xa lạ với họ|||adjective_phrase
+vegetarian products|sản phẩm dành cho người ăn chay|||noun_phrase
+food culture shock|sốc văn hóa trong ăn uống|||noun_phrase
+cereal|ngũ cốc ăn sáng|||noun
+toast|bánh mì nướng|||noun
+yoghurt|sữa chua|||noun
+steamed vegetables|rau hấp|||noun_phrase
+can't face them at breakfast|không thể nghĩ đến việc ăn chúng vào bữa sáng|||verb_phrase
 @reading|Food TV: education or entertainment?|SB pp. 68–69; TB p. 39
-cookery shows|các chương trình dạy nấu ăn
-viewers|khán giả truyền hình
-complain to|phàn nàn với
-channels|các kênh truyền hình
-begin her career|bắt đầu sự nghiệp của cô ấy
-sophisticated French cuisine|ẩm thực Pháp cầu kỳ, tinh tế
-publish a collection|xuất bản một tuyển tập
-recipes|các công thức nấu ăn
-ordinary housewives|những bà nội trợ bình thường
-an instant success|thành công ngay lập tức
-humour|sự hài hước
-strong personality|cá tính mạnh mẽ
-win her great fame|đem lại danh tiếng lớn cho cô ấy
-have a bad temper|có tính nóng nảy
-use foul language|dùng lời lẽ tục tĩu
-shout at his staff|quát mắng nhân viên của anh ấy
-make mistakes|mắc lỗi
-working-class|thuộc tầng lớp lao động
-make healthy eating fashionable|khiến việc ăn lành mạnh trở thành xu hướng
-school meals|bữa ăn ở trường
-a series of shows|một loạt chương trình
-diet food|đồ ăn phục vụ chế độ giảm cân
-lose weight|giảm cân
-unhealthy food|thức ăn không lành mạnh
-a competitive element|yếu tố cạnh tranh
-entertainment|sự giải trí
-contestant|thí sinh
-be eliminated|bị loại
-judges|các giám khảo
-personalities|tính cách; cá tính
-ready-made meals|bữa ăn chế biến sẵn
-takeaway meals|đồ ăn mua mang về
-not necessarily mean|không nhất thiết có nghĩa là
-produce different results|cho ra các kết quả khác nhau
-influence viewers|ảnh hưởng đến khán giả
-influential|có sức ảnh hưởng
-restaurant-style food|đồ ăn theo phong cách nhà hàng
-have an important role to play|có vai trò quan trọng
-on a regular basis|một cách thường xuyên
-food preparation|việc chuẩn bị thức ăn
-school curriculum|chương trình học ở trường
-ensure|bảo đảm
+cookery shows|các chương trình dạy nấu ăn|||noun_phrase
+viewers|khán giả truyền hình|||noun
+complain to|phàn nàn với|||verb_phrase
+channels|các kênh truyền hình|||noun
+begin her career|bắt đầu sự nghiệp của cô ấy|||verb_phrase
+sophisticated French cuisine|ẩm thực Pháp cầu kỳ, tinh tế|||noun_phrase
+publish a collection|xuất bản một tuyển tập|||verb_phrase
+recipes|các công thức nấu ăn|||noun
+ordinary housewives|những bà nội trợ bình thường|||noun_phrase
+an instant success|thành công ngay lập tức|||noun_phrase
+humour|sự hài hước|||noun
+strong personality|cá tính mạnh mẽ|||noun_phrase
+win her great fame|đem lại danh tiếng lớn cho cô ấy|||verb_phrase
+have a bad temper|có tính nóng nảy|||verb_phrase
+use foul language|dùng lời lẽ tục tĩu|||verb_phrase
+shout at his staff|quát mắng nhân viên của anh ấy|||verb_phrase
+make mistakes|mắc lỗi|||verb_phrase
+working-class|thuộc tầng lớp lao động|||adjective
+make healthy eating fashionable|khiến việc ăn lành mạnh trở thành xu hướng|||verb_phrase
+school meals|bữa ăn ở trường|||noun_phrase
+a series of shows|một loạt chương trình|||noun_phrase
+diet food|đồ ăn phục vụ chế độ giảm cân|||noun_phrase
+lose weight|giảm cân|||verb_phrase
+unhealthy food|thức ăn không lành mạnh|||noun_phrase
+a competitive element|yếu tố cạnh tranh|||noun_phrase
+entertainment|sự giải trí|||noun
+contestant|thí sinh|||noun
+be eliminated|bị loại|||verb_phrase
+judges|các giám khảo|||noun
+personalities|tính cách; cá tính|||noun
+ready-made meals|bữa ăn chế biến sẵn|||noun_phrase
+takeaway meals|đồ ăn mua mang về|||noun_phrase
+not necessarily mean|không nhất thiết có nghĩa là|||verb_phrase
+produce different results|cho ra các kết quả khác nhau|||verb_phrase
+influence viewers|ảnh hưởng đến khán giả|||verb_phrase
+influential|có sức ảnh hưởng|||adjective
+restaurant-style food|đồ ăn theo phong cách nhà hàng|||noun_phrase
+have an important role to play|có vai trò quan trọng|||verb_phrase
+on a regular basis|một cách thường xuyên|||prepositional_phrase
+food preparation|việc chuẩn bị thức ăn|||noun_phrase
+school curriculum|chương trình học ở trường|||noun_phrase
+ensure|bảo đảm|||verb
 @listening|Planning a meal and food shopping|SB scripts pp. 181–182, tracks 32–34; TB pp. 41–42
-prepare a meal|chuẩn bị một bữa ăn
-too spicy|quá cay
-roast chicken|gà quay; gà nướng
-fairly simple to prepare|khá đơn giản để chế biến
-boil potatoes|luộc khoai tây
-serve them with fish|dọn chúng kèm với cá
-fry potatoes|chiên khoai tây
-oil|dầu ăn
-take ages|mất rất nhiều thời gian
-bake potatoes in the oven|nướng khoai tây trong lò
-strawberries|dâu tây
-cucumbers|dưa chuột
-carrots and peas|cà rốt và đậu Hà Lan
-on the way back|trên đường quay về
-cakes and pastries|bánh ngọt và bánh làm từ bột nhào
-lamb|thịt cừu
+prepare a meal|chuẩn bị một bữa ăn|||verb_phrase
+too spicy|quá cay|||adjective_phrase
+roast chicken|gà quay; gà nướng|||noun_phrase
+fairly simple to prepare|khá đơn giản để chế biến|||adjective_phrase
+boil potatoes|luộc khoai tây|||verb_phrase
+serve them with fish|dọn chúng kèm với cá|||verb_phrase
+fry potatoes|chiên khoai tây|||verb_phrase
+oil|dầu ăn|||noun
+take ages|mất rất nhiều thời gian|||verb_phrase
+bake potatoes in the oven|nướng khoai tây trong lò|||verb_phrase
+strawberries|dâu tây|||noun
+cucumbers|dưa chuột|||noun
+carrots and peas|cà rốt và đậu Hà Lan|||noun_phrase
+on the way back|trên đường quay về|||prepositional_phrase
+cakes and pastries|bánh ngọt và bánh làm từ bột nhào|||noun_phrase
+lamb|thịt cừu|||noun
 @listening|Restaurant recommendations|SB scripts p. 182, track 35; TB pp. 42–43
-food critic|nhà phê bình ẩm thực
-tips and recommendations|lời khuyên và gợi ý
-peppercorns|hạt tiêu
-a typical French dish|một món ăn điển hình của Pháp
-steakhouse|nhà hàng chuyên bít tết
-a wide variety of dishes|nhiều món ăn đa dạng
-one word of warning|một lời nhắc cần lưu ý
-get really busy|trở nên rất đông khách
-lobster|tôm hùm
-vegetarian dishes|các món chay
-low-cost|có giá thấp
-a special treat|một dịp tự thưởng đặc biệt
-on a budget|có ngân sách hạn chế
-a fashionable restaurant|một nhà hàng được ưa chuộng
-at a reasonable price|với giá hợp lý
-specialise in|chuyên về
-lasagne|mì lá nướng kiểu Ý
-food for thought|điều đáng suy ngẫm
+food critic|nhà phê bình ẩm thực|||noun_phrase
+tips and recommendations|lời khuyên và gợi ý|||noun_phrase
+peppercorns|hạt tiêu|||noun
+a typical French dish|một món ăn điển hình của Pháp|||noun_phrase
+steakhouse|nhà hàng chuyên bít tết|||noun
+a wide variety of dishes|nhiều món ăn đa dạng|||noun_phrase
+one word of warning|một lời nhắc cần lưu ý|||noun_phrase
+get really busy|trở nên rất đông khách|||verb_phrase
+lobster|tôm hùm|||noun
+vegetarian dishes|các món chay|||noun_phrase
+low-cost|có giá thấp|||adjective
+a special treat|một dịp tự thưởng đặc biệt|||noun_phrase
+on a budget|có ngân sách hạn chế|||prepositional_phrase
+a fashionable restaurant|một nhà hàng được ưa chuộng|||noun_phrase
+at a reasonable price|với giá hợp lý|||prepositional_phrase
+specialise in|chuyên về|||verb_phrase
+lasagne|mì lá nướng kiểu Ý|||noun
+food for thought|điều đáng suy ngẫm|||idiom
 @listening|East Asian cuisines|SB scripts p. 182, track 36; TB pp. 43–44
-chopsticks|đũa
-knives and forks|dao và nĩa
-stainless steel|thép không gỉ
-rough at the end|nhám ở đầu
-emperor|hoàng đế
-poison|chất độc
-tricky to use|khó sử dụng
-bone and ivory|xương và ngà
-in general terms|nói một cách khái quát
-cuisines|các nền ẩm thực
-red peppers|ớt đỏ
-influences from|ảnh hưởng từ
-tempura|món tẩm bột chiên của Nhật
-play an important role|đóng vai trò quan trọng
-due to the lack of space|do thiếu không gian
-keep animals|nuôi động vật
-barbecues|các bữa; món nướng ngoài trời
-form the basis of|tạo thành nền tảng của
+chopsticks|đũa|||noun
+knives and forks|dao và nĩa|||noun_phrase
+stainless steel|thép không gỉ|||noun_phrase
+rough at the end|nhám ở đầu|||adjective_phrase
+emperor|hoàng đế|||noun
+poison|chất độc|||noun
+tricky to use|khó sử dụng|||adjective_phrase
+bone and ivory|xương và ngà|||noun_phrase
+in general terms|nói một cách khái quát|||prepositional_phrase
+cuisines|các nền ẩm thực|||noun
+red peppers|ớt đỏ|||noun_phrase
+influences from|ảnh hưởng từ|||noun_phrase
+tempura|món tẩm bột chiên của Nhật|||noun
+play an important role|đóng vai trò quan trọng|||verb_phrase
+due to the lack of space|do thiếu không gian|||prepositional_phrase
+keep animals|nuôi động vật|||verb_phrase
+barbecues|các bữa; món nướng ngoài trời|||noun
+form the basis of|tạo thành nền tảng của|||verb_phrase
 @listening|A food programme in Beijing|SB scripts p. 182, track 37; TB p. 44
-traditional dish|món ăn truyền thống
-kebabs|thịt hoặc rau xiên nướng
-tasty snacks|đồ ăn nhẹ ngon miệng
-street food|đồ ăn đường phố
-school pupils|học sinh
-jellyfish|sứa
-texture|kết cấu; cảm giác của thức ăn khi nhai
-not taste of much|không có mùi vị rõ rệt
-a strong taste|vị đậm
-hotpot|lẩu
-hotplate|bếp điện; đĩa gia nhiệt
-raw food|thực phẩm sống
-sociable|có tính giao lưu; tạo dịp trò chuyện
-noodles and dumplings|mì và bánh bột có nhân, như há cảo
-one of the highlights|một trong những điểm nổi bật
-wheat flour|bột mì
-make noodles by hand|làm mì bằng tay
-a skilful chef|một đầu bếp khéo tay
-basic ingredients|nguyên liệu cơ bản
-flexible|linh hoạt; dễ thay đổi
-raw prawns|tôm sống
-run out of time|hết thời gian
+traditional dish|món ăn truyền thống|||noun_phrase
+kebabs|thịt hoặc rau xiên nướng|||noun
+tasty snacks|đồ ăn nhẹ ngon miệng|||noun_phrase
+street food|đồ ăn đường phố|||noun_phrase
+school pupils|học sinh|||noun_phrase
+jellyfish|sứa|||noun
+texture|kết cấu; cảm giác của thức ăn khi nhai|||noun
+not taste of much|không có mùi vị rõ rệt|||verb_phrase
+a strong taste|vị đậm|||noun_phrase
+hotpot|lẩu|||noun
+hotplate|bếp điện; đĩa gia nhiệt|||noun
+raw food|thực phẩm sống|||noun_phrase
+sociable|có tính giao lưu; tạo dịp trò chuyện|||adjective
+noodles and dumplings|mì và bánh bột có nhân, như há cảo|||noun_phrase
+one of the highlights|một trong những điểm nổi bật|||noun_phrase
+wheat flour|bột mì|||noun_phrase
+make noodles by hand|làm mì bằng tay|||verb_phrase
+a skilful chef|một đầu bếp khéo tay|||noun_phrase
+basic ingredients|nguyên liệu cơ bản|||noun_phrase
+flexible|linh hoạt; dễ thay đổi|||adjective
+raw prawns|tôm sống|||noun_phrase
+run out of time|hết thời gian|||verb_phrase
 @speaking|Describing food and ingredients|SB pp. 80–85, tracks 38–39; TB pp. 44–46
-cabbage|bắp cải
-ginger|gừng
-chillies|ớt
-soy sauce|nước tương
-spices|gia vị
-garlic|tỏi
-quick to make|làm nhanh
-convenient|tiện lợi
-fresh and healthy|tươi và lành mạnh
-not keen on|không thích lắm
-can't stand the texture|không chịu được cảm giác khi nhai
-too chewy|quá dai
-risotto|cơm Ý nấu sệt với nước dùng
-olive oil|dầu ô liu
-broth|nước dùng
-saffron|nhụy hoa nghệ tây
-creamy|béo mịn
-a starter|món khai vị
-the main meal|bữa chính; món chính trong ngữ cảnh này
-waste food|lãng phí thức ăn
-remind me of home|gợi tôi nhớ về nhà
-be fond of cooking|thích nấu ăn
-cheer me up|làm tôi vui lên
-feel homesick|cảm thấy nhớ nhà
-be proud of our cuisine|tự hào về nền ẩm thực của chúng tôi
-juicy|mọng nước
-slowly grilled|được nướng chậm
-serve with rice|ăn kèm với cơm
-filling|no bụng; giúp no lâu
-toppings|nguyên liệu phủ lên trên món ăn
-chop vegetables|thái rau
-economical|tiết kiệm chi phí
-a special occasion|một dịp đặc biệt
-an enjoyable meal|một bữa ăn thú vị
+cabbage|bắp cải|||noun
+ginger|gừng|||noun
+chillies|ớt|||noun
+soy sauce|nước tương|||noun_phrase
+spices|gia vị|||noun
+garlic|tỏi|||noun
+quick to make|làm nhanh|||adjective_phrase
+convenient|tiện lợi|||adjective
+fresh and healthy|tươi và lành mạnh|||adjective_phrase
+not keen on|không thích lắm|||adjective_phrase
+can't stand the texture|không chịu được cảm giác khi nhai|||verb_phrase
+too chewy|quá dai|||adjective_phrase
+risotto|cơm Ý nấu sệt với nước dùng|||noun
+olive oil|dầu ô liu|||noun_phrase
+broth|nước dùng|||noun
+saffron|nhụy hoa nghệ tây|||noun
+creamy|béo mịn|||adjective
+a starter|món khai vị|||noun_phrase
+the main meal|bữa chính; món chính trong ngữ cảnh này|||noun_phrase
+waste food|lãng phí thức ăn|||verb_phrase
+remind me of home|gợi tôi nhớ về nhà|||verb_phrase
+be fond of cooking|thích nấu ăn|||verb_phrase
+cheer me up|làm tôi vui lên|||verb_phrase
+feel homesick|cảm thấy nhớ nhà|||verb_phrase
+be proud of our cuisine|tự hào về nền ẩm thực của chúng tôi|||verb_phrase
+juicy|mọng nước|||adjective
+slowly grilled|được nướng chậm|||participle_phrase
+serve with rice|ăn kèm với cơm|||verb_phrase
+filling|no bụng; giúp no lâu|||adjective
+toppings|nguyên liệu phủ lên trên món ăn|||noun
+chop vegetables|thái rau|||verb_phrase
+economical|tiết kiệm chi phí|||adjective
+a special occasion|một dịp đặc biệt|||noun_phrase
+an enjoyable meal|một bữa ăn thú vị|||noun_phrase
 @speaking|Useful food-answer structures|Bổ sung theo mục tiêu SB pp. 80–85; TB pp. 44–46
-It is made with ... and served with ...|Món đó được làm với ... và dọn kèm ...|structure|It is made with rice noodles and served with fresh herbs.
-What makes it special is ...|Điều khiến món đó đặc biệt là ...|structure|What makes it special is the rich broth.
-I would recommend it to anyone who enjoys ...|Tôi sẽ giới thiệu món này cho bất kỳ ai thích ...|structure|I would recommend it to anyone who enjoys spicy food.
-It brings back memories of ...|Món đó gợi lại những kỷ niệm về ...|structure|It brings back memories of family gatherings.
-a balanced diet|chế độ ăn cân bằng|collocation
-a home-cooked meal|bữa ăn nấu tại nhà|collocation
-rich in flavour|đậm đà hương vị|collocation
-fresh local ingredients|nguyên liệu địa phương tươi ngon|collocation
+It is made with ... and served with ...|Món đó được làm với ... và dọn kèm ...|structure|It is made with rice noodles and served with fresh herbs.|sentence_pattern
+What makes it special is ...|Điều khiến món đó đặc biệt là ...|structure|What makes it special is the rich broth.|sentence_pattern
+I would recommend it to anyone who enjoys ...|Tôi sẽ giới thiệu món này cho bất kỳ ai thích ...|structure|I would recommend it to anyone who enjoys spicy food.|sentence_pattern
+It brings back memories of ...|Món đó gợi lại những kỷ niệm về ...|structure|It brings back memories of family gatherings.|sentence_pattern
+a balanced diet|chế độ ăn cân bằng|collocation||noun_phrase
+a home-cooked meal|bữa ăn nấu tại nhà|collocation||noun_phrase
+rich in flavour|đậm đà hương vị|collocation||adjective_phrase
+fresh local ingredients|nguyên liệu địa phương tươi ngon|collocation||noun_phrase
 @writing|Two charts: proportions and approximate figures|SB pp. 70–74; TB pp. 39–41
-the highest proportion|tỷ lệ cao nhất
-a tiny proportion|một tỷ lệ rất nhỏ
-just over a third|hơn một phần ba một chút
-approximately a quarter|khoảng một phần tư
-one in ten|một trong mười; một phần mười
-the least popular type|loại ít được ưa chuộng nhất
-slightly more popular than|phổ biến hơn một chút so với
-fewer people|ít người hơn
-less land|ít diện tích đất hơn
-just under|chỉ dưới mức ... một chút
-a little over|hơn ... một chút
-around half a million|khoảng nửa triệu
-between ... and ...|trong khoảng từ ... đến ...
-market share|thị phần
-a rising trend|xu hướng tăng
-from ... onwards|từ ... trở đi
-remain stable|duy trì ổn định
-a significant increase|sự tăng đáng kể
-overweight|thừa cân
-obese|béo phì
-severely obese|béo phì nghiêm trọng
-underweight|thiếu cân
-adult population|dân số trưởng thành
-weight range|khoảng cân nặng; nhóm cân nặng
-at a slightly lower rate|với tốc độ thấp hơn một chút
-more or less equally|gần như đồng đều
+the highest proportion|tỷ lệ cao nhất|||noun_phrase
+a tiny proportion|một tỷ lệ rất nhỏ|||noun_phrase
+just over a third|hơn một phần ba một chút|||number
+approximately a quarter|khoảng một phần tư|||number
+one in ten|một trong mười; một phần mười|||number
+the least popular type|loại ít được ưa chuộng nhất|||noun_phrase
+slightly more popular than|phổ biến hơn một chút so với|||adjective_phrase
+fewer people|ít người hơn|||noun_phrase
+less land|ít diện tích đất hơn|||noun_phrase
+just under|chỉ dưới mức ... một chút|||adverb_phrase
+a little over|hơn ... một chút|||adverb_phrase
+around half a million|khoảng nửa triệu|||number
+between ... and ...|trong khoảng từ ... đến ...|||sentence_pattern
+market share|thị phần|||noun_phrase
+a rising trend|xu hướng tăng|||noun_phrase
+from ... onwards|từ ... trở đi|||sentence_pattern
+remain stable|duy trì ổn định|||verb_phrase
+a significant increase|sự tăng đáng kể|||noun_phrase
+overweight|thừa cân|||adjective
+obese|béo phì|||adjective
+severely obese|béo phì nghiêm trọng|||adjective_phrase
+underweight|thiếu cân|||adjective
+adult population|dân số trưởng thành|||noun_phrase
+weight range|khoảng cân nặng; nhóm cân nặng|||noun_phrase
+at a slightly lower rate|với tốc độ thấp hơn một chút|||prepositional_phrase
+more or less equally|gần như đồng đều|||adverb_phrase
 @writing|Useful two-chart comparison frames|Bổ sung theo mục tiêu SB pp. 70–74; TB pp. 39–41
-The pie chart shows ..., while the bar chart illustrates ...|Biểu đồ tròn thể hiện ..., còn biểu đồ cột minh họa ...|structure|The pie chart shows food preferences, while the bar chart illustrates restaurant numbers.
-Overall, ... was the most popular ..., and ... increased.|Nhìn chung, ... là ... phổ biến nhất, và ... đã tăng.|structure|Overall, Chinese food was the most popular takeaway, and restaurant numbers increased.
-... represented roughly a quarter of ...|... chiếm xấp xỉ một phần tư ...|structure|This group represented roughly a quarter of the population.
-... was similar in size to ...|... có quy mô tương tự ...|structure|The overweight group was similar in size to the healthy-weight group.
-... rose from about ... to nearly ...|... tăng từ khoảng ... lên gần ...|structure|The figure rose from about 500 to nearly 2,000.
+The pie chart shows ..., while the bar chart illustrates ...|Biểu đồ tròn thể hiện ..., còn biểu đồ cột minh họa ...|structure|The pie chart shows food preferences, while the bar chart illustrates restaurant numbers.|sentence_pattern
+Overall, ... was the most popular ..., and ... increased.|Nhìn chung, ... là ... phổ biến nhất, và ... đã tăng.|structure|Overall, Chinese food was the most popular takeaway, and restaurant numbers increased.|sentence_pattern
+... represented roughly a quarter of ...|... chiếm xấp xỉ một phần tư ...|structure|This group represented roughly a quarter of the population.|sentence_pattern
+... was similar in size to ...|... có quy mô tương tự ...|structure|The overweight group was similar in size to the healthy-weight group.|sentence_pattern
+... rose from about ... to nearly ...|... tăng từ khoảng ... lên gần ...|structure|The figure rose from about 500 to nearly 2,000.|sentence_pattern
 @speaking|Useful food basics and taste words|Bổ sung ứng dụng từ SB pp. 64, 75, 78, 80–85; TB pp. 38, 41, 43–46
-burger|bánh mì kẹp thịt kiểu burger
-chips|khoai tây chiên dạng thanh (Anh-Anh)
-salad|rau trộn
-mashed potato|khoai tây nghiền
-apples|táo
-bananas|chuối
-beef|thịt bò
-biscuits|bánh quy
-chocolate|sô-cô-la
-cheese|phô mai
-egg|trứng
-tomatoes|cà chua
-yoghurt|sữa chua
-onions|hành tây
-mouth-watering|ngon hấp dẫn; khiến thèm ăn
-unappetising|không ngon mắt; không hấp dẫn
-follow a recipe|làm theo công thức nấu ăn
-highly trained chef|đầu bếp được đào tạo bài bản
+burger|bánh mì kẹp thịt kiểu burger|||noun
+chips|khoai tây chiên dạng thanh (Anh-Anh)|||noun
+salad|rau trộn|||noun
+mashed potato|khoai tây nghiền|||noun_phrase
+apples|táo|||noun
+bananas|chuối|||noun
+beef|thịt bò|||noun
+biscuits|bánh quy|||noun
+chocolate|sô-cô-la|||noun
+cheese|phô mai|||noun
+egg|trứng|||noun
+tomatoes|cà chua|||noun
+yoghurt|sữa chua|||noun
+onions|hành tây|||noun
+mouth-watering|ngon hấp dẫn; khiến thèm ăn|||adjective
+unappetising|không ngon mắt; không hấp dẫn|||adjective
+follow a recipe|làm theo công thức nấu ăn|||verb_phrase
+highly trained chef|đầu bếp được đào tạo bài bản|||noun_phrase

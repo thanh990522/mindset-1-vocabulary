@@ -1,6 +1,7 @@
 import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
 import { unitsRegistry } from "../data/units.js";
+import { posLabels } from "../data/parts-of-speech.js";
 
 const root = new URL("../", import.meta.url);
 const stats = JSON.parse(await readFile(new URL("data/stats.json", root), "utf8"));
@@ -34,6 +35,7 @@ for (const meta of unitsRegistry) {
         assert.ok(!withinSkill.has(key), `Duplicate ${key} in ${unit.id}/${section.id}`); withinSkill.add(key);
         terms.add(key);
         assert.ok(["word", "phrase", "collocation", "structure"].includes(word.type));
+        assert.ok(Object.hasOwn(posLabels, word.pos), `Missing or invalid part of speech in ${word.id}`);
         for (const text of [word.word, word.meaning, word.example || "", word.ipa || ""]) {
           assert.equal(text, text.normalize("NFC"), `Non-NFC text: ${text}`);
           assert.doesNotMatch(text, /[\u0000-\u001f\ufffd]/u, `Invalid character in ${word.id}`);

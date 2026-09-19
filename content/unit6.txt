@@ -1,261 +1,261 @@
 @reading|Unusual sports|SB pp. 107–109; TB pp. 56–57
-be tired of|chán; mệt mỏi với
-be fed up with|chán ngấy
-be bored of|cảm thấy chán
-existing sports|các môn thể thao hiện có
-a local element|một yếu tố mang tính địa phương
-an inflatable pitch|sân chơi bơm hơi
-trampoline|bạt nhún
-martial arts|võ thuật
-horse riding|cưỡi ngựa
-national sport|môn thể thao quốc gia
-on horseback|trên lưng ngựa
-get hold of|nắm lấy; bắt được
-spread throughout the world|lan rộng khắp thế giới
-write down the rules|ghi lại các luật chơi
-Olympic status|tư cách môn thi đấu Olympic
-tag|chạm vào người chơi khác để bắt trong trò đuổi bắt
-raider|người tấn công sang phần sân đối phương trong kabaddi
-their own half of the field|phần sân của đội mình
-get caught|bị bắt
-chant|hô lặp đi lặp lại
-equipment|trang thiết bị
-brains and brawn|trí tuệ và sức mạnh cơ bắp
-a round of chess|một hiệp đấu cờ
-a round of boxing|một hiệp quyền anh
-world championship|giải vô địch thế giới
-take place|diễn ra
-particularly|đặc biệt là
-switch quickly between|chuyển nhanh qua lại giữa
-be familiar to|quen thuộc với
-spread gradually|lan rộng dần
-rock-paper-scissors|trò oẳn tù tì
-take it seriously|coi đó là việc nghiêm túc
-a league|một liên đoàn; giải đấu
-hold championships|tổ chức các giải vô địch
+be tired of|chán; mệt mỏi với|||verb_phrase
+be fed up with|chán ngấy|||verb_phrase
+be bored of|cảm thấy chán|||verb_phrase
+existing sports|các môn thể thao hiện có|||noun_phrase
+a local element|một yếu tố mang tính địa phương|||noun_phrase
+an inflatable pitch|sân chơi bơm hơi|||noun_phrase
+trampoline|bạt nhún|||noun
+martial arts|võ thuật|||noun_phrase
+horse riding|cưỡi ngựa|||noun_phrase
+national sport|môn thể thao quốc gia|||noun_phrase
+on horseback|trên lưng ngựa|||prepositional_phrase
+get hold of|nắm lấy; bắt được|||verb_phrase
+spread throughout the world|lan rộng khắp thế giới|||verb_phrase
+write down the rules|ghi lại các luật chơi|||verb_phrase
+Olympic status|tư cách môn thi đấu Olympic|||noun_phrase
+tag|chạm vào người chơi khác để bắt trong trò đuổi bắt|||verb
+raider|người tấn công sang phần sân đối phương trong kabaddi|||noun
+their own half of the field|phần sân của đội mình|||noun_phrase
+get caught|bị bắt|||verb_phrase
+chant|hô lặp đi lặp lại|||verb
+equipment|trang thiết bị|||noun
+brains and brawn|trí tuệ và sức mạnh cơ bắp|||noun_phrase
+a round of chess|một hiệp đấu cờ|||noun_phrase
+a round of boxing|một hiệp quyền anh|||noun_phrase
+world championship|giải vô địch thế giới|||noun_phrase
+take place|diễn ra|||verb_phrase
+particularly|đặc biệt là|||adverb
+switch quickly between|chuyển nhanh qua lại giữa|||verb_phrase
+be familiar to|quen thuộc với|||verb_phrase
+spread gradually|lan rộng dần|||verb_phrase
+rock-paper-scissors|trò oẳn tù tì|||noun
+take it seriously|coi đó là việc nghiêm túc|||verb_phrase
+a league|một liên đoàn; giải đấu|||noun_phrase
+hold championships|tổ chức các giải vô địch|||verb_phrase
 @reading|Parkour and freerunning|SB pp. 110–111; TB p. 57
-military obstacle course training|huấn luyện vượt chướng ngại vật trong quân đội
-get from one point to another|di chuyển từ điểm này đến điểm khác
-express yourself|thể hiện bản thân
-no limits on|không có giới hạn đối với
-swinging|đu người
-rolling|lăn người
-movement|sự chuyển động; động tác
-philosophy|triết lý
-obstacles|các chướng ngại vật
-traceurs|những người tập parkour
-be made up of|bao gồm
-documentaries|phim tài liệu
-strict rules|các quy tắc nghiêm ngặt
-arrive on time|đến đúng giờ
-make excuses|viện cớ
-value humility|coi trọng sự khiêm tốn
-show off|khoe khoang; phô trương
-compete with|thi đấu; cạnh tranh với
-a state of mind|một trạng thái tinh thần
-mental and physical barriers|các rào cản tinh thần và thể chất
-interact with|tương tác với
-a competitive sport|một môn thể thao có tính thi đấu
-be concerned with|liên quan đến; chú trọng vào
-self-development|sự phát triển bản thân
-adapt to any environment|thích nghi với mọi môi trường
-be creative|có tính sáng tạo
-freedom and self-expression|sự tự do và việc thể hiện bản thân
-founder|người sáng lập
-refuse to teach|từ chối dạy
-the whole point|điều cốt yếu
-technique|kỹ thuật
-conflict with the values of|mâu thuẫn với các giá trị của
-focus on the individual|tập trung vào từng cá nhân
-famous monuments|các công trình nổi tiếng
-English translation|bản dịch tiếng Anh
-similarities and differences|những điểm giống và khác nhau
-refer to the same activity|chỉ cùng một hoạt động
+military obstacle course training|huấn luyện vượt chướng ngại vật trong quân đội|||noun_phrase
+get from one point to another|di chuyển từ điểm này đến điểm khác|||verb_phrase
+express yourself|thể hiện bản thân|||verb_phrase
+no limits on|không có giới hạn đối với|||noun_phrase
+swinging|đu người|||noun
+rolling|lăn người|||noun
+movement|sự chuyển động; động tác|||noun
+philosophy|triết lý|||noun
+obstacles|các chướng ngại vật|||noun
+traceurs|những người tập parkour|||noun
+be made up of|bao gồm|||verb_phrase
+documentaries|phim tài liệu|||noun
+strict rules|các quy tắc nghiêm ngặt|||noun_phrase
+arrive on time|đến đúng giờ|||verb_phrase
+make excuses|viện cớ|||verb_phrase
+value humility|coi trọng sự khiêm tốn|||verb_phrase
+show off|khoe khoang; phô trương|||phrasal_verb
+compete with|thi đấu; cạnh tranh với|||verb_phrase
+a state of mind|một trạng thái tinh thần|||noun_phrase
+mental and physical barriers|các rào cản tinh thần và thể chất|||noun_phrase
+interact with|tương tác với|||verb_phrase
+a competitive sport|một môn thể thao có tính thi đấu|||noun_phrase
+be concerned with|liên quan đến; chú trọng vào|||verb_phrase
+self-development|sự phát triển bản thân|||noun
+adapt to any environment|thích nghi với mọi môi trường|||verb_phrase
+be creative|có tính sáng tạo|||verb_phrase
+freedom and self-expression|sự tự do và việc thể hiện bản thân|||noun_phrase
+founder|người sáng lập|||noun
+refuse to teach|từ chối dạy|||verb_phrase
+the whole point|điều cốt yếu|||noun_phrase
+technique|kỹ thuật|||noun
+conflict with the values of|mâu thuẫn với các giá trị của|||verb_phrase
+focus on the individual|tập trung vào từng cá nhân|||verb_phrase
+famous monuments|các công trình nổi tiếng|||noun_phrase
+English translation|bản dịch tiếng Anh|||noun_phrase
+similarities and differences|những điểm giống và khác nhau|||noun_phrase
+refer to the same activity|chỉ cùng một hoạt động|||verb_phrase
 @listening|Directions to friends' houses|SB scripts pp. 184–185, tracks 49–50; TB pp. 59–60
-turn right onto|rẽ phải vào
-the bottom of the road|cuối đường
-on your left|ở bên trái bạn
-turn left at the traffic lights|rẽ trái tại đèn giao thông
-take a sharp right|rẽ ngoặt sang phải
-go straight on|đi thẳng
-past the surgery|qua phòng khám
-follow this road|đi theo đường này
-reach a roundabout|đến một vòng xuyến
-take the first turning on the left|rẽ vào lối đầu tiên bên trái
-approach the crossroads|đến gần ngã tư
-on the corner|ở góc đường
-collect her on the way|đón cô ấy trên đường
-a set of directions|một loạt chỉ dẫn đường đi
-instead of turning left|thay vì rẽ trái
-zebra crossing|vạch sang đường cho người đi bộ
-drive along|lái xe dọc theo
-after the bridge|sau cây cầu
-pick up|đón ai bằng xe
-go straight ahead|đi thẳng về phía trước
+turn right onto|rẽ phải vào|||verb_phrase
+the bottom of the road|cuối đường|||noun_phrase
+on your left|ở bên trái bạn|||prepositional_phrase
+turn left at the traffic lights|rẽ trái tại đèn giao thông|||verb_phrase
+take a sharp right|rẽ ngoặt sang phải|||verb_phrase
+go straight on|đi thẳng|||verb_phrase
+past the surgery|qua phòng khám|||prepositional_phrase
+follow this road|đi theo đường này|||verb_phrase
+reach a roundabout|đến một vòng xuyến|||verb_phrase
+take the first turning on the left|rẽ vào lối đầu tiên bên trái|||verb_phrase
+approach the crossroads|đến gần ngã tư|||verb_phrase
+on the corner|ở góc đường|||prepositional_phrase
+collect her on the way|đón cô ấy trên đường|||verb_phrase
+a set of directions|một loạt chỉ dẫn đường đi|||noun_phrase
+instead of turning left|thay vì rẽ trái|||prepositional_phrase
+zebra crossing|vạch sang đường cho người đi bộ|||noun_phrase
+drive along|lái xe dọc theo|||verb_phrase
+after the bridge|sau cây cầu|||prepositional_phrase
+pick up|đón ai bằng xe|||phrasal_verb
+go straight ahead|đi thẳng về phía trước|||verb_phrase
 @listening|Meeting at the Arena|SB scripts p. 185, track 51; TB p. 60
-make arrangements|sắp xếp kế hoạch
-concert venue|địa điểm tổ chức hòa nhạc
-give someone a lift|cho ai đi nhờ xe
-meet up for a coffee|gặp nhau uống cà phê
-main entrance|lối vào chính
-a fountain in the middle|một đài phun nước ở giữa
-live music|nhạc biểu diễn trực tiếp
-beyond the square|qua phía bên kia quảng trường
-opposite these|đối diện những nơi này
-exhibition centre|trung tâm triển lãm
-at the end of|ở cuối
-art gallery|phòng trưng bày nghệ thuật
-go through the shopping centre|đi xuyên qua trung tâm mua sắm
-tempting|hấp dẫn; dễ khiến muốn ghé vào
-beside the entrance|bên cạnh lối vào
-make it for seven|đến kịp lúc bảy giờ
-it's been a while|đã lâu rồi không gặp
+make arrangements|sắp xếp kế hoạch|||verb_phrase
+concert venue|địa điểm tổ chức hòa nhạc|||noun_phrase
+give someone a lift|cho ai đi nhờ xe|||verb_phrase
+meet up for a coffee|gặp nhau uống cà phê|||verb_phrase
+main entrance|lối vào chính|||noun_phrase
+a fountain in the middle|một đài phun nước ở giữa|||noun_phrase
+live music|nhạc biểu diễn trực tiếp|||noun_phrase
+beyond the square|qua phía bên kia quảng trường|||prepositional_phrase
+opposite these|đối diện những nơi này|||prepositional_phrase
+exhibition centre|trung tâm triển lãm|||noun_phrase
+at the end of|ở cuối|||prepositional_phrase
+art gallery|phòng trưng bày nghệ thuật|||noun_phrase
+go through the shopping centre|đi xuyên qua trung tâm mua sắm|||verb_phrase
+tempting|hấp dẫn; dễ khiến muốn ghé vào|||adjective
+beside the entrance|bên cạnh lối vào|||prepositional_phrase
+make it for seven|đến kịp lúc bảy giờ|||verb_phrase
+it's been a while|đã lâu rồi không gặp|||expression
 @listening|Activity summer camp|SB scripts p. 185, track 52; TB p. 61
-activity summer camp|trại hè hoạt động
-on offer|được cung cấp; có sẵn để lựa chọn
-outdoor theatre|sân khấu ngoài trời
-campsite|khu cắm trại
-on the edge of the lake|ở ven hồ
-kayaking centre|trung tâm chèo thuyền kayak
-reserved for diving|dành riêng cho hoạt động lặn
-be permitted|được cho phép
-racket sports|các môn thể thao dùng vợt
-practise badminton|tập cầu lông
-outdoor tennis courts|các sân quần vợt ngoài trời
-dining hall|nhà ăn
-lake shore|bờ hồ
-draw your attention to|hướng sự chú ý của bạn đến
-for safety reasons|vì lý do an toàn
-an instructor is present|có người hướng dẫn ở đó
-a track for cycling|đường dành cho xe đạp
-runners and cyclists|người chạy bộ và người đi xe đạp
-organise tournaments|tổ chức các giải đấu
-take part in a rugby game|tham gia một trận bóng bầu dục
-archery field|khu bắn cung
-surrounded by trees|được cây cối bao quanh
-hire equipment|thuê dụng cụ
-the weather turns bad|thời tiết trở nên xấu
+activity summer camp|trại hè hoạt động|||noun_phrase
+on offer|được cung cấp; có sẵn để lựa chọn|||prepositional_phrase
+outdoor theatre|sân khấu ngoài trời|||noun_phrase
+campsite|khu cắm trại|||noun
+on the edge of the lake|ở ven hồ|||prepositional_phrase
+kayaking centre|trung tâm chèo thuyền kayak|||noun_phrase
+reserved for diving|dành riêng cho hoạt động lặn|||participle_phrase
+be permitted|được cho phép|||verb_phrase
+racket sports|các môn thể thao dùng vợt|||noun_phrase
+practise badminton|tập cầu lông|||verb_phrase
+outdoor tennis courts|các sân quần vợt ngoài trời|||noun_phrase
+dining hall|nhà ăn|||noun_phrase
+lake shore|bờ hồ|||noun_phrase
+draw your attention to|hướng sự chú ý của bạn đến|||verb_phrase
+for safety reasons|vì lý do an toàn|||prepositional_phrase
+an instructor is present|có người hướng dẫn ở đó|||expression
+a track for cycling|đường dành cho xe đạp|||noun_phrase
+runners and cyclists|người chạy bộ và người đi xe đạp|||noun_phrase
+organise tournaments|tổ chức các giải đấu|||verb_phrase
+take part in a rugby game|tham gia một trận bóng bầu dục|||verb_phrase
+archery field|khu bắn cung|||noun_phrase
+surrounded by trees|được cây cối bao quanh|||participle_phrase
+hire equipment|thuê dụng cụ|||verb_phrase
+the weather turns bad|thời tiết trở nên xấu|||expression
 @listening|Pine Woods Centre plans|SB scripts p. 185, track 53; TB pp. 61–62
-council|hội đồng địa phương
-people of all ages|mọi người ở mọi lứa tuổi
-brave and fearless|dũng cảm và không sợ hãi
-adventure playgrounds|các khu vui chơi mạo hiểm
-a feeding area|khu cho động vật ăn
-farm animals|động vật trang trại
-cycle trails|các đường mòn dành cho xe đạp
-overall layout|bố cục tổng thể
-gift shop|cửa hàng quà lưu niệm
-picnic field|bãi đất dành cho dã ngoại
-barbecue area|khu nướng thịt ngoài trời
-bands performing|các ban nhạc đang biểu diễn
-a path winding through the forest|con đường uốn lượn xuyên rừng
-adventure apparatus|thiết bị vui chơi mạo hiểm
-rope swings|xích đu dây
-rope bridges|cầu dây
-tunnels|đường hầm
-zip wires|dây trượt zipline
-forest floor|nền rừng
-aged fifteen and over|từ mười lăm tuổi trở lên
-a fence around it|hàng rào bao quanh
-indoor play area|khu vui chơi trong nhà
-feed the animals|cho động vật ăn
-directly opposite|ngay đối diện
-be approved|được chấp thuận
-in the not too distant future|trong tương lai không xa
+council|hội đồng địa phương|||noun
+people of all ages|mọi người ở mọi lứa tuổi|||noun_phrase
+brave and fearless|dũng cảm và không sợ hãi|||adjective_phrase
+adventure playgrounds|các khu vui chơi mạo hiểm|||noun_phrase
+a feeding area|khu cho động vật ăn|||noun_phrase
+farm animals|động vật trang trại|||noun_phrase
+cycle trails|các đường mòn dành cho xe đạp|||noun_phrase
+overall layout|bố cục tổng thể|||noun_phrase
+gift shop|cửa hàng quà lưu niệm|||noun_phrase
+picnic field|bãi đất dành cho dã ngoại|||noun_phrase
+barbecue area|khu nướng thịt ngoài trời|||noun_phrase
+bands performing|các ban nhạc đang biểu diễn|||noun_phrase
+a path winding through the forest|con đường uốn lượn xuyên rừng|||noun_phrase
+adventure apparatus|thiết bị vui chơi mạo hiểm|||noun_phrase
+rope swings|xích đu dây|||noun_phrase
+rope bridges|cầu dây|||noun_phrase
+tunnels|đường hầm|||noun
+zip wires|dây trượt zipline|||noun_phrase
+forest floor|nền rừng|||noun_phrase
+aged fifteen and over|từ mười lăm tuổi trở lên|||adjective_phrase
+a fence around it|hàng rào bao quanh|||noun_phrase
+indoor play area|khu vui chơi trong nhà|||noun_phrase
+feed the animals|cho động vật ăn|||verb_phrase
+directly opposite|ngay đối diện|||adverb_phrase
+be approved|được chấp thuận|||verb_phrase
+in the not too distant future|trong tương lai không xa|||prepositional_phrase
 @speaking|Sports, hobbies and feelings|SB pp. 121–125; TB pp. 62–63
-play soccer|chơi bóng đá
-do martial arts|tập võ
-go hiking|đi bộ đường dài
-go travelling|đi du lịch
-make jewellery|làm đồ trang sức
-sewing|việc may vá
-amusing|vui nhộn
-enjoyable|thú vị; mang lại niềm vui
-peaceful and relaxing|yên bình và thư giãn
-be excellent at|rất giỏi về
-feel miserable|cảm thấy khổ sở
-an exhausting sport|một môn thể thao rất tốn sức
-frightening|đáng sợ
-harmful|có hại
-stressful|gây căng thẳng
-be hopeless at|rất kém về
-take up a hobby|bắt đầu một sở thích
-ballroom dancing|khiêu vũ có đôi theo các điệu chuẩn
-give myself a challenge|đặt ra thử thách cho bản thân
-do ballet|tập múa ba-lê
-tap dancing|nhảy thiết hài
-learn new steps|học các bước nhảy mới
-dance partner|bạn nhảy
-play the acoustic guitar|chơi đàn ghi-ta mộc
-read music|đọc bản nhạc
-play the piano|chơi đàn piano
-focus on my studies|tập trung vào việc học
-prepare for my exams|chuẩn bị cho các kỳ thi
-pay for lessons|trả tiền học
-change my life in a positive way|thay đổi cuộc sống của tôi theo hướng tích cực
-start my own band|thành lập ban nhạc riêng
-perform live on stage|biểu diễn trực tiếp trên sân khấu
-try new things|thử những điều mới
-windsurfing|môn lướt ván buồm
-be a big fan of|rất yêu thích
-water sports|các môn thể thao dưới nước
+play soccer|chơi bóng đá|||verb_phrase
+do martial arts|tập võ|||verb_phrase
+go hiking|đi bộ đường dài|||verb_phrase
+go travelling|đi du lịch|||verb_phrase
+make jewellery|làm đồ trang sức|||verb_phrase
+sewing|việc may vá|||noun
+amusing|vui nhộn|||adjective
+enjoyable|thú vị; mang lại niềm vui|||adjective
+peaceful and relaxing|yên bình và thư giãn|||adjective_phrase
+be excellent at|rất giỏi về|||verb_phrase
+feel miserable|cảm thấy khổ sở|||verb_phrase
+an exhausting sport|một môn thể thao rất tốn sức|||noun_phrase
+frightening|đáng sợ|||adjective
+harmful|có hại|||adjective
+stressful|gây căng thẳng|||adjective
+be hopeless at|rất kém về|||verb_phrase
+take up a hobby|bắt đầu một sở thích|||verb_phrase
+ballroom dancing|khiêu vũ có đôi theo các điệu chuẩn|||noun_phrase
+give myself a challenge|đặt ra thử thách cho bản thân|||verb_phrase
+do ballet|tập múa ba-lê|||verb_phrase
+tap dancing|nhảy thiết hài|||noun_phrase
+learn new steps|học các bước nhảy mới|||verb_phrase
+dance partner|bạn nhảy|||noun_phrase
+play the acoustic guitar|chơi đàn ghi-ta mộc|||verb_phrase
+read music|đọc bản nhạc|||verb_phrase
+play the piano|chơi đàn piano|||verb_phrase
+focus on my studies|tập trung vào việc học|||verb_phrase
+prepare for my exams|chuẩn bị cho các kỳ thi|||verb_phrase
+pay for lessons|trả tiền học|||verb_phrase
+change my life in a positive way|thay đổi cuộc sống của tôi theo hướng tích cực|||verb_phrase
+start my own band|thành lập ban nhạc riêng|||verb_phrase
+perform live on stage|biểu diễn trực tiếp trên sân khấu|||verb_phrase
+try new things|thử những điều mới|||verb_phrase
+windsurfing|môn lướt ván buồm|||noun
+be a big fan of|rất yêu thích|||verb_phrase
+water sports|các môn thể thao dưới nước|||noun_phrase
 @speaking|Useful hobby-answer frames|Bổ sung theo mục tiêu SB pp. 121–125; TB pp. 62–63
-I've always wanted to try ...|Tôi luôn muốn thử ...|structure|I've always wanted to try kayaking.
-The main reason I haven't started is ...|Lý do chính tôi chưa bắt đầu là ...|structure|The main reason I haven't started is the cost of lessons.
-I would need someone to show me how to ...|Tôi sẽ cần ai đó chỉ cách ...|structure|I would need someone to show me how to use the equipment.
-If I had more free time, I would ...|Nếu có nhiều thời gian rảnh hơn, tôi sẽ ...|structure|If I had more free time, I would join a local club.
-keep fit|giữ cơ thể khỏe mạnh|collocation
-relieve stress|giảm căng thẳng|collocation
-build stamina|tăng sức bền|collocation
-develop a new skill|phát triển một kỹ năng mới|collocation
+I've always wanted to try ...|Tôi luôn muốn thử ...|structure|I've always wanted to try kayaking.|sentence_pattern
+The main reason I haven't started is ...|Lý do chính tôi chưa bắt đầu là ...|structure|The main reason I haven't started is the cost of lessons.|sentence_pattern
+I would need someone to show me how to ...|Tôi sẽ cần ai đó chỉ cách ...|structure|I would need someone to show me how to use the equipment.|sentence_pattern
+If I had more free time, I would ...|Nếu có nhiều thời gian rảnh hơn, tôi sẽ ...|structure|If I had more free time, I would join a local club.|sentence_pattern
+keep fit|giữ cơ thể khỏe mạnh|collocation||verb_phrase
+relieve stress|giảm căng thẳng|collocation||verb_phrase
+build stamina|tăng sức bền|collocation||verb_phrase
+develop a new skill|phát triển một kỹ năng mới|collocation||verb_phrase
 @writing|Leisure, active lifestyles and school sports|SB pp. 112–116; TB pp. 57–59
-go for a run|đi chạy bộ
-go to the cinema|đi xem phim ở rạp
-watch a film|xem một bộ phim
-visit friends|thăm bạn bè
-play sports|chơi thể thao
-join a club|tham gia câu lạc bộ
-go for a walk|đi dạo
-go to the gym|đi tập ở phòng gym
-spend free time actively|sử dụng thời gian rảnh một cách năng động
-physical activities|các hoạt động thể chất
-children's safety|sự an toàn của trẻ em
-take a driving test|thi bằng lái xe
-compared with the past|so với trước đây
-nowadays|ngày nay
-in today's world|trong thế giới ngày nay
-several years ago|vài năm trước
-the pace of life|nhịp sống
-on the other hand|mặt khác
-the main reason|lý do chính
-planned activities|các hoạt động được lên kế hoạch
-develop their skills|phát triển kỹ năng của họ
-world class|đạt đẳng cấp thế giới
-get into trouble|vướng vào rắc rối
-become stressed|trở nên căng thẳng
-use their imaginations|sử dụng trí tưởng tượng
-likes and dislikes|những điều thích và không thích
-have a balance|có sự cân bằng
-compulsory sports lessons|các tiết thể thao bắt buộc
-medical care|chăm sóc y tế
-mental well-being|sức khỏe tinh thần
-a waste of valuable study time|sự lãng phí thời gian học quý báu
-sports facilities|cơ sở vật chất phục vụ thể thao
-learn discipline|rèn tính kỷ luật
-work as a team|làm việc theo nhóm
+go for a run|đi chạy bộ|||verb_phrase
+go to the cinema|đi xem phim ở rạp|||verb_phrase
+watch a film|xem một bộ phim|||verb_phrase
+visit friends|thăm bạn bè|||verb_phrase
+play sports|chơi thể thao|||verb_phrase
+join a club|tham gia câu lạc bộ|||verb_phrase
+go for a walk|đi dạo|||verb_phrase
+go to the gym|đi tập ở phòng gym|||verb_phrase
+spend free time actively|sử dụng thời gian rảnh một cách năng động|||verb_phrase
+physical activities|các hoạt động thể chất|||noun_phrase
+children's safety|sự an toàn của trẻ em|||noun_phrase
+take a driving test|thi bằng lái xe|||verb_phrase
+compared with the past|so với trước đây|||participle_phrase
+nowadays|ngày nay|||adverb
+in today's world|trong thế giới ngày nay|||prepositional_phrase
+several years ago|vài năm trước|||adverb_phrase
+the pace of life|nhịp sống|||noun_phrase
+on the other hand|mặt khác|||prepositional_phrase
+the main reason|lý do chính|||noun_phrase
+planned activities|các hoạt động được lên kế hoạch|||noun_phrase
+develop their skills|phát triển kỹ năng của họ|||verb_phrase
+world class|đạt đẳng cấp thế giới|||adjective
+get into trouble|vướng vào rắc rối|||verb_phrase
+become stressed|trở nên căng thẳng|||verb_phrase
+use their imaginations|sử dụng trí tưởng tượng|||verb_phrase
+likes and dislikes|những điều thích và không thích|||noun_phrase
+have a balance|có sự cân bằng|||verb_phrase
+compulsory sports lessons|các tiết thể thao bắt buộc|||noun_phrase
+medical care|chăm sóc y tế|||noun_phrase
+mental well-being|sức khỏe tinh thần|||noun_phrase
+a waste of valuable study time|sự lãng phí thời gian học quý báu|||noun_phrase
+sports facilities|cơ sở vật chất phục vụ thể thao|||noun_phrase
+learn discipline|rèn tính kỷ luật|||verb_phrase
+work as a team|làm việc theo nhóm|||verb_phrase
 @writing|Useful leisure essay structures|Bổ sung theo mục tiêu SB pp. 112–116; TB pp. 57–59
-People are less ... than they used to be.|Mọi người ít ... hơn so với trước đây.|structure|People are less physically active than they used to be.
-While some people argue that ..., I believe ...|Trong khi một số người cho rằng ..., tôi tin ...|structure|While some people argue that sports waste time, I believe they support learning.
-One reason for this is that ...|Một lý do cho điều này là ...|structure|One reason for this is that exercise helps children concentrate.
-This allows children to ...|Điều này cho phép trẻ ...|structure|This allows children to develop social skills.
-A balance should be struck between ... and ...|Cần có sự cân bằng giữa ... và ...|structure|A balance should be struck between organised activities and free play.
-regular physical activity|hoạt động thể chất thường xuyên|collocation
-a sedentary lifestyle|lối sống ít vận động|collocation
+People are less ... than they used to be.|Mọi người ít ... hơn so với trước đây.|structure|People are less physically active than they used to be.|sentence_pattern
+While some people argue that ..., I believe ...|Trong khi một số người cho rằng ..., tôi tin ...|structure|While some people argue that sports waste time, I believe they support learning.|sentence_pattern
+One reason for this is that ...|Một lý do cho điều này là ...|structure|One reason for this is that exercise helps children concentrate.|sentence_pattern
+This allows children to ...|Điều này cho phép trẻ ...|structure|This allows children to develop social skills.|sentence_pattern
+A balance should be struck between ... and ...|Cần có sự cân bằng giữa ... và ...|structure|A balance should be struck between organised activities and free play.|sentence_pattern
+regular physical activity|hoạt động thể chất thường xuyên|collocation||noun_phrase
+a sedentary lifestyle|lối sống ít vận động|collocation||noun_phrase
 @speaking|More ways to describe leisure activities|SB pp. 121–122; TB p. 62
-great|tuyệt vời
-exciting|thú vị; gây hào hứng
-brilliant|rất hay; tuyệt vời
-healthy|lành mạnh; có lợi cho sức khỏe
-dangerous|nguy hiểm
-tiring|gây mệt mỏi
-useless|vô ích
+great|tuyệt vời|||adjective
+exciting|thú vị; gây hào hứng|||adjective
+brilliant|rất hay; tuyệt vời|||adjective
+healthy|lành mạnh; có lợi cho sức khỏe|||adjective
+dangerous|nguy hiểm|||adjective
+tiring|gây mệt mỏi|||adjective
+useless|vô ích|||adjective

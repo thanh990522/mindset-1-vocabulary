@@ -6,7 +6,7 @@ import re
 import unicodedata
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = "20260918-3"
+VERSION = "20260919-2"
 TITLES = ["Relationships", "Places and Buildings", "Education and Employment",
           "Food and Drink", "Consumerism", "Leisure Time", "Fame and the Media", "Natural World"]
 SKILLS = {"reading": "Reading", "listening": "Listening", "speaking": "Speaking", "writing": "Writing"}
@@ -17,6 +17,7 @@ DESCRIPTIONS = {
     "writing": "Ngôn ngữ theo dạng bài, collocation và cấu trúc viết áp dụng.",
 }
 reference = json.loads((ROOT / "content/pronunciation-reference.json").read_text())
+pos_labels = json.loads((ROOT / "content/parts-of-speech.json").read_text())
 
 
 def norm(text):
@@ -46,7 +47,7 @@ for number, title in enumerate(TITLES, 1):
                      "source": source, "origin": origin, "words": []}
             sections[skill]["groups"].append(group)
             continue
-        assert 2 <= len(parts) <= 4, (number, line_number, parts)
+        assert len(parts) == 5, (number, line_number, "Expected term|meaning|type|example|part of speech")
         term, meaning = parts[:2]
         key = term.casefold()
         assert term and meaning
@@ -56,8 +57,10 @@ for number, title in enumerate(TITLES, 1):
         seen[skill].add(key)
         kind = parts[2] if len(parts) > 2 and parts[2] else ("structure" if "..." in term or "+ V-ing" in term else "phrase" if " " in term else "word")
         assert kind in ["word", "phrase", "collocation", "structure"]
+        pos = parts[4]
+        assert pos in pos_labels, (number, line_number, "Invalid part of speech", pos)
         word = {"id": f"u{number}-{skill}-{hashlib.sha256(key.encode()).hexdigest()[:12]}",
-                "word": term, "meaning": meaning, "type": kind}
+                "word": term, "meaning": meaning, "type": kind, "pos": pos}
         old = reference.get(key, {})
         if old.get("ipa"):
             word["ipa"] = old["ipa"]
@@ -77,6 +80,7 @@ for number, title in enumerate(TITLES, 1):
                      "module": f"./data/unit{number}.js?v={VERSION}"})
     counts.append({"unit": number, "total": unit["count"], **per_skill})
 dump(ROOT / "data/units.js", registry, "export const unitsRegistry = ")
+dump(ROOT / "data/parts-of-speech.js", pos_labels, "export const posLabels = ")
 stats = {"version": VERSION, "units": 8, "skills": 32, "total": sum(u["total"] for u in counts),
          "uniqueTerms": len(all_terms), "perUnit": counts}
 dump(ROOT / "data/stats.json", stats)

@@ -58,6 +58,12 @@ Từ vựng Listening lấy từ lời thoại trong transcript, được đối
 - Tên động vật ở phần khởi động SB p. 156 được giữ để luyện Speaking Unit 8, có bổ sung trang nguồn trong nhóm đó.
 - Các phát biểu về nhân vật, số liệu, kỷ lục hoặc tình trạng loài trong sách là ngữ cảnh của tài liệu năm 2017; bộ thẻ không trình bày chúng như thông tin thời sự đã được cập nhật.
 
+## Loại từ trên thẻ
+
+Cả 2.070 thẻ có trường loại từ được rà soát theo từ/cụm và nghĩa trong bài. Nhãn phân biệt danh từ, động từ, tính từ, trạng từ, giới từ, liên từ, các loại cụm từ, động từ cụm, thành ngữ và cấu trúc câu. Nhãn kép chỉ dùng khi nghĩa trên thẻ bao gồm cả hai cách dùng (ví dụ `drop`: danh từ / động từ). Với cụm phân từ hoặc danh động từ, nhãn mô tả dạng cụm; vai trò trong câu cụ thể có thể thay đổi.
+
+Loại từ nằm ở trường thứ năm trong mỗi dòng `content/unitN.txt`, được giữ riêng với loại thẻ dùng cho bộ lọc (`word`, `phrase`, `collocation`, `structure`). Danh mục nhãn nằm trong `content/parts-of-speech.json`.
+
 ## Phát âm và dữ liệu
 
 Nút nghe sử dụng Web Speech API và giọng tiếng Anh có trên thiết bị, ưu tiên en-US. Đây không phải audio của giáo trình. Chất lượng và khả năng phát âm phụ thuộc trình duyệt/thiết bị. Phiên âm IPA chỉ được giữ cho mục khớp chính xác với dữ liệu tham chiếu cũ; không tự sinh IPA chưa kiểm chứng cho toàn bộ từ mới.
