@@ -10,7 +10,7 @@ Bản cập nhật tháng 9/2026: **2.070 thẻ / 8 Unit / 32 phần kỹ năng*
 - *Mindset for IELTS Level 1 Teacher’s Book* — Cambridge, 2017; ISBN 9781316640111.
 - Danh sách DOCX ban đầu được dùng để đối chiếu và giữ các mục còn phù hợp.
 
-`SB` là Student’s Book, `TB` là Teacher’s Book. Số trang trên thẻ là **số trang in trong sách**; với hai PDF này, vị trí trang PDF lớn hơn số trang in một đơn vị. Các nhóm thẻ ghi nguồn chung của nhóm, không khẳng định mỗi mục nằm trên mọi trang trong khoảng đã dẫn.
+`SB` là Student’s Book, `TB` là Teacher’s Book. Số trang trong dữ liệu nguồn là **số trang in trong sách**; với hai PDF này, vị trí trang PDF lớn hơn số trang in một đơn vị. Dữ liệu nhóm thẻ lưu nguồn chung của nhóm, không khẳng định mỗi mục nằm trên mọi trang trong khoảng đã dẫn.
 
 | Unit | Reading SB | Writing SB | Listening SB | Speaking SB | TB của Unit |
 | --- | --- | --- | --- | --- | --- |
@@ -42,10 +42,10 @@ Từ vựng Listening lấy từ lời thoại trong transcript, được đối
 
 - **Reading:** từ/cụm trong các bài đọc và đoạn đọc ngắn, ghi nguồn ở nhóm tương ứng. Những từ chỉ xuất hiện ở phần khởi động được chuyển sang Speaking khi phù hợp, thay vì gắn là từ của bài đọc.
 - **Listening:** từ/cụm trong transcript. Giữ các cụm hoàn chỉnh như `open a new account`, `on special offer`, `make a reservation` khi chúng mang nghĩa sử dụng chung.
-- **Speaking/Writing:** ngôn ngữ từ bài học, bài mẫu và phần luyện tập mở rộng. Nhóm thêm mới có nhãn **Bổ sung luyện tập**; đây là nội dung biên soạn theo mục tiêu bài, không phải trích nguyên văn sách.
+- **Speaking/Writing:** ngôn ngữ từ bài học, bài mẫu và phần luyện tập mở rộng. Nguồn nội bộ phân biệt nhóm bổ sung; đây là nội dung biên soạn theo mục tiêu bài, không phải trích nguyên văn sách. Không hiển thị ghi chú nguồn trên từng thẻ.
 - Một số từ/cụm được đưa về dạng cơ bản để dễ học: động từ nguyên mẫu, danh từ số ít khi phù hợp, khung câu có chỗ trống. Vì vậy nhãn nguồn không có nghĩa mọi mục là một chuỗi trích nguyên văn.
 - Nghĩa tiếng Việt được chọn theo ngữ cảnh; không liệt kê tất cả nghĩa từ điển của một từ. Những collocation được giữ thành một thẻ, không chỉ giữ từ hạt nhân.
-- Ví dụ trên thẻ là ví dụ luyện tập, gồm ví dụ còn phù hợp từ bộ cũ và ví dụ mới. Có **267 thẻ có ví dụ**, **187 thẻ thuộc nhóm bổ sung**; các thẻ khác vẫn có từ/cụm và nghĩa đầy đủ.
+- Cả **2.070 thẻ** có ví dụ tiếng Anh và bản dịch tiếng Việt từ ngân hàng **971 câu/ngữ cảnh**. Câu dùng chung cho các từ xuất hiện trong cùng ngữ cảnh. Dữ liệu ghi rõ `book` (trích sách, có chuẩn hóa OCR/dấu câu), `adapted` (điều chỉnh theo ngữ cảnh bài), `practice` (câu luyện tập biên soạn). Reading/Listening ưu tiên bài đọc và transcript; Speaking/Writing có câu ứng dụng. Có **187 thẻ thuộc nhóm bổ sung**.
 - Từ trùng trong cùng Unit/kỹ năng được loại bỏ. Trùng giữa các kỹ năng hoặc Unit được giữ khi phục vụ bài học; 2.070 là số thẻ, 2.042 là số mục tiếng Anh khác nhau.
 
 ## Những chỗ đã kiểm tra và điều chỉnh
@@ -66,10 +66,10 @@ Loại từ nằm ở trường thứ năm trong mỗi dòng `content/unitN.txt`
 
 ## Phát âm và dữ liệu
 
-Nút nghe sử dụng Web Speech API và giọng tiếng Anh có trên thiết bị, ưu tiên en-US. Đây không phải audio của giáo trình. Chất lượng và khả năng phát âm phụ thuộc trình duyệt/thiết bị. Phiên âm IPA chỉ được giữ cho mục khớp chính xác với dữ liệu tham chiếu cũ; không tự sinh IPA chưa kiểm chứng cho toàn bộ từ mới.
+Nút nghe sử dụng Web Speech API và giọng tiếng Anh có trên thiết bị, ưu tiên en-US. Đây không phải audio của giáo trình. Chất lượng và khả năng phát âm phụ thuộc trình duyệt/thiết bị. Cả 2.070 thẻ có IPA trong `content/ipa-us.json`. Dữ liệu nền lấy từ [ipa-dict, en_US](https://github.com/open-dict-data/ipa-dict/blob/master/data/en_US.txt), giấy phép MIT được giữ tại `IPA_LICENSE.txt`. Phiên âm được chuẩn hóa và ghép theo các từ thành phần, có sửa các từ nhiều cách đọc theo ngữ cảnh như `live`, `read`, `close`, `produce`, `present`, `increase` và `used to`; các mục thiếu được biên soạn riêng. Cụm/cấu trúc thể hiện cách đọc các thành phần, không phải bản chép ngữ điệu hay nối âm của cả câu. Tên riêng và từ vay mượn có thể có nhiều biến thể. Đã đối chiếu thêm [traceur](https://www.collinsdictionary.com/dictionary/english/traceur) và [Père David’s deer](https://www.collinsdictionary.com/dictionary/english/pere-davids-deer) tại Collins.
 
-Chỉnh sửa `content/unitN.txt`, sau đó chạy `npm run build` và `npm test`. ID của thẻ dựa vào Unit, kỹ năng và từ tiếng Anh để giữ tiến độ ổn định khi sửa nghĩa hoặc ví dụ. Chuyển từ sang kỹ năng khác sẽ tạo ID khác.
+Chỉnh sửa `content/unitN.txt`, `content/examples/unitN.json` và `content/ipa-us.json`, sau đó chạy `npm run build` và `npm test`. ID của thẻ dựa vào Unit, kỹ năng và từ tiếng Anh để giữ tiến độ ổn định khi sửa nghĩa hoặc ví dụ. Chuyển từ sang kỹ năng khác sẽ tạo ID khác.
 
-Kiểm tra tự động xác nhận đủ 8 Unit/32 kỹ năng, nguồn theo loại nội dung, track cho Listening, trường bắt buộc, Unicode NFC, ID không trùng, số lượng và tính nhất quán của dữ liệu. Kiểm tra này hỗ trợ chất lượng dữ liệu; phần đối chiếu ngữ nghĩa được thực hiện bằng việc đọc tài liệu.
+Kiểm tra tự động xác nhận đủ 8 Unit/32 kỹ năng, nguồn theo loại nội dung, track cho Listening, loại từ, IPA, ví dụ và bản dịch cho mọi thẻ, trường bắt buộc, Unicode NFC, ID không trùng, số lượng và tính nhất quán của dữ liệu. Kiểm tra này hỗ trợ chất lượng dữ liệu; phần đối chiếu ngữ nghĩa được thực hiện bằng việc đọc tài liệu.
 
 Không đưa PDF, toàn bộ bài đọc, toàn bộ transcript hay bản thu gốc vào repository.

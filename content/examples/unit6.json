@@ -1,0 +1,1404 @@
+[
+  {
+    "id": "u6-ex-001",
+    "kind": "book",
+    "text": "If you're tired of tennis, fed up with football or bored of basketball, don't worry.",
+    "translation": "Nếu bạn chán quần vợt, chán ngấy bóng đá hoặc thấy bóng rổ nhàm chán, đừng lo.",
+    "source": "SB p. 107",
+    "cards": [
+      "u6-reading-b6b0676267fe",
+      "u6-reading-90114cb28ffe",
+      "u6-reading-3e278ff84ed6"
+    ]
+  },
+  {
+    "id": "u6-ex-002",
+    "kind": "book",
+    "text": "Many of these are a mix of existing sports, sometimes with a local element added.",
+    "translation": "Nhiều môn trong số này là sự kết hợp các môn thể thao hiện có, đôi khi thêm yếu tố địa phương.",
+    "source": "SB p. 107",
+    "cards": [
+      "u6-reading-2b2fc2449804",
+      "u6-reading-9c98d2882508"
+    ]
+  },
+  {
+    "id": "u6-ex-003",
+    "kind": "adapted",
+    "text": "Bossaball is played on an inflatable pitch with a trampoline and includes elements of Brazilian martial arts.",
+    "translation": "Bossaball được chơi trên sân bơm hơi có bạt nhún và kết hợp các yếu tố võ thuật Brazil.",
+    "source": "SB p. 107",
+    "cards": [
+      "u6-reading-846a2d098765",
+      "u6-reading-dbfe37c07e7d",
+      "u6-reading-aa55fbc9507f"
+    ]
+  },
+  {
+    "id": "u6-ex-004",
+    "kind": "book",
+    "text": "If you are very good at horse riding, you could try the national sport of Afghanistan, buzkashi.",
+    "translation": "Nếu rất giỏi cưỡi ngựa, bạn có thể thử buzkashi, môn thể thao quốc gia của Afghanistan.",
+    "source": "SB p. 107",
+    "cards": [
+      "u6-reading-ecb2ceef5e36",
+      "u6-reading-01c2fc88e5d8"
+    ]
+  },
+  {
+    "id": "u6-ex-005",
+    "kind": "book",
+    "text": "The game involves players on horseback trying to get hold of a dead goat.",
+    "translation": "Trò chơi có những người chơi trên lưng ngựa cố giành lấy một con dê đã chết.",
+    "source": "SB p. 107",
+    "cards": [
+      "u6-reading-2ba98d9438ea",
+      "u6-reading-6eeb9ea94253"
+    ]
+  },
+  {
+    "id": "u6-ex-006",
+    "kind": "adapted",
+    "text": "The federation wrote down the rules, hoping the sport would spread throughout the world and gain Olympic status.",
+    "translation": "Liên đoàn ghi lại luật chơi, hy vọng môn thể thao lan rộng khắp thế giới và được công nhận là môn thi đấu Olympic.",
+    "source": "SB p. 107",
+    "cards": [
+      "u6-reading-c14994226185",
+      "u6-reading-403753a0fc1e",
+      "u6-reading-15e6a92efe76"
+    ]
+  },
+  {
+    "id": "u6-ex-007",
+    "kind": "book",
+    "text": "In kabaddi, a 'raider' from one team tries to tag a player from the other team and then return to their own half of the field without getting caught.",
+    "translation": "Trong kabaddi, một người tấn công cố chạm vào cầu thủ đội kia rồi trở về phần sân đội mình mà không bị bắt.",
+    "source": "SB p. 107",
+    "cards": [
+      "u6-reading-2a1073a6e67f",
+      "u6-reading-09053dbc39a1",
+      "u6-reading-165a7e433dde",
+      "u6-reading-07e47d905367"
+    ]
+  },
+  {
+    "id": "u6-ex-008",
+    "kind": "book",
+    "text": "In some versions of the game, the raider must chant the word 'kabaddi' as he returns to his place.",
+    "translation": "Ở một số phiên bản, người tấn công phải hô lặp lại từ “kabaddi” khi trở về vị trí.",
+    "source": "SB p. 107",
+    "cards": [
+      "u6-reading-2b9b466c8b4a"
+    ]
+  },
+  {
+    "id": "u6-ex-009",
+    "kind": "book",
+    "text": "Kabaddi is good fun, good exercise and doesn't need any equipment.",
+    "translation": "Kabaddi vui, giúp rèn luyện sức khỏe và không cần dụng cụ nào.",
+    "source": "SB p. 107",
+    "cards": [
+      "u6-reading-1c09f5a7f47d"
+    ]
+  },
+  {
+    "id": "u6-ex-010",
+    "kind": "adapted",
+    "text": "Chess boxing combines brains and brawn by alternating a round of chess with a round of boxing.",
+    "translation": "Cờ vua kết hợp quyền anh phối hợp trí tuệ và sức mạnh bằng cách luân phiên một hiệp cờ với một hiệp quyền anh.",
+    "source": "SB p. 107",
+    "cards": [
+      "u6-reading-cf5558c67797",
+      "u6-reading-ac3d94b53790",
+      "u6-reading-fc69e58da4db"
+    ]
+  },
+  {
+    "id": "u6-ex-011",
+    "kind": "adapted",
+    "text": "The first chess boxing world championship took place in Amsterdam in 2003.",
+    "translation": "Giải vô địch thế giới cờ vua kết hợp quyền anh đầu tiên diễn ra tại Amsterdam năm 2003.",
+    "source": "SB p. 107",
+    "cards": [
+      "u6-reading-6ad33491f1cf",
+      "u6-reading-0d2216989b3e"
+    ]
+  },
+  {
+    "id": "u6-ex-012",
+    "kind": "adapted",
+    "text": "The sport became more popular, particularly in Germany, the UK, India and Russia.",
+    "translation": "Môn thể thao trở nên phổ biến hơn, đặc biệt ở Đức, Anh, Ấn Độ và Nga.",
+    "source": "SB p. 107",
+    "cards": [
+      "u6-reading-5c9473495c88"
+    ]
+  },
+  {
+    "id": "u6-ex-013",
+    "kind": "adapted",
+    "text": "Players must switch quickly between two very different activities.",
+    "translation": "Người chơi phải chuyển nhanh qua lại giữa hai hoạt động rất khác nhau.",
+    "source": "SB p. 107",
+    "cards": [
+      "u6-reading-2638ce569a49"
+    ]
+  },
+  {
+    "id": "u6-ex-014",
+    "kind": "adapted",
+    "text": "Rock-paper-scissors is familiar to most of us and spread gradually from China to other countries.",
+    "translation": "Oẳn tù tì quen thuộc với phần lớn chúng ta và đã lan rộng dần từ Trung Quốc sang các nước khác.",
+    "source": "SB p. 107",
+    "cards": [
+      "u6-reading-85d3b270395c",
+      "u6-reading-db3050802983",
+      "u6-reading-5093e709d8cc"
+    ]
+  },
+  {
+    "id": "u6-ex-015",
+    "kind": "adapted",
+    "text": "Some people take it seriously: a league holds championships every year.",
+    "translation": "Một số người coi đó là việc nghiêm túc: một liên đoàn tổ chức giải vô địch hằng năm.",
+    "source": "SB p. 107",
+    "cards": [
+      "u6-reading-3e2cea41bd0e",
+      "u6-reading-cb4d1fea0153",
+      "u6-reading-bfb68dc17495"
+    ]
+  },
+  {
+    "id": "u6-ex-016",
+    "kind": "book",
+    "text": "It is based on military obstacle course training.",
+    "translation": "Hoạt động này dựa trên việc huấn luyện vượt chướng ngại vật trong quân đội.",
+    "source": "SB p. 110",
+    "cards": [
+      "u6-reading-80df4bb69503"
+    ]
+  },
+  {
+    "id": "u6-ex-017",
+    "kind": "book",
+    "text": "The aim is to get from one point to another in any way you can, and express yourself while doing so.",
+    "translation": "Mục đích là di chuyển từ điểm này đến điểm khác bằng bất kỳ cách nào có thể, đồng thời thể hiện bản thân.",
+    "source": "SB p. 110",
+    "cards": [
+      "u6-reading-61fa4890eced",
+      "u6-reading-e53d1f2fde1e"
+    ]
+  },
+  {
+    "id": "u6-ex-018",
+    "kind": "book",
+    "text": "There are no limits on how you move in parkour: running, climbing, swinging, jumping, rolling and any other types of movement are possible.",
+    "translation": "Không có giới hạn về cách di chuyển trong parkour: chạy, leo, đu, nhảy, lăn và mọi kiểu chuyển động khác đều có thể thực hiện.",
+    "source": "SB p. 110",
+    "cards": [
+      "u6-reading-bf96477a01f3",
+      "u6-reading-991540dcc68d",
+      "u6-reading-63fbb88660d6",
+      "u6-reading-a637996908ea"
+    ]
+  },
+  {
+    "id": "u6-ex-019",
+    "kind": "adapted",
+    "text": "Parkour is a philosophy that encourages people to find ways around obstacles.",
+    "translation": "Parkour là một triết lý khuyến khích mọi người tìm cách vượt chướng ngại vật.",
+    "source": "SB p. 110",
+    "cards": [
+      "u6-reading-2331eb33ce2c",
+      "u6-reading-6aa7cbba8b46"
+    ]
+  },
+  {
+    "id": "u6-ex-020",
+    "kind": "adapted",
+    "text": "The Yamakasi were a group of traceurs made up of David Belle and his friends and cousins, who appeared in films and documentaries.",
+    "translation": "Yamakasi là nhóm người tập parkour gồm David Belle, bạn bè và anh em họ, từng xuất hiện trong phim và phim tài liệu.",
+    "source": "SB p. 110",
+    "cards": [
+      "u6-reading-e0bdb755e12d",
+      "u6-reading-fdbbb99d7b90",
+      "u6-reading-44804b3033cb"
+    ]
+  },
+  {
+    "id": "u6-ex-021",
+    "kind": "adapted",
+    "text": "Their strict rules required members to arrive on time and not make excuses.",
+    "translation": "Các quy tắc nghiêm ngặt yêu cầu thành viên đến đúng giờ và không viện cớ.",
+    "source": "SB p. 110",
+    "cards": [
+      "u6-reading-025df06e70cb",
+      "u6-reading-74aef5dd9dc9",
+      "u6-reading-4d7ce9063d59"
+    ]
+  },
+  {
+    "id": "u6-ex-022",
+    "kind": "book",
+    "text": "They valued humility, so they were not allowed to show off or compete with other members.",
+    "translation": "Họ coi trọng sự khiêm tốn, nên không được khoe khoang hay thi đấu với thành viên khác.",
+    "source": "SB p. 110",
+    "cards": [
+      "u6-reading-b7c95287a83c",
+      "u6-reading-a2aeafe15226",
+      "u6-reading-002cc5062a40"
+    ]
+  },
+  {
+    "id": "u6-ex-023",
+    "kind": "adapted",
+    "text": "Parkour is a state of mind concerned with overcoming mental and physical barriers.",
+    "translation": "Parkour là trạng thái tinh thần hướng đến vượt qua các rào cản tinh thần và thể chất.",
+    "source": "SB p. 110",
+    "cards": [
+      "u6-reading-d65c31c635db",
+      "u6-reading-3bf5dfbfc9dd"
+    ]
+  },
+  {
+    "id": "u6-ex-024",
+    "kind": "book",
+    "text": "It teaches people to touch the world and interact with it.",
+    "translation": "Nó dạy con người tiếp xúc với thế giới và tương tác với thế giới đó.",
+    "source": "SB p. 110",
+    "cards": [
+      "u6-reading-dca499b1abd6"
+    ]
+  },
+  {
+    "id": "u6-ex-025",
+    "kind": "adapted",
+    "text": "Parkour.net describes parkour as an art concerned with self-development, rather than a competitive sport.",
+    "translation": "Parkour.net mô tả parkour là nghệ thuật chú trọng phát triển bản thân thay vì môn thể thao thi đấu.",
+    "source": "SB p. 110",
+    "cards": [
+      "u6-reading-24e5b1477271",
+      "u6-reading-3f6fa8ece157",
+      "u6-reading-76504fe474e5"
+    ]
+  },
+  {
+    "id": "u6-ex-026",
+    "kind": "book",
+    "text": "The idea behind parkour is to adapt to any environment and be creative about how you get through it.",
+    "translation": "Ý tưởng của parkour là thích nghi với mọi môi trường và sáng tạo trong cách vượt qua môi trường đó.",
+    "source": "SB p. 110",
+    "cards": [
+      "u6-reading-06559035a0eb",
+      "u6-reading-3160d72dad0f"
+    ]
+  },
+  {
+    "id": "u6-ex-027",
+    "kind": "book",
+    "text": "It is about freedom and self-expression.",
+    "translation": "Hoạt động này hướng đến sự tự do và việc thể hiện bản thân.",
+    "source": "SB p. 110",
+    "cards": [
+      "u6-reading-92b10afea59c"
+    ]
+  },
+  {
+    "id": "u6-ex-028",
+    "kind": "book",
+    "text": "The founder of parkour refused to teach people how to do moves or get over obstacles.",
+    "translation": "Người sáng lập parkour từ chối dạy người khác cách thực hiện động tác hoặc vượt chướng ngại vật.",
+    "source": "SB p. 110",
+    "cards": [
+      "u6-reading-59458508a082",
+      "u6-reading-750c33572014"
+    ]
+  },
+  {
+    "id": "u6-ex-029",
+    "kind": "book",
+    "text": "The whole point is to learn your own technique and way of moving.",
+    "translation": "Điều cốt yếu là tự học kỹ thuật và cách di chuyển của riêng mình.",
+    "source": "SB p. 110",
+    "cards": [
+      "u6-reading-07185cec88fa",
+      "u6-reading-6cbdfcf83679"
+    ]
+  },
+  {
+    "id": "u6-ex-030",
+    "kind": "adapted",
+    "text": "Having classes in a limited space may conflict with the values of parkour.",
+    "translation": "Việc học theo lớp trong không gian hạn chế có thể mâu thuẫn với các giá trị của parkour.",
+    "source": "SB p. 110",
+    "cards": [
+      "u6-reading-4c7bb4e4851f"
+    ]
+  },
+  {
+    "id": "u6-ex-031",
+    "kind": "adapted",
+    "text": "Some forms of freerunning have more focus on the individual.",
+    "translation": "Một số hình thức freerunning tập trung nhiều hơn vào từng cá nhân.",
+    "source": "SB p. 110",
+    "cards": [
+      "u6-reading-37fa31ed7ab4"
+    ]
+  },
+  {
+    "id": "u6-ex-032",
+    "kind": "adapted",
+    "text": "Jump London showed traceurs moving around famous monuments in London.",
+    "translation": "Jump London cho thấy những người tập parkour di chuyển quanh các công trình nổi tiếng ở London.",
+    "source": "SB p. 110, paragraph E",
+    "cards": [
+      "u6-reading-920c4ea8f1cb"
+    ]
+  },
+  {
+    "id": "u6-ex-033",
+    "kind": "adapted",
+    "text": "Despite discussions of similarities and differences, Parkour UK says the English translation and the French term refer to the same activity.",
+    "translation": "Dù có thảo luận về điểm giống và khác nhau, Parkour UK cho rằng bản dịch tiếng Anh và thuật ngữ tiếng Pháp chỉ cùng một hoạt động.",
+    "source": "SB p. 110, paragraph E",
+    "cards": [
+      "u6-reading-540adffe1fd8",
+      "u6-reading-835762ef90ac",
+      "u6-reading-5121ec037bdd"
+    ]
+  },
+  {
+    "id": "u6-ex-034",
+    "kind": "book",
+    "text": "First, you need to turn right onto Maple Avenue and drive to the bottom of the road, passing the supermarket on your left.",
+    "translation": "Đầu tiên, bạn cần rẽ phải vào đại lộ Maple và lái đến cuối đường, đi qua siêu thị bên trái.",
+    "source": "SB p. 184, track 49",
+    "cards": [
+      "u6-listening-3f6260a0b107",
+      "u6-listening-33a8d675b9bf",
+      "u6-listening-e97e6f8ebf59"
+    ]
+  },
+  {
+    "id": "u6-ex-035",
+    "kind": "book",
+    "text": "Then, you need to turn left at the traffic lights and then take a sharp right onto Main Street.",
+    "translation": "Sau đó, bạn cần rẽ trái ở đèn giao thông rồi ngoặt phải vào phố Main.",
+    "source": "SB p. 184, track 49",
+    "cards": [
+      "u6-listening-39e7fda1aa71",
+      "u6-listening-efe97c6c1d65"
+    ]
+  },
+  {
+    "id": "u6-ex-036",
+    "kind": "adapted",
+    "text": "You can go straight on past the surgery.",
+    "translation": "Bạn có thể đi thẳng qua phòng khám.",
+    "source": "SB p. 184, track 49",
+    "cards": [
+      "u6-listening-7f20db4fc210",
+      "u6-listening-7dcf11bc7118"
+    ]
+  },
+  {
+    "id": "u6-ex-037",
+    "kind": "adapted",
+    "text": "Follow this road until you reach a roundabout.",
+    "translation": "Đi theo đường này cho đến khi tới vòng xuyến.",
+    "source": "SB p. 184, track 49",
+    "cards": [
+      "u6-listening-bfd0d6eaea2d",
+      "u6-listening-b616b765b6c3"
+    ]
+  },
+  {
+    "id": "u6-ex-038",
+    "kind": "adapted",
+    "text": "At the roundabout, take the first turning on the left onto Silver Street.",
+    "translation": "Tại vòng xuyến, rẽ vào lối đầu tiên bên trái để vào phố Silver.",
+    "source": "SB p. 184, track 49",
+    "cards": [
+      "u6-listening-2cc037509813"
+    ]
+  },
+  {
+    "id": "u6-ex-039",
+    "kind": "book",
+    "text": "As you approach the crossroads here, my house is the first on the corner.",
+    "translation": "Khi đến gần ngã tư này, nhà tôi là căn đầu tiên ở góc đường.",
+    "source": "SB p. 184, track 49",
+    "cards": [
+      "u6-listening-053673fedb3a",
+      "u6-listening-f92b752058a4"
+    ]
+  },
+  {
+    "id": "u6-ex-040",
+    "kind": "adapted",
+    "text": "Melissa gives another set of directions so the driver can collect Sarah on the way.",
+    "translation": "Melissa đưa một loạt chỉ dẫn khác để người lái xe có thể đón Sarah trên đường.",
+    "source": "SB p. 185, track 50",
+    "cards": [
+      "u6-listening-c72318a327ff",
+      "u6-listening-789ce37a3ad3"
+    ]
+  },
+  {
+    "id": "u6-ex-041",
+    "kind": "book",
+    "text": "Instead of turning left here, turn right, with the park on your left.",
+    "translation": "Thay vì rẽ trái ở đây, hãy rẽ phải, với công viên ở bên trái bạn.",
+    "source": "SB p. 185, track 50",
+    "cards": [
+      "u6-listening-91056e74feac"
+    ]
+  },
+  {
+    "id": "u6-ex-042",
+    "kind": "book",
+    "text": "Then after the zebra crossing, take the first turning on your left onto New Road.",
+    "translation": "Sau vạch sang đường, rẽ vào lối đầu tiên bên trái để vào đường New.",
+    "source": "SB p. 185, track 50",
+    "cards": [
+      "u6-listening-c8412635b84f"
+    ]
+  },
+  {
+    "id": "u6-ex-043",
+    "kind": "adapted",
+    "text": "Drive along New Road; Sarah's house is the second house after the bridge.",
+    "translation": "Lái xe dọc đường New; nhà Sarah là căn thứ hai sau cây cầu.",
+    "source": "SB p. 185, track 50",
+    "cards": [
+      "u6-listening-60669931d53a",
+      "u6-listening-99f768a12c10"
+    ]
+  },
+  {
+    "id": "u6-ex-044",
+    "kind": "adapted",
+    "text": "After picking up Sarah, turn left onto Silver Street and go straight ahead.",
+    "translation": "Sau khi đón Sarah, rẽ trái vào phố Silver và đi thẳng.",
+    "source": "SB p. 185, track 50",
+    "cards": [
+      "u6-listening-b771b19589eb",
+      "u6-listening-10bc9252eb0b"
+    ]
+  },
+  {
+    "id": "u6-ex-045",
+    "kind": "adapted",
+    "text": "Tanya calls to make arrangements for meeting at the Arena concert venue.",
+    "translation": "Tanya gọi để sắp xếp việc gặp nhau tại địa điểm hòa nhạc Arena.",
+    "source": "SB p. 185, track 51",
+    "cards": [
+      "u6-listening-10d97e1b0c8b",
+      "u6-listening-9af7c274b4ed"
+    ]
+  },
+  {
+    "id": "u6-ex-046",
+    "kind": "adapted",
+    "text": "She is giving Melissa and Sarah a lift and suggests meeting up for a coffee.",
+    "translation": "Cô ấy cho Melissa và Sarah đi nhờ xe và đề nghị gặp nhau uống cà phê.",
+    "source": "SB p. 185, track 51",
+    "cards": [
+      "u6-listening-d7dc61c9ff41",
+      "u6-listening-1640a9663f30"
+    ]
+  },
+  {
+    "id": "u6-ex-047",
+    "kind": "book",
+    "text": "As you walk through the main entrance, you come to a square with a big fountain in the middle.",
+    "translation": "Khi đi qua lối vào chính, bạn đến quảng trường có đài phun nước lớn ở giữa.",
+    "source": "SB p. 185, track 51",
+    "cards": [
+      "u6-listening-75868ccb824d",
+      "u6-listening-bbafff6092bd"
+    ]
+  },
+  {
+    "id": "u6-ex-048",
+    "kind": "adapted",
+    "text": "People meet in the square, where there is sometimes live music.",
+    "translation": "Mọi người gặp nhau ở quảng trường, nơi đôi khi có nhạc biểu diễn trực tiếp.",
+    "source": "SB p. 185, track 51",
+    "cards": [
+      "u6-listening-b0594e084e86"
+    ]
+  },
+  {
+    "id": "u6-ex-049",
+    "kind": "book",
+    "text": "Beyond the square, on Main Avenue, on your right, there are several restaurants, and opposite these on your left is an exhibition centre.",
+    "translation": "Qua phía bên kia quảng trường, trên đại lộ Main, có vài nhà hàng bên phải, còn đối diện chúng ở bên trái là trung tâm triển lãm.",
+    "source": "SB p. 185, track 51",
+    "cards": [
+      "u6-listening-0c4d40753bbf",
+      "u6-listening-018acf8f0d23",
+      "u6-listening-198f85ca7377"
+    ]
+  },
+  {
+    "id": "u6-ex-050",
+    "kind": "adapted",
+    "text": "The coffee shop is at the end of Main Avenue, after the art gallery.",
+    "translation": "Quán cà phê nằm cuối đại lộ Main, sau phòng trưng bày nghệ thuật.",
+    "source": "SB p. 185, track 51",
+    "cards": [
+      "u6-listening-17021b5e9408",
+      "u6-listening-0139638a5463"
+    ]
+  },
+  {
+    "id": "u6-ex-051",
+    "kind": "adapted",
+    "text": "To reach the Arena, they must go through the shopping centre, which can be tempting.",
+    "translation": "Để đến Arena, họ phải đi xuyên qua trung tâm mua sắm, nơi có thể khiến họ muốn ghé vào.",
+    "source": "SB p. 185, track 51",
+    "cards": [
+      "u6-listening-9d52bbf24e77",
+      "u6-listening-f77ec97ec2b7"
+    ]
+  },
+  {
+    "id": "u6-ex-052",
+    "kind": "adapted",
+    "text": "There are toilets beside the entrance.",
+    "translation": "Có nhà vệ sinh bên cạnh lối vào.",
+    "source": "SB p. 185, track 51",
+    "cards": [
+      "u6-listening-398e41e429a2"
+    ]
+  },
+  {
+    "id": "u6-ex-053",
+    "kind": "adapted",
+    "text": "Let me know if you can make it for seven; it's been a while since we met.",
+    "translation": "Hãy cho tôi biết bạn có đến kịp bảy giờ không; đã lâu rồi chúng ta chưa gặp.",
+    "source": "SB p. 185, track 51",
+    "cards": [
+      "u6-listening-c8d7ebd5a155",
+      "u6-listening-9db04cec3f83"
+    ]
+  },
+  {
+    "id": "u6-ex-054",
+    "kind": "adapted",
+    "text": "The activity summer camp has many activities on offer.",
+    "translation": "Trại hè có nhiều hoạt động để lựa chọn.",
+    "source": "SB p. 185, track 52",
+    "cards": [
+      "u6-listening-f89c4abf2bc3",
+      "u6-listening-9a4ba7e4807e"
+    ]
+  },
+  {
+    "id": "u6-ex-055",
+    "kind": "book",
+    "text": "We start our tour at the outdoor theatre here, where we hold many of our evening activities.",
+    "translation": "Chúng ta bắt đầu chuyến tham quan tại sân khấu ngoài trời, nơi tổ chức nhiều hoạt động buổi tối.",
+    "source": "SB p. 185, track 52",
+    "cards": [
+      "u6-listening-51bad93ae131"
+    ]
+  },
+  {
+    "id": "u6-ex-056",
+    "kind": "book",
+    "text": "Directly in front of the campsite, on the edge of the lake, we have the kayaking centre.",
+    "translation": "Ngay trước khu cắm trại, ở ven hồ, là trung tâm chèo thuyền kayak.",
+    "source": "SB p. 185, track 52",
+    "cards": [
+      "u6-listening-63371516010c",
+      "u6-listening-a3353d0e9697",
+      "u6-listening-87476e9dc9d0"
+    ]
+  },
+  {
+    "id": "u6-ex-057",
+    "kind": "adapted",
+    "text": "Swimming is not permitted in the area reserved for diving.",
+    "translation": "Không được bơi trong khu vực dành riêng cho hoạt động lặn.",
+    "source": "SB p. 185, track 52",
+    "cards": [
+      "u6-listening-3f1d5cd2f2e4",
+      "u6-listening-d80945e5f80b"
+    ]
+  },
+  {
+    "id": "u6-ex-058",
+    "kind": "adapted",
+    "text": "If you enjoy racket sports, you can practise badminton indoors or use the outdoor tennis courts.",
+    "translation": "Nếu thích các môn dùng vợt, bạn có thể tập cầu lông trong nhà hoặc dùng sân quần vợt ngoài trời.",
+    "source": "SB p. 185, track 52",
+    "cards": [
+      "u6-listening-d74021d8722b",
+      "u6-listening-187f874f6f4f",
+      "u6-listening-aadbb4d7392b"
+    ]
+  },
+  {
+    "id": "u6-ex-059",
+    "kind": "adapted",
+    "text": "The path leads straight to the cafe and dining hall.",
+    "translation": "Con đường dẫn thẳng đến quán cà phê và nhà ăn.",
+    "source": "SB p. 185, track 52",
+    "cards": [
+      "u6-listening-df62c72902f3"
+    ]
+  },
+  {
+    "id": "u6-ex-060",
+    "kind": "adapted",
+    "text": "As we walk along the lake shore, I'd like to draw your attention to two other areas.",
+    "translation": "Khi đi dọc bờ hồ, tôi muốn hướng sự chú ý của các bạn đến hai khu vực khác.",
+    "source": "SB p. 185, track 52",
+    "cards": [
+      "u6-listening-cdbf845fe771",
+      "u6-listening-f994402322ab"
+    ]
+  },
+  {
+    "id": "u6-ex-061",
+    "kind": "adapted",
+    "text": "For safety reasons, swimming is allowed only when an instructor is present.",
+    "translation": "Vì lý do an toàn, chỉ được bơi khi có người hướng dẫn ở đó.",
+    "source": "SB p. 185, track 52",
+    "cards": [
+      "u6-listening-c88879eb28f9",
+      "u6-listening-92baa7989f9e"
+    ]
+  },
+  {
+    "id": "u6-ex-062",
+    "kind": "adapted",
+    "text": "The track for cycling is not wide enough for both runners and cyclists.",
+    "translation": "Đường dành cho xe đạp không đủ rộng cho cả người chạy bộ và người đi xe đạp.",
+    "source": "SB p. 185, track 52",
+    "cards": [
+      "u6-listening-51f5f640b916",
+      "u6-listening-244168094d6b"
+    ]
+  },
+  {
+    "id": "u6-ex-063",
+    "kind": "adapted",
+    "text": "Gary will organise tournaments, but today he is taking part in a rugby game.",
+    "translation": "Gary sẽ tổ chức các giải đấu, nhưng hôm nay anh đang tham gia một trận bóng bầu dục.",
+    "source": "SB p. 185, track 52",
+    "cards": [
+      "u6-listening-b45ab2dac002",
+      "u6-listening-a1b13462a4da"
+    ]
+  },
+  {
+    "id": "u6-ex-064",
+    "kind": "adapted",
+    "text": "The archery field is surrounded by trees.",
+    "translation": "Khu bắn cung được cây cối bao quanh.",
+    "source": "SB p. 185, track 52",
+    "cards": [
+      "u6-listening-edba59133b0a",
+      "u6-listening-f42d413e912a"
+    ]
+  },
+  {
+    "id": "u6-ex-065",
+    "kind": "adapted",
+    "text": "You can hire equipment in the building and play table tennis there if the weather turns bad.",
+    "translation": "Bạn có thể thuê dụng cụ trong tòa nhà và chơi bóng bàn ở đó nếu thời tiết trở nên xấu.",
+    "source": "SB p. 185, track 52",
+    "cards": [
+      "u6-listening-b322e5a72026",
+      "u6-listening-72b1301095a5"
+    ]
+  },
+  {
+    "id": "u6-ex-066",
+    "kind": "adapted",
+    "text": "The council hears plans for a centre for people of all ages.",
+    "translation": "Hội đồng địa phương nghe kế hoạch xây trung tâm cho mọi người ở mọi lứa tuổi.",
+    "source": "SB p. 185, track 53",
+    "cards": [
+      "u6-listening-a0c7ec73f6d7",
+      "u6-listening-5c6a5c2ef9ca"
+    ]
+  },
+  {
+    "id": "u6-ex-067",
+    "kind": "book",
+    "text": "The centre will feature our Tree Tops Challenge - only for the brave and fearless!",
+    "translation": "Trung tâm sẽ có thử thách trên ngọn cây, chỉ dành cho người dũng cảm và không sợ hãi!",
+    "source": "SB p. 185, track 53",
+    "cards": [
+      "u6-listening-717fd363105a"
+    ]
+  },
+  {
+    "id": "u6-ex-068",
+    "kind": "adapted",
+    "text": "There will be adventure playgrounds, a feeding area for farm animals and cycle trails.",
+    "translation": "Sẽ có các khu vui chơi mạo hiểm, khu cho động vật trang trại ăn và những đường mòn xe đạp.",
+    "source": "SB p. 185, track 53",
+    "cards": [
+      "u6-listening-9a34cc654975",
+      "u6-listening-5c9c702b5181",
+      "u6-listening-53ab83d9d896",
+      "u6-listening-176d492ab080"
+    ]
+  },
+  {
+    "id": "u6-ex-069",
+    "kind": "adapted",
+    "text": "The slide shows the overall layout, including the cafe and gift shop.",
+    "translation": "Trang trình chiếu thể hiện bố cục tổng thể, bao gồm quán cà phê và cửa hàng quà lưu niệm.",
+    "source": "SB p. 185, track 53",
+    "cards": [
+      "u6-listening-b8a5a247089f",
+      "u6-listening-3ba70b35cc33"
+    ]
+  },
+  {
+    "id": "u6-ex-070",
+    "kind": "adapted",
+    "text": "The picnic field will have a barbecue area and bands performing in summer evenings.",
+    "translation": "Bãi dã ngoại sẽ có khu nướng thịt và các ban nhạc biểu diễn vào buổi tối mùa hè.",
+    "source": "SB p. 185, track 53",
+    "cards": [
+      "u6-listening-42259f08c06b",
+      "u6-listening-cda5be4a2fdc",
+      "u6-listening-95b3b7f22d4f"
+    ]
+  },
+  {
+    "id": "u6-ex-071",
+    "kind": "adapted",
+    "text": "A path winding through the forest leads to adventure apparatus high in the trees.",
+    "translation": "Con đường uốn lượn xuyên rừng dẫn đến thiết bị vui chơi mạo hiểm trên cao giữa các cây.",
+    "source": "SB p. 185, track 53",
+    "cards": [
+      "u6-listening-84be322f291c",
+      "u6-listening-b12d3f7d9d96"
+    ]
+  },
+  {
+    "id": "u6-ex-072",
+    "kind": "adapted",
+    "text": "Rope swings, rope bridges, tunnels and zip wires will take visitors above the forest floor.",
+    "translation": "Xích đu dây, cầu dây, đường hầm và dây trượt sẽ đưa khách lên cao phía trên nền rừng.",
+    "source": "SB p. 185, track 53",
+    "cards": [
+      "u6-listening-88cd00ca0206",
+      "u6-listening-f722fdbb2bd4",
+      "u6-listening-31da0a0e66eb",
+      "u6-listening-5eaf064bcc60",
+      "u6-listening-696503fdc162"
+    ]
+  },
+  {
+    "id": "u6-ex-073",
+    "kind": "adapted",
+    "text": "The adventure experience is for people aged fifteen and over.",
+    "translation": "Trải nghiệm mạo hiểm dành cho người từ mười lăm tuổi trở lên.",
+    "source": "SB p. 185, track 53",
+    "cards": [
+      "u6-listening-1c7943730482"
+    ]
+  },
+  {
+    "id": "u6-ex-074",
+    "kind": "adapted",
+    "text": "The children's playground will have a fence around it, and there will also be an indoor play area.",
+    "translation": "Sân chơi trẻ em sẽ có hàng rào bao quanh, và cũng sẽ có khu vui chơi trong nhà.",
+    "source": "SB p. 185, track 53",
+    "cards": [
+      "u6-listening-79190203a0ad",
+      "u6-listening-9012e79820c0"
+    ]
+  },
+  {
+    "id": "u6-ex-075",
+    "kind": "adapted",
+    "text": "Children may feed the animals; the sheep will be directly opposite the pigs.",
+    "translation": "Trẻ em có thể cho động vật ăn; khu cừu sẽ nằm ngay đối diện khu lợn.",
+    "source": "SB p. 185, track 53",
+    "cards": [
+      "u6-listening-b3e117f81b8d",
+      "u6-listening-fcd7d1361b26"
+    ]
+  },
+  {
+    "id": "u6-ex-076",
+    "kind": "adapted",
+    "text": "We hope the plans will be approved and the centre will open in the not too distant future.",
+    "translation": "Chúng tôi hy vọng kế hoạch được chấp thuận và trung tâm mở cửa trong tương lai không xa.",
+    "source": "SB p. 185, track 53",
+    "cards": [
+      "u6-listening-3217568ff6d2",
+      "u6-listening-82c8b3f7c46f"
+    ]
+  },
+  {
+    "id": "u6-ex-077",
+    "kind": "practice",
+    "text": "I play soccer with friends, but my brother prefers to do martial arts.",
+    "translation": "Tôi chơi bóng đá với bạn bè, nhưng anh trai thích tập võ hơn.",
+    "source": "SB p. 121, hobby practice",
+    "cards": [
+      "u6-speaking-e30e6d6abf6b",
+      "u6-speaking-8781ce30b3a7"
+    ]
+  },
+  {
+    "id": "u6-ex-078",
+    "kind": "practice",
+    "text": "When I go travelling, I often go hiking in the mountains.",
+    "translation": "Khi đi du lịch, tôi thường đi bộ đường dài trên núi.",
+    "source": "SB p. 121, hobby practice",
+    "cards": [
+      "u6-speaking-6217bb3326d4",
+      "u6-speaking-25b4d6b4be2c"
+    ]
+  },
+  {
+    "id": "u6-ex-079",
+    "kind": "practice",
+    "text": "I enjoy sewing and making jewellery in my free time.",
+    "translation": "Tôi thích may vá và làm đồ trang sức trong thời gian rảnh.",
+    "source": "SB p. 121, hobby practice",
+    "cards": [
+      "u6-speaking-680512dd8352",
+      "u6-speaking-cc31708ddd2e"
+    ]
+  },
+  {
+    "id": "u6-ex-080",
+    "kind": "practice",
+    "text": "The dance class is amusing and enjoyable, even when I make mistakes.",
+    "translation": "Lớp nhảy vui nhộn và thú vị, ngay cả khi tôi mắc lỗi.",
+    "source": "SB p. 122, opinion practice",
+    "cards": [
+      "u6-speaking-b7cd3e9ec4bc",
+      "u6-speaking-f77470ce4f19"
+    ]
+  },
+  {
+    "id": "u6-ex-081",
+    "kind": "practice",
+    "text": "Fishing beside the lake is peaceful and relaxing.",
+    "translation": "Câu cá bên hồ thật yên bình và thư giãn.",
+    "source": "SB p. 122, opinion practice",
+    "cards": [
+      "u6-speaking-80a9376f103d"
+    ]
+  },
+  {
+    "id": "u6-ex-082",
+    "kind": "practice",
+    "text": "She is excellent at tennis, but losing a match can make her feel miserable.",
+    "translation": "Cô ấy rất giỏi quần vợt, nhưng thua một trận có thể khiến cô khổ sở.",
+    "source": "SB p. 122, opinion practice",
+    "cards": [
+      "u6-speaking-5415f97806e7",
+      "u6-speaking-4a9c1893f496"
+    ]
+  },
+  {
+    "id": "u6-ex-083",
+    "kind": "practice",
+    "text": "Climbing is an exhausting sport, and being so high can be frightening.",
+    "translation": "Leo núi là môn rất tốn sức, và ở độ cao như vậy có thể đáng sợ.",
+    "source": "SB p. 122, opinion practice",
+    "cards": [
+      "u6-speaking-efaf965952ca",
+      "u6-speaking-467d18ee9c0e"
+    ]
+  },
+  {
+    "id": "u6-ex-084",
+    "kind": "practice",
+    "text": "A hobby should not become so stressful that it is harmful to your well-being.",
+    "translation": "Sở thích không nên gây căng thẳng đến mức có hại cho sức khỏe tinh thần của bạn.",
+    "source": "SB p. 122, opinion practice",
+    "cards": [
+      "u6-speaking-58904effcb30",
+      "u6-speaking-81afd0d1b2ee"
+    ]
+  },
+  {
+    "id": "u6-ex-085",
+    "kind": "practice",
+    "text": "I'm hopeless at dancing, but I still enjoy it.",
+    "translation": "Tôi nhảy rất kém, nhưng vẫn thích hoạt động này.",
+    "source": "SB p. 122, opinion practice",
+    "cards": [
+      "u6-speaking-28667f4582bf"
+    ]
+  },
+  {
+    "id": "u6-ex-086",
+    "kind": "adapted",
+    "text": "I want to take up a hobby such as ballroom dancing to give myself a challenge.",
+    "translation": "Tôi muốn bắt đầu sở thích như khiêu vũ để đặt ra thử thách cho bản thân.",
+    "source": "SB p. 186, track 54",
+    "cards": [
+      "u6-speaking-fc2df81cdae8",
+      "u6-speaking-3050cf682b58",
+      "u6-speaking-ef78353deb42"
+    ]
+  },
+  {
+    "id": "u6-ex-087",
+    "kind": "adapted",
+    "text": "I already do ballet and tap dancing, and I like learning new steps.",
+    "translation": "Tôi đã tập ba-lê và nhảy thiết hài, đồng thời thích học các bước nhảy mới.",
+    "source": "SB p. 186, track 54",
+    "cards": [
+      "u6-speaking-10c465c99f4c",
+      "u6-speaking-452836ba063d",
+      "u6-speaking-99359e5309fb"
+    ]
+  },
+  {
+    "id": "u6-ex-088",
+    "kind": "adapted",
+    "text": "I'm worried about finding the right dance partner.",
+    "translation": "Tôi lo về việc tìm bạn nhảy phù hợp.",
+    "source": "SB p. 186, track 54",
+    "cards": [
+      "u6-speaking-fe1ac5e848fb"
+    ]
+  },
+  {
+    "id": "u6-ex-089",
+    "kind": "adapted",
+    "text": "I'd like to play the acoustic guitar; I can already read music and play the piano.",
+    "translation": "Tôi muốn chơi ghi-ta mộc; tôi đã biết đọc bản nhạc và chơi piano.",
+    "source": "SB p. 186, track 55",
+    "cards": [
+      "u6-speaking-9250341d9cae",
+      "u6-speaking-63032918667f",
+      "u6-speaking-aa8ed0a3a89e"
+    ]
+  },
+  {
+    "id": "u6-ex-090",
+    "kind": "book",
+    "text": "I need to focus on my studies and prepare for my exams.",
+    "translation": "Tôi cần tập trung vào việc học và chuẩn bị cho các kỳ thi.",
+    "source": "SB p. 186, track 55",
+    "cards": [
+      "u6-speaking-be1df1840b54",
+      "u6-speaking-00f3409543cd"
+    ]
+  },
+  {
+    "id": "u6-ex-091",
+    "kind": "adapted",
+    "text": "I'll need money to pay for lessons, but learning guitar could change my life in a positive way.",
+    "translation": "Tôi sẽ cần tiền trả học phí, nhưng học ghi-ta có thể thay đổi cuộc sống theo hướng tích cực.",
+    "source": "SB p. 186, track 55",
+    "cards": [
+      "u6-speaking-2e18c94f413d",
+      "u6-speaking-28eb46a2c04c"
+    ]
+  },
+  {
+    "id": "u6-ex-092",
+    "kind": "adapted",
+    "text": "I'd like to start my own band and perform live on stage.",
+    "translation": "Tôi muốn thành lập ban nhạc riêng và biểu diễn trực tiếp trên sân khấu.",
+    "source": "SB p. 186, track 55",
+    "cards": [
+      "u6-speaking-7c24f25a1565",
+      "u6-speaking-1ec71802830b"
+    ]
+  },
+  {
+    "id": "u6-ex-093",
+    "kind": "book",
+    "text": "Do you generally enjoy trying new things?",
+    "translation": "Nhìn chung, bạn có thích thử những điều mới không?",
+    "source": "SB p. 186, track 56",
+    "cards": [
+      "u6-speaking-c07e78c4efed"
+    ]
+  },
+  {
+    "id": "u6-ex-094",
+    "kind": "adapted",
+    "text": "I'm a big fan of water sports, so I'd like to try windsurfing.",
+    "translation": "Tôi rất yêu thích thể thao dưới nước, nên muốn thử lướt ván buồm.",
+    "source": "SB p. 186, track 56",
+    "cards": [
+      "u6-speaking-8863b3b5937f",
+      "u6-speaking-06525461f629",
+      "u6-speaking-c82251874258"
+    ]
+  },
+  {
+    "id": "u6-ex-095",
+    "kind": "practice",
+    "text": "I've always wanted to try kayaking.",
+    "translation": "Tôi luôn muốn thử chèo thuyền kayak.",
+    "source": "SB pp. 121–125; TB pp. 62–63",
+    "cards": [
+      "u6-speaking-c57d0510f7db"
+    ]
+  },
+  {
+    "id": "u6-ex-096",
+    "kind": "practice",
+    "text": "The main reason I haven't started is the cost of lessons.",
+    "translation": "Lý do chính tôi chưa bắt đầu là chi phí học.",
+    "source": "SB pp. 121–125; TB pp. 62–63",
+    "cards": [
+      "u6-speaking-02b8cfd3bbcf"
+    ]
+  },
+  {
+    "id": "u6-ex-097",
+    "kind": "practice",
+    "text": "I would need someone to show me how to use the equipment.",
+    "translation": "Tôi sẽ cần ai đó chỉ cách sử dụng dụng cụ.",
+    "source": "SB pp. 121–125; TB pp. 62–63",
+    "cards": [
+      "u6-speaking-10a8c9cd6cc7"
+    ]
+  },
+  {
+    "id": "u6-ex-098",
+    "kind": "practice",
+    "text": "If I had more free time, I would join a local club.",
+    "translation": "Nếu có nhiều thời gian rảnh hơn, tôi sẽ tham gia câu lạc bộ địa phương.",
+    "source": "SB pp. 121–125; TB pp. 62–63",
+    "cards": [
+      "u6-speaking-47ab980c4423"
+    ]
+  },
+  {
+    "id": "u6-ex-099",
+    "kind": "practice",
+    "text": "Running helps me keep fit, relieve stress and build stamina.",
+    "translation": "Chạy bộ giúp tôi giữ cơ thể khỏe mạnh, giảm căng thẳng và tăng sức bền.",
+    "source": "SB pp. 121–125; TB pp. 62–63",
+    "cards": [
+      "u6-speaking-6fe137c68613",
+      "u6-speaking-89196f16113e",
+      "u6-speaking-929110e9fe64"
+    ]
+  },
+  {
+    "id": "u6-ex-100",
+    "kind": "practice",
+    "text": "Taking up a hobby is a chance to develop a new skill.",
+    "translation": "Bắt đầu một sở thích là cơ hội phát triển kỹ năng mới.",
+    "source": "SB pp. 121–125; TB pp. 62–63",
+    "cards": [
+      "u6-speaking-1af8834d3c8f"
+    ]
+  },
+  {
+    "id": "u6-ex-101",
+    "kind": "practice",
+    "text": "I can go for a run, go for a walk or go to the gym after work.",
+    "translation": "Tôi có thể chạy bộ, đi dạo hoặc đến phòng gym sau giờ làm.",
+    "source": "SB p. 112, collocation practice",
+    "cards": [
+      "u6-writing-ad82f04b1536",
+      "u6-writing-813c81b081d1",
+      "u6-writing-ff8a5dde9d58"
+    ]
+  },
+  {
+    "id": "u6-ex-102",
+    "kind": "practice",
+    "text": "We sometimes go to the cinema to watch a film.",
+    "translation": "Đôi khi chúng tôi đến rạp để xem phim.",
+    "source": "SB p. 112, collocation practice",
+    "cards": [
+      "u6-writing-cf1cf57dcef5",
+      "u6-writing-7a5a017c7576"
+    ]
+  },
+  {
+    "id": "u6-ex-103",
+    "kind": "practice",
+    "text": "You can visit friends, play sports or join a club in your free time.",
+    "translation": "Bạn có thể thăm bạn bè, chơi thể thao hoặc tham gia câu lạc bộ khi rảnh.",
+    "source": "SB p. 112, collocation practice",
+    "cards": [
+      "u6-writing-0b164197601f",
+      "u6-writing-694c808e3b24",
+      "u6-writing-c4c7cafa81eb"
+    ]
+  },
+  {
+    "id": "u6-ex-104",
+    "kind": "adapted",
+    "text": "Physical activities help people spend free time actively.",
+    "translation": "Hoạt động thể chất giúp mọi người sử dụng thời gian rảnh một cách năng động.",
+    "source": "SB p. 113",
+    "cards": [
+      "u6-writing-e4f43f7be953",
+      "u6-writing-c79e840b27ef"
+    ]
+  },
+  {
+    "id": "u6-ex-105",
+    "kind": "adapted",
+    "text": "In today's world, some parents worry about their children's safety and prefer to keep them at home.",
+    "translation": "Trong thế giới ngày nay, một số cha mẹ lo cho sự an toàn của con và muốn giữ con ở nhà.",
+    "source": "SB p. 113, corrected model",
+    "cards": [
+      "u6-writing-d3545bb4edcc",
+      "u6-writing-92c5bf835e99"
+    ]
+  },
+  {
+    "id": "u6-ex-106",
+    "kind": "adapted",
+    "text": "Nowadays, many young people take a driving test as soon as possible.",
+    "translation": "Ngày nay, nhiều người trẻ thi bằng lái xe sớm nhất có thể.",
+    "source": "SB p. 113, corrected model",
+    "cards": [
+      "u6-writing-942475fa797d",
+      "u6-writing-ac6eb9b28a8c"
+    ]
+  },
+  {
+    "id": "u6-ex-107",
+    "kind": "practice",
+    "text": "Compared with the past, we communicate more online than we did several years ago.",
+    "translation": "So với trước đây, chúng ta giao tiếp trực tuyến nhiều hơn vài năm trước.",
+    "source": "SB pp. 113–114, time comparison",
+    "cards": [
+      "u6-writing-8bf267f87b4e",
+      "u6-writing-17f0f6fff4e2"
+    ]
+  },
+  {
+    "id": "u6-ex-108",
+    "kind": "adapted",
+    "text": "The pace of life is faster than it used to be.",
+    "translation": "Nhịp sống nhanh hơn trước đây.",
+    "source": "SB p. 114",
+    "cards": [
+      "u6-writing-c788b9bec0a4"
+    ]
+  },
+  {
+    "id": "u6-ex-109",
+    "kind": "adapted",
+    "text": "On the other hand, some physical activities are becoming more popular.",
+    "translation": "Mặt khác, một số hoạt động thể chất đang trở nên phổ biến hơn.",
+    "source": "SB p. 113, corrected model",
+    "cards": [
+      "u6-writing-1d19d96bfedb"
+    ]
+  },
+  {
+    "id": "u6-ex-110",
+    "kind": "adapted",
+    "text": "In my opinion, the main reason why people are less active is computers.",
+    "translation": "Theo tôi, lý do chính khiến mọi người ít vận động hơn là máy tính.",
+    "source": "SB p. 113, corrected model",
+    "cards": [
+      "u6-writing-bf2546cbfa5a"
+    ]
+  },
+  {
+    "id": "u6-ex-111",
+    "kind": "adapted",
+    "text": "Planned activities can help children develop their skills and perhaps become world class.",
+    "translation": "Hoạt động được lên kế hoạch có thể giúp trẻ phát triển kỹ năng và có thể đạt đẳng cấp thế giới.",
+    "source": "SB pp. 114–115",
+    "cards": [
+      "u6-writing-2dbe2a64d5fb",
+      "u6-writing-8fcee5609d64",
+      "u6-writing-9f507833c29e"
+    ]
+  },
+  {
+    "id": "u6-ex-112",
+    "kind": "adapted",
+    "text": "Parents think being busy will stop children getting into trouble.",
+    "translation": "Cha mẹ cho rằng bận rộn sẽ ngăn trẻ vướng vào rắc rối.",
+    "source": "SB p. 115",
+    "cards": [
+      "u6-writing-ff68994602bf"
+    ]
+  },
+  {
+    "id": "u6-ex-113",
+    "kind": "book",
+    "text": "Children can become stressed when they have to run from activity to activity.",
+    "translation": "Trẻ có thể trở nên căng thẳng khi phải chạy từ hoạt động này sang hoạt động khác.",
+    "source": "SB p. 115",
+    "cards": [
+      "u6-writing-b6493657bd74"
+    ]
+  },
+  {
+    "id": "u6-ex-114",
+    "kind": "adapted",
+    "text": "Free play allows children to use their imaginations and discover their likes and dislikes.",
+    "translation": "Chơi tự do cho phép trẻ sử dụng trí tưởng tượng và khám phá điều mình thích và không thích.",
+    "source": "SB p. 115",
+    "cards": [
+      "u6-writing-9a23c69b0263",
+      "u6-writing-40b0d7ec78bc"
+    ]
+  },
+  {
+    "id": "u6-ex-115",
+    "kind": "adapted",
+    "text": "We need to have a balance between organised activities and free time.",
+    "translation": "Chúng ta cần có sự cân bằng giữa hoạt động có tổ chức và thời gian tự do.",
+    "source": "SB p. 115",
+    "cards": [
+      "u6-writing-933be7157ae3"
+    ]
+  },
+  {
+    "id": "u6-ex-116",
+    "kind": "adapted",
+    "text": "The essay asks whether schools should have compulsory sports lessons.",
+    "translation": "Bài luận đặt vấn đề trường học có nên có các tiết thể thao bắt buộc hay không.",
+    "source": "SB p. 116",
+    "cards": [
+      "u6-writing-dfb9406aa362"
+    ]
+  },
+  {
+    "id": "u6-ex-117",
+    "kind": "adapted",
+    "text": "The discussion links physical activity to mental well-being and future spending on medical care.",
+    "translation": "Phần thảo luận liên hệ hoạt động thể chất với sức khỏe tinh thần và chi phí chăm sóc y tế trong tương lai.",
+    "source": "SB p. 116",
+    "cards": [
+      "u6-writing-f977837584ba",
+      "u6-writing-86f3a395d135"
+    ]
+  },
+  {
+    "id": "u6-ex-118",
+    "kind": "adapted",
+    "text": "Some argue that sports lessons are a waste of valuable study time and that sports facilities cost too much.",
+    "translation": "Một số người cho rằng tiết thể thao lãng phí thời gian học quý báu và cơ sở vật chất thể thao quá tốn kém.",
+    "source": "SB p. 116",
+    "cards": [
+      "u6-writing-2e3e4176f27c",
+      "u6-writing-5dc9795cf92d"
+    ]
+  },
+  {
+    "id": "u6-ex-119",
+    "kind": "adapted",
+    "text": "Sports help children learn discipline and work as a team.",
+    "translation": "Thể thao giúp trẻ rèn tính kỷ luật và làm việc theo nhóm.",
+    "source": "SB p. 116",
+    "cards": [
+      "u6-writing-83fb0c9ddee0",
+      "u6-writing-5f9ea98bb448"
+    ]
+  },
+  {
+    "id": "u6-ex-120",
+    "kind": "practice",
+    "text": "People are less physically active than they used to be.",
+    "translation": "Mọi người ít hoạt động thể chất hơn trước đây.",
+    "source": "SB pp. 112–116; TB pp. 57–59",
+    "cards": [
+      "u6-writing-3cacad6f85c8"
+    ]
+  },
+  {
+    "id": "u6-ex-121",
+    "kind": "practice",
+    "text": "While some people argue that sports waste time, I believe they support learning.",
+    "translation": "Trong khi một số người cho rằng thể thao lãng phí thời gian, tôi tin thể thao hỗ trợ việc học.",
+    "source": "SB pp. 112–116; TB pp. 57–59",
+    "cards": [
+      "u6-writing-2ea098644864"
+    ]
+  },
+  {
+    "id": "u6-ex-122",
+    "kind": "practice",
+    "text": "One reason for this is that exercise helps children concentrate.",
+    "translation": "Một lý do là vận động giúp trẻ tập trung.",
+    "source": "SB pp. 112–116; TB pp. 57–59",
+    "cards": [
+      "u6-writing-a06e5b26837b"
+    ]
+  },
+  {
+    "id": "u6-ex-123",
+    "kind": "practice",
+    "text": "This allows children to develop social skills.",
+    "translation": "Điều này cho phép trẻ phát triển kỹ năng xã hội.",
+    "source": "SB pp. 112–116; TB pp. 57–59",
+    "cards": [
+      "u6-writing-f7a0a95b00f8"
+    ]
+  },
+  {
+    "id": "u6-ex-124",
+    "kind": "practice",
+    "text": "A balance should be struck between organised activities and free play.",
+    "translation": "Cần có sự cân bằng giữa hoạt động có tổ chức và chơi tự do.",
+    "source": "SB pp. 112–116; TB pp. 57–59",
+    "cards": [
+      "u6-writing-1b614433ba12"
+    ]
+  },
+  {
+    "id": "u6-ex-125",
+    "kind": "practice",
+    "text": "Regular physical activity can help people move away from a sedentary lifestyle.",
+    "translation": "Hoạt động thể chất thường xuyên có thể giúp mọi người từ bỏ lối sống ít vận động.",
+    "source": "SB pp. 112–116; TB pp. 57–59",
+    "cards": [
+      "u6-writing-94c95012a7bb",
+      "u6-writing-8947ccb11f88"
+    ]
+  },
+  {
+    "id": "u6-ex-126",
+    "kind": "practice",
+    "text": "The match was great: the final minutes were exciting and the winning goal was brilliant.",
+    "translation": "Trận đấu thật tuyệt: những phút cuối rất hào hứng và bàn thắng quyết định rất xuất sắc.",
+    "source": "SB pp. 121–122, adjective practice",
+    "cards": [
+      "u6-speaking-87765da6ccf0",
+      "u6-speaking-5ae666e5b1a6",
+      "u6-speaking-6255e14abc09"
+    ]
+  },
+  {
+    "id": "u6-ex-127",
+    "kind": "practice",
+    "text": "Hiking is healthy but tiring, and difficult routes can be dangerous.",
+    "translation": "Đi bộ đường dài có lợi cho sức khỏe nhưng gây mệt, và đường khó có thể nguy hiểm.",
+    "source": "SB pp. 121–122, adjective practice",
+    "cards": [
+      "u6-speaking-87695fdac817",
+      "u6-speaking-7eaa968417c5",
+      "u6-speaking-d7da7f50f4c0"
+    ]
+  },
+  {
+    "id": "u6-ex-128",
+    "kind": "practice",
+    "text": "Practising without feedback can feel useless when you keep making the same mistake.",
+    "translation": "Luyện tập mà không có phản hồi có thể khiến bạn thấy vô ích khi cứ lặp lại cùng một lỗi.",
+    "source": "SB pp. 121–122, adjective practice",
+    "cards": [
+      "u6-speaking-16a41d9ce114"
+    ]
+  }
+]

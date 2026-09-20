@@ -19,238 +19,442 @@ export default {
               "word": "be tired of",
               "meaning": "chán; mệt mỏi với",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː ˈtaɪərd əv/",
+              "example": "If you're tired of tennis, fed up with football or bored of basketball, don't worry.",
+              "exampleTranslation": "Nếu bạn chán quần vợt, chán ngấy bóng đá hoặc thấy bóng rổ nhàm chán, đừng lo.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-001"
             },
             {
               "id": "u6-reading-90114cb28ffe",
               "word": "be fed up with",
               "meaning": "chán ngấy",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː fed ʌp wɪð/",
+              "example": "If you're tired of tennis, fed up with football or bored of basketball, don't worry.",
+              "exampleTranslation": "Nếu bạn chán quần vợt, chán ngấy bóng đá hoặc thấy bóng rổ nhàm chán, đừng lo.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-001"
             },
             {
               "id": "u6-reading-3e278ff84ed6",
               "word": "be bored of",
               "meaning": "cảm thấy chán",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː bɔːrd əv/",
+              "example": "If you're tired of tennis, fed up with football or bored of basketball, don't worry.",
+              "exampleTranslation": "Nếu bạn chán quần vợt, chán ngấy bóng đá hoặc thấy bóng rổ nhàm chán, đừng lo.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-001"
             },
             {
               "id": "u6-reading-2b2fc2449804",
               "word": "existing sports",
               "meaning": "các môn thể thao hiện có",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ɪɡˈzɪstɪŋ spɔːrts/",
+              "example": "Many of these are a mix of existing sports, sometimes with a local element added.",
+              "exampleTranslation": "Nhiều môn trong số này là sự kết hợp các môn thể thao hiện có, đôi khi thêm yếu tố địa phương.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-002"
             },
             {
               "id": "u6-reading-9c98d2882508",
               "word": "a local element",
               "meaning": "một yếu tố mang tính địa phương",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈloʊkəl ˈeləmənt/",
+              "example": "Many of these are a mix of existing sports, sometimes with a local element added.",
+              "exampleTranslation": "Nhiều môn trong số này là sự kết hợp các môn thể thao hiện có, đôi khi thêm yếu tố địa phương.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-002"
             },
             {
               "id": "u6-reading-846a2d098765",
               "word": "an inflatable pitch",
               "meaning": "sân chơi bơm hơi",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ən ɪnˈfleɪtəbəl pɪtʃ/",
+              "example": "Bossaball is played on an inflatable pitch with a trampoline and includes elements of Brazilian martial arts.",
+              "exampleTranslation": "Bossaball được chơi trên sân bơm hơi có bạt nhún và kết hợp các yếu tố võ thuật Brazil.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-003"
             },
             {
               "id": "u6-reading-dbfe37c07e7d",
               "word": "trampoline",
               "meaning": "bạt nhún",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˌtræmpəˈliːn/",
+              "example": "Bossaball is played on an inflatable pitch with a trampoline and includes elements of Brazilian martial arts.",
+              "exampleTranslation": "Bossaball được chơi trên sân bơm hơi có bạt nhún và kết hợp các yếu tố võ thuật Brazil.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-003"
             },
             {
               "id": "u6-reading-aa55fbc9507f",
               "word": "martial arts",
               "meaning": "võ thuật",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈmɑːrʃəl ɑːrts/",
+              "example": "Bossaball is played on an inflatable pitch with a trampoline and includes elements of Brazilian martial arts.",
+              "exampleTranslation": "Bossaball được chơi trên sân bơm hơi có bạt nhún và kết hợp các yếu tố võ thuật Brazil.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-003"
             },
             {
               "id": "u6-reading-ecb2ceef5e36",
               "word": "horse riding",
               "meaning": "cưỡi ngựa",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/hɔːrs ˈraɪdɪŋ/",
+              "example": "If you are very good at horse riding, you could try the national sport of Afghanistan, buzkashi.",
+              "exampleTranslation": "Nếu rất giỏi cưỡi ngựa, bạn có thể thử buzkashi, môn thể thao quốc gia của Afghanistan.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-004"
             },
             {
               "id": "u6-reading-01c2fc88e5d8",
               "word": "national sport",
               "meaning": "môn thể thao quốc gia",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈnæʃənəl spɔːrt/",
+              "example": "If you are very good at horse riding, you could try the national sport of Afghanistan, buzkashi.",
+              "exampleTranslation": "Nếu rất giỏi cưỡi ngựa, bạn có thể thử buzkashi, môn thể thao quốc gia của Afghanistan.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-004"
             },
             {
               "id": "u6-reading-2ba98d9438ea",
               "word": "on horseback",
               "meaning": "trên lưng ngựa",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn ˈhɔːrsˌbæk/",
+              "example": "The game involves players on horseback trying to get hold of a dead goat.",
+              "exampleTranslation": "Trò chơi có những người chơi trên lưng ngựa cố giành lấy một con dê đã chết.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-005"
             },
             {
               "id": "u6-reading-6eeb9ea94253",
               "word": "get hold of",
               "meaning": "nắm lấy; bắt được",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡet hoʊld əv/",
+              "example": "The game involves players on horseback trying to get hold of a dead goat.",
+              "exampleTranslation": "Trò chơi có những người chơi trên lưng ngựa cố giành lấy một con dê đã chết.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-005"
             },
             {
               "id": "u6-reading-c14994226185",
               "word": "spread throughout the world",
               "meaning": "lan rộng khắp thế giới",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/spred θruːˈaʊt ðə wɜːrld/",
+              "example": "The federation wrote down the rules, hoping the sport would spread throughout the world and gain Olympic status.",
+              "exampleTranslation": "Liên đoàn ghi lại luật chơi, hy vọng môn thể thao lan rộng khắp thế giới và được công nhận là môn thi đấu Olympic.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-006"
             },
             {
               "id": "u6-reading-403753a0fc1e",
               "word": "write down the rules",
               "meaning": "ghi lại các luật chơi",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/raɪt daʊn ðə ruːlz/",
+              "example": "The federation wrote down the rules, hoping the sport would spread throughout the world and gain Olympic status.",
+              "exampleTranslation": "Liên đoàn ghi lại luật chơi, hy vọng môn thể thao lan rộng khắp thế giới và được công nhận là môn thi đấu Olympic.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-006"
             },
             {
               "id": "u6-reading-15e6a92efe76",
               "word": "Olympic status",
               "meaning": "tư cách môn thi đấu Olympic",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/oʊˈlɪmpɪk ˈstætəs/",
+              "example": "The federation wrote down the rules, hoping the sport would spread throughout the world and gain Olympic status.",
+              "exampleTranslation": "Liên đoàn ghi lại luật chơi, hy vọng môn thể thao lan rộng khắp thế giới và được công nhận là môn thi đấu Olympic.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-006"
             },
             {
               "id": "u6-reading-2a1073a6e67f",
               "word": "tag",
               "meaning": "chạm vào người chơi khác để bắt trong trò đuổi bắt",
               "type": "word",
-              "pos": "verb"
+              "pos": "verb",
+              "ipa": "/tæɡ/",
+              "example": "In kabaddi, a 'raider' from one team tries to tag a player from the other team and then return to their own half of the field without getting caught.",
+              "exampleTranslation": "Trong kabaddi, một người tấn công cố chạm vào cầu thủ đội kia rồi trở về phần sân đội mình mà không bị bắt.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-007"
             },
             {
               "id": "u6-reading-09053dbc39a1",
               "word": "raider",
               "meaning": "người tấn công sang phần sân đối phương trong kabaddi",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈreɪdər/",
+              "example": "In kabaddi, a 'raider' from one team tries to tag a player from the other team and then return to their own half of the field without getting caught.",
+              "exampleTranslation": "Trong kabaddi, một người tấn công cố chạm vào cầu thủ đội kia rồi trở về phần sân đội mình mà không bị bắt.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-007"
             },
             {
               "id": "u6-reading-165a7e433dde",
               "word": "their own half of the field",
               "meaning": "phần sân của đội mình",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðer oʊn hæf əv ðə fiːld/",
+              "example": "In kabaddi, a 'raider' from one team tries to tag a player from the other team and then return to their own half of the field without getting caught.",
+              "exampleTranslation": "Trong kabaddi, một người tấn công cố chạm vào cầu thủ đội kia rồi trở về phần sân đội mình mà không bị bắt.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-007"
             },
             {
               "id": "u6-reading-07e47d905367",
               "word": "get caught",
               "meaning": "bị bắt",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡet kɑːt/",
+              "example": "In kabaddi, a 'raider' from one team tries to tag a player from the other team and then return to their own half of the field without getting caught.",
+              "exampleTranslation": "Trong kabaddi, một người tấn công cố chạm vào cầu thủ đội kia rồi trở về phần sân đội mình mà không bị bắt.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-007"
             },
             {
               "id": "u6-reading-2b9b466c8b4a",
               "word": "chant",
               "meaning": "hô lặp đi lặp lại",
               "type": "word",
-              "pos": "verb"
+              "pos": "verb",
+              "ipa": "/tʃænt/",
+              "example": "In some versions of the game, the raider must chant the word 'kabaddi' as he returns to his place.",
+              "exampleTranslation": "Ở một số phiên bản, người tấn công phải hô lặp lại từ “kabaddi” khi trở về vị trí.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-008"
             },
             {
               "id": "u6-reading-1c09f5a7f47d",
               "word": "equipment",
               "meaning": "trang thiết bị",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ɪˈkwɪpmənt/",
+              "example": "Kabaddi is good fun, good exercise and doesn't need any equipment.",
+              "exampleTranslation": "Kabaddi vui, giúp rèn luyện sức khỏe và không cần dụng cụ nào.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-009"
             },
             {
               "id": "u6-reading-cf5558c67797",
               "word": "brains and brawn",
               "meaning": "trí tuệ và sức mạnh cơ bắp",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/breɪnz ənd brɔːn/",
+              "example": "Chess boxing combines brains and brawn by alternating a round of chess with a round of boxing.",
+              "exampleTranslation": "Cờ vua kết hợp quyền anh phối hợp trí tuệ và sức mạnh bằng cách luân phiên một hiệp cờ với một hiệp quyền anh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-010"
             },
             {
               "id": "u6-reading-ac3d94b53790",
               "word": "a round of chess",
               "meaning": "một hiệp đấu cờ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə raʊnd əv tʃes/",
+              "example": "Chess boxing combines brains and brawn by alternating a round of chess with a round of boxing.",
+              "exampleTranslation": "Cờ vua kết hợp quyền anh phối hợp trí tuệ và sức mạnh bằng cách luân phiên một hiệp cờ với một hiệp quyền anh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-010"
             },
             {
               "id": "u6-reading-fc69e58da4db",
               "word": "a round of boxing",
               "meaning": "một hiệp quyền anh",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə raʊnd əv ˈbɑːksɪŋ/",
+              "example": "Chess boxing combines brains and brawn by alternating a round of chess with a round of boxing.",
+              "exampleTranslation": "Cờ vua kết hợp quyền anh phối hợp trí tuệ và sức mạnh bằng cách luân phiên một hiệp cờ với một hiệp quyền anh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-010"
             },
             {
               "id": "u6-reading-6ad33491f1cf",
               "word": "world championship",
               "meaning": "giải vô địch thế giới",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/wɜːrld ˈtʃæmpiːənˌʃɪp/",
+              "example": "The first chess boxing world championship took place in Amsterdam in 2003.",
+              "exampleTranslation": "Giải vô địch thế giới cờ vua kết hợp quyền anh đầu tiên diễn ra tại Amsterdam năm 2003.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-011"
             },
             {
               "id": "u6-reading-0d2216989b3e",
               "word": "take place",
               "meaning": "diễn ra",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/teɪk pleɪs/",
+              "example": "The first chess boxing world championship took place in Amsterdam in 2003.",
+              "exampleTranslation": "Giải vô địch thế giới cờ vua kết hợp quyền anh đầu tiên diễn ra tại Amsterdam năm 2003.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-011"
             },
             {
               "id": "u6-reading-5c9473495c88",
               "word": "particularly",
               "meaning": "đặc biệt là",
               "type": "word",
-              "pos": "adverb"
+              "pos": "adverb",
+              "ipa": "/ˌpɑːrˈtɪkjələrli/",
+              "example": "The sport became more popular, particularly in Germany, the UK, India and Russia.",
+              "exampleTranslation": "Môn thể thao trở nên phổ biến hơn, đặc biệt ở Đức, Anh, Ấn Độ và Nga.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-012"
             },
             {
               "id": "u6-reading-2638ce569a49",
               "word": "switch quickly between",
               "meaning": "chuyển nhanh qua lại giữa",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/swɪtʃ kwɪkli biːtˈwiːn/",
+              "example": "Players must switch quickly between two very different activities.",
+              "exampleTranslation": "Người chơi phải chuyển nhanh qua lại giữa hai hoạt động rất khác nhau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-013"
             },
             {
               "id": "u6-reading-85d3b270395c",
               "word": "be familiar to",
               "meaning": "quen thuộc với",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː fəˈmɪljər tə/",
+              "example": "Rock-paper-scissors is familiar to most of us and spread gradually from China to other countries.",
+              "exampleTranslation": "Oẳn tù tì quen thuộc với phần lớn chúng ta và đã lan rộng dần từ Trung Quốc sang các nước khác.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-014"
             },
             {
               "id": "u6-reading-db3050802983",
               "word": "spread gradually",
               "meaning": "lan rộng dần",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/spred ˈɡrædʒuːəli/",
+              "example": "Rock-paper-scissors is familiar to most of us and spread gradually from China to other countries.",
+              "exampleTranslation": "Oẳn tù tì quen thuộc với phần lớn chúng ta và đã lan rộng dần từ Trung Quốc sang các nước khác.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-014"
             },
             {
               "id": "u6-reading-5093e709d8cc",
               "word": "rock-paper-scissors",
               "meaning": "trò oẳn tù tì",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/rɑːk ˈpeɪpər ˈsɪzərz/",
+              "example": "Rock-paper-scissors is familiar to most of us and spread gradually from China to other countries.",
+              "exampleTranslation": "Oẳn tù tì quen thuộc với phần lớn chúng ta và đã lan rộng dần từ Trung Quốc sang các nước khác.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-014"
             },
             {
               "id": "u6-reading-3e2cea41bd0e",
               "word": "take it seriously",
               "meaning": "coi đó là việc nghiêm túc",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/teɪk ɪt ˈsɪriːəsli/",
+              "example": "Some people take it seriously: a league holds championships every year.",
+              "exampleTranslation": "Một số người coi đó là việc nghiêm túc: một liên đoàn tổ chức giải vô địch hằng năm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-015"
             },
             {
               "id": "u6-reading-cb4d1fea0153",
               "word": "a league",
               "meaning": "một liên đoàn; giải đấu",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə liːɡ/",
+              "example": "Some people take it seriously: a league holds championships every year.",
+              "exampleTranslation": "Một số người coi đó là việc nghiêm túc: một liên đoàn tổ chức giải vô địch hằng năm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-015"
             },
             {
               "id": "u6-reading-bfb68dc17495",
               "word": "hold championships",
               "meaning": "tổ chức các giải vô địch",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/hoʊld ˈtʃæmpiːənˌʃɪps/",
+              "example": "Some people take it seriously: a league holds championships every year.",
+              "exampleTranslation": "Một số người coi đó là việc nghiêm túc: một liên đoàn tổ chức giải vô địch hằng năm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 107",
+              "exampleId": "u6-ex-015"
             }
           ]
         },
@@ -265,259 +469,481 @@ export default {
               "word": "military obstacle course training",
               "meaning": "huấn luyện vượt chướng ngại vật trong quân đội",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈmɪləˌteri ˈɑːbstəkəl kɔːrs ˈtreɪnɪŋ/",
+              "example": "It is based on military obstacle course training.",
+              "exampleTranslation": "Hoạt động này dựa trên việc huấn luyện vượt chướng ngại vật trong quân đội.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-016"
             },
             {
               "id": "u6-reading-61fa4890eced",
               "word": "get from one point to another",
               "meaning": "di chuyển từ điểm này đến điểm khác",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡet frəm wʌn pɔɪnt tə əˈnʌðər/",
+              "example": "The aim is to get from one point to another in any way you can, and express yourself while doing so.",
+              "exampleTranslation": "Mục đích là di chuyển từ điểm này đến điểm khác bằng bất kỳ cách nào có thể, đồng thời thể hiện bản thân.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-017"
             },
             {
               "id": "u6-reading-e53d1f2fde1e",
               "word": "express yourself",
               "meaning": "thể hiện bản thân",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɪksˈpres ˈjɔːrself/",
+              "example": "The aim is to get from one point to another in any way you can, and express yourself while doing so.",
+              "exampleTranslation": "Mục đích là di chuyển từ điểm này đến điểm khác bằng bất kỳ cách nào có thể, đồng thời thể hiện bản thân.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-017"
             },
             {
               "id": "u6-reading-bf96477a01f3",
               "word": "no limits on",
               "meaning": "không có giới hạn đối với",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/noʊ ˈlɪməts ɑːn/",
+              "example": "There are no limits on how you move in parkour: running, climbing, swinging, jumping, rolling and any other types of movement are possible.",
+              "exampleTranslation": "Không có giới hạn về cách di chuyển trong parkour: chạy, leo, đu, nhảy, lăn và mọi kiểu chuyển động khác đều có thể thực hiện.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-018"
             },
             {
               "id": "u6-reading-991540dcc68d",
               "word": "swinging",
               "meaning": "đu người",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈswɪŋɪŋ/",
+              "example": "There are no limits on how you move in parkour: running, climbing, swinging, jumping, rolling and any other types of movement are possible.",
+              "exampleTranslation": "Không có giới hạn về cách di chuyển trong parkour: chạy, leo, đu, nhảy, lăn và mọi kiểu chuyển động khác đều có thể thực hiện.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-018"
             },
             {
               "id": "u6-reading-63fbb88660d6",
               "word": "rolling",
               "meaning": "lăn người",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈroʊlɪŋ/",
+              "example": "There are no limits on how you move in parkour: running, climbing, swinging, jumping, rolling and any other types of movement are possible.",
+              "exampleTranslation": "Không có giới hạn về cách di chuyển trong parkour: chạy, leo, đu, nhảy, lăn và mọi kiểu chuyển động khác đều có thể thực hiện.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-018"
             },
             {
               "id": "u6-reading-a637996908ea",
               "word": "movement",
               "meaning": "sự chuyển động; động tác",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈmuːvmənt/",
+              "example": "There are no limits on how you move in parkour: running, climbing, swinging, jumping, rolling and any other types of movement are possible.",
+              "exampleTranslation": "Không có giới hạn về cách di chuyển trong parkour: chạy, leo, đu, nhảy, lăn và mọi kiểu chuyển động khác đều có thể thực hiện.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-018"
             },
             {
               "id": "u6-reading-2331eb33ce2c",
               "word": "philosophy",
               "meaning": "triết lý",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/fəˈlɑːsəfi/",
+              "example": "Parkour is a philosophy that encourages people to find ways around obstacles.",
+              "exampleTranslation": "Parkour là một triết lý khuyến khích mọi người tìm cách vượt chướng ngại vật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-019"
             },
             {
               "id": "u6-reading-6aa7cbba8b46",
               "word": "obstacles",
               "meaning": "các chướng ngại vật",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈɑːbstəkəlz/",
+              "example": "Parkour is a philosophy that encourages people to find ways around obstacles.",
+              "exampleTranslation": "Parkour là một triết lý khuyến khích mọi người tìm cách vượt chướng ngại vật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-019"
             },
             {
               "id": "u6-reading-e0bdb755e12d",
               "word": "traceurs",
               "meaning": "những người tập parkour",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/træˈsɜːrz/",
+              "example": "The Yamakasi were a group of traceurs made up of David Belle and his friends and cousins, who appeared in films and documentaries.",
+              "exampleTranslation": "Yamakasi là nhóm người tập parkour gồm David Belle, bạn bè và anh em họ, từng xuất hiện trong phim và phim tài liệu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-020"
             },
             {
               "id": "u6-reading-fdbbb99d7b90",
               "word": "be made up of",
               "meaning": "bao gồm",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː meɪd ʌp əv/",
+              "example": "The Yamakasi were a group of traceurs made up of David Belle and his friends and cousins, who appeared in films and documentaries.",
+              "exampleTranslation": "Yamakasi là nhóm người tập parkour gồm David Belle, bạn bè và anh em họ, từng xuất hiện trong phim và phim tài liệu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-020"
             },
             {
               "id": "u6-reading-44804b3033cb",
               "word": "documentaries",
               "meaning": "phim tài liệu",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˌdɑːkjəˈmenəriːz/",
+              "example": "The Yamakasi were a group of traceurs made up of David Belle and his friends and cousins, who appeared in films and documentaries.",
+              "exampleTranslation": "Yamakasi là nhóm người tập parkour gồm David Belle, bạn bè và anh em họ, từng xuất hiện trong phim và phim tài liệu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-020"
             },
             {
               "id": "u6-reading-025df06e70cb",
               "word": "strict rules",
               "meaning": "các quy tắc nghiêm ngặt",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/strɪkt ruːlz/",
+              "example": "Their strict rules required members to arrive on time and not make excuses.",
+              "exampleTranslation": "Các quy tắc nghiêm ngặt yêu cầu thành viên đến đúng giờ và không viện cớ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-021"
             },
             {
               "id": "u6-reading-74aef5dd9dc9",
               "word": "arrive on time",
               "meaning": "đến đúng giờ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ərˈaɪv ɑːn taɪm/",
+              "example": "Their strict rules required members to arrive on time and not make excuses.",
+              "exampleTranslation": "Các quy tắc nghiêm ngặt yêu cầu thành viên đến đúng giờ và không viện cớ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-021"
             },
             {
               "id": "u6-reading-4d7ce9063d59",
               "word": "make excuses",
               "meaning": "viện cớ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/meɪk ɪkˈskjuːsɪz/",
+              "example": "Their strict rules required members to arrive on time and not make excuses.",
+              "exampleTranslation": "Các quy tắc nghiêm ngặt yêu cầu thành viên đến đúng giờ và không viện cớ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-021"
             },
             {
               "id": "u6-reading-b7c95287a83c",
               "word": "value humility",
               "meaning": "coi trọng sự khiêm tốn",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈvæljuː hjuːˈmɪlɪti/",
+              "example": "They valued humility, so they were not allowed to show off or compete with other members.",
+              "exampleTranslation": "Họ coi trọng sự khiêm tốn, nên không được khoe khoang hay thi đấu với thành viên khác.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-022"
             },
             {
               "id": "u6-reading-a2aeafe15226",
               "word": "show off",
               "meaning": "khoe khoang; phô trương",
               "type": "phrase",
-              "pos": "phrasal_verb"
+              "pos": "phrasal_verb",
+              "ipa": "/ʃoʊ ɔːf/",
+              "example": "They valued humility, so they were not allowed to show off or compete with other members.",
+              "exampleTranslation": "Họ coi trọng sự khiêm tốn, nên không được khoe khoang hay thi đấu với thành viên khác.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-022"
             },
             {
               "id": "u6-reading-002cc5062a40",
               "word": "compete with",
               "meaning": "thi đấu; cạnh tranh với",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kəmˈpiːt wɪð/",
+              "example": "They valued humility, so they were not allowed to show off or compete with other members.",
+              "exampleTranslation": "Họ coi trọng sự khiêm tốn, nên không được khoe khoang hay thi đấu với thành viên khác.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-022"
             },
             {
               "id": "u6-reading-d65c31c635db",
               "word": "a state of mind",
               "meaning": "một trạng thái tinh thần",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə steɪt əv maɪnd/",
+              "example": "Parkour is a state of mind concerned with overcoming mental and physical barriers.",
+              "exampleTranslation": "Parkour là trạng thái tinh thần hướng đến vượt qua các rào cản tinh thần và thể chất.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-023"
             },
             {
               "id": "u6-reading-3bf5dfbfc9dd",
               "word": "mental and physical barriers",
               "meaning": "các rào cản tinh thần và thể chất",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈmentəl ənd ˈfɪzɪkəl ˈbæriːərz/",
+              "example": "Parkour is a state of mind concerned with overcoming mental and physical barriers.",
+              "exampleTranslation": "Parkour là trạng thái tinh thần hướng đến vượt qua các rào cản tinh thần và thể chất.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-023"
             },
             {
               "id": "u6-reading-dca499b1abd6",
               "word": "interact with",
               "meaning": "tương tác với",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˌɪnərˈækt wɪð/",
+              "example": "It teaches people to touch the world and interact with it.",
+              "exampleTranslation": "Nó dạy con người tiếp xúc với thế giới và tương tác với thế giới đó.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-024"
             },
             {
               "id": "u6-reading-24e5b1477271",
               "word": "a competitive sport",
               "meaning": "một môn thể thao có tính thi đấu",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə kəmˈpetətɪv spɔːrt/",
+              "example": "Parkour.net describes parkour as an art concerned with self-development, rather than a competitive sport.",
+              "exampleTranslation": "Parkour.net mô tả parkour là nghệ thuật chú trọng phát triển bản thân thay vì môn thể thao thi đấu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-025"
             },
             {
               "id": "u6-reading-3f6fa8ece157",
               "word": "be concerned with",
               "meaning": "liên quan đến; chú trọng vào",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː kənˈsɜːrnd wɪð/",
+              "example": "Parkour.net describes parkour as an art concerned with self-development, rather than a competitive sport.",
+              "exampleTranslation": "Parkour.net mô tả parkour là nghệ thuật chú trọng phát triển bản thân thay vì môn thể thao thi đấu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-025"
             },
             {
               "id": "u6-reading-76504fe474e5",
               "word": "self-development",
               "meaning": "sự phát triển bản thân",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/self dɪˈveləpmənt/",
+              "example": "Parkour.net describes parkour as an art concerned with self-development, rather than a competitive sport.",
+              "exampleTranslation": "Parkour.net mô tả parkour là nghệ thuật chú trọng phát triển bản thân thay vì môn thể thao thi đấu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-025"
             },
             {
               "id": "u6-reading-06559035a0eb",
               "word": "adapt to any environment",
               "meaning": "thích nghi với mọi môi trường",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/əˈdæpt tə eni ɪnˈvaɪrənmənt/",
+              "example": "The idea behind parkour is to adapt to any environment and be creative about how you get through it.",
+              "exampleTranslation": "Ý tưởng của parkour là thích nghi với mọi môi trường và sáng tạo trong cách vượt qua môi trường đó.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-026"
             },
             {
               "id": "u6-reading-3160d72dad0f",
               "word": "be creative",
               "meaning": "có tính sáng tạo",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː kriːˈeɪtɪv/",
+              "example": "The idea behind parkour is to adapt to any environment and be creative about how you get through it.",
+              "exampleTranslation": "Ý tưởng của parkour là thích nghi với mọi môi trường và sáng tạo trong cách vượt qua môi trường đó.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-026"
             },
             {
               "id": "u6-reading-92b10afea59c",
               "word": "freedom and self-expression",
               "meaning": "sự tự do và việc thể hiện bản thân",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈfriːdəm ənd ˌselfɪksˈpreʃən/",
+              "example": "It is about freedom and self-expression.",
+              "exampleTranslation": "Hoạt động này hướng đến sự tự do và việc thể hiện bản thân.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-027"
             },
             {
               "id": "u6-reading-59458508a082",
               "word": "founder",
               "meaning": "người sáng lập",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈfaʊndər/",
+              "example": "The founder of parkour refused to teach people how to do moves or get over obstacles.",
+              "exampleTranslation": "Người sáng lập parkour từ chối dạy người khác cách thực hiện động tác hoặc vượt chướng ngại vật.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-028"
             },
             {
               "id": "u6-reading-750c33572014",
               "word": "refuse to teach",
               "meaning": "từ chối dạy",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/rɪˈfjuːz tə tiːtʃ/",
+              "example": "The founder of parkour refused to teach people how to do moves or get over obstacles.",
+              "exampleTranslation": "Người sáng lập parkour từ chối dạy người khác cách thực hiện động tác hoặc vượt chướng ngại vật.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-028"
             },
             {
               "id": "u6-reading-07185cec88fa",
               "word": "the whole point",
               "meaning": "điều cốt yếu",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðə hoʊl pɔɪnt/",
+              "example": "The whole point is to learn your own technique and way of moving.",
+              "exampleTranslation": "Điều cốt yếu là tự học kỹ thuật và cách di chuyển của riêng mình.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-029"
             },
             {
               "id": "u6-reading-6cbdfcf83679",
               "word": "technique",
               "meaning": "kỹ thuật",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/tekˈniːk/",
+              "example": "The whole point is to learn your own technique and way of moving.",
+              "exampleTranslation": "Điều cốt yếu là tự học kỹ thuật và cách di chuyển của riêng mình.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-029"
             },
             {
               "id": "u6-reading-4c7bb4e4851f",
               "word": "conflict with the values of",
               "meaning": "mâu thuẫn với các giá trị của",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈkɑːnflɪkt wɪð ðə ˈvæljuːz əv/",
+              "example": "Having classes in a limited space may conflict with the values of parkour.",
+              "exampleTranslation": "Việc học theo lớp trong không gian hạn chế có thể mâu thuẫn với các giá trị của parkour.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-030"
             },
             {
               "id": "u6-reading-37fa31ed7ab4",
               "word": "focus on the individual",
               "meaning": "tập trung vào từng cá nhân",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈfoʊkəs ɑːn ðə ˌɪndəˈvɪdʒəwəl/",
+              "example": "Some forms of freerunning have more focus on the individual.",
+              "exampleTranslation": "Một số hình thức freerunning tập trung nhiều hơn vào từng cá nhân.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 110",
+              "exampleId": "u6-ex-031"
             },
             {
               "id": "u6-reading-920c4ea8f1cb",
               "word": "famous monuments",
               "meaning": "các công trình nổi tiếng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈfeɪməs ˈmɑːnjəmənts/",
+              "example": "Jump London showed traceurs moving around famous monuments in London.",
+              "exampleTranslation": "Jump London cho thấy những người tập parkour di chuyển quanh các công trình nổi tiếng ở London.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 110, paragraph E",
+              "exampleId": "u6-ex-032"
             },
             {
               "id": "u6-reading-540adffe1fd8",
               "word": "English translation",
               "meaning": "bản dịch tiếng Anh",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈɪŋɡlɪʃ trænˈsleɪʃən/",
+              "example": "Despite discussions of similarities and differences, Parkour UK says the English translation and the French term refer to the same activity.",
+              "exampleTranslation": "Dù có thảo luận về điểm giống và khác nhau, Parkour UK cho rằng bản dịch tiếng Anh và thuật ngữ tiếng Pháp chỉ cùng một hoạt động.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 110, paragraph E",
+              "exampleId": "u6-ex-033"
             },
             {
               "id": "u6-reading-835762ef90ac",
               "word": "similarities and differences",
               "meaning": "những điểm giống và khác nhau",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌsɪməˈlerətiːz ənd ˈdɪfərənsɪz/",
+              "example": "Despite discussions of similarities and differences, Parkour UK says the English translation and the French term refer to the same activity.",
+              "exampleTranslation": "Dù có thảo luận về điểm giống và khác nhau, Parkour UK cho rằng bản dịch tiếng Anh và thuật ngữ tiếng Pháp chỉ cùng một hoạt động.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 110, paragraph E",
+              "exampleId": "u6-ex-033"
             },
             {
               "id": "u6-reading-5121ec037bdd",
               "word": "refer to the same activity",
               "meaning": "chỉ cùng một hoạt động",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/rəˈfɜːr tə ðə seɪm ækˈtɪvəti/",
+              "example": "Despite discussions of similarities and differences, Parkour UK says the English translation and the French term refer to the same activity.",
+              "exampleTranslation": "Dù có thảo luận về điểm giống và khác nhau, Parkour UK cho rằng bản dịch tiếng Anh và thuật ngữ tiếng Pháp chỉ cùng một hoạt động.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 110, paragraph E",
+              "exampleId": "u6-ex-033"
             }
           ]
         }
@@ -539,133 +965,247 @@ export default {
               "word": "turn right onto",
               "meaning": "rẽ phải vào",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/tɜːrn raɪt ˈɑːntuː/",
+              "example": "First, you need to turn right onto Maple Avenue and drive to the bottom of the road, passing the supermarket on your left.",
+              "exampleTranslation": "Đầu tiên, bạn cần rẽ phải vào đại lộ Maple và lái đến cuối đường, đi qua siêu thị bên trái.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 184, track 49",
+              "exampleId": "u6-ex-034"
             },
             {
               "id": "u6-listening-33a8d675b9bf",
               "word": "the bottom of the road",
               "meaning": "cuối đường",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðə ˈbɑːtəm əv ðə roʊd/",
+              "example": "First, you need to turn right onto Maple Avenue and drive to the bottom of the road, passing the supermarket on your left.",
+              "exampleTranslation": "Đầu tiên, bạn cần rẽ phải vào đại lộ Maple và lái đến cuối đường, đi qua siêu thị bên trái.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 184, track 49",
+              "exampleId": "u6-ex-034"
             },
             {
               "id": "u6-listening-e97e6f8ebf59",
               "word": "on your left",
               "meaning": "ở bên trái bạn",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn jər left/",
+              "example": "First, you need to turn right onto Maple Avenue and drive to the bottom of the road, passing the supermarket on your left.",
+              "exampleTranslation": "Đầu tiên, bạn cần rẽ phải vào đại lộ Maple và lái đến cuối đường, đi qua siêu thị bên trái.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 184, track 49",
+              "exampleId": "u6-ex-034"
             },
             {
               "id": "u6-listening-39e7fda1aa71",
               "word": "turn left at the traffic lights",
               "meaning": "rẽ trái tại đèn giao thông",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/tɜːrn left ət ðə ˈtræfɪk laɪts/",
+              "example": "Then, you need to turn left at the traffic lights and then take a sharp right onto Main Street.",
+              "exampleTranslation": "Sau đó, bạn cần rẽ trái ở đèn giao thông rồi ngoặt phải vào phố Main.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 184, track 49",
+              "exampleId": "u6-ex-035"
             },
             {
               "id": "u6-listening-efe97c6c1d65",
               "word": "take a sharp right",
               "meaning": "rẽ ngoặt sang phải",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/teɪk ə ʃɑːrp raɪt/",
+              "example": "Then, you need to turn left at the traffic lights and then take a sharp right onto Main Street.",
+              "exampleTranslation": "Sau đó, bạn cần rẽ trái ở đèn giao thông rồi ngoặt phải vào phố Main.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 184, track 49",
+              "exampleId": "u6-ex-035"
             },
             {
               "id": "u6-listening-7f20db4fc210",
               "word": "go straight on",
               "meaning": "đi thẳng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡoʊ streɪt ɑːn/",
+              "example": "You can go straight on past the surgery.",
+              "exampleTranslation": "Bạn có thể đi thẳng qua phòng khám.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 49",
+              "exampleId": "u6-ex-036"
             },
             {
               "id": "u6-listening-7dcf11bc7118",
               "word": "past the surgery",
               "meaning": "qua phòng khám",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/pæst ðə ˈsɜːrdʒəri/",
+              "example": "You can go straight on past the surgery.",
+              "exampleTranslation": "Bạn có thể đi thẳng qua phòng khám.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 49",
+              "exampleId": "u6-ex-036"
             },
             {
               "id": "u6-listening-bfd0d6eaea2d",
               "word": "follow this road",
               "meaning": "đi theo đường này",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈfɑːloʊ ðɪs roʊd/",
+              "example": "Follow this road until you reach a roundabout.",
+              "exampleTranslation": "Đi theo đường này cho đến khi tới vòng xuyến.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 49",
+              "exampleId": "u6-ex-037"
             },
             {
               "id": "u6-listening-b616b765b6c3",
               "word": "reach a roundabout",
               "meaning": "đến một vòng xuyến",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/riːtʃ ə ˈraʊndəˌbaʊt/",
+              "example": "Follow this road until you reach a roundabout.",
+              "exampleTranslation": "Đi theo đường này cho đến khi tới vòng xuyến.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 49",
+              "exampleId": "u6-ex-037"
             },
             {
               "id": "u6-listening-2cc037509813",
               "word": "take the first turning on the left",
               "meaning": "rẽ vào lối đầu tiên bên trái",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/teɪk ðə fɜːrst ˈtɜːrnɪŋ ɑːn ðə left/",
+              "example": "At the roundabout, take the first turning on the left onto Silver Street.",
+              "exampleTranslation": "Tại vòng xuyến, rẽ vào lối đầu tiên bên trái để vào phố Silver.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 49",
+              "exampleId": "u6-ex-038"
             },
             {
               "id": "u6-listening-053673fedb3a",
               "word": "approach the crossroads",
               "meaning": "đến gần ngã tư",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/əˈproʊtʃ ðə ˈkrɔːsˌroʊdz/",
+              "example": "As you approach the crossroads here, my house is the first on the corner.",
+              "exampleTranslation": "Khi đến gần ngã tư này, nhà tôi là căn đầu tiên ở góc đường.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 184, track 49",
+              "exampleId": "u6-ex-039"
             },
             {
               "id": "u6-listening-f92b752058a4",
               "word": "on the corner",
               "meaning": "ở góc đường",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn ðə ˈkɔːrnər/",
+              "example": "As you approach the crossroads here, my house is the first on the corner.",
+              "exampleTranslation": "Khi đến gần ngã tư này, nhà tôi là căn đầu tiên ở góc đường.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 184, track 49",
+              "exampleId": "u6-ex-039"
             },
             {
               "id": "u6-listening-c72318a327ff",
               "word": "collect her on the way",
               "meaning": "đón cô ấy trên đường",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kəˈlekt hər ɑːn ðə weɪ/",
+              "example": "Melissa gives another set of directions so the driver can collect Sarah on the way.",
+              "exampleTranslation": "Melissa đưa một loạt chỉ dẫn khác để người lái xe có thể đón Sarah trên đường.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 50",
+              "exampleId": "u6-ex-040"
             },
             {
               "id": "u6-listening-789ce37a3ad3",
               "word": "a set of directions",
               "meaning": "một loạt chỉ dẫn đường đi",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə set əv daɪˈrekʃɪnz/",
+              "example": "Melissa gives another set of directions so the driver can collect Sarah on the way.",
+              "exampleTranslation": "Melissa đưa một loạt chỉ dẫn khác để người lái xe có thể đón Sarah trên đường.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 50",
+              "exampleId": "u6-ex-040"
             },
             {
               "id": "u6-listening-91056e74feac",
               "word": "instead of turning left",
               "meaning": "thay vì rẽ trái",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ˌɪnˈsted əv ˈtɜːrnɪŋ left/",
+              "example": "Instead of turning left here, turn right, with the park on your left.",
+              "exampleTranslation": "Thay vì rẽ trái ở đây, hãy rẽ phải, với công viên ở bên trái bạn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 185, track 50",
+              "exampleId": "u6-ex-041"
             },
             {
               "id": "u6-listening-c8412635b84f",
               "word": "zebra crossing",
               "meaning": "vạch sang đường cho người đi bộ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈziːbrə ˈkrɔːsɪŋ/",
+              "example": "Then after the zebra crossing, take the first turning on your left onto New Road.",
+              "exampleTranslation": "Sau vạch sang đường, rẽ vào lối đầu tiên bên trái để vào đường New.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 185, track 50",
+              "exampleId": "u6-ex-042"
             },
             {
               "id": "u6-listening-60669931d53a",
               "word": "drive along",
               "meaning": "lái xe dọc theo",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/draɪv əˈlɔːŋ/",
+              "example": "Drive along New Road; Sarah's house is the second house after the bridge.",
+              "exampleTranslation": "Lái xe dọc đường New; nhà Sarah là căn thứ hai sau cây cầu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 50",
+              "exampleId": "u6-ex-043"
             },
             {
               "id": "u6-listening-99f768a12c10",
               "word": "after the bridge",
               "meaning": "sau cây cầu",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ˈæftər ðə brɪdʒ/",
+              "example": "Drive along New Road; Sarah's house is the second house after the bridge.",
+              "exampleTranslation": "Lái xe dọc đường New; nhà Sarah là căn thứ hai sau cây cầu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 50",
+              "exampleId": "u6-ex-043"
             },
             {
               "id": "u6-listening-b771b19589eb",
               "word": "pick up",
               "meaning": "đón ai bằng xe",
               "type": "phrase",
-              "pos": "phrasal_verb"
+              "pos": "phrasal_verb",
+              "ipa": "/pɪk ʌp/",
+              "example": "After picking up Sarah, turn left onto Silver Street and go straight ahead.",
+              "exampleTranslation": "Sau khi đón Sarah, rẽ trái vào phố Silver và đi thẳng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 50",
+              "exampleId": "u6-ex-044"
             },
             {
               "id": "u6-listening-10bc9252eb0b",
@@ -674,8 +1214,11 @@ export default {
               "type": "phrase",
               "pos": "verb_phrase",
               "ipa": "/ɡoʊ streɪt əˈhed/",
-              "example": "Go straight ahead until you see a big church.",
-              "exampleTranslation": "Đi thẳng cho đến khi bạn thấy một nhà thờ lớn."
+              "example": "After picking up Sarah, turn left onto Silver Street and go straight ahead.",
+              "exampleTranslation": "Sau khi đón Sarah, rẽ trái vào phố Silver và đi thẳng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 50",
+              "exampleId": "u6-ex-044"
             }
           ]
         },
@@ -690,119 +1233,221 @@ export default {
               "word": "make arrangements",
               "meaning": "sắp xếp kế hoạch",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/meɪk ərˈeɪndʒmənts/",
+              "example": "Tanya calls to make arrangements for meeting at the Arena concert venue.",
+              "exampleTranslation": "Tanya gọi để sắp xếp việc gặp nhau tại địa điểm hòa nhạc Arena.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 51",
+              "exampleId": "u6-ex-045"
             },
             {
               "id": "u6-listening-9af7c274b4ed",
               "word": "concert venue",
               "meaning": "địa điểm tổ chức hòa nhạc",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈkɑːnsərt ˈvenjuː/",
+              "example": "Tanya calls to make arrangements for meeting at the Arena concert venue.",
+              "exampleTranslation": "Tanya gọi để sắp xếp việc gặp nhau tại địa điểm hòa nhạc Arena.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 51",
+              "exampleId": "u6-ex-045"
             },
             {
               "id": "u6-listening-d7dc61c9ff41",
               "word": "give someone a lift",
               "meaning": "cho ai đi nhờ xe",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡɪv ˈsʌmˌwʌn ə lɪft/",
+              "example": "She is giving Melissa and Sarah a lift and suggests meeting up for a coffee.",
+              "exampleTranslation": "Cô ấy cho Melissa và Sarah đi nhờ xe và đề nghị gặp nhau uống cà phê.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 51",
+              "exampleId": "u6-ex-046"
             },
             {
               "id": "u6-listening-1640a9663f30",
               "word": "meet up for a coffee",
               "meaning": "gặp nhau uống cà phê",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/miːt ʌp fər ə kɑːfi/",
+              "example": "She is giving Melissa and Sarah a lift and suggests meeting up for a coffee.",
+              "exampleTranslation": "Cô ấy cho Melissa và Sarah đi nhờ xe và đề nghị gặp nhau uống cà phê.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 51",
+              "exampleId": "u6-ex-046"
             },
             {
               "id": "u6-listening-75868ccb824d",
               "word": "main entrance",
               "meaning": "lối vào chính",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/meɪn ˈentrəns/",
+              "example": "As you walk through the main entrance, you come to a square with a big fountain in the middle.",
+              "exampleTranslation": "Khi đi qua lối vào chính, bạn đến quảng trường có đài phun nước lớn ở giữa.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 185, track 51",
+              "exampleId": "u6-ex-047"
             },
             {
               "id": "u6-listening-bbafff6092bd",
               "word": "a fountain in the middle",
               "meaning": "một đài phun nước ở giữa",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈfaʊntən ɪn ðə ˈmɪdəl/",
+              "example": "As you walk through the main entrance, you come to a square with a big fountain in the middle.",
+              "exampleTranslation": "Khi đi qua lối vào chính, bạn đến quảng trường có đài phun nước lớn ở giữa.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 185, track 51",
+              "exampleId": "u6-ex-047"
             },
             {
               "id": "u6-listening-b0594e084e86",
               "word": "live music",
               "meaning": "nhạc biểu diễn trực tiếp",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/laɪv ˈmjuːzɪk/",
+              "example": "People meet in the square, where there is sometimes live music.",
+              "exampleTranslation": "Mọi người gặp nhau ở quảng trường, nơi đôi khi có nhạc biểu diễn trực tiếp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 51",
+              "exampleId": "u6-ex-048"
             },
             {
               "id": "u6-listening-0c4d40753bbf",
               "word": "beyond the square",
               "meaning": "qua phía bên kia quảng trường",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ˌbiːˈɔːnd ðə skwer/",
+              "example": "Beyond the square, on Main Avenue, on your right, there are several restaurants, and opposite these on your left is an exhibition centre.",
+              "exampleTranslation": "Qua phía bên kia quảng trường, trên đại lộ Main, có vài nhà hàng bên phải, còn đối diện chúng ở bên trái là trung tâm triển lãm.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 185, track 51",
+              "exampleId": "u6-ex-049"
             },
             {
               "id": "u6-listening-018acf8f0d23",
               "word": "opposite these",
               "meaning": "đối diện những nơi này",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ˈɑːpəzət ðiːz/",
+              "example": "Beyond the square, on Main Avenue, on your right, there are several restaurants, and opposite these on your left is an exhibition centre.",
+              "exampleTranslation": "Qua phía bên kia quảng trường, trên đại lộ Main, có vài nhà hàng bên phải, còn đối diện chúng ở bên trái là trung tâm triển lãm.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 185, track 51",
+              "exampleId": "u6-ex-049"
             },
             {
               "id": "u6-listening-198f85ca7377",
               "word": "exhibition centre",
               "meaning": "trung tâm triển lãm",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌeksəˈbɪʃən ˈsentər/",
+              "example": "Beyond the square, on Main Avenue, on your right, there are several restaurants, and opposite these on your left is an exhibition centre.",
+              "exampleTranslation": "Qua phía bên kia quảng trường, trên đại lộ Main, có vài nhà hàng bên phải, còn đối diện chúng ở bên trái là trung tâm triển lãm.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 185, track 51",
+              "exampleId": "u6-ex-049"
             },
             {
               "id": "u6-listening-17021b5e9408",
               "word": "at the end of",
               "meaning": "ở cuối",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ət ðə end əv/",
+              "example": "The coffee shop is at the end of Main Avenue, after the art gallery.",
+              "exampleTranslation": "Quán cà phê nằm cuối đại lộ Main, sau phòng trưng bày nghệ thuật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 51",
+              "exampleId": "u6-ex-050"
             },
             {
               "id": "u6-listening-0139638a5463",
               "word": "art gallery",
               "meaning": "phòng trưng bày nghệ thuật",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ɑːrt ˈɡæləri/",
+              "example": "The coffee shop is at the end of Main Avenue, after the art gallery.",
+              "exampleTranslation": "Quán cà phê nằm cuối đại lộ Main, sau phòng trưng bày nghệ thuật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 51",
+              "exampleId": "u6-ex-050"
             },
             {
               "id": "u6-listening-9d52bbf24e77",
               "word": "go through the shopping centre",
               "meaning": "đi xuyên qua trung tâm mua sắm",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡoʊ θruː ðə ˈʃɑːpɪŋ ˈsentər/",
+              "example": "To reach the Arena, they must go through the shopping centre, which can be tempting.",
+              "exampleTranslation": "Để đến Arena, họ phải đi xuyên qua trung tâm mua sắm, nơi có thể khiến họ muốn ghé vào.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 51",
+              "exampleId": "u6-ex-051"
             },
             {
               "id": "u6-listening-f77ec97ec2b7",
               "word": "tempting",
               "meaning": "hấp dẫn; dễ khiến muốn ghé vào",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˈtemptɪŋ/",
+              "example": "To reach the Arena, they must go through the shopping centre, which can be tempting.",
+              "exampleTranslation": "Để đến Arena, họ phải đi xuyên qua trung tâm mua sắm, nơi có thể khiến họ muốn ghé vào.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 51",
+              "exampleId": "u6-ex-051"
             },
             {
               "id": "u6-listening-398e41e429a2",
               "word": "beside the entrance",
               "meaning": "bên cạnh lối vào",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ˌbiːˈsaɪd ðə ˈentrəns/",
+              "example": "There are toilets beside the entrance.",
+              "exampleTranslation": "Có nhà vệ sinh bên cạnh lối vào.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 51",
+              "exampleId": "u6-ex-052"
             },
             {
               "id": "u6-listening-c8d7ebd5a155",
               "word": "make it for seven",
               "meaning": "đến kịp lúc bảy giờ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/meɪk ɪt fər ˈsevən/",
+              "example": "Let me know if you can make it for seven; it's been a while since we met.",
+              "exampleTranslation": "Hãy cho tôi biết bạn có đến kịp bảy giờ không; đã lâu rồi chúng ta chưa gặp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 51",
+              "exampleId": "u6-ex-053"
             },
             {
               "id": "u6-listening-9db04cec3f83",
               "word": "it's been a while",
               "meaning": "đã lâu rồi không gặp",
               "type": "phrase",
-              "pos": "expression"
+              "pos": "expression",
+              "ipa": "/ɪts bɪn ə hwaɪl/",
+              "example": "Let me know if you can make it for seven; it's been a while since we met.",
+              "exampleTranslation": "Hãy cho tôi biết bạn có đến kịp bảy giờ không; đã lâu rồi chúng ta chưa gặp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 51",
+              "exampleId": "u6-ex-053"
             }
           ]
         },
@@ -817,168 +1462,312 @@ export default {
               "word": "activity summer camp",
               "meaning": "trại hè hoạt động",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ækˈtɪvəti ˈsʌmər kæmp/",
+              "example": "The activity summer camp has many activities on offer.",
+              "exampleTranslation": "Trại hè có nhiều hoạt động để lựa chọn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 52",
+              "exampleId": "u6-ex-054"
             },
             {
               "id": "u6-listening-9a4ba7e4807e",
               "word": "on offer",
               "meaning": "được cung cấp; có sẵn để lựa chọn",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn ˈɔːfər/",
+              "example": "The activity summer camp has many activities on offer.",
+              "exampleTranslation": "Trại hè có nhiều hoạt động để lựa chọn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 52",
+              "exampleId": "u6-ex-054"
             },
             {
               "id": "u6-listening-51bad93ae131",
               "word": "outdoor theatre",
               "meaning": "sân khấu ngoài trời",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈaʊtˌdɔːr ˈθiːətər/",
+              "example": "We start our tour at the outdoor theatre here, where we hold many of our evening activities.",
+              "exampleTranslation": "Chúng ta bắt đầu chuyến tham quan tại sân khấu ngoài trời, nơi tổ chức nhiều hoạt động buổi tối.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 185, track 52",
+              "exampleId": "u6-ex-055"
             },
             {
               "id": "u6-listening-63371516010c",
               "word": "campsite",
               "meaning": "khu cắm trại",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈkæmpˌsaɪt/",
+              "example": "Directly in front of the campsite, on the edge of the lake, we have the kayaking centre.",
+              "exampleTranslation": "Ngay trước khu cắm trại, ở ven hồ, là trung tâm chèo thuyền kayak.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 185, track 52",
+              "exampleId": "u6-ex-056"
             },
             {
               "id": "u6-listening-a3353d0e9697",
               "word": "on the edge of the lake",
               "meaning": "ở ven hồ",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn ðə edʒ əv ðə leɪk/",
+              "example": "Directly in front of the campsite, on the edge of the lake, we have the kayaking centre.",
+              "exampleTranslation": "Ngay trước khu cắm trại, ở ven hồ, là trung tâm chèo thuyền kayak.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 185, track 52",
+              "exampleId": "u6-ex-056"
             },
             {
               "id": "u6-listening-87476e9dc9d0",
               "word": "kayaking centre",
               "meaning": "trung tâm chèo thuyền kayak",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈkaɪˌækɪŋ ˈsentər/",
+              "example": "Directly in front of the campsite, on the edge of the lake, we have the kayaking centre.",
+              "exampleTranslation": "Ngay trước khu cắm trại, ở ven hồ, là trung tâm chèo thuyền kayak.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 185, track 52",
+              "exampleId": "u6-ex-056"
             },
             {
               "id": "u6-listening-3f1d5cd2f2e4",
               "word": "reserved for diving",
               "meaning": "dành riêng cho hoạt động lặn",
               "type": "phrase",
-              "pos": "participle_phrase"
+              "pos": "participle_phrase",
+              "ipa": "/riːˈzɜːrvd fər ˈdaɪvɪŋ/",
+              "example": "Swimming is not permitted in the area reserved for diving.",
+              "exampleTranslation": "Không được bơi trong khu vực dành riêng cho hoạt động lặn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 52",
+              "exampleId": "u6-ex-057"
             },
             {
               "id": "u6-listening-d80945e5f80b",
               "word": "be permitted",
               "meaning": "được cho phép",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː pərˈmɪtɪd/",
+              "example": "Swimming is not permitted in the area reserved for diving.",
+              "exampleTranslation": "Không được bơi trong khu vực dành riêng cho hoạt động lặn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 52",
+              "exampleId": "u6-ex-057"
             },
             {
               "id": "u6-listening-d74021d8722b",
               "word": "racket sports",
               "meaning": "các môn thể thao dùng vợt",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈrækɪt spɔːrts/",
+              "example": "If you enjoy racket sports, you can practise badminton indoors or use the outdoor tennis courts.",
+              "exampleTranslation": "Nếu thích các môn dùng vợt, bạn có thể tập cầu lông trong nhà hoặc dùng sân quần vợt ngoài trời.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 52",
+              "exampleId": "u6-ex-058"
             },
             {
               "id": "u6-listening-187f874f6f4f",
               "word": "practise badminton",
               "meaning": "tập cầu lông",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈpræktɪs ˈbædˌmɪntən/",
+              "example": "If you enjoy racket sports, you can practise badminton indoors or use the outdoor tennis courts.",
+              "exampleTranslation": "Nếu thích các môn dùng vợt, bạn có thể tập cầu lông trong nhà hoặc dùng sân quần vợt ngoài trời.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 52",
+              "exampleId": "u6-ex-058"
             },
             {
               "id": "u6-listening-aadbb4d7392b",
               "word": "outdoor tennis courts",
               "meaning": "các sân quần vợt ngoài trời",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈaʊtˌdɔːr ˈtenəs kɔːrts/",
+              "example": "If you enjoy racket sports, you can practise badminton indoors or use the outdoor tennis courts.",
+              "exampleTranslation": "Nếu thích các môn dùng vợt, bạn có thể tập cầu lông trong nhà hoặc dùng sân quần vợt ngoài trời.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 52",
+              "exampleId": "u6-ex-058"
             },
             {
               "id": "u6-listening-df62c72902f3",
               "word": "dining hall",
               "meaning": "nhà ăn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈdaɪnɪŋ hɔːl/",
+              "example": "The path leads straight to the cafe and dining hall.",
+              "exampleTranslation": "Con đường dẫn thẳng đến quán cà phê và nhà ăn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 52",
+              "exampleId": "u6-ex-059"
             },
             {
               "id": "u6-listening-cdbf845fe771",
               "word": "lake shore",
               "meaning": "bờ hồ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/leɪk ʃɔːr/",
+              "example": "As we walk along the lake shore, I'd like to draw your attention to two other areas.",
+              "exampleTranslation": "Khi đi dọc bờ hồ, tôi muốn hướng sự chú ý của các bạn đến hai khu vực khác.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 52",
+              "exampleId": "u6-ex-060"
             },
             {
               "id": "u6-listening-f994402322ab",
               "word": "draw your attention to",
               "meaning": "hướng sự chú ý của bạn đến",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/drɔː jər əˈtenʃən tə/",
+              "example": "As we walk along the lake shore, I'd like to draw your attention to two other areas.",
+              "exampleTranslation": "Khi đi dọc bờ hồ, tôi muốn hướng sự chú ý của các bạn đến hai khu vực khác.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 52",
+              "exampleId": "u6-ex-060"
             },
             {
               "id": "u6-listening-c88879eb28f9",
               "word": "for safety reasons",
               "meaning": "vì lý do an toàn",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/fər seɪfti ˈriːzənz/",
+              "example": "For safety reasons, swimming is allowed only when an instructor is present.",
+              "exampleTranslation": "Vì lý do an toàn, chỉ được bơi khi có người hướng dẫn ở đó.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 52",
+              "exampleId": "u6-ex-061"
             },
             {
               "id": "u6-listening-92baa7989f9e",
               "word": "an instructor is present",
               "meaning": "có người hướng dẫn ở đó",
               "type": "phrase",
-              "pos": "expression"
+              "pos": "expression",
+              "ipa": "/ən ɪnˈstrʌktər ɪz ˈprezənt/",
+              "example": "For safety reasons, swimming is allowed only when an instructor is present.",
+              "exampleTranslation": "Vì lý do an toàn, chỉ được bơi khi có người hướng dẫn ở đó.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 52",
+              "exampleId": "u6-ex-061"
             },
             {
               "id": "u6-listening-51f5f640b916",
               "word": "a track for cycling",
               "meaning": "đường dành cho xe đạp",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə træk fər ˈsaɪkəlɪŋ/",
+              "example": "The track for cycling is not wide enough for both runners and cyclists.",
+              "exampleTranslation": "Đường dành cho xe đạp không đủ rộng cho cả người chạy bộ và người đi xe đạp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 52",
+              "exampleId": "u6-ex-062"
             },
             {
               "id": "u6-listening-244168094d6b",
               "word": "runners and cyclists",
               "meaning": "người chạy bộ và người đi xe đạp",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈrʌnərz ənd ˈsaɪkəlɪs/",
+              "example": "The track for cycling is not wide enough for both runners and cyclists.",
+              "exampleTranslation": "Đường dành cho xe đạp không đủ rộng cho cả người chạy bộ và người đi xe đạp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 52",
+              "exampleId": "u6-ex-062"
             },
             {
               "id": "u6-listening-b45ab2dac002",
               "word": "organise tournaments",
               "meaning": "tổ chức các giải đấu",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈɔːrɡənaɪz ˈtɜːrnəmənts/",
+              "example": "Gary will organise tournaments, but today he is taking part in a rugby game.",
+              "exampleTranslation": "Gary sẽ tổ chức các giải đấu, nhưng hôm nay anh đang tham gia một trận bóng bầu dục.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 52",
+              "exampleId": "u6-ex-063"
             },
             {
               "id": "u6-listening-a1b13462a4da",
               "word": "take part in a rugby game",
               "meaning": "tham gia một trận bóng bầu dục",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/teɪk pɑːrt ɪn ə rʌɡbi ɡeɪm/",
+              "example": "Gary will organise tournaments, but today he is taking part in a rugby game.",
+              "exampleTranslation": "Gary sẽ tổ chức các giải đấu, nhưng hôm nay anh đang tham gia một trận bóng bầu dục.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 52",
+              "exampleId": "u6-ex-063"
             },
             {
               "id": "u6-listening-edba59133b0a",
               "word": "archery field",
               "meaning": "khu bắn cung",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈɑːrtʃəri fiːld/",
+              "example": "The archery field is surrounded by trees.",
+              "exampleTranslation": "Khu bắn cung được cây cối bao quanh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 52",
+              "exampleId": "u6-ex-064"
             },
             {
               "id": "u6-listening-f42d413e912a",
               "word": "surrounded by trees",
               "meaning": "được cây cối bao quanh",
               "type": "phrase",
-              "pos": "participle_phrase"
+              "pos": "participle_phrase",
+              "ipa": "/sərˈaʊndɪd baɪ triːz/",
+              "example": "The archery field is surrounded by trees.",
+              "exampleTranslation": "Khu bắn cung được cây cối bao quanh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 52",
+              "exampleId": "u6-ex-064"
             },
             {
               "id": "u6-listening-b322e5a72026",
               "word": "hire equipment",
               "meaning": "thuê dụng cụ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈhaɪər ɪˈkwɪpmənt/",
+              "example": "You can hire equipment in the building and play table tennis there if the weather turns bad.",
+              "exampleTranslation": "Bạn có thể thuê dụng cụ trong tòa nhà và chơi bóng bàn ở đó nếu thời tiết trở nên xấu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 52",
+              "exampleId": "u6-ex-065"
             },
             {
               "id": "u6-listening-72b1301095a5",
               "word": "the weather turns bad",
               "meaning": "thời tiết trở nên xấu",
               "type": "phrase",
-              "pos": "expression"
+              "pos": "expression",
+              "ipa": "/ðə ˈweðər tɜːrnz bæd/",
+              "example": "You can hire equipment in the building and play table tennis there if the weather turns bad.",
+              "exampleTranslation": "Bạn có thể thuê dụng cụ trong tòa nhà và chơi bóng bàn ở đó nếu thời tiết trở nên xấu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 52",
+              "exampleId": "u6-ex-065"
             }
           ]
         },
@@ -993,182 +1782,338 @@ export default {
               "word": "council",
               "meaning": "hội đồng địa phương",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈkaʊnsəl/",
+              "example": "The council hears plans for a centre for people of all ages.",
+              "exampleTranslation": "Hội đồng địa phương nghe kế hoạch xây trung tâm cho mọi người ở mọi lứa tuổi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-066"
             },
             {
               "id": "u6-listening-5c6a5c2ef9ca",
               "word": "people of all ages",
               "meaning": "mọi người ở mọi lứa tuổi",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈpiːpəl əv ɔːl ˈeɪdʒəz/",
+              "example": "The council hears plans for a centre for people of all ages.",
+              "exampleTranslation": "Hội đồng địa phương nghe kế hoạch xây trung tâm cho mọi người ở mọi lứa tuổi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-066"
             },
             {
               "id": "u6-listening-717fd363105a",
               "word": "brave and fearless",
               "meaning": "dũng cảm và không sợ hãi",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/breɪv ənd ˈfɪrləs/",
+              "example": "The centre will feature our Tree Tops Challenge - only for the brave and fearless!",
+              "exampleTranslation": "Trung tâm sẽ có thử thách trên ngọn cây, chỉ dành cho người dũng cảm và không sợ hãi!",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-067"
             },
             {
               "id": "u6-listening-9a34cc654975",
               "word": "adventure playgrounds",
               "meaning": "các khu vui chơi mạo hiểm",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ædˈventʃər ˈpleɪˌɡraʊndz/",
+              "example": "There will be adventure playgrounds, a feeding area for farm animals and cycle trails.",
+              "exampleTranslation": "Sẽ có các khu vui chơi mạo hiểm, khu cho động vật trang trại ăn và những đường mòn xe đạp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-068"
             },
             {
               "id": "u6-listening-5c9c702b5181",
               "word": "a feeding area",
               "meaning": "khu cho động vật ăn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈfiːdɪŋ ˈeriːə/",
+              "example": "There will be adventure playgrounds, a feeding area for farm animals and cycle trails.",
+              "exampleTranslation": "Sẽ có các khu vui chơi mạo hiểm, khu cho động vật trang trại ăn và những đường mòn xe đạp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-068"
             },
             {
               "id": "u6-listening-53ab83d9d896",
               "word": "farm animals",
               "meaning": "động vật trang trại",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/fɑːrm ˈænəməlz/",
+              "example": "There will be adventure playgrounds, a feeding area for farm animals and cycle trails.",
+              "exampleTranslation": "Sẽ có các khu vui chơi mạo hiểm, khu cho động vật trang trại ăn và những đường mòn xe đạp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-068"
             },
             {
               "id": "u6-listening-176d492ab080",
               "word": "cycle trails",
               "meaning": "các đường mòn dành cho xe đạp",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈsaɪkəl treɪlz/",
+              "example": "There will be adventure playgrounds, a feeding area for farm animals and cycle trails.",
+              "exampleTranslation": "Sẽ có các khu vui chơi mạo hiểm, khu cho động vật trang trại ăn và những đường mòn xe đạp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-068"
             },
             {
               "id": "u6-listening-b8a5a247089f",
               "word": "overall layout",
               "meaning": "bố cục tổng thể",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈoʊvərˌɔːl ˈleɪˌaʊt/",
+              "example": "The slide shows the overall layout, including the cafe and gift shop.",
+              "exampleTranslation": "Trang trình chiếu thể hiện bố cục tổng thể, bao gồm quán cà phê và cửa hàng quà lưu niệm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-069"
             },
             {
               "id": "u6-listening-3ba70b35cc33",
               "word": "gift shop",
               "meaning": "cửa hàng quà lưu niệm",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ɡɪft ʃɑːp/",
+              "example": "The slide shows the overall layout, including the cafe and gift shop.",
+              "exampleTranslation": "Trang trình chiếu thể hiện bố cục tổng thể, bao gồm quán cà phê và cửa hàng quà lưu niệm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-069"
             },
             {
               "id": "u6-listening-42259f08c06b",
               "word": "picnic field",
               "meaning": "bãi đất dành cho dã ngoại",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈpɪkˌnɪk fiːld/",
+              "example": "The picnic field will have a barbecue area and bands performing in summer evenings.",
+              "exampleTranslation": "Bãi dã ngoại sẽ có khu nướng thịt và các ban nhạc biểu diễn vào buổi tối mùa hè.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-070"
             },
             {
               "id": "u6-listening-cda5be4a2fdc",
               "word": "barbecue area",
               "meaning": "khu nướng thịt ngoài trời",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈbɑːrbɪkˌjuː ˈeriːə/",
+              "example": "The picnic field will have a barbecue area and bands performing in summer evenings.",
+              "exampleTranslation": "Bãi dã ngoại sẽ có khu nướng thịt và các ban nhạc biểu diễn vào buổi tối mùa hè.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-070"
             },
             {
               "id": "u6-listening-95b3b7f22d4f",
               "word": "bands performing",
               "meaning": "các ban nhạc đang biểu diễn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/bændz pərˈfɔːrmɪŋ/",
+              "example": "The picnic field will have a barbecue area and bands performing in summer evenings.",
+              "exampleTranslation": "Bãi dã ngoại sẽ có khu nướng thịt và các ban nhạc biểu diễn vào buổi tối mùa hè.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-070"
             },
             {
               "id": "u6-listening-84be322f291c",
               "word": "a path winding through the forest",
               "meaning": "con đường uốn lượn xuyên rừng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə pæθ ˈwaɪndɪŋ θruː ðə ˈfɔːrəst/",
+              "example": "A path winding through the forest leads to adventure apparatus high in the trees.",
+              "exampleTranslation": "Con đường uốn lượn xuyên rừng dẫn đến thiết bị vui chơi mạo hiểm trên cao giữa các cây.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-071"
             },
             {
               "id": "u6-listening-b12d3f7d9d96",
               "word": "adventure apparatus",
               "meaning": "thiết bị vui chơi mạo hiểm",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ædˈventʃər ˌæpərˈætəs/",
+              "example": "A path winding through the forest leads to adventure apparatus high in the trees.",
+              "exampleTranslation": "Con đường uốn lượn xuyên rừng dẫn đến thiết bị vui chơi mạo hiểm trên cao giữa các cây.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-071"
             },
             {
               "id": "u6-listening-88cd00ca0206",
               "word": "rope swings",
               "meaning": "xích đu dây",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/roʊp swɪŋz/",
+              "example": "Rope swings, rope bridges, tunnels and zip wires will take visitors above the forest floor.",
+              "exampleTranslation": "Xích đu dây, cầu dây, đường hầm và dây trượt sẽ đưa khách lên cao phía trên nền rừng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-072"
             },
             {
               "id": "u6-listening-f722fdbb2bd4",
               "word": "rope bridges",
               "meaning": "cầu dây",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/roʊp ˈbrɪdʒəz/",
+              "example": "Rope swings, rope bridges, tunnels and zip wires will take visitors above the forest floor.",
+              "exampleTranslation": "Xích đu dây, cầu dây, đường hầm và dây trượt sẽ đưa khách lên cao phía trên nền rừng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-072"
             },
             {
               "id": "u6-listening-31da0a0e66eb",
               "word": "tunnels",
               "meaning": "đường hầm",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈtʌnəlz/",
+              "example": "Rope swings, rope bridges, tunnels and zip wires will take visitors above the forest floor.",
+              "exampleTranslation": "Xích đu dây, cầu dây, đường hầm và dây trượt sẽ đưa khách lên cao phía trên nền rừng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-072"
             },
             {
               "id": "u6-listening-5eaf064bcc60",
               "word": "zip wires",
               "meaning": "dây trượt zipline",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/zɪp ˈwaɪərz/",
+              "example": "Rope swings, rope bridges, tunnels and zip wires will take visitors above the forest floor.",
+              "exampleTranslation": "Xích đu dây, cầu dây, đường hầm và dây trượt sẽ đưa khách lên cao phía trên nền rừng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-072"
             },
             {
               "id": "u6-listening-696503fdc162",
               "word": "forest floor",
               "meaning": "nền rừng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈfɔːrəst flɔːr/",
+              "example": "Rope swings, rope bridges, tunnels and zip wires will take visitors above the forest floor.",
+              "exampleTranslation": "Xích đu dây, cầu dây, đường hầm và dây trượt sẽ đưa khách lên cao phía trên nền rừng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-072"
             },
             {
               "id": "u6-listening-1c7943730482",
               "word": "aged fifteen and over",
               "meaning": "từ mười lăm tuổi trở lên",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/eɪdʒd ˈfɪfˈtiːn ənd ˈoʊvər/",
+              "example": "The adventure experience is for people aged fifteen and over.",
+              "exampleTranslation": "Trải nghiệm mạo hiểm dành cho người từ mười lăm tuổi trở lên.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-073"
             },
             {
               "id": "u6-listening-79190203a0ad",
               "word": "a fence around it",
               "meaning": "hàng rào bao quanh",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə fens ərˈaʊn ɪt/",
+              "example": "The children's playground will have a fence around it, and there will also be an indoor play area.",
+              "exampleTranslation": "Sân chơi trẻ em sẽ có hàng rào bao quanh, và cũng sẽ có khu vui chơi trong nhà.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-074"
             },
             {
               "id": "u6-listening-9012e79820c0",
               "word": "indoor play area",
               "meaning": "khu vui chơi trong nhà",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈɪnˌdɔːr pleɪ ˈeriːə/",
+              "example": "The children's playground will have a fence around it, and there will also be an indoor play area.",
+              "exampleTranslation": "Sân chơi trẻ em sẽ có hàng rào bao quanh, và cũng sẽ có khu vui chơi trong nhà.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-074"
             },
             {
               "id": "u6-listening-b3e117f81b8d",
               "word": "feed the animals",
               "meaning": "cho động vật ăn",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/fiːd ðə ˈænəməlz/",
+              "example": "Children may feed the animals; the sheep will be directly opposite the pigs.",
+              "exampleTranslation": "Trẻ em có thể cho động vật ăn; khu cừu sẽ nằm ngay đối diện khu lợn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-075"
             },
             {
               "id": "u6-listening-fcd7d1361b26",
               "word": "directly opposite",
               "meaning": "ngay đối diện",
               "type": "phrase",
-              "pos": "adverb_phrase"
+              "pos": "adverb_phrase",
+              "ipa": "/daɪˈrekli ˈɑːpəzət/",
+              "example": "Children may feed the animals; the sheep will be directly opposite the pigs.",
+              "exampleTranslation": "Trẻ em có thể cho động vật ăn; khu cừu sẽ nằm ngay đối diện khu lợn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-075"
             },
             {
               "id": "u6-listening-3217568ff6d2",
               "word": "be approved",
               "meaning": "được chấp thuận",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː əˈpruːvd/",
+              "example": "We hope the plans will be approved and the centre will open in the not too distant future.",
+              "exampleTranslation": "Chúng tôi hy vọng kế hoạch được chấp thuận và trung tâm mở cửa trong tương lai không xa.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-076"
             },
             {
               "id": "u6-listening-82c8b3f7c46f",
               "word": "in the not too distant future",
               "meaning": "trong tương lai không xa",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn ðə nɑːt tuː ˈdɪstənt ˈfjuːtʃər/",
+              "example": "We hope the plans will be approved and the centre will open in the not too distant future.",
+              "exampleTranslation": "Chúng tôi hy vọng kế hoạch được chấp thuận và trung tâm mở cửa trong tương lai không xa.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 185, track 53",
+              "exampleId": "u6-ex-076"
             }
           ]
         }
@@ -1190,42 +2135,78 @@ export default {
               "word": "play soccer",
               "meaning": "chơi bóng đá",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/pleɪ ˈsɑːkər/",
+              "example": "I play soccer with friends, but my brother prefers to do martial arts.",
+              "exampleTranslation": "Tôi chơi bóng đá với bạn bè, nhưng anh trai thích tập võ hơn.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 121, hobby practice",
+              "exampleId": "u6-ex-077"
             },
             {
               "id": "u6-speaking-8781ce30b3a7",
               "word": "do martial arts",
               "meaning": "tập võ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/duː ˈmɑːrʃəl ɑːrts/",
+              "example": "I play soccer with friends, but my brother prefers to do martial arts.",
+              "exampleTranslation": "Tôi chơi bóng đá với bạn bè, nhưng anh trai thích tập võ hơn.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 121, hobby practice",
+              "exampleId": "u6-ex-077"
             },
             {
               "id": "u6-speaking-6217bb3326d4",
               "word": "go hiking",
               "meaning": "đi bộ đường dài",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡoʊ ˈhaɪkɪŋ/",
+              "example": "When I go travelling, I often go hiking in the mountains.",
+              "exampleTranslation": "Khi đi du lịch, tôi thường đi bộ đường dài trên núi.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 121, hobby practice",
+              "exampleId": "u6-ex-078"
             },
             {
               "id": "u6-speaking-25b4d6b4be2c",
               "word": "go travelling",
               "meaning": "đi du lịch",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡoʊ ˈtrævəlɪŋ/",
+              "example": "When I go travelling, I often go hiking in the mountains.",
+              "exampleTranslation": "Khi đi du lịch, tôi thường đi bộ đường dài trên núi.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 121, hobby practice",
+              "exampleId": "u6-ex-078"
             },
             {
               "id": "u6-speaking-680512dd8352",
               "word": "make jewellery",
               "meaning": "làm đồ trang sức",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/meɪk ˈdʒuːəlri/",
+              "example": "I enjoy sewing and making jewellery in my free time.",
+              "exampleTranslation": "Tôi thích may vá và làm đồ trang sức trong thời gian rảnh.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 121, hobby practice",
+              "exampleId": "u6-ex-079"
             },
             {
               "id": "u6-speaking-cc31708ddd2e",
               "word": "sewing",
               "meaning": "việc may vá",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈsoʊɪŋ/",
+              "example": "I enjoy sewing and making jewellery in my free time.",
+              "exampleTranslation": "Tôi thích may vá và làm đồ trang sức trong thời gian rảnh.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 121, hobby practice",
+              "exampleId": "u6-ex-079"
             },
             {
               "id": "u6-speaking-b7cd3e9ec4bc",
@@ -1233,9 +2214,12 @@ export default {
               "meaning": "vui nhộn",
               "type": "word",
               "pos": "adjective",
-              "ipa": "/əˈmjuːzɪŋ/",
-              "example": "He told us an amusing story about his childhood.",
-              "exampleTranslation": "Anh ấy kể cho chúng tôi một câu chuyện hài hước về thời thơ ấu."
+              "ipa": "/əmˈjuːzɪŋ/",
+              "example": "The dance class is amusing and enjoyable, even when I make mistakes.",
+              "exampleTranslation": "Lớp nhảy vui nhộn và thú vị, ngay cả khi tôi mắc lỗi.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 122, opinion practice",
+              "exampleId": "u6-ex-080"
             },
             {
               "id": "u6-speaking-f77470ce4f19",
@@ -1243,37 +2227,64 @@ export default {
               "meaning": "thú vị; mang lại niềm vui",
               "type": "word",
               "pos": "adjective",
-              "ipa": "/ɪnˈdʒɔɪəbl/",
-              "example": "We had a very enjoyable evening at the theatre.",
-              "exampleTranslation": "Chúng tôi có một buổi tối rất vui ở nhà hát."
+              "ipa": "/ˌenˈdʒɔɪəbəl/",
+              "example": "The dance class is amusing and enjoyable, even when I make mistakes.",
+              "exampleTranslation": "Lớp nhảy vui nhộn và thú vị, ngay cả khi tôi mắc lỗi.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 122, opinion practice",
+              "exampleId": "u6-ex-080"
             },
             {
               "id": "u6-speaking-80a9376f103d",
               "word": "peaceful and relaxing",
               "meaning": "yên bình và thư giãn",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/ˈpiːsfəl ənd riːˈlæksɪŋ/",
+              "example": "Fishing beside the lake is peaceful and relaxing.",
+              "exampleTranslation": "Câu cá bên hồ thật yên bình và thư giãn.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 122, opinion practice",
+              "exampleId": "u6-ex-081"
             },
             {
               "id": "u6-speaking-5415f97806e7",
               "word": "be excellent at",
               "meaning": "rất giỏi về",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː ˈeksələnt ət/",
+              "example": "She is excellent at tennis, but losing a match can make her feel miserable.",
+              "exampleTranslation": "Cô ấy rất giỏi quần vợt, nhưng thua một trận có thể khiến cô khổ sở.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 122, opinion practice",
+              "exampleId": "u6-ex-082"
             },
             {
               "id": "u6-speaking-4a9c1893f496",
               "word": "feel miserable",
               "meaning": "cảm thấy khổ sở",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/fiːl ˈmɪzərəbəl/",
+              "example": "She is excellent at tennis, but losing a match can make her feel miserable.",
+              "exampleTranslation": "Cô ấy rất giỏi quần vợt, nhưng thua một trận có thể khiến cô khổ sở.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 122, opinion practice",
+              "exampleId": "u6-ex-082"
             },
             {
               "id": "u6-speaking-efaf965952ca",
               "word": "an exhausting sport",
               "meaning": "một môn thể thao rất tốn sức",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ən ɪɡˈzɔːstɪŋ spɔːrt/",
+              "example": "Climbing is an exhausting sport, and being so high can be frightening.",
+              "exampleTranslation": "Leo núi là môn rất tốn sức, và ở độ cao như vậy có thể đáng sợ.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 122, opinion practice",
+              "exampleId": "u6-ex-083"
             },
             {
               "id": "u6-speaking-467d18ee9c0e",
@@ -1282,8 +2293,11 @@ export default {
               "type": "word",
               "pos": "adjective",
               "ipa": "/ˈfraɪtənɪŋ/",
-              "example": "The news of the war was frightening.",
-              "exampleTranslation": "Tin tức về cuộc chiến thật đáng sợ."
+              "example": "Climbing is an exhausting sport, and being so high can be frightening.",
+              "exampleTranslation": "Leo núi là môn rất tốn sức, và ở độ cao như vậy có thể đáng sợ.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 122, opinion practice",
+              "exampleId": "u6-ex-083"
             },
             {
               "id": "u6-speaking-58904effcb30",
@@ -1291,9 +2305,12 @@ export default {
               "meaning": "có hại",
               "type": "word",
               "pos": "adjective",
-              "ipa": "/ˈhɑːrmfl/",
-              "example": "Smoking is harmful to your health.",
-              "exampleTranslation": "Hút thuốc có hại cho sức khỏe."
+              "ipa": "/ˈhɑːrmfəl/",
+              "example": "A hobby should not become so stressful that it is harmful to your well-being.",
+              "exampleTranslation": "Sở thích không nên gây căng thẳng đến mức có hại cho sức khỏe tinh thần của bạn.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 122, opinion practice",
+              "exampleId": "u6-ex-084"
             },
             {
               "id": "u6-speaking-81afd0d1b2ee",
@@ -1301,156 +2318,285 @@ export default {
               "meaning": "gây căng thẳng",
               "type": "word",
               "pos": "adjective",
-              "ipa": "/ˈstresfl/",
-              "example": "Working under a tight deadline is stressful.",
-              "exampleTranslation": "Làm việc dưới áp lực thời hạn là rất căng thẳng."
+              "ipa": "/ˈstresfəl/",
+              "example": "A hobby should not become so stressful that it is harmful to your well-being.",
+              "exampleTranslation": "Sở thích không nên gây căng thẳng đến mức có hại cho sức khỏe tinh thần của bạn.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 122, opinion practice",
+              "exampleId": "u6-ex-084"
             },
             {
               "id": "u6-speaking-28667f4582bf",
               "word": "be hopeless at",
               "meaning": "rất kém về",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː ˈhoʊpləs ət/",
+              "example": "I'm hopeless at dancing, but I still enjoy it.",
+              "exampleTranslation": "Tôi nhảy rất kém, nhưng vẫn thích hoạt động này.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 122, opinion practice",
+              "exampleId": "u6-ex-085"
             },
             {
               "id": "u6-speaking-fc2df81cdae8",
               "word": "take up a hobby",
               "meaning": "bắt đầu một sở thích",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/teɪk ʌp ə hɑːbi/",
+              "example": "I want to take up a hobby such as ballroom dancing to give myself a challenge.",
+              "exampleTranslation": "Tôi muốn bắt đầu sở thích như khiêu vũ để đặt ra thử thách cho bản thân.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 186, track 54",
+              "exampleId": "u6-ex-086"
             },
             {
               "id": "u6-speaking-3050cf682b58",
               "word": "ballroom dancing",
               "meaning": "khiêu vũ có đôi theo các điệu chuẩn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈbɔːlˌruːm ˈdænsɪŋ/",
+              "example": "I want to take up a hobby such as ballroom dancing to give myself a challenge.",
+              "exampleTranslation": "Tôi muốn bắt đầu sở thích như khiêu vũ để đặt ra thử thách cho bản thân.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 186, track 54",
+              "exampleId": "u6-ex-086"
             },
             {
               "id": "u6-speaking-ef78353deb42",
               "word": "give myself a challenge",
               "meaning": "đặt ra thử thách cho bản thân",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡɪv ˌmaɪˈself ə ˈtʃæləndʒ/",
+              "example": "I want to take up a hobby such as ballroom dancing to give myself a challenge.",
+              "exampleTranslation": "Tôi muốn bắt đầu sở thích như khiêu vũ để đặt ra thử thách cho bản thân.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 186, track 54",
+              "exampleId": "u6-ex-086"
             },
             {
               "id": "u6-speaking-10c465c99f4c",
               "word": "do ballet",
               "meaning": "tập múa ba-lê",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/duː bæˈleɪ/",
+              "example": "I already do ballet and tap dancing, and I like learning new steps.",
+              "exampleTranslation": "Tôi đã tập ba-lê và nhảy thiết hài, đồng thời thích học các bước nhảy mới.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 186, track 54",
+              "exampleId": "u6-ex-087"
             },
             {
               "id": "u6-speaking-452836ba063d",
               "word": "tap dancing",
               "meaning": "nhảy thiết hài",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/tæp ˈdænsɪŋ/",
+              "example": "I already do ballet and tap dancing, and I like learning new steps.",
+              "exampleTranslation": "Tôi đã tập ba-lê và nhảy thiết hài, đồng thời thích học các bước nhảy mới.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 186, track 54",
+              "exampleId": "u6-ex-087"
             },
             {
               "id": "u6-speaking-99359e5309fb",
               "word": "learn new steps",
               "meaning": "học các bước nhảy mới",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/lɜːrn njuː steps/",
+              "example": "I already do ballet and tap dancing, and I like learning new steps.",
+              "exampleTranslation": "Tôi đã tập ba-lê và nhảy thiết hài, đồng thời thích học các bước nhảy mới.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 186, track 54",
+              "exampleId": "u6-ex-087"
             },
             {
               "id": "u6-speaking-fe1ac5e848fb",
               "word": "dance partner",
               "meaning": "bạn nhảy",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/dæns ˈpɑːrtnər/",
+              "example": "I'm worried about finding the right dance partner.",
+              "exampleTranslation": "Tôi lo về việc tìm bạn nhảy phù hợp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 186, track 54",
+              "exampleId": "u6-ex-088"
             },
             {
               "id": "u6-speaking-9250341d9cae",
               "word": "play the acoustic guitar",
               "meaning": "chơi đàn ghi-ta mộc",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/pleɪ ðə əˈkuːstɪk ɡɪˈtɑːr/",
+              "example": "I'd like to play the acoustic guitar; I can already read music and play the piano.",
+              "exampleTranslation": "Tôi muốn chơi ghi-ta mộc; tôi đã biết đọc bản nhạc và chơi piano.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 186, track 55",
+              "exampleId": "u6-ex-089"
             },
             {
               "id": "u6-speaking-63032918667f",
               "word": "read music",
               "meaning": "đọc bản nhạc",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/riːd ˈmjuːzɪk/",
+              "example": "I'd like to play the acoustic guitar; I can already read music and play the piano.",
+              "exampleTranslation": "Tôi muốn chơi ghi-ta mộc; tôi đã biết đọc bản nhạc và chơi piano.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 186, track 55",
+              "exampleId": "u6-ex-089"
             },
             {
               "id": "u6-speaking-aa8ed0a3a89e",
               "word": "play the piano",
               "meaning": "chơi đàn piano",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/pleɪ ðə piːˈænə/",
+              "example": "I'd like to play the acoustic guitar; I can already read music and play the piano.",
+              "exampleTranslation": "Tôi muốn chơi ghi-ta mộc; tôi đã biết đọc bản nhạc và chơi piano.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 186, track 55",
+              "exampleId": "u6-ex-089"
             },
             {
               "id": "u6-speaking-be1df1840b54",
               "word": "focus on my studies",
               "meaning": "tập trung vào việc học",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈfoʊkəs ɑːn maɪ ˈstʌdiːz/",
+              "example": "I need to focus on my studies and prepare for my exams.",
+              "exampleTranslation": "Tôi cần tập trung vào việc học và chuẩn bị cho các kỳ thi.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 186, track 55",
+              "exampleId": "u6-ex-090"
             },
             {
               "id": "u6-speaking-00f3409543cd",
               "word": "prepare for my exams",
               "meaning": "chuẩn bị cho các kỳ thi",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/priːˈper fər maɪ ɪɡˈzæmz/",
+              "example": "I need to focus on my studies and prepare for my exams.",
+              "exampleTranslation": "Tôi cần tập trung vào việc học và chuẩn bị cho các kỳ thi.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 186, track 55",
+              "exampleId": "u6-ex-090"
             },
             {
               "id": "u6-speaking-2e18c94f413d",
               "word": "pay for lessons",
               "meaning": "trả tiền học",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/peɪ fər ˈlesənz/",
+              "example": "I'll need money to pay for lessons, but learning guitar could change my life in a positive way.",
+              "exampleTranslation": "Tôi sẽ cần tiền trả học phí, nhưng học ghi-ta có thể thay đổi cuộc sống theo hướng tích cực.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 186, track 55",
+              "exampleId": "u6-ex-091"
             },
             {
               "id": "u6-speaking-28eb46a2c04c",
               "word": "change my life in a positive way",
               "meaning": "thay đổi cuộc sống của tôi theo hướng tích cực",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/tʃeɪndʒ maɪ laɪf ɪn ə ˈpɑːzətɪv weɪ/",
+              "example": "I'll need money to pay for lessons, but learning guitar could change my life in a positive way.",
+              "exampleTranslation": "Tôi sẽ cần tiền trả học phí, nhưng học ghi-ta có thể thay đổi cuộc sống theo hướng tích cực.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 186, track 55",
+              "exampleId": "u6-ex-091"
             },
             {
               "id": "u6-speaking-7c24f25a1565",
               "word": "start my own band",
               "meaning": "thành lập ban nhạc riêng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/stɑːrt maɪ oʊn bænd/",
+              "example": "I'd like to start my own band and perform live on stage.",
+              "exampleTranslation": "Tôi muốn thành lập ban nhạc riêng và biểu diễn trực tiếp trên sân khấu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 186, track 55",
+              "exampleId": "u6-ex-092"
             },
             {
               "id": "u6-speaking-1ec71802830b",
               "word": "perform live on stage",
               "meaning": "biểu diễn trực tiếp trên sân khấu",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/pərˈfɔːrm laɪv ɑːn steɪdʒ/",
+              "example": "I'd like to start my own band and perform live on stage.",
+              "exampleTranslation": "Tôi muốn thành lập ban nhạc riêng và biểu diễn trực tiếp trên sân khấu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 186, track 55",
+              "exampleId": "u6-ex-092"
             },
             {
               "id": "u6-speaking-c07e78c4efed",
               "word": "try new things",
               "meaning": "thử những điều mới",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/traɪ njuː θɪŋz/",
+              "example": "Do you generally enjoy trying new things?",
+              "exampleTranslation": "Nhìn chung, bạn có thích thử những điều mới không?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 186, track 56",
+              "exampleId": "u6-ex-093"
             },
             {
               "id": "u6-speaking-8863b3b5937f",
               "word": "windsurfing",
               "meaning": "môn lướt ván buồm",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈwɪndsɜːrfɪŋ/",
+              "example": "I'm a big fan of water sports, so I'd like to try windsurfing.",
+              "exampleTranslation": "Tôi rất yêu thích thể thao dưới nước, nên muốn thử lướt ván buồm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 186, track 56",
+              "exampleId": "u6-ex-094"
             },
             {
               "id": "u6-speaking-06525461f629",
               "word": "be a big fan of",
               "meaning": "rất yêu thích",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː ə bɪɡ fæn əv/",
+              "example": "I'm a big fan of water sports, so I'd like to try windsurfing.",
+              "exampleTranslation": "Tôi rất yêu thích thể thao dưới nước, nên muốn thử lướt ván buồm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 186, track 56",
+              "exampleId": "u6-ex-094"
             },
             {
               "id": "u6-speaking-c82251874258",
               "word": "water sports",
               "meaning": "các môn thể thao dưới nước",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈwɔːtər spɔːrts/",
+              "example": "I'm a big fan of water sports, so I'd like to try windsurfing.",
+              "exampleTranslation": "Tôi rất yêu thích thể thao dưới nước, nên muốn thử lướt ván buồm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 186, track 56",
+              "exampleId": "u6-ex-094"
             }
           ]
         },
@@ -1466,7 +2612,12 @@ export default {
               "meaning": "Tôi luôn muốn thử ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "I've always wanted to try kayaking."
+              "ipa": "/aɪv ˈɔːlˌweɪz ˈwɔːntɪd tə traɪ …/",
+              "example": "I've always wanted to try kayaking.",
+              "exampleTranslation": "Tôi luôn muốn thử chèo thuyền kayak.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 121–125; TB pp. 62–63",
+              "exampleId": "u6-ex-095"
             },
             {
               "id": "u6-speaking-02b8cfd3bbcf",
@@ -1474,7 +2625,12 @@ export default {
               "meaning": "Lý do chính tôi chưa bắt đầu là ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "The main reason I haven't started is the cost of lessons."
+              "ipa": "/ðə meɪn ˈriːzən aɪ ˈhævən ˈstɑːrtɪd ɪz …/",
+              "example": "The main reason I haven't started is the cost of lessons.",
+              "exampleTranslation": "Lý do chính tôi chưa bắt đầu là chi phí học.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 121–125; TB pp. 62–63",
+              "exampleId": "u6-ex-096"
             },
             {
               "id": "u6-speaking-10a8c9cd6cc7",
@@ -1482,7 +2638,12 @@ export default {
               "meaning": "Tôi sẽ cần ai đó chỉ cách ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "I would need someone to show me how to use the equipment."
+              "ipa": "/aɪ wʊd niːd ˈsʌmˌwʌn tə ʃoʊ mi haʊ tə …/",
+              "example": "I would need someone to show me how to use the equipment.",
+              "exampleTranslation": "Tôi sẽ cần ai đó chỉ cách sử dụng dụng cụ.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 121–125; TB pp. 62–63",
+              "exampleId": "u6-ex-097"
             },
             {
               "id": "u6-speaking-47ab980c4423",
@@ -1490,35 +2651,64 @@ export default {
               "meaning": "Nếu có nhiều thời gian rảnh hơn, tôi sẽ ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "If I had more free time, I would join a local club."
+              "ipa": "/ɪf aɪ hæd mɔːr fri taɪm aɪ wʊd …/",
+              "example": "If I had more free time, I would join a local club.",
+              "exampleTranslation": "Nếu có nhiều thời gian rảnh hơn, tôi sẽ tham gia câu lạc bộ địa phương.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 121–125; TB pp. 62–63",
+              "exampleId": "u6-ex-098"
             },
             {
               "id": "u6-speaking-6fe137c68613",
               "word": "keep fit",
               "meaning": "giữ cơ thể khỏe mạnh",
               "type": "collocation",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kiːp fɪt/",
+              "example": "Running helps me keep fit, relieve stress and build stamina.",
+              "exampleTranslation": "Chạy bộ giúp tôi giữ cơ thể khỏe mạnh, giảm căng thẳng và tăng sức bền.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 121–125; TB pp. 62–63",
+              "exampleId": "u6-ex-099"
             },
             {
               "id": "u6-speaking-89196f16113e",
               "word": "relieve stress",
               "meaning": "giảm căng thẳng",
               "type": "collocation",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/riːˈliːv stres/",
+              "example": "Running helps me keep fit, relieve stress and build stamina.",
+              "exampleTranslation": "Chạy bộ giúp tôi giữ cơ thể khỏe mạnh, giảm căng thẳng và tăng sức bền.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 121–125; TB pp. 62–63",
+              "exampleId": "u6-ex-099"
             },
             {
               "id": "u6-speaking-929110e9fe64",
               "word": "build stamina",
               "meaning": "tăng sức bền",
               "type": "collocation",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/bɪld ˈstæmənə/",
+              "example": "Running helps me keep fit, relieve stress and build stamina.",
+              "exampleTranslation": "Chạy bộ giúp tôi giữ cơ thể khỏe mạnh, giảm căng thẳng và tăng sức bền.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 121–125; TB pp. 62–63",
+              "exampleId": "u6-ex-099"
             },
             {
               "id": "u6-speaking-1af8834d3c8f",
               "word": "develop a new skill",
               "meaning": "phát triển một kỹ năng mới",
               "type": "collocation",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/dɪˈveləp ə njuː skɪl/",
+              "example": "Taking up a hobby is a chance to develop a new skill.",
+              "exampleTranslation": "Bắt đầu một sở thích là cơ hội phát triển kỹ năng mới.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 121–125; TB pp. 62–63",
+              "exampleId": "u6-ex-100"
             }
           ]
         },
@@ -1535,8 +2725,11 @@ export default {
               "type": "word",
               "pos": "adjective",
               "ipa": "/ɡreɪt/",
-              "example": "The concert was great.",
-              "exampleTranslation": "Buổi hòa nhạc rất tuyệt vời."
+              "example": "The match was great: the final minutes were exciting and the winning goal was brilliant.",
+              "exampleTranslation": "Trận đấu thật tuyệt: những phút cuối rất hào hứng và bàn thắng quyết định rất xuất sắc.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 121–122, adjective practice",
+              "exampleId": "u6-ex-126"
             },
             {
               "id": "u6-speaking-5ae666e5b1a6",
@@ -1545,8 +2738,11 @@ export default {
               "type": "word",
               "pos": "adjective",
               "ipa": "/ɪkˈsaɪtɪŋ/",
-              "example": "It was an exciting game of football.",
-              "exampleTranslation": "Đó là một trận bóng đá hấp dẫn."
+              "example": "The match was great: the final minutes were exciting and the winning goal was brilliant.",
+              "exampleTranslation": "Trận đấu thật tuyệt: những phút cuối rất hào hứng và bàn thắng quyết định rất xuất sắc.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 121–122, adjective practice",
+              "exampleId": "u6-ex-126"
             },
             {
               "id": "u6-speaking-6255e14abc09",
@@ -1555,8 +2751,11 @@ export default {
               "type": "word",
               "pos": "adjective",
               "ipa": "/ˈbrɪljənt/",
-              "example": "She is a brilliant mathematician.",
-              "exampleTranslation": "Cô ấy là một nhà toán học tài giỏi."
+              "example": "The match was great: the final minutes were exciting and the winning goal was brilliant.",
+              "exampleTranslation": "Trận đấu thật tuyệt: những phút cuối rất hào hứng và bàn thắng quyết định rất xuất sắc.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 121–122, adjective practice",
+              "exampleId": "u6-ex-126"
             },
             {
               "id": "u6-speaking-87695fdac817",
@@ -1564,9 +2763,12 @@ export default {
               "meaning": "lành mạnh; có lợi cho sức khỏe",
               "type": "word",
               "pos": "adjective",
-              "ipa": "/ˈhelθi/",
-              "example": "Eating fruit and vegetables is healthy.",
-              "exampleTranslation": "Ăn trái cây và rau củ có lợi cho sức khỏe."
+              "ipa": "/helθi/",
+              "example": "Hiking is healthy but tiring, and difficult routes can be dangerous.",
+              "exampleTranslation": "Đi bộ đường dài có lợi cho sức khỏe nhưng gây mệt, và đường khó có thể nguy hiểm.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 121–122, adjective practice",
+              "exampleId": "u6-ex-127"
             },
             {
               "id": "u6-speaking-7eaa968417c5",
@@ -1575,8 +2777,11 @@ export default {
               "type": "word",
               "pos": "adjective",
               "ipa": "/ˈdeɪndʒərəs/",
-              "example": "Driving too fast is dangerous.",
-              "exampleTranslation": "Lái xe quá nhanh rất nguy hiểm."
+              "example": "Hiking is healthy but tiring, and difficult routes can be dangerous.",
+              "exampleTranslation": "Đi bộ đường dài có lợi cho sức khỏe nhưng gây mệt, và đường khó có thể nguy hiểm.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 121–122, adjective practice",
+              "exampleId": "u6-ex-127"
             },
             {
               "id": "u6-speaking-d7da7f50f4c0",
@@ -1584,9 +2789,12 @@ export default {
               "meaning": "gây mệt mỏi",
               "type": "word",
               "pos": "adjective",
-              "ipa": "/ˈtaɪərɪŋ/",
-              "example": "Studying for hours is tiring.",
-              "exampleTranslation": "Học liên tục nhiều giờ gây mệt mỏi."
+              "ipa": "/ˈtaɪrɪŋ/",
+              "example": "Hiking is healthy but tiring, and difficult routes can be dangerous.",
+              "exampleTranslation": "Đi bộ đường dài có lợi cho sức khỏe nhưng gây mệt, và đường khó có thể nguy hiểm.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 121–122, adjective practice",
+              "exampleId": "u6-ex-127"
             },
             {
               "id": "u6-speaking-16a41d9ce114",
@@ -1595,8 +2803,11 @@ export default {
               "type": "word",
               "pos": "adjective",
               "ipa": "/ˈjuːsləs/",
-              "example": "This old computer is useless.",
-              "exampleTranslation": "Chiếc máy tính cũ này không còn dùng được."
+              "example": "Practising without feedback can feel useless when you keep making the same mistake.",
+              "exampleTranslation": "Luyện tập mà không có phản hồi có thể khiến bạn thấy vô ích khi cứ lặp lại cùng một lỗi.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 121–122, adjective practice",
+              "exampleId": "u6-ex-128"
             }
           ]
         }
@@ -1618,238 +2829,442 @@ export default {
               "word": "go for a run",
               "meaning": "đi chạy bộ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡoʊ fər ə rʌn/",
+              "example": "I can go for a run, go for a walk or go to the gym after work.",
+              "exampleTranslation": "Tôi có thể chạy bộ, đi dạo hoặc đến phòng gym sau giờ làm.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 112, collocation practice",
+              "exampleId": "u6-ex-101"
             },
             {
               "id": "u6-writing-cf1cf57dcef5",
               "word": "go to the cinema",
               "meaning": "đi xem phim ở rạp",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡoʊ tə ðə ˈsɪnəmə/",
+              "example": "We sometimes go to the cinema to watch a film.",
+              "exampleTranslation": "Đôi khi chúng tôi đến rạp để xem phim.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 112, collocation practice",
+              "exampleId": "u6-ex-102"
             },
             {
               "id": "u6-writing-7a5a017c7576",
               "word": "watch a film",
               "meaning": "xem một bộ phim",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/wɑːtʃ ə fɪlm/",
+              "example": "We sometimes go to the cinema to watch a film.",
+              "exampleTranslation": "Đôi khi chúng tôi đến rạp để xem phim.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 112, collocation practice",
+              "exampleId": "u6-ex-102"
             },
             {
               "id": "u6-writing-0b164197601f",
               "word": "visit friends",
               "meaning": "thăm bạn bè",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈvɪzɪt frendz/",
+              "example": "You can visit friends, play sports or join a club in your free time.",
+              "exampleTranslation": "Bạn có thể thăm bạn bè, chơi thể thao hoặc tham gia câu lạc bộ khi rảnh.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 112, collocation practice",
+              "exampleId": "u6-ex-103"
             },
             {
               "id": "u6-writing-694c808e3b24",
               "word": "play sports",
               "meaning": "chơi thể thao",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/pleɪ spɔːrts/",
+              "example": "You can visit friends, play sports or join a club in your free time.",
+              "exampleTranslation": "Bạn có thể thăm bạn bè, chơi thể thao hoặc tham gia câu lạc bộ khi rảnh.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 112, collocation practice",
+              "exampleId": "u6-ex-103"
             },
             {
               "id": "u6-writing-c4c7cafa81eb",
               "word": "join a club",
               "meaning": "tham gia câu lạc bộ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/dʒɔɪn ə klʌb/",
+              "example": "You can visit friends, play sports or join a club in your free time.",
+              "exampleTranslation": "Bạn có thể thăm bạn bè, chơi thể thao hoặc tham gia câu lạc bộ khi rảnh.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 112, collocation practice",
+              "exampleId": "u6-ex-103"
             },
             {
               "id": "u6-writing-813c81b081d1",
               "word": "go for a walk",
               "meaning": "đi dạo",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡoʊ fər ə wɑːk/",
+              "example": "I can go for a run, go for a walk or go to the gym after work.",
+              "exampleTranslation": "Tôi có thể chạy bộ, đi dạo hoặc đến phòng gym sau giờ làm.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 112, collocation practice",
+              "exampleId": "u6-ex-101"
             },
             {
               "id": "u6-writing-ff8a5dde9d58",
               "word": "go to the gym",
               "meaning": "đi tập ở phòng gym",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡoʊ tə ðə dʒɪm/",
+              "example": "I can go for a run, go for a walk or go to the gym after work.",
+              "exampleTranslation": "Tôi có thể chạy bộ, đi dạo hoặc đến phòng gym sau giờ làm.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 112, collocation practice",
+              "exampleId": "u6-ex-101"
             },
             {
               "id": "u6-writing-e4f43f7be953",
               "word": "spend free time actively",
               "meaning": "sử dụng thời gian rảnh một cách năng động",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/spend fri taɪm ˈæktɪvli/",
+              "example": "Physical activities help people spend free time actively.",
+              "exampleTranslation": "Hoạt động thể chất giúp mọi người sử dụng thời gian rảnh một cách năng động.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 113",
+              "exampleId": "u6-ex-104"
             },
             {
               "id": "u6-writing-c79e840b27ef",
               "word": "physical activities",
               "meaning": "các hoạt động thể chất",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈfɪzɪkəl ækˈtɪvətiːz/",
+              "example": "Physical activities help people spend free time actively.",
+              "exampleTranslation": "Hoạt động thể chất giúp mọi người sử dụng thời gian rảnh một cách năng động.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 113",
+              "exampleId": "u6-ex-104"
             },
             {
               "id": "u6-writing-d3545bb4edcc",
               "word": "children's safety",
               "meaning": "sự an toàn của trẻ em",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈtʃɪldrənz seɪfti/",
+              "example": "In today's world, some parents worry about their children's safety and prefer to keep them at home.",
+              "exampleTranslation": "Trong thế giới ngày nay, một số cha mẹ lo cho sự an toàn của con và muốn giữ con ở nhà.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 113, corrected model",
+              "exampleId": "u6-ex-105"
             },
             {
               "id": "u6-writing-942475fa797d",
               "word": "take a driving test",
               "meaning": "thi bằng lái xe",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/teɪk ə ˈdraɪvɪŋ test/",
+              "example": "Nowadays, many young people take a driving test as soon as possible.",
+              "exampleTranslation": "Ngày nay, nhiều người trẻ thi bằng lái xe sớm nhất có thể.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 113, corrected model",
+              "exampleId": "u6-ex-106"
             },
             {
               "id": "u6-writing-8bf267f87b4e",
               "word": "compared with the past",
               "meaning": "so với trước đây",
               "type": "phrase",
-              "pos": "participle_phrase"
+              "pos": "participle_phrase",
+              "ipa": "/kəmˈperd wɪð ðə pæst/",
+              "example": "Compared with the past, we communicate more online than we did several years ago.",
+              "exampleTranslation": "So với trước đây, chúng ta giao tiếp trực tuyến nhiều hơn vài năm trước.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 113–114, time comparison",
+              "exampleId": "u6-ex-107"
             },
             {
               "id": "u6-writing-ac6eb9b28a8c",
               "word": "nowadays",
               "meaning": "ngày nay",
               "type": "word",
-              "pos": "adverb"
+              "pos": "adverb",
+              "ipa": "/ˈnaʊəˌdeɪz/",
+              "example": "Nowadays, many young people take a driving test as soon as possible.",
+              "exampleTranslation": "Ngày nay, nhiều người trẻ thi bằng lái xe sớm nhất có thể.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 113, corrected model",
+              "exampleId": "u6-ex-106"
             },
             {
               "id": "u6-writing-92c5bf835e99",
               "word": "in today's world",
               "meaning": "trong thế giới ngày nay",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn ˈtuːdeɪz wɜːrld/",
+              "example": "In today's world, some parents worry about their children's safety and prefer to keep them at home.",
+              "exampleTranslation": "Trong thế giới ngày nay, một số cha mẹ lo cho sự an toàn của con và muốn giữ con ở nhà.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 113, corrected model",
+              "exampleId": "u6-ex-105"
             },
             {
               "id": "u6-writing-17f0f6fff4e2",
               "word": "several years ago",
               "meaning": "vài năm trước",
               "type": "phrase",
-              "pos": "adverb_phrase"
+              "pos": "adverb_phrase",
+              "ipa": "/ˈsevərəl jɪrz əˈɡoʊ/",
+              "example": "Compared with the past, we communicate more online than we did several years ago.",
+              "exampleTranslation": "So với trước đây, chúng ta giao tiếp trực tuyến nhiều hơn vài năm trước.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 113–114, time comparison",
+              "exampleId": "u6-ex-107"
             },
             {
               "id": "u6-writing-c788b9bec0a4",
               "word": "the pace of life",
               "meaning": "nhịp sống",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðə peɪs əv laɪf/",
+              "example": "The pace of life is faster than it used to be.",
+              "exampleTranslation": "Nhịp sống nhanh hơn trước đây.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 114",
+              "exampleId": "u6-ex-108"
             },
             {
               "id": "u6-writing-1d19d96bfedb",
               "word": "on the other hand",
               "meaning": "mặt khác",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn ðə ˈʌðər hænd/",
+              "example": "On the other hand, some physical activities are becoming more popular.",
+              "exampleTranslation": "Mặt khác, một số hoạt động thể chất đang trở nên phổ biến hơn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 113, corrected model",
+              "exampleId": "u6-ex-109"
             },
             {
               "id": "u6-writing-bf2546cbfa5a",
               "word": "the main reason",
               "meaning": "lý do chính",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðə meɪn ˈriːzən/",
+              "example": "In my opinion, the main reason why people are less active is computers.",
+              "exampleTranslation": "Theo tôi, lý do chính khiến mọi người ít vận động hơn là máy tính.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 113, corrected model",
+              "exampleId": "u6-ex-110"
             },
             {
               "id": "u6-writing-2dbe2a64d5fb",
               "word": "planned activities",
               "meaning": "các hoạt động được lên kế hoạch",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/plænd ækˈtɪvətiːz/",
+              "example": "Planned activities can help children develop their skills and perhaps become world class.",
+              "exampleTranslation": "Hoạt động được lên kế hoạch có thể giúp trẻ phát triển kỹ năng và có thể đạt đẳng cấp thế giới.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 114–115",
+              "exampleId": "u6-ex-111"
             },
             {
               "id": "u6-writing-8fcee5609d64",
               "word": "develop their skills",
               "meaning": "phát triển kỹ năng của họ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/dɪˈveləp ðer skɪlz/",
+              "example": "Planned activities can help children develop their skills and perhaps become world class.",
+              "exampleTranslation": "Hoạt động được lên kế hoạch có thể giúp trẻ phát triển kỹ năng và có thể đạt đẳng cấp thế giới.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 114–115",
+              "exampleId": "u6-ex-111"
             },
             {
               "id": "u6-writing-9f507833c29e",
               "word": "world class",
               "meaning": "đạt đẳng cấp thế giới",
               "type": "phrase",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/wɜːrld klæs/",
+              "example": "Planned activities can help children develop their skills and perhaps become world class.",
+              "exampleTranslation": "Hoạt động được lên kế hoạch có thể giúp trẻ phát triển kỹ năng và có thể đạt đẳng cấp thế giới.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 114–115",
+              "exampleId": "u6-ex-111"
             },
             {
               "id": "u6-writing-ff68994602bf",
               "word": "get into trouble",
               "meaning": "vướng vào rắc rối",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡet ˈɪntuː ˈtrʌbəl/",
+              "example": "Parents think being busy will stop children getting into trouble.",
+              "exampleTranslation": "Cha mẹ cho rằng bận rộn sẽ ngăn trẻ vướng vào rắc rối.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 115",
+              "exampleId": "u6-ex-112"
             },
             {
               "id": "u6-writing-b6493657bd74",
               "word": "become stressed",
               "meaning": "trở nên căng thẳng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/bɪˈkʌm strest/",
+              "example": "Children can become stressed when they have to run from activity to activity.",
+              "exampleTranslation": "Trẻ có thể trở nên căng thẳng khi phải chạy từ hoạt động này sang hoạt động khác.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 115",
+              "exampleId": "u6-ex-113"
             },
             {
               "id": "u6-writing-9a23c69b0263",
               "word": "use their imaginations",
               "meaning": "sử dụng trí tưởng tượng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/juːz ðer ˌɪˌmædʒəˈneɪʃənz/",
+              "example": "Free play allows children to use their imaginations and discover their likes and dislikes.",
+              "exampleTranslation": "Chơi tự do cho phép trẻ sử dụng trí tưởng tượng và khám phá điều mình thích và không thích.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 115",
+              "exampleId": "u6-ex-114"
             },
             {
               "id": "u6-writing-40b0d7ec78bc",
               "word": "likes and dislikes",
               "meaning": "những điều thích và không thích",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/laɪks ənd dɪˈslaɪks/",
+              "example": "Free play allows children to use their imaginations and discover their likes and dislikes.",
+              "exampleTranslation": "Chơi tự do cho phép trẻ sử dụng trí tưởng tượng và khám phá điều mình thích và không thích.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 115",
+              "exampleId": "u6-ex-114"
             },
             {
               "id": "u6-writing-933be7157ae3",
               "word": "have a balance",
               "meaning": "có sự cân bằng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/hæv ə ˈbæləns/",
+              "example": "We need to have a balance between organised activities and free time.",
+              "exampleTranslation": "Chúng ta cần có sự cân bằng giữa hoạt động có tổ chức và thời gian tự do.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 115",
+              "exampleId": "u6-ex-115"
             },
             {
               "id": "u6-writing-dfb9406aa362",
               "word": "compulsory sports lessons",
               "meaning": "các tiết thể thao bắt buộc",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/kəmˈpʌlsəri spɔːrts ˈlesənz/",
+              "example": "The essay asks whether schools should have compulsory sports lessons.",
+              "exampleTranslation": "Bài luận đặt vấn đề trường học có nên có các tiết thể thao bắt buộc hay không.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 116",
+              "exampleId": "u6-ex-116"
             },
             {
               "id": "u6-writing-f977837584ba",
               "word": "medical care",
               "meaning": "chăm sóc y tế",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈmedəkəl ker/",
+              "example": "The discussion links physical activity to mental well-being and future spending on medical care.",
+              "exampleTranslation": "Phần thảo luận liên hệ hoạt động thể chất với sức khỏe tinh thần và chi phí chăm sóc y tế trong tương lai.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 116",
+              "exampleId": "u6-ex-117"
             },
             {
               "id": "u6-writing-86f3a395d135",
               "word": "mental well-being",
               "meaning": "sức khỏe tinh thần",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈmentəl ˌwelˈbiːɪŋ/",
+              "example": "The discussion links physical activity to mental well-being and future spending on medical care.",
+              "exampleTranslation": "Phần thảo luận liên hệ hoạt động thể chất với sức khỏe tinh thần và chi phí chăm sóc y tế trong tương lai.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 116",
+              "exampleId": "u6-ex-117"
             },
             {
               "id": "u6-writing-2e3e4176f27c",
               "word": "a waste of valuable study time",
               "meaning": "sự lãng phí thời gian học quý báu",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə weɪst əv ˈvæljəbəl stʌdi taɪm/",
+              "example": "Some argue that sports lessons are a waste of valuable study time and that sports facilities cost too much.",
+              "exampleTranslation": "Một số người cho rằng tiết thể thao lãng phí thời gian học quý báu và cơ sở vật chất thể thao quá tốn kém.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 116",
+              "exampleId": "u6-ex-118"
             },
             {
               "id": "u6-writing-5dc9795cf92d",
               "word": "sports facilities",
               "meaning": "cơ sở vật chất phục vụ thể thao",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/spɔːrts fəˈsɪlətiːz/",
+              "example": "Some argue that sports lessons are a waste of valuable study time and that sports facilities cost too much.",
+              "exampleTranslation": "Một số người cho rằng tiết thể thao lãng phí thời gian học quý báu và cơ sở vật chất thể thao quá tốn kém.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 116",
+              "exampleId": "u6-ex-118"
             },
             {
               "id": "u6-writing-83fb0c9ddee0",
               "word": "learn discipline",
               "meaning": "rèn tính kỷ luật",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/lɜːrn ˈdɪsəplən/",
+              "example": "Sports help children learn discipline and work as a team.",
+              "exampleTranslation": "Thể thao giúp trẻ rèn tính kỷ luật và làm việc theo nhóm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 116",
+              "exampleId": "u6-ex-119"
             },
             {
               "id": "u6-writing-5f9ea98bb448",
               "word": "work as a team",
               "meaning": "làm việc theo nhóm",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/wɜːrk əz ə tiːm/",
+              "example": "Sports help children learn discipline and work as a team.",
+              "exampleTranslation": "Thể thao giúp trẻ rèn tính kỷ luật và làm việc theo nhóm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 116",
+              "exampleId": "u6-ex-119"
             }
           ]
         },
@@ -1865,7 +3280,12 @@ export default {
               "meaning": "Mọi người ít ... hơn so với trước đây.",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "People are less physically active than they used to be."
+              "ipa": "/ˈpiːpəl ɑːr les … ðən ðeɪ juːst tə biː/",
+              "example": "People are less physically active than they used to be.",
+              "exampleTranslation": "Mọi người ít hoạt động thể chất hơn trước đây.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 112–116; TB pp. 57–59",
+              "exampleId": "u6-ex-120"
             },
             {
               "id": "u6-writing-2ea098644864",
@@ -1873,7 +3293,12 @@ export default {
               "meaning": "Trong khi một số người cho rằng ..., tôi tin ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "While some people argue that sports waste time, I believe they support learning."
+              "ipa": "/hwaɪl sʌm ˈpiːpəl ˈɑːrɡjuː ðæt … aɪ bɪˈliːv …/",
+              "example": "While some people argue that sports waste time, I believe they support learning.",
+              "exampleTranslation": "Trong khi một số người cho rằng thể thao lãng phí thời gian, tôi tin thể thao hỗ trợ việc học.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 112–116; TB pp. 57–59",
+              "exampleId": "u6-ex-121"
             },
             {
               "id": "u6-writing-a06e5b26837b",
@@ -1881,7 +3306,12 @@ export default {
               "meaning": "Một lý do cho điều này là ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "One reason for this is that exercise helps children concentrate."
+              "ipa": "/wʌn ˈriːzən fər ðɪs ɪz ðæt …/",
+              "example": "One reason for this is that exercise helps children concentrate.",
+              "exampleTranslation": "Một lý do là vận động giúp trẻ tập trung.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 112–116; TB pp. 57–59",
+              "exampleId": "u6-ex-122"
             },
             {
               "id": "u6-writing-f7a0a95b00f8",
@@ -1889,7 +3319,12 @@ export default {
               "meaning": "Điều này cho phép trẻ ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "This allows children to develop social skills."
+              "ipa": "/ðɪs əˈlaʊz ˈtʃɪldrən tə …/",
+              "example": "This allows children to develop social skills.",
+              "exampleTranslation": "Điều này cho phép trẻ phát triển kỹ năng xã hội.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 112–116; TB pp. 57–59",
+              "exampleId": "u6-ex-123"
             },
             {
               "id": "u6-writing-1b614433ba12",
@@ -1897,21 +3332,38 @@ export default {
               "meaning": "Cần có sự cân bằng giữa ... và ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "A balance should be struck between organised activities and free play."
+              "ipa": "/ə ˈbæləns ʃʊd biː strʌk biːtˈwiːn … ənd …/",
+              "example": "A balance should be struck between organised activities and free play.",
+              "exampleTranslation": "Cần có sự cân bằng giữa hoạt động có tổ chức và chơi tự do.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 112–116; TB pp. 57–59",
+              "exampleId": "u6-ex-124"
             },
             {
               "id": "u6-writing-94c95012a7bb",
               "word": "regular physical activity",
               "meaning": "hoạt động thể chất thường xuyên",
               "type": "collocation",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈreɪɡjələr ˈfɪzɪkəl ækˈtɪvəti/",
+              "example": "Regular physical activity can help people move away from a sedentary lifestyle.",
+              "exampleTranslation": "Hoạt động thể chất thường xuyên có thể giúp mọi người từ bỏ lối sống ít vận động.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 112–116; TB pp. 57–59",
+              "exampleId": "u6-ex-125"
             },
             {
               "id": "u6-writing-8947ccb11f88",
               "word": "a sedentary lifestyle",
               "meaning": "lối sống ít vận động",
               "type": "collocation",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈsedənˌteri ˈlaɪfˌstaɪl/",
+              "example": "Regular physical activity can help people move away from a sedentary lifestyle.",
+              "exampleTranslation": "Hoạt động thể chất thường xuyên có thể giúp mọi người từ bỏ lối sống ít vận động.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 112–116; TB pp. 57–59",
+              "exampleId": "u6-ex-125"
             }
           ]
         }

@@ -36,7 +36,11 @@ for (const meta of unitsRegistry) {
         terms.add(key);
         assert.ok(["word", "phrase", "collocation", "structure"].includes(word.type));
         assert.ok(Object.hasOwn(posLabels, word.pos), `Missing or invalid part of speech in ${word.id}`);
-        for (const text of [word.word, word.meaning, word.example || "", word.ipa || ""]) {
+        assert.ok(word.example && word.exampleTranslation && word.exampleSource && word.exampleId, `Missing bilingual example in ${word.id}`);
+        assert.ok(["book", "adapted", "practice"].includes(word.exampleKind));
+        assert.match(word.ipa, /^\/[^?]+\/$/u, `Missing IPA in ${word.id}`);
+        assert.match(word.exampleTranslation, /[àáâãèéêìíòóôõùúýăđĩũơưạ-ỹ]/iu, `Missing Vietnamese translation in ${word.id}`);
+        for (const text of [word.word, word.meaning, word.example, word.exampleTranslation, word.ipa]) {
           assert.equal(text, text.normalize("NFC"), `Non-NFC text: ${text}`);
           assert.doesNotMatch(text, /[\u0000-\u001f\ufffd]/u, `Invalid character in ${word.id}`);
           assert.ok(!/<[^>]+>/.test(text), "Vocabulary must be plain text");
@@ -57,4 +61,5 @@ for (const meta of unitsRegistry) {
 assert.equal(total, stats.total);
 assert.equal(terms.size, stats.uniqueTerms);
 assert.equal(sections, 32);
+assert.equal(examples, total);
 console.log(JSON.stringify({ passed: true, units: unitsRegistry.length, sections, groups, total, uniqueTerms: terms.size, examples, extensionCards: extensions }, null, 2));

@@ -6,7 +6,7 @@ import re
 import unicodedata
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = "20260919-2"
+VERSION = "20260920-1"
 TITLES = ["Relationships", "Places and Buildings", "Education and Employment",
           "Food and Drink", "Consumerism", "Leisure Time", "Fame and the Media", "Natural World"]
 SKILLS = {"reading": "Reading", "listening": "Listening", "speaking": "Speaking", "writing": "Writing"}
@@ -16,7 +16,7 @@ DESCRIPTIONS = {
     "speaking": "Từ vựng, collocation và khung câu để phát triển bài nói.",
     "writing": "Ngôn ngữ theo dạng bài, collocation và cấu trúc viết áp dụng.",
 }
-reference = json.loads((ROOT / "content/pronunciation-reference.json").read_text())
+pronunciations = json.loads((ROOT / "content/ipa-us.json").read_text())
 pos_labels = json.loads((ROOT / "content/parts-of-speech.json").read_text())
 
 
@@ -30,6 +30,15 @@ def dump(path, value, prefix=""):
 
 registry, counts, all_terms, duplicates = [], [], set(), []
 for number, title in enumerate(TITLES, 1):
+    examples = json.loads((ROOT / f"content/examples/unit{number}.json").read_text())
+    example_by_card = {}
+    for example in examples:
+        assert example["kind"] in ["book", "adapted", "practice"]
+        assert all(example.get(k) for k in ["id", "text", "translation", "source", "cards"])
+        for card_id in example["cards"]:
+            assert card_id not in example_by_card, (number, "Duplicate example assignment", card_id)
+            example_by_card[card_id] = example
+    used_example_cards = set()
     sections = {key: {"id": key, "label": label, "description": DESCRIPTIONS[key], "groups": []}
                 for key, label in SKILLS.items()}
     seen = {key: set() for key in SKILLS}
@@ -61,17 +70,16 @@ for number, title in enumerate(TITLES, 1):
         assert pos in pos_labels, (number, line_number, "Invalid part of speech", pos)
         word = {"id": f"u{number}-{skill}-{hashlib.sha256(key.encode()).hexdigest()[:12]}",
                 "word": term, "meaning": meaning, "type": kind, "pos": pos}
-        old = reference.get(key, {})
-        if old.get("ipa"):
-            word["ipa"] = old["ipa"]
-        if len(parts) > 3 and parts[3]:
-            word["example"] = parts[3]
-        elif old.get("example"):
-            word["example"] = old["example"]
-            if old.get("translation"):
-                word["exampleTranslation"] = old["translation"]
+        assert key in pronunciations, (number, term, "Missing IPA")
+        word["ipa"] = norm(pronunciations[key])
+        assert word["id"] in example_by_card, (number, term, "Missing bilingual example")
+        example = example_by_card[word["id"]]
+        word.update(example=norm(example["text"]), exampleTranslation=norm(example["translation"]),
+                    exampleKind=example["kind"], exampleSource=norm(example["source"]), exampleId=example["id"])
+        used_example_cards.add(word["id"])
         group["words"].append(word)
         all_terms.add(key)
+    assert used_example_cards == set(example_by_card), (number, "Example assigned to unknown card")
     unit = {"id": f"unit-{number}", "number": number, "title": title, "sections": list(sections.values())}
     per_skill = {key: sum(len(g["words"]) for g in s["groups"]) for key, s in sections.items()}
     unit["count"] = sum(per_skill.values())

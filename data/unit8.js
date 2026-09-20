@@ -19,28 +19,52 @@ export default {
               "word": "intelligent creatures",
               "meaning": "những sinh vật thông minh",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌɪnˈtelədʒənt ˈkriːtʃərz/",
+              "example": "They are known as friendly, intelligent creatures that have a special relationship with humans.",
+              "exampleTranslation": "Chúng được biết đến là những sinh vật thân thiện, thông minh và có mối quan hệ đặc biệt với con người.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-001"
             },
             {
               "id": "u8-reading-619f2fe2bb8f",
               "word": "a special relationship",
               "meaning": "một mối quan hệ đặc biệt",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈspeʃəl riːˈleɪʃənˌʃɪp/",
+              "example": "They are known as friendly, intelligent creatures that have a special relationship with humans.",
+              "exampleTranslation": "Chúng được biết đến là những sinh vật thân thiện, thông minh và có mối quan hệ đặc biệt với con người.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-001"
             },
             {
               "id": "u8-reading-376be72e38bb",
               "word": "pregnant",
               "meaning": "mang thai",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˈpreɡnənt/",
+              "example": "The passage says dolphins can tell when someone is pregnant or in trouble.",
+              "exampleTranslation": "Bài đọc nói rằng cá heo có thể nhận biết khi ai đó mang thai hoặc gặp nguy hiểm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-002"
             },
             {
               "id": "u8-reading-e2d8142f2a3f",
               "word": "be in trouble",
               "meaning": "gặp nguy hiểm; gặp khó khăn",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː ɪn ˈtrʌbəl/",
+              "example": "The passage says dolphins can tell when someone is pregnant or in trouble.",
+              "exampleTranslation": "Bài đọc nói rằng cá heo có thể nhận biết khi ai đó mang thai hoặc gặp nguy hiểm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-002"
             },
             {
               "id": "u8-reading-226ab4fd32d6",
@@ -49,99 +73,180 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/ˈpredətərz/",
-              "example": "Lions are predators that hunt other animals.",
-              "exampleTranslation": "Sư tử là loài săn mồi, săn các động vật khác."
+              "example": "Dolphins may actively decide to protect humans from predators, rather than acting only in an automatic or instinctive way.",
+              "exampleTranslation": "Cá heo có thể chủ động quyết định bảo vệ con người khỏi động vật săn mồi, thay vì chỉ hành động tự động hoặc theo bản năng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-003"
             },
             {
               "id": "u8-reading-97ef768f701e",
               "word": "automatic or instinctive",
               "meaning": "tự động hoặc theo bản năng",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/ˌɔːtəˈmætɪk ɔːr ˌɪnˈstɪŋktɪv/",
+              "example": "Dolphins may actively decide to protect humans from predators, rather than acting only in an automatic or instinctive way.",
+              "exampleTranslation": "Cá heo có thể chủ động quyết định bảo vệ con người khỏi động vật săn mồi, thay vì chỉ hành động tự động hoặc theo bản năng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-003"
             },
             {
               "id": "u8-reading-2a5b77448808",
               "word": "actively decide",
               "meaning": "chủ động quyết định",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈæktɪvli ˌdɪˈsaɪd/",
+              "example": "Dolphins may actively decide to protect humans from predators, rather than acting only in an automatic or instinctive way.",
+              "exampleTranslation": "Cá heo có thể chủ động quyết định bảo vệ con người khỏi động vật săn mồi, thay vì chỉ hành động tự động hoặc theo bản năng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-003"
             },
             {
               "id": "u8-reading-30263264f4a4",
               "word": "wildlife filmmaker",
               "meaning": "nhà làm phim về động vật hoang dã",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈwaɪldˌlaɪf ˈfɪlˌmeɪkər/",
+              "example": "Four dolphins came to wildlife filmmaker Hardy Jones's rescue and drove the shark away.",
+              "exampleTranslation": "Bốn con cá heo đến cứu nhà làm phim động vật hoang dã Hardy Jones và xua con cá mập đi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-004"
             },
             {
               "id": "u8-reading-5cbf5b64daea",
               "word": "come to his rescue",
               "meaning": "đến cứu anh ấy",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kʌm tə hɪz ˈreskjuː/",
+              "example": "Four dolphins came to wildlife filmmaker Hardy Jones's rescue and drove the shark away.",
+              "exampleTranslation": "Bốn con cá heo đến cứu nhà làm phim động vật hoang dã Hardy Jones và xua con cá mập đi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-004"
             },
             {
               "id": "u8-reading-b07b8ab4e0fd",
               "word": "drive the shark away",
               "meaning": "xua con cá mập đi",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/draɪv ðə ʃɑːrk əˈweɪ/",
+              "example": "Four dolphins came to wildlife filmmaker Hardy Jones's rescue and drove the shark away.",
+              "exampleTranslation": "Bốn con cá heo đến cứu nhà làm phim động vật hoang dã Hardy Jones và xua con cá mập đi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-004"
             },
             {
               "id": "u8-reading-8fbec1ea677e",
               "word": "campaigner",
               "meaning": "người vận động cho một mục tiêu xã hội",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/kæmˈpeɪnər/",
+              "example": "In fact, Jones was a well-known campaigner against the killing of dolphins.",
+              "exampleTranslation": "Thực tế, Jones là người vận động nổi tiếng chống việc giết cá heo.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-005"
             },
             {
               "id": "u8-reading-d41918347145",
               "word": "incident",
               "meaning": "sự việc; vụ việc",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈɪnsədənt/",
+              "example": "In another incident, in 2004, in New Zealand, four people were saved from a great white shark by a pod of dolphins.",
+              "exampleTranslation": "Trong một vụ việc khác tại New Zealand năm 2004, bốn người được một đàn cá heo cứu khỏi cá mập trắng lớn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-006"
             },
             {
               "id": "u8-reading-5c40d62cc311",
               "word": "great white shark",
               "meaning": "cá mập trắng lớn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ɡreɪt hwaɪt ʃɑːrk/",
+              "example": "In another incident, in 2004, in New Zealand, four people were saved from a great white shark by a pod of dolphins.",
+              "exampleTranslation": "Trong một vụ việc khác tại New Zealand năm 2004, bốn người được một đàn cá heo cứu khỏi cá mập trắng lớn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-006"
             },
             {
               "id": "u8-reading-9aac4441c699",
               "word": "a pod of dolphins",
               "meaning": "một đàn cá heo",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə pɑːd əv ˈdɑːlfənz/",
+              "example": "In another incident, in 2004, in New Zealand, four people were saved from a great white shark by a pod of dolphins.",
+              "exampleTranslation": "Trong một vụ việc khác tại New Zealand năm 2004, bốn người được một đàn cá heo cứu khỏi cá mập trắng lớn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-006"
             },
             {
               "id": "u8-reading-26f985da9f3a",
               "word": "herd the swimmers into a group",
               "meaning": "dồn những người bơi thành một nhóm",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/hɜːrd ðə ˈswɪmərz ˈɪntuː ə ɡruːp/",
+              "example": "The dolphins herded the swimmers into a group and formed a protective ring around them.",
+              "exampleTranslation": "Đàn cá heo dồn những người bơi thành một nhóm và tạo vòng bảo vệ quanh họ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-007"
             },
             {
               "id": "u8-reading-11862e2208b5",
               "word": "form a protective ring",
               "meaning": "tạo thành một vòng bảo vệ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/fɔːrm ə prəˈtektɪv rɪŋ/",
+              "example": "The dolphins herded the swimmers into a group and formed a protective ring around them.",
+              "exampleTranslation": "Đàn cá heo dồn những người bơi thành một nhóm và tạo vòng bảo vệ quanh họ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-007"
             },
             {
               "id": "u8-reading-adef823fe86a",
               "word": "get away",
               "meaning": "thoát đi",
               "type": "phrase",
-              "pos": "phrasal_verb"
+              "pos": "phrasal_verb",
+              "ipa": "/ɡet əˈweɪ/",
+              "example": "One swimmer could not get away because the dolphins kept pushing him back inside the ring.",
+              "exampleTranslation": "Một người bơi không thể thoát ra vì cá heo liên tục đẩy anh trở lại bên trong vòng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-008"
             },
             {
               "id": "u8-reading-90cb623f23a0",
               "word": "scuba diver",
               "meaning": "người lặn có bình dưỡng khí",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈskuːbə ˈdaɪvər/",
+              "example": "An unconscious scuba diver survived in the water while dolphins watched over him.",
+              "exampleTranslation": "Một người lặn có bình dưỡng khí đang bất tỉnh đã sống sót dưới nước trong khi cá heo trông chừng anh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-009"
             },
             {
               "id": "u8-reading-30bc67a73501",
@@ -149,86 +254,155 @@ export default {
               "meaning": "bất tỉnh",
               "type": "word",
               "pos": "adjective",
-              "ipa": "/ʌnˈkɑːnʃəs/",
-              "example": "The patient was unconscious after the surgery.",
-              "exampleTranslation": "Bệnh nhân không tỉnh táo sau phẫu thuật."
+              "ipa": "/ˌʌnˈkɑːnʃəs/",
+              "example": "An unconscious scuba diver survived in the water while dolphins watched over him.",
+              "exampleTranslation": "Một người lặn có bình dưỡng khí đang bất tỉnh đã sống sót dưới nước trong khi cá heo trông chừng anh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-009"
             },
             {
               "id": "u8-reading-0fb542ca6733",
               "word": "survive",
               "meaning": "sống sót",
               "type": "word",
-              "pos": "verb"
+              "pos": "verb",
+              "ipa": "/sərˈvaɪv/",
+              "example": "An unconscious scuba diver survived in the water while dolphins watched over him.",
+              "exampleTranslation": "Một người lặn có bình dưỡng khí đang bất tỉnh đã sống sót dưới nước trong khi cá heo trông chừng anh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-009"
             },
             {
               "id": "u8-reading-85e415c4e539",
               "word": "watch over",
               "meaning": "trông chừng; bảo vệ",
               "type": "phrase",
-              "pos": "phrasal_verb"
+              "pos": "phrasal_verb",
+              "ipa": "/wɑːtʃ ˈoʊvər/",
+              "example": "An unconscious scuba diver survived in the water while dolphins watched over him.",
+              "exampleTranslation": "Một người lặn có bình dưỡng khí đang bất tỉnh đã sống sót dưới nước trong khi cá heo trông chừng anh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-009"
             },
             {
               "id": "u8-reading-bc86fd261342",
               "word": "lose hope",
               "meaning": "mất hy vọng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/luːz hoʊp/",
+              "example": "After his boat sank, Trevino was losing hope and felt he could not keep going.",
+              "exampleTranslation": "Sau khi thuyền chìm, Trevino dần mất hy vọng và cảm thấy không thể tiếp tục cố gắng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-010"
             },
             {
               "id": "u8-reading-f38088175af1",
               "word": "the boat sank",
               "meaning": "chiếc thuyền đã chìm",
               "type": "phrase",
-              "pos": "expression"
+              "pos": "expression",
+              "ipa": "/ðə boʊt sæŋk/",
+              "example": "After his boat sank, Trevino was losing hope and felt he could not keep going.",
+              "exampleTranslation": "Sau khi thuyền chìm, Trevino dần mất hy vọng và cảm thấy không thể tiếp tục cố gắng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-010"
             },
             {
               "id": "u8-reading-6e7ecf10083e",
               "word": "keep going",
               "meaning": "tiếp tục cố gắng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kiːp ˈɡoʊɪn/",
+              "example": "After his boat sank, Trevino was losing hope and felt he could not keep going.",
+              "exampleTranslation": "Sau khi thuyền chìm, Trevino dần mất hy vọng và cảm thấy không thể tiếp tục cố gắng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-010"
             },
             {
               "id": "u8-reading-cec9111de36d",
               "word": "approach",
               "meaning": "tiến đến gần",
               "type": "word",
-              "pos": "verb"
+              "pos": "verb",
+              "ipa": "/əˈproʊtʃ/",
+              "example": "A friendly dolphin approached him and gently pushed him, as if to say 'don't give up'.",
+              "exampleTranslation": "Một con cá heo thân thiện tiến đến và đẩy nhẹ anh, như muốn nói “đừng bỏ cuộc”.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-011"
             },
             {
               "id": "u8-reading-4a8dd457cb07",
               "word": "gently push",
               "meaning": "đẩy nhẹ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/dʒentli pʊʃ/",
+              "example": "A friendly dolphin approached him and gently pushed him, as if to say 'don't give up'.",
+              "exampleTranslation": "Một con cá heo thân thiện tiến đến và đẩy nhẹ anh, như muốn nói “đừng bỏ cuộc”.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-011"
             },
             {
               "id": "u8-reading-bcfea9f848bc",
               "word": "give up",
               "meaning": "bỏ cuộc",
               "type": "phrase",
-              "pos": "phrasal_verb"
+              "pos": "phrasal_verb",
+              "ipa": "/ɡɪv ʌp/",
+              "example": "A friendly dolphin approached him and gently pushed him, as if to say 'don't give up'.",
+              "exampleTranslation": "Một con cá heo thân thiện tiến đến và đẩy nhẹ anh, như muốn nói “đừng bỏ cuộc”.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-011"
             },
             {
               "id": "u8-reading-35aae484f6d8",
               "word": "moral support",
               "meaning": "sự hỗ trợ về tinh thần",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈmɔːrəl səˈpɔːrt/",
+              "example": "That moral support and encouragement may have saved Trevino's life.",
+              "exampleTranslation": "Sự hỗ trợ tinh thần và động viên đó có thể đã cứu mạng Trevino.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-012"
             },
             {
               "id": "u8-reading-a0bc08f0f6c6",
               "word": "encouragement",
               "meaning": "sự động viên",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/enˈkɜːrɪdʒmənt/",
+              "example": "That moral support and encouragement may have saved Trevino's life.",
+              "exampleTranslation": "Sự hỗ trợ tinh thần và động viên đó có thể đã cứu mạng Trevino.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-012"
             },
             {
               "id": "u8-reading-b2e7196ef193",
               "word": "save someone's life",
               "meaning": "cứu mạng ai",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/seɪv ˈsʌmˌwʌnz laɪf/",
+              "example": "That moral support and encouragement may have saved Trevino's life.",
+              "exampleTranslation": "Sự hỗ trợ tinh thần và động viên đó có thể đã cứu mạng Trevino.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-012"
             },
             {
               "id": "u8-reading-1559d6aa3c36",
@@ -237,8 +411,11 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/ˈspiːʃiːz/",
-              "example": "There are many different species of birds in this forest.",
-              "exampleTranslation": "Có nhiều loài chim khác nhau trong rừng này."
+              "example": "Dolphins also help other species: two pygmy sperm whales were in difficulty beside a sand bank.",
+              "exampleTranslation": "Cá heo cũng giúp loài khác: hai con cá nhà táng nhỏ gặp khó khăn cạnh một bãi cát ngầm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-013"
             },
             {
               "id": "u8-reading-78c45f875d86",
@@ -246,51 +423,90 @@ export default {
               "meaning": "cá nhà táng nhỏ",
               "type": "phrase",
               "pos": "noun_phrase",
-              "ipa": "/ˈpɪɡmi spɜrm weɪlz/",
-              "example": "Pygmy sperm whales live in deep ocean waters.",
-              "exampleTranslation": "Cá nhà táng lùn sống ở vùng nước sâu ngoài đại dương."
+              "ipa": "/pɪɡmi spɜːrm hweɪlz/",
+              "example": "Dolphins also help other species: two pygmy sperm whales were in difficulty beside a sand bank.",
+              "exampleTranslation": "Cá heo cũng giúp loài khác: hai con cá nhà táng nhỏ gặp khó khăn cạnh một bãi cát ngầm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-013"
             },
             {
               "id": "u8-reading-f8ffe1b147be",
               "word": "be in difficulty",
               "meaning": "gặp khó khăn",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː ɪn ˈdɪfəkəlti/",
+              "example": "Dolphins also help other species: two pygmy sperm whales were in difficulty beside a sand bank.",
+              "exampleTranslation": "Cá heo cũng giúp loài khác: hai con cá nhà táng nhỏ gặp khó khăn cạnh một bãi cát ngầm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-013"
             },
             {
               "id": "u8-reading-7cff3f5cdc8e",
               "word": "sand bank",
               "meaning": "bãi cát ngầm; doi cát",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/sænd bæŋk/",
+              "example": "Dolphins also help other species: two pygmy sperm whales were in difficulty beside a sand bank.",
+              "exampleTranslation": "Cá heo cũng giúp loài khác: hai con cá nhà táng nhỏ gặp khó khăn cạnh một bãi cát ngầm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-013"
             },
             {
               "id": "u8-reading-fd9023af0795",
               "word": "failed attempts",
               "meaning": "những nỗ lực không thành công",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/feɪld əˈtemps/",
+              "example": "After people's failed attempts, a bottlenose dolphin appeared to communicate with the whales and led them into a channel.",
+              "exampleTranslation": "Sau những nỗ lực không thành công của con người, một con cá heo mũi chai dường như giao tiếp với cá voi và dẫn chúng vào luồng nước.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-014"
             },
             {
               "id": "u8-reading-d5b5aa42a63c",
               "word": "bottlenose dolphin",
               "meaning": "cá heo mũi chai",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈbɑːtəlnoʊz ˈdɑːlfən/",
+              "example": "After people's failed attempts, a bottlenose dolphin appeared to communicate with the whales and led them into a channel.",
+              "exampleTranslation": "Sau những nỗ lực không thành công của con người, một con cá heo mũi chai dường như giao tiếp với cá voi và dẫn chúng vào luồng nước.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-014"
             },
             {
               "id": "u8-reading-787c0ac3c4f4",
               "word": "communicate with",
               "meaning": "giao tiếp với",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kəmˈjuːnəˌkeɪt wɪð/",
+              "example": "After people's failed attempts, a bottlenose dolphin appeared to communicate with the whales and led them into a channel.",
+              "exampleTranslation": "Sau những nỗ lực không thành công của con người, một con cá heo mũi chai dường như giao tiếp với cá voi và dẫn chúng vào luồng nước.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-014"
             },
             {
               "id": "u8-reading-69e36568cd8b",
               "word": "channel",
               "meaning": "luồng nước; lạch",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈtʃænəl/",
+              "example": "After people's failed attempts, a bottlenose dolphin appeared to communicate with the whales and led them into a channel.",
+              "exampleTranslation": "Sau những nỗ lực không thành công của con người, một con cá heo mũi chai dường như giao tiếp với cá voi và dẫn chúng vào luồng nước.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-014"
             },
             {
               "id": "u8-reading-468c74d8e009",
@@ -299,106 +515,193 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/ˈmæməlz/",
-              "example": "Humans are mammals.",
-              "exampleTranslation": "Con người là loài động vật có vú."
+              "example": "Whales have also been known to protect both humans and other mammals.",
+              "exampleTranslation": "Cá voi cũng được biết đến là loài bảo vệ cả con người lẫn động vật có vú khác.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-015"
             },
             {
               "id": "u8-reading-78e04919241f",
               "word": "film crew",
               "meaning": "đoàn làm phim",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/fɪlm kruː/",
+              "example": "A film crew recorded humpback whales protecting migrating grey whales from orcas.",
+              "exampleTranslation": "Một đoàn làm phim ghi lại cảnh cá voi lưng gù bảo vệ cá voi xám đang di cư khỏi cá voi sát thủ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-016"
             },
             {
               "id": "u8-reading-4367673595e0",
               "word": "humpback whales",
               "meaning": "cá voi lưng gù",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈhʌmpˌbæk hweɪlz/",
+              "example": "A film crew recorded humpback whales protecting migrating grey whales from orcas.",
+              "exampleTranslation": "Một đoàn làm phim ghi lại cảnh cá voi lưng gù bảo vệ cá voi xám đang di cư khỏi cá voi sát thủ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-016"
             },
             {
               "id": "u8-reading-6287a81cc5f6",
               "word": "migrating grey whales",
               "meaning": "những con cá voi xám đang di cư",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈmaɪˌɡreɪtɪŋ ɡreɪ hweɪlz/",
+              "example": "A film crew recorded humpback whales protecting migrating grey whales from orcas.",
+              "exampleTranslation": "Một đoàn làm phim ghi lại cảnh cá voi lưng gù bảo vệ cá voi xám đang di cư khỏi cá voi sát thủ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-016"
             },
             {
               "id": "u8-reading-8aead80b0423",
               "word": "orcas",
               "meaning": "cá voi sát thủ",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈɔːrkəs/",
+              "example": "A film crew recorded humpback whales protecting migrating grey whales from orcas.",
+              "exampleTranslation": "Một đoàn làm phim ghi lại cảnh cá voi lưng gù bảo vệ cá voi xám đang di cư khỏi cá voi sát thủ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-016"
             },
             {
               "id": "u8-reading-81067a6c9f6d",
               "word": "apply for a job",
               "meaning": "ứng tuyển một công việc",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/əˈplaɪ fər ə dʒɑːb/",
+              "example": "When Yang Yun applied for a job, she had to dive down into a pool, where freezing temperatures stopped her moving her legs.",
+              "exampleTranslation": "Khi Yang Yun ứng tuyển một công việc, cô phải lặn xuống hồ, nơi nhiệt độ lạnh cóng khiến cô không cử động được chân.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-017"
             },
             {
               "id": "u8-reading-44bfb793abf1",
               "word": "dive down",
               "meaning": "lặn xuống",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/daɪv daʊn/",
+              "example": "When Yang Yun applied for a job, she had to dive down into a pool, where freezing temperatures stopped her moving her legs.",
+              "exampleTranslation": "Khi Yang Yun ứng tuyển một công việc, cô phải lặn xuống hồ, nơi nhiệt độ lạnh cóng khiến cô không cử động được chân.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-017"
             },
             {
               "id": "u8-reading-0a2a3b2b2d2f",
               "word": "freezing temperatures",
               "meaning": "nhiệt độ lạnh cóng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈfriːzɪŋ ˈtempərətʃərz/",
+              "example": "When Yang Yun applied for a job, she had to dive down into a pool, where freezing temperatures stopped her moving her legs.",
+              "exampleTranslation": "Khi Yang Yun ứng tuyển một công việc, cô phải lặn xuống hồ, nơi nhiệt độ lạnh cóng khiến cô không cử động được chân.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-017"
             },
             {
               "id": "u8-reading-e7a355b93eac",
               "word": "beluga whales",
               "meaning": "cá voi trắng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/bɪˈluːɡə hweɪlz/",
+              "example": "Two beluga whales sensed that she was in trouble.",
+              "exampleTranslation": "Hai con cá voi trắng cảm nhận được cô đang gặp nguy hiểm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-018"
             },
             {
               "id": "u8-reading-c7e5a0291e9f",
               "word": "sense that someone is in trouble",
               "meaning": "cảm nhận được ai đó đang gặp nguy hiểm",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/sens ðæt ˈsʌmˌwʌn ɪz ɪn ˈtrʌbəl/",
+              "example": "Two beluga whales sensed that she was in trouble.",
+              "exampleTranslation": "Hai con cá voi trắng cảm nhận được cô đang gặp nguy hiểm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-018"
             },
             {
               "id": "u8-reading-994dc8440a6b",
               "word": "grip",
               "meaning": "giữ chặt; ngoạm chặt",
               "type": "word",
-              "pos": "verb"
+              "pos": "verb",
+              "ipa": "/ɡrɪp/",
+              "example": "Mila gripped her leg and pushed her to the surface.",
+              "exampleTranslation": "Mila ngoạm chặt chân cô và đẩy cô lên mặt nước.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-019"
             },
             {
               "id": "u8-reading-5b0c18355216",
               "word": "the surface",
               "meaning": "mặt nước; bề mặt",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðə ˈsɜːrfəs/",
+              "example": "Mila gripped her leg and pushed her to the surface.",
+              "exampleTranslation": "Mila ngoạm chặt chân cô và đẩy cô lên mặt nước.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-019"
             },
             {
               "id": "u8-reading-88414592eacb",
               "word": "marine mammals",
               "meaning": "động vật có vú sống ở biển",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/mərˈiːn ˈmæməlz/",
+              "example": "Stories of marine mammals helping humans - and each other - date back to Ancient Greece.",
+              "exampleTranslation": "Những câu chuyện động vật có vú sống ở biển giúp con người và giúp nhau có từ thời Hy Lạp cổ đại.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-020"
             },
             {
               "id": "u8-reading-1ac835b27a90",
               "word": "date back to",
               "meaning": "có từ thời",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/deɪt bæk tə/",
+              "example": "Stories of marine mammals helping humans - and each other - date back to Ancient Greece.",
+              "exampleTranslation": "Những câu chuyện động vật có vú sống ở biển giúp con người và giúp nhau có từ thời Hy Lạp cổ đại.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-020"
             },
             {
               "id": "u8-reading-4c7718ba2c3a",
               "word": "Ancient Greece",
               "meaning": "Hy Lạp cổ đại",
               "type": "phrase",
-              "pos": "proper_noun"
+              "pos": "proper_noun",
+              "ipa": "/ˈeɪnʃənt ɡriːs/",
+              "example": "Stories of marine mammals helping humans - and each other - date back to Ancient Greece.",
+              "exampleTranslation": "Những câu chuyện động vật có vú sống ở biển giúp con người và giúp nhau có từ thời Hy Lạp cổ đại.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 147",
+              "exampleId": "u8-ex-020"
             }
           ]
         },
@@ -413,91 +716,169 @@ export default {
               "word": "on display",
               "meaning": "được trưng bày; cho khách xem",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn dɪsˈpleɪ/",
+              "example": "Early animals on display belonged to royalty, including leopards and camels kept by King Henry I.",
+              "exampleTranslation": "Động vật được trưng bày thời kỳ đầu thuộc hoàng gia, gồm báo hoa mai và lạc đà do vua Henry I nuôi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 150",
+              "exampleId": "u8-ex-021"
             },
             {
               "id": "u8-reading-8e232a78a47b",
               "word": "royalty",
               "meaning": "hoàng gia",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈrɔɪəlti/",
+              "example": "Early animals on display belonged to royalty, including leopards and camels kept by King Henry I.",
+              "exampleTranslation": "Động vật được trưng bày thời kỳ đầu thuộc hoàng gia, gồm báo hoa mai và lạc đà do vua Henry I nuôi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 150",
+              "exampleId": "u8-ex-021"
             },
             {
               "id": "u8-reading-b3f3ad5a3159",
               "word": "leopards and camels",
               "meaning": "báo hoa mai và lạc đà",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈlepərdz ənd ˈkæməlz/",
+              "example": "Early animals on display belonged to royalty, including leopards and camels kept by King Henry I.",
+              "exampleTranslation": "Động vật được trưng bày thời kỳ đầu thuộc hoàng gia, gồm báo hoa mai và lạc đà do vua Henry I nuôi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 150",
+              "exampleId": "u8-ex-021"
             },
             {
               "id": "u8-reading-cc1be1682d84",
               "word": "main purpose",
               "meaning": "mục đích chính",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/meɪn ˈpɜːrpəs/",
+              "example": "The main purpose of early zoos was entertainment, but later zoos prioritised conservation of animals.",
+              "exampleTranslation": "Mục đích chính của vườn thú thời kỳ đầu là giải trí, nhưng về sau vườn thú ưu tiên bảo tồn động vật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 150",
+              "exampleId": "u8-ex-022"
             },
             {
               "id": "u8-reading-d20fb659dae1",
               "word": "conservation of animals",
               "meaning": "bảo tồn động vật",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌkɑːnsərˈveɪʃən əv ˈænəməlz/",
+              "example": "The main purpose of early zoos was entertainment, but later zoos prioritised conservation of animals.",
+              "exampleTranslation": "Mục đích chính của vườn thú thời kỳ đầu là giải trí, nhưng về sau vườn thú ưu tiên bảo tồn động vật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 150",
+              "exampleId": "u8-ex-022"
             },
             {
               "id": "u8-reading-7d8323541be4",
               "word": "get a balance between",
               "meaning": "đạt sự cân bằng giữa",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡet ə ˈbæləns biːtˈwiːn/",
+              "example": "Modern zoos try to get a balance between animal safety and showing animals in natural surroundings.",
+              "exampleTranslation": "Vườn thú hiện đại cố cân bằng giữa sự an toàn của động vật và việc cho khách xem chúng trong môi trường tự nhiên.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 150",
+              "exampleId": "u8-ex-023"
             },
             {
               "id": "u8-reading-d27ece4119c0",
               "word": "natural surroundings",
               "meaning": "môi trường xung quanh tự nhiên",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈnætʃərəl sərˈaʊndɪŋz/",
+              "example": "Modern zoos try to get a balance between animal safety and showing animals in natural surroundings.",
+              "exampleTranslation": "Vườn thú hiện đại cố cân bằng giữa sự an toàn của động vật và việc cho khách xem chúng trong môi trường tự nhiên.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 150",
+              "exampleId": "u8-ex-023"
             },
             {
               "id": "u8-reading-b9e8da7d0498",
               "word": "share their knowledge",
               "meaning": "chia sẻ kiến thức của họ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ʃer ðer ˈnɑːlədʒ/",
+              "example": "Zoos and aquariums share their knowledge, promote animal welfare and coordinate breeding programmes.",
+              "exampleTranslation": "Vườn thú và thủy cung chia sẻ kiến thức, thúc đẩy phúc lợi động vật và phối hợp chương trình nhân giống.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 150",
+              "exampleId": "u8-ex-024"
             },
             {
               "id": "u8-reading-eaa14c7eeb2e",
               "word": "aquariums",
               "meaning": "các thủy cung",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/əˈkweriːəmz/",
+              "example": "Zoos and aquariums share their knowledge, promote animal welfare and coordinate breeding programmes.",
+              "exampleTranslation": "Vườn thú và thủy cung chia sẻ kiến thức, thúc đẩy phúc lợi động vật và phối hợp chương trình nhân giống.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 150",
+              "exampleId": "u8-ex-024"
             },
             {
               "id": "u8-reading-dcb4e335470c",
               "word": "animal welfare",
               "meaning": "phúc lợi động vật",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈænəməl ˈwelˌfer/",
+              "example": "Zoos and aquariums share their knowledge, promote animal welfare and coordinate breeding programmes.",
+              "exampleTranslation": "Vườn thú và thủy cung chia sẻ kiến thức, thúc đẩy phúc lợi động vật và phối hợp chương trình nhân giống.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 150",
+              "exampleId": "u8-ex-024"
             },
             {
               "id": "u8-reading-c32c491100d9",
               "word": "coordinate breeding programmes",
               "meaning": "phối hợp các chương trình nhân giống",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/koʊˈɔːrdəˌneɪt ˈbriːdɪŋ ˈproʊɡræmz/",
+              "example": "Zoos and aquariums share their knowledge, promote animal welfare and coordinate breeding programmes.",
+              "exampleTranslation": "Vườn thú và thủy cung chia sẻ kiến thức, thúc đẩy phúc lợi động vật và phối hợp chương trình nhân giống.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 150",
+              "exampleId": "u8-ex-024"
             },
             {
               "id": "u8-reading-9e5155ecbe8b",
               "word": "threatened species",
               "meaning": "các loài đang bị đe dọa",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈθretənd ˈspiːʃiːz/",
+              "example": "Breeding programmes help threatened species such as the Siberian tiger and orangutan to breed.",
+              "exampleTranslation": "Chương trình nhân giống giúp những loài bị đe dọa như hổ Siberia và đười ươi sinh sản.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 150",
+              "exampleId": "u8-ex-025"
             },
             {
               "id": "u8-reading-2e2716fce550",
               "word": "Siberian tiger",
               "meaning": "hổ Siberia",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/saɪˈbɪriːən ˈtaɪɡər/",
+              "example": "Breeding programmes help threatened species such as the Siberian tiger and orangutan to breed.",
+              "exampleTranslation": "Chương trình nhân giống giúp những loài bị đe dọa như hổ Siberia và đười ươi sinh sản.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 150",
+              "exampleId": "u8-ex-025"
             },
             {
               "id": "u8-reading-2b5f5a406c5b",
@@ -505,9 +886,12 @@ export default {
               "meaning": "đười ươi",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ɔːˈræŋ.ɡə.tæn/",
-              "example": "The orangutan is an endangered species.",
-              "exampleTranslation": "Con đười ươi là một loài đang bị đe dọa."
+              "ipa": "/ɔːˈræŋətæn/",
+              "example": "Breeding programmes help threatened species such as the Siberian tiger and orangutan to breed.",
+              "exampleTranslation": "Chương trình nhân giống giúp những loài bị đe dọa như hổ Siberia và đười ươi sinh sản.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 150",
+              "exampleId": "u8-ex-025"
             },
             {
               "id": "u8-reading-a8ff1c41b841",
@@ -516,99 +900,180 @@ export default {
               "type": "word",
               "pos": "verb",
               "ipa": "/briːd/",
-              "example": "The breed of dog is a golden retriever.",
-              "exampleTranslation": "Giống chó là chó săn vịt vàng."
+              "example": "Breeding programmes help threatened species such as the Siberian tiger and orangutan to breed.",
+              "exampleTranslation": "Chương trình nhân giống giúp những loài bị đe dọa như hổ Siberia và đười ươi sinh sản.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 150",
+              "exampleId": "u8-ex-025"
             },
             {
               "id": "u8-reading-d0f5f0d964cc",
               "word": "reintroduce endangered species",
               "meaning": "đưa các loài có nguy cơ tuyệt chủng trở lại",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˌriːɪntrəˈduːs enˈdeɪndʒərd ˈspiːʃiːz/",
+              "example": "Conservationists aim to reintroduce endangered species into natural habitats such as protected forests.",
+              "exampleTranslation": "Nhà bảo tồn muốn đưa loài có nguy cơ tuyệt chủng trở lại môi trường sống tự nhiên như rừng được bảo vệ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 150",
+              "exampleId": "u8-ex-026"
             },
             {
               "id": "u8-reading-647dc3cc1bc0",
               "word": "natural habitats",
               "meaning": "môi trường sống tự nhiên",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈnætʃərəl ˈhæbəˌtæts/",
+              "example": "Conservationists aim to reintroduce endangered species into natural habitats such as protected forests.",
+              "exampleTranslation": "Nhà bảo tồn muốn đưa loài có nguy cơ tuyệt chủng trở lại môi trường sống tự nhiên như rừng được bảo vệ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 150",
+              "exampleId": "u8-ex-026"
             },
             {
               "id": "u8-reading-0acf55f8ae39",
               "word": "protected forests",
               "meaning": "các khu rừng được bảo vệ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/prəˈtektɪd ˈfɔːrəsts/",
+              "example": "Conservationists aim to reintroduce endangered species into natural habitats such as protected forests.",
+              "exampleTranslation": "Nhà bảo tồn muốn đưa loài có nguy cơ tuyệt chủng trở lại môi trường sống tự nhiên như rừng được bảo vệ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 150",
+              "exampleId": "u8-ex-026"
             },
             {
               "id": "u8-reading-f4e11e2ce288",
               "word": "recreate natural habitats",
               "meaning": "tái tạo môi trường sống tự nhiên",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈrekriːˌeɪt ˈnætʃərəl ˈhæbəˌtæts/",
+              "example": "Zoos try to recreate natural habitats accurately, including open space for polar bears.",
+              "exampleTranslation": "Vườn thú cố tái tạo chính xác môi trường sống tự nhiên, bao gồm không gian thoáng rộng cho gấu Bắc Cực.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 150",
+              "exampleId": "u8-ex-027"
             },
             {
               "id": "u8-reading-05da381a177d",
               "word": "accurately",
               "meaning": "một cách chính xác",
               "type": "word",
-              "pos": "adverb"
+              "pos": "adverb",
+              "ipa": "/ˈækjərətli/",
+              "example": "Zoos try to recreate natural habitats accurately, including open space for polar bears.",
+              "exampleTranslation": "Vườn thú cố tái tạo chính xác môi trường sống tự nhiên, bao gồm không gian thoáng rộng cho gấu Bắc Cực.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 150",
+              "exampleId": "u8-ex-027"
             },
             {
               "id": "u8-reading-aa496e67f5bf",
               "word": "open space",
               "meaning": "không gian rộng, thoáng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈoʊpən speɪs/",
+              "example": "Zoos try to recreate natural habitats accurately, including open space for polar bears.",
+              "exampleTranslation": "Vườn thú cố tái tạo chính xác môi trường sống tự nhiên, bao gồm không gian thoáng rộng cho gấu Bắc Cực.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 150",
+              "exampleId": "u8-ex-027"
             },
             {
               "id": "u8-reading-44e6e348769c",
               "word": "enrichment",
               "meaning": "các hoạt động làm phong phú môi trường sống của động vật",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/enˈrɪtʃmənt/",
+              "example": "Enrichment, such as climbing frames and feeding puzzles, aims to improve animals' wellbeing.",
+              "exampleTranslation": "Hoạt động làm phong phú môi trường sống như khung leo trèo và dụng cụ giải đố lấy thức ăn nhằm cải thiện trạng thái sống của động vật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 150",
+              "exampleId": "u8-ex-028"
             },
             {
               "id": "u8-reading-0624d3538701",
               "word": "improve their wellbeing",
               "meaning": "cải thiện sức khỏe và trạng thái sống của chúng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˌɪmˈpruːv ðer ˌwelˈbiːɪŋ/",
+              "example": "Enrichment, such as climbing frames and feeding puzzles, aims to improve animals' wellbeing.",
+              "exampleTranslation": "Hoạt động làm phong phú môi trường sống như khung leo trèo và dụng cụ giải đố lấy thức ăn nhằm cải thiện trạng thái sống của động vật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 150",
+              "exampleId": "u8-ex-028"
             },
             {
               "id": "u8-reading-b755b435768e",
               "word": "climbing frames",
               "meaning": "khung để leo trèo",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈklaɪmɪŋ freɪmz/",
+              "example": "Enrichment, such as climbing frames and feeding puzzles, aims to improve animals' wellbeing.",
+              "exampleTranslation": "Hoạt động làm phong phú môi trường sống như khung leo trèo và dụng cụ giải đố lấy thức ăn nhằm cải thiện trạng thái sống của động vật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 150",
+              "exampleId": "u8-ex-028"
             },
             {
               "id": "u8-reading-781ae6c26e02",
               "word": "feeding puzzles",
               "meaning": "dụng cụ đòi hỏi động vật giải đố để lấy thức ăn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈfiːdɪŋ ˈpʌzəlz/",
+              "example": "Enrichment, such as climbing frames and feeding puzzles, aims to improve animals' wellbeing.",
+              "exampleTranslation": "Hoạt động làm phong phú môi trường sống như khung leo trèo và dụng cụ giải đố lấy thức ăn nhằm cải thiện trạng thái sống của động vật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 150",
+              "exampleId": "u8-ex-028"
             },
             {
               "id": "u8-reading-5a9cb6b54ea5",
               "word": "scratch",
               "meaning": "cào",
               "type": "word",
-              "pos": "verb"
+              "pos": "verb",
+              "ipa": "/skrætʃ/",
+              "example": "These activities allow animals to scratch, dig and solve problems.",
+              "exampleTranslation": "Những hoạt động này cho phép động vật cào, đào và giải quyết vấn đề.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 150–151",
+              "exampleId": "u8-ex-029"
             },
             {
               "id": "u8-reading-ebbde58a4bbe",
               "word": "dig",
               "meaning": "đào",
               "type": "word",
-              "pos": "verb"
+              "pos": "verb",
+              "ipa": "/dɪɡ/",
+              "example": "These activities allow animals to scratch, dig and solve problems.",
+              "exampleTranslation": "Những hoạt động này cho phép động vật cào, đào và giải quyết vấn đề.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 150–151",
+              "exampleId": "u8-ex-029"
             },
             {
               "id": "u8-reading-88c05309cf81",
               "word": "solve problems",
               "meaning": "giải quyết vấn đề",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/sɑːlv ˈprɑːbləmz/",
+              "example": "These activities allow animals to scratch, dig and solve problems.",
+              "exampleTranslation": "Những hoạt động này cho phép động vật cào, đào và giải quyết vấn đề.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 150–151",
+              "exampleId": "u8-ex-029"
             },
             {
               "id": "u8-reading-d627f3a0a778",
@@ -616,58 +1081,103 @@ export default {
               "meaning": "khu đất có rào cho động vật",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ˈpæd.ək/",
-              "example": "The horses were grazing in the paddock.",
-              "exampleTranslation": "Những con ngựa đang gặm cỏ trong bãi chăn có hàng rào."
+              "ipa": "/ˈpædək/",
+              "example": "Several species share a paddock, and keepers have observed positive changes in behaviour.",
+              "exampleTranslation": "Nhiều loài sống chung khu đất có rào, và người chăm sóc đã quan sát được thay đổi tích cực trong hành vi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 151",
+              "exampleId": "u8-ex-030"
             },
             {
               "id": "u8-reading-f0dfa9dbf882",
               "word": "positive changes in behaviour",
               "meaning": "thay đổi tích cực trong hành vi",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈpɑːzətɪv ˈtʃeɪndʒəz ɪn bɪˈheɪvjər/",
+              "example": "Several species share a paddock, and keepers have observed positive changes in behaviour.",
+              "exampleTranslation": "Nhiều loài sống chung khu đất có rào, và người chăm sóc đã quan sát được thay đổi tích cực trong hành vi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 151",
+              "exampleId": "u8-ex-030"
             },
             {
               "id": "u8-reading-7aaf6e2404b9",
               "word": "functional forest",
               "meaning": "hệ thống mô phỏng rừng để động vật di chuyển",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈfʌŋkʃənəl ˈfɔːrəst/",
+              "example": "The functional forest uses towers and cables twenty metres above the ground.",
+              "exampleTranslation": "Hệ thống mô phỏng rừng sử dụng tháp và dây cáp cao hai mươi mét so với mặt đất.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 151",
+              "exampleId": "u8-ex-031"
             },
             {
               "id": "u8-reading-0895e314a421",
               "word": "towers and cables",
               "meaning": "các tháp và dây cáp",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈtaʊərz ənd ˈkeɪbəlz/",
+              "example": "The functional forest uses towers and cables twenty metres above the ground.",
+              "exampleTranslation": "Hệ thống mô phỏng rừng sử dụng tháp và dây cáp cao hai mươi mét so với mặt đất.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 151",
+              "exampleId": "u8-ex-031"
             },
             {
               "id": "u8-reading-d71613ce6190",
               "word": "above the ground",
               "meaning": "ở phía trên mặt đất",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/əˈbʌv ðə ɡraʊnd/",
+              "example": "The functional forest uses towers and cables twenty metres above the ground.",
+              "exampleTranslation": "Hệ thống mô phỏng rừng sử dụng tháp và dây cáp cao hai mươi mét so với mặt đất.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 151",
+              "exampleId": "u8-ex-031"
             },
             {
               "id": "u8-reading-d97c931fa1a6",
               "word": "swing around",
               "meaning": "đu di chuyển quanh",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/swɪŋ ərˈaʊn/",
+              "example": "Orangutans can swing around as they would in their native Indonesia.",
+              "exampleTranslation": "Đười ươi có thể đu di chuyển như trong môi trường Indonesia quê gốc của chúng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 151",
+              "exampleId": "u8-ex-032"
             },
             {
               "id": "u8-reading-bef32d2c315a",
               "word": "native",
               "meaning": "thuộc quê gốc; bản địa",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˈneɪtɪv/",
+              "example": "Orangutans can swing around as they would in their native Indonesia.",
+              "exampleTranslation": "Đười ươi có thể đu di chuyển như trong môi trường Indonesia quê gốc của chúng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 151",
+              "exampleId": "u8-ex-032"
             },
             {
               "id": "u8-reading-78edbd2fc1cd",
               "word": "have access to",
               "meaning": "có thể tiếp cận; sử dụng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/hæv ˈækˌses tə/",
+              "example": "They have access to three oases, where they can go when they want to be apart from the group.",
+              "exampleTranslation": "Chúng có thể đến ba khu nghỉ yên tĩnh khi muốn tách khỏi đàn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 151",
+              "exampleId": "u8-ex-033"
             },
             {
               "id": "u8-reading-43425f3f7c8e",
@@ -675,58 +1185,103 @@ export default {
               "meaning": "các khu nghỉ tách biệt, yên tĩnh trong ngữ cảnh này",
               "type": "word",
               "pos": "noun",
-              "ipa": "/oʊˈeɪ.siːz/",
-              "example": "Travellers can find water at oases in the desert.",
-              "exampleTranslation": "Khách bộ hành có thể tìm thấy nước tại các ốc đảo trong sa mạc."
+              "ipa": "/oʊˈeɪsiːz/",
+              "example": "They have access to three oases, where they can go when they want to be apart from the group.",
+              "exampleTranslation": "Chúng có thể đến ba khu nghỉ yên tĩnh khi muốn tách khỏi đàn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 151",
+              "exampleId": "u8-ex-033"
             },
             {
               "id": "u8-reading-191da07e0bb4",
               "word": "apart from the group",
               "meaning": "tách khỏi đàn",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/əˈpɑːrt frəm ðə ɡruːp/",
+              "example": "They have access to three oases, where they can go when they want to be apart from the group.",
+              "exampleTranslation": "Chúng có thể đến ba khu nghỉ yên tĩnh khi muốn tách khỏi đàn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 151",
+              "exampleId": "u8-ex-033"
             },
             {
               "id": "u8-reading-f7170d82eaa6",
               "word": "engage the public",
               "meaning": "thu hút sự tham gia của công chúng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/enˈɡeɪdʒ ðə ˈpʌblɪk/",
+              "example": "Webcams in enclosures engage the public and help visitors keep up with their favourite animals.",
+              "exampleTranslation": "Webcam trong khu nuôi nhốt thu hút công chúng và giúp khách theo dõi những con vật yêu thích.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 151",
+              "exampleId": "u8-ex-034"
             },
             {
               "id": "u8-reading-023365101018",
               "word": "enclosures",
               "meaning": "các khu nuôi nhốt có rào",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ɪnˈkloʊʒərz/",
+              "example": "Webcams in enclosures engage the public and help visitors keep up with their favourite animals.",
+              "exampleTranslation": "Webcam trong khu nuôi nhốt thu hút công chúng và giúp khách theo dõi những con vật yêu thích.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 151",
+              "exampleId": "u8-ex-034"
             },
             {
               "id": "u8-reading-07f7fb7e5eb7",
               "word": "keep up with",
               "meaning": "theo dõi tình hình của",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kiːp ʌp wɪð/",
+              "example": "Webcams in enclosures engage the public and help visitors keep up with their favourite animals.",
+              "exampleTranslation": "Webcam trong khu nuôi nhốt thu hút công chúng và giúp khách theo dõi những con vật yêu thích.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 151",
+              "exampleId": "u8-ex-034"
             },
             {
               "id": "u8-reading-9006467d5f2f",
               "word": "over-hunted",
               "meaning": "bị săn bắt quá mức",
               "type": "word",
-              "pos": "participle_phrase"
+              "pos": "participle_phrase",
+              "ipa": "/ˈoʊvər ˈhʌnəd/",
+              "example": "Animals should not be over-hunted because they support the ecology of the planet and help maintain the balance of nature.",
+              "exampleTranslation": "Động vật không nên bị săn bắt quá mức vì chúng hỗ trợ hệ sinh thái của hành tinh và giúp duy trì cân bằng tự nhiên.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 151",
+              "exampleId": "u8-ex-035"
             },
             {
               "id": "u8-reading-ffe01fd0dd13",
               "word": "the ecology of the planet",
               "meaning": "hệ sinh thái của hành tinh",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðə iːˈkɑːlədʒi əv ðə ˈplænət/",
+              "example": "Animals should not be over-hunted because they support the ecology of the planet and help maintain the balance of nature.",
+              "exampleTranslation": "Động vật không nên bị săn bắt quá mức vì chúng hỗ trợ hệ sinh thái của hành tinh và giúp duy trì cân bằng tự nhiên.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 151",
+              "exampleId": "u8-ex-035"
             },
             {
               "id": "u8-reading-69afb91f9d6e",
               "word": "maintain the balance of nature",
               "meaning": "duy trì sự cân bằng tự nhiên",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/meɪnˈteɪn ðə ˈbæləns əv ˈneɪtʃər/",
+              "example": "Animals should not be over-hunted because they support the ecology of the planet and help maintain the balance of nature.",
+              "exampleTranslation": "Động vật không nên bị săn bắt quá mức vì chúng hỗ trợ hệ sinh thái của hành tinh và giúp duy trì cân bằng tự nhiên.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 151",
+              "exampleId": "u8-ex-035"
             }
           ]
         }
@@ -748,133 +1303,247 @@ export default {
               "word": "creature",
               "meaning": "sinh vật",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈkriːtʃər/",
+              "example": "This creature has thicker hair than other members of the species, allowing these apes to live in colder places.",
+              "exampleTranslation": "Sinh vật này có lông dày hơn các cá thể khác cùng loài, cho phép những con linh trưởng này sống ở nơi lạnh hơn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 187–188, track 66",
+              "exampleId": "u8-ex-036"
             },
             {
               "id": "u8-listening-00d714690cf8",
               "word": "thick hair",
               "meaning": "lông dày",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/θɪk her/",
+              "example": "This creature has thicker hair than other members of the species, allowing these apes to live in colder places.",
+              "exampleTranslation": "Sinh vật này có lông dày hơn các cá thể khác cùng loài, cho phép những con linh trưởng này sống ở nơi lạnh hơn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 187–188, track 66",
+              "exampleId": "u8-ex-036"
             },
             {
               "id": "u8-listening-45a1fbfffd4c",
               "word": "members of the species",
               "meaning": "các cá thể thuộc loài",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈmembərz əv ðə ˈspiːʃiːz/",
+              "example": "This creature has thicker hair than other members of the species, allowing these apes to live in colder places.",
+              "exampleTranslation": "Sinh vật này có lông dày hơn các cá thể khác cùng loài, cho phép những con linh trưởng này sống ở nơi lạnh hơn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 187–188, track 66",
+              "exampleId": "u8-ex-036"
             },
             {
               "id": "u8-listening-d67464b5b58d",
               "word": "apes",
               "meaning": "vượn; các loài linh trưởng không đuôi",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/eɪps/",
+              "example": "This creature has thicker hair than other members of the species, allowing these apes to live in colder places.",
+              "exampleTranslation": "Sinh vật này có lông dày hơn các cá thể khác cùng loài, cho phép những con linh trưởng này sống ở nơi lạnh hơn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 187–188, track 66",
+              "exampleId": "u8-ex-036"
             },
             {
               "id": "u8-listening-be1130b77b9d",
               "word": "fur",
               "meaning": "bộ lông thú",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/fɜːr/",
+              "example": "The speaker says the animals were hunted for their fur.",
+              "exampleTranslation": "Người nói cho biết động vật từng bị săn để lấy lông.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 187, track 66",
+              "exampleId": "u8-ex-037"
             },
             {
               "id": "u8-listening-81029415ddb2",
               "word": "tentacles",
               "meaning": "xúc tu",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈtentəkəlz/",
+              "example": "The octopus has long tentacles and shows bright blue rings when frightened; the speaker describes it as poisonous.",
+              "exampleTranslation": "Bạch tuộc có xúc tu dài và hiện vòng xanh lam sáng khi hoảng sợ; người nói mô tả nó là loài có độc.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 187, track 66",
+              "exampleId": "u8-ex-038"
             },
             {
               "id": "u8-listening-789a1487499d",
               "word": "bright blue rings",
               "meaning": "các vòng màu xanh lam sáng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/braɪt bluː rɪŋz/",
+              "example": "The octopus has long tentacles and shows bright blue rings when frightened; the speaker describes it as poisonous.",
+              "exampleTranslation": "Bạch tuộc có xúc tu dài và hiện vòng xanh lam sáng khi hoảng sợ; người nói mô tả nó là loài có độc.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 187, track 66",
+              "exampleId": "u8-ex-038"
             },
             {
               "id": "u8-listening-1d0dbd158cf2",
               "word": "frightened",
               "meaning": "hoảng sợ",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˈfraɪtənd/",
+              "example": "The octopus has long tentacles and shows bright blue rings when frightened; the speaker describes it as poisonous.",
+              "exampleTranslation": "Bạch tuộc có xúc tu dài và hiện vòng xanh lam sáng khi hoảng sợ; người nói mô tả nó là loài có độc.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 187, track 66",
+              "exampleId": "u8-ex-038"
             },
             {
               "id": "u8-listening-847f5804f3fc",
               "word": "poisonous",
               "meaning": "có độc",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˈpɔɪzənəs/",
+              "example": "The octopus has long tentacles and shows bright blue rings when frightened; the speaker describes it as poisonous.",
+              "exampleTranslation": "Bạch tuộc có xúc tu dài và hiện vòng xanh lam sáng khi hoảng sợ; người nói mô tả nó là loài có độc.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 187, track 66",
+              "exampleId": "u8-ex-038"
             },
             {
               "id": "u8-listening-e45d65054989",
               "word": "desert areas",
               "meaning": "các vùng sa mạc",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈdezərt ˈeriːəz/",
+              "example": "These animals live in desert areas, mountains and valleys, using their tails to balance.",
+              "exampleTranslation": "Những con vật này sống ở vùng sa mạc, núi và thung lũng, dùng đuôi để giữ thăng bằng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 187, track 66",
+              "exampleId": "u8-ex-039"
             },
             {
               "id": "u8-listening-49cbe7e398b5",
               "word": "mountains and valleys",
               "meaning": "núi và thung lũng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈmaʊntənz ənd ˈvæliːz/",
+              "example": "These animals live in desert areas, mountains and valleys, using their tails to balance.",
+              "exampleTranslation": "Những con vật này sống ở vùng sa mạc, núi và thung lũng, dùng đuôi để giữ thăng bằng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 187, track 66",
+              "exampleId": "u8-ex-039"
             },
             {
               "id": "u8-listening-5751e048eb6f",
               "word": "balance",
               "meaning": "giữ thăng bằng",
               "type": "word",
-              "pos": "verb"
+              "pos": "verb",
+              "ipa": "/ˈbæləns/",
+              "example": "These animals live in desert areas, mountains and valleys, using their tails to balance.",
+              "exampleTranslation": "Những con vật này sống ở vùng sa mạc, núi và thung lũng, dùng đuôi để giữ thăng bằng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 187, track 66",
+              "exampleId": "u8-ex-039"
             },
             {
               "id": "u8-listening-b79273ca6210",
               "word": "black and yellow coats",
               "meaning": "bộ lông màu đen và vàng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/blæk ənd ˈjeloʊ koʊts/",
+              "example": "The black and yellow coats help these big cats hide.",
+              "exampleTranslation": "Bộ lông đen và vàng giúp những con thú lớn họ mèo này ẩn nấp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 187, track 66",
+              "exampleId": "u8-ex-040"
             },
             {
               "id": "u8-listening-e7805a534d2b",
               "word": "big cats",
               "meaning": "các loài thú lớn thuộc họ mèo",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/bɪɡ kæts/",
+              "example": "The black and yellow coats help these big cats hide.",
+              "exampleTranslation": "Bộ lông đen và vàng giúp những con thú lớn họ mèo này ẩn nấp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 187, track 66",
+              "exampleId": "u8-ex-040"
             },
             {
               "id": "u8-listening-f051458aa287",
               "word": "strange-looking",
               "meaning": "có hình dáng lạ",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/streɪndʒ ˈlʊkɪŋ/",
+              "example": "The strange-looking deer from south of the tropics has antlers and hooves, and lives partly on land and partly in water.",
+              "exampleTranslation": "Loài hươu có hình dáng lạ ở phía nam vùng nhiệt đới có gạc và móng guốc, sống một phần trên cạn, một phần dưới nước.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 66",
+              "exampleId": "u8-ex-041"
             },
             {
               "id": "u8-listening-c5242fe8e9bb",
               "word": "the tropics",
               "meaning": "vùng nhiệt đới",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðə ˈtrɑːpɪks/",
+              "example": "The strange-looking deer from south of the tropics has antlers and hooves, and lives partly on land and partly in water.",
+              "exampleTranslation": "Loài hươu có hình dáng lạ ở phía nam vùng nhiệt đới có gạc và móng guốc, sống một phần trên cạn, một phần dưới nước.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 66",
+              "exampleId": "u8-ex-041"
             },
             {
               "id": "u8-listening-2c7a6f739431",
               "word": "antlers",
               "meaning": "gạc hươu",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈæntlərz/",
+              "example": "The strange-looking deer from south of the tropics has antlers and hooves, and lives partly on land and partly in water.",
+              "exampleTranslation": "Loài hươu có hình dáng lạ ở phía nam vùng nhiệt đới có gạc và móng guốc, sống một phần trên cạn, một phần dưới nước.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 66",
+              "exampleId": "u8-ex-041"
             },
             {
               "id": "u8-listening-1a1c9da6f16b",
               "word": "hooves",
               "meaning": "móng guốc",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/huːvz/",
+              "example": "The strange-looking deer from south of the tropics has antlers and hooves, and lives partly on land and partly in water.",
+              "exampleTranslation": "Loài hươu có hình dáng lạ ở phía nam vùng nhiệt đới có gạc và móng guốc, sống một phần trên cạn, một phần dưới nước.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 66",
+              "exampleId": "u8-ex-041"
             },
             {
               "id": "u8-listening-67ecb66dc3c6",
               "word": "partly on land",
               "meaning": "một phần trên cạn",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/pɑːrtli ɑːn lænd/",
+              "example": "The strange-looking deer from south of the tropics has antlers and hooves, and lives partly on land and partly in water.",
+              "exampleTranslation": "Loài hươu có hình dáng lạ ở phía nam vùng nhiệt đới có gạc và móng guốc, sống một phần trên cạn, một phần dưới nước.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 66",
+              "exampleId": "u8-ex-041"
             }
           ]
         },
@@ -889,161 +1558,299 @@ export default {
               "word": "originate in",
               "meaning": "có nguồn gốc từ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ərˈɪdʒəˌneɪt ɪn/",
+              "example": "Mountain gorillas originate in Central Africa and live in tropical mountain forests.",
+              "exampleTranslation": "Khỉ đột núi có nguồn gốc từ Trung Phi và sống trong rừng núi nhiệt đới.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 67",
+              "exampleId": "u8-ex-042"
             },
             {
               "id": "u8-listening-51e0d9398822",
               "word": "tropical mountain forests",
               "meaning": "rừng núi nhiệt đới",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈtrɑːpɪkəl ˈmaʊntən ˈfɔːrəsts/",
+              "example": "Mountain gorillas originate in Central Africa and live in tropical mountain forests.",
+              "exampleTranslation": "Khỉ đột núi có nguồn gốc từ Trung Phi và sống trong rừng núi nhiệt đới.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 67",
+              "exampleId": "u8-ex-042"
             },
             {
               "id": "u8-listening-c8dff78dd25e",
               "word": "build nests out of leaves",
               "meaning": "làm tổ bằng lá",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/bɪld nests aʊt əv liːvz/",
+              "example": "They build nests out of leaves on the ground.",
+              "exampleTranslation": "Chúng làm tổ bằng lá trên mặt đất.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 67",
+              "exampleId": "u8-ex-043"
             },
             {
               "id": "u8-listening-9583374a67fa",
               "word": "on the ground",
               "meaning": "trên mặt đất",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn ðə ɡraʊnd/",
+              "example": "They build nests out of leaves on the ground.",
+              "exampleTranslation": "Chúng làm tổ bằng lá trên mặt đất.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 67",
+              "exampleId": "u8-ex-043"
             },
             {
               "id": "u8-listening-0df3197a24d9",
               "word": "physical features",
               "meaning": "các đặc điểm hình thể",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈfɪzɪkəl ˈfiːtʃərz/",
+              "example": "A male gorilla's physical features explain its name: a silverback has grey hair, while a blackback has black hair, an obvious reason for the difference.",
+              "exampleTranslation": "Đặc điểm hình thể giải thích tên gọi khỉ đột đực: silverback có lông xám, còn blackback có lông đen, lý do rõ ràng cho sự khác biệt.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 67",
+              "exampleId": "u8-ex-044"
             },
             {
               "id": "u8-listening-5cf23d794736",
               "word": "male gorilla",
               "meaning": "khỉ đột đực",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/meɪl ɡərˈɪlə/",
+              "example": "A male gorilla's physical features explain its name: a silverback has grey hair, while a blackback has black hair, an obvious reason for the difference.",
+              "exampleTranslation": "Đặc điểm hình thể giải thích tên gọi khỉ đột đực: silverback có lông xám, còn blackback có lông đen, lý do rõ ràng cho sự khác biệt.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 67",
+              "exampleId": "u8-ex-044"
             },
             {
               "id": "u8-listening-29682bb48884",
               "word": "silverback",
               "meaning": "khỉ đột đực trưởng thành có lưng bạc",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈsɪlvərbæk/",
+              "example": "A male gorilla's physical features explain its name: a silverback has grey hair, while a blackback has black hair, an obvious reason for the difference.",
+              "exampleTranslation": "Đặc điểm hình thể giải thích tên gọi khỉ đột đực: silverback có lông xám, còn blackback có lông đen, lý do rõ ràng cho sự khác biệt.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 67",
+              "exampleId": "u8-ex-044"
             },
             {
               "id": "u8-listening-afb59e077c8d",
               "word": "blackback",
               "meaning": "khỉ đột đực trẻ có lưng đen",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈblækbæk/",
+              "example": "A male gorilla's physical features explain its name: a silverback has grey hair, while a blackback has black hair, an obvious reason for the difference.",
+              "exampleTranslation": "Đặc điểm hình thể giải thích tên gọi khỉ đột đực: silverback có lông xám, còn blackback có lông đen, lý do rõ ràng cho sự khác biệt.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 67",
+              "exampleId": "u8-ex-044"
             },
             {
               "id": "u8-listening-43a4d8c46708",
               "word": "an obvious reason",
               "meaning": "một lý do rõ ràng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ən ˈɑːbviːəs ˈriːzən/",
+              "example": "A male gorilla's physical features explain its name: a silverback has grey hair, while a blackback has black hair, an obvious reason for the difference.",
+              "exampleTranslation": "Đặc điểm hình thể giải thích tên gọi khỉ đột đực: silverback có lông xám, còn blackback có lông đen, lý do rõ ràng cho sự khác biệt.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 67",
+              "exampleId": "u8-ex-044"
             },
             {
               "id": "u8-listening-a36c443337b5",
               "word": "diet",
               "meaning": "chế độ ăn",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈdaɪət/",
+              "example": "Gorillas are herbivores and survive on a diet of plants.",
+              "exampleTranslation": "Khỉ đột là động vật ăn thực vật và sống nhờ chế độ ăn thực vật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 67",
+              "exampleId": "u8-ex-045"
             },
             {
               "id": "u8-listening-39c581958f59",
               "word": "herbivores",
               "meaning": "động vật ăn thực vật",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈhɜːrbɪvɔːrz/",
+              "example": "Gorillas are herbivores and survive on a diet of plants.",
+              "exampleTranslation": "Khỉ đột là động vật ăn thực vật và sống nhờ chế độ ăn thực vật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 67",
+              "exampleId": "u8-ex-045"
             },
             {
               "id": "u8-listening-e79c30ac402a",
               "word": "survive on a diet of plants",
               "meaning": "sống nhờ chế độ ăn thực vật",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/sərˈvaɪv ɑːn ə ˈdaɪət əv plænts/",
+              "example": "Gorillas are herbivores and survive on a diet of plants.",
+              "exampleTranslation": "Khỉ đột là động vật ăn thực vật và sống nhờ chế độ ăn thực vật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 67",
+              "exampleId": "u8-ex-045"
             },
             {
               "id": "u8-listening-d8d0944f82b7",
               "word": "occasionally",
               "meaning": "thỉnh thoảng",
               "type": "word",
-              "pos": "adverb"
+              "pos": "adverb",
+              "ipa": "/əˈkeɪʒənəli/",
+              "example": "They occasionally eat insects too, but only when they're very hungry!",
+              "exampleTranslation": "Đôi khi chúng cũng ăn côn trùng, nhưng chỉ khi rất đói!",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 188, track 67",
+              "exampleId": "u8-ex-046"
             },
             {
               "id": "u8-listening-769a2a3dfa59",
               "word": "insects",
               "meaning": "côn trùng",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈɪnˌsekts/",
+              "example": "They occasionally eat insects too, but only when they're very hungry!",
+              "exampleTranslation": "Đôi khi chúng cũng ăn côn trùng, nhưng chỉ khi rất đói!",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 188, track 67",
+              "exampleId": "u8-ex-046"
             },
             {
               "id": "u8-listening-7822d688f87e",
               "word": "a warm climate",
               "meaning": "khí hậu ấm",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə wɔːrm ˈklaɪmət/",
+              "example": "The speaker says gorillas rarely drink water despite living in a warm climate.",
+              "exampleTranslation": "Người nói cho biết khỉ đột hiếm khi uống nước dù sống trong khí hậu ấm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 67",
+              "exampleId": "u8-ex-047"
             },
             {
               "id": "u8-listening-89f1a8029834",
               "word": "threats",
               "meaning": "các mối đe dọa",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/θrets/",
+              "example": "Human activity, such as cutting down trees, creates threats that leave gorillas in serious danger of disappearing.",
+              "exampleTranslation": "Hoạt động con người như chặt cây tạo mối đe dọa khiến khỉ đột có nguy cơ nghiêm trọng biến mất.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 67",
+              "exampleId": "u8-ex-048"
             },
             {
               "id": "u8-listening-1dfc1e2731b2",
               "word": "in serious danger of disappearing",
               "meaning": "có nguy cơ nghiêm trọng biến mất",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn ˈsɪriːəs ˈdeɪndʒər əv ˌdɪsəˈpiːrɪŋ/",
+              "example": "Human activity, such as cutting down trees, creates threats that leave gorillas in serious danger of disappearing.",
+              "exampleTranslation": "Hoạt động con người như chặt cây tạo mối đe dọa khiến khỉ đột có nguy cơ nghiêm trọng biến mất.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 67",
+              "exampleId": "u8-ex-048"
             },
             {
               "id": "u8-listening-500b2e867542",
               "word": "human activity",
               "meaning": "hoạt động của con người",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈhjuːmən ækˈtɪvəti/",
+              "example": "Human activity, such as cutting down trees, creates threats that leave gorillas in serious danger of disappearing.",
+              "exampleTranslation": "Hoạt động con người như chặt cây tạo mối đe dọa khiến khỉ đột có nguy cơ nghiêm trọng biến mất.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 67",
+              "exampleId": "u8-ex-048"
             },
             {
               "id": "u8-listening-a6fe080d1b11",
               "word": "cut down trees",
               "meaning": "chặt cây",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kʌt daʊn triːz/",
+              "example": "Human activity, such as cutting down trees, creates threats that leave gorillas in serious danger of disappearing.",
+              "exampleTranslation": "Hoạt động con người như chặt cây tạo mối đe dọa khiến khỉ đột có nguy cơ nghiêm trọng biến mất.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 67",
+              "exampleId": "u8-ex-048"
             },
             {
               "id": "u8-listening-ba864340e289",
               "word": "close family groups",
               "meaning": "các nhóm gia đình gắn bó",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/kloʊs ˈfæməli ɡruːps/",
+              "example": "Gorillas live in close family groups and also suffer as a result of hunting.",
+              "exampleTranslation": "Khỉ đột sống thành nhóm gia đình gắn bó và cũng chịu tổn hại do săn bắt.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 67",
+              "exampleId": "u8-ex-049"
             },
             {
               "id": "u8-listening-45fd731e282e",
               "word": "suffer as a result of hunting",
               "meaning": "chịu tổn hại do nạn săn bắt",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈsʌfər əz ə riːˈzʌlt əv ˈhʌntɪŋ/",
+              "example": "Gorillas live in close family groups and also suffer as a result of hunting.",
+              "exampleTranslation": "Khỉ đột sống thành nhóm gia đình gắn bó và cũng chịu tổn hại do săn bắt.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 67",
+              "exampleId": "u8-ex-049"
             },
             {
               "id": "u8-listening-ac01fd23bf65",
               "word": "in other words",
               "meaning": "nói cách khác",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn ˈʌðər wɜːrdz/",
+              "example": "They are herbivores; in other words, they eat plants.",
+              "exampleTranslation": "Chúng là động vật ăn thực vật; nói cách khác, chúng ăn cây cỏ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 67",
+              "exampleId": "u8-ex-050"
             },
             {
               "id": "u8-listening-20e6a63b5187",
               "word": "I'd like to conclude by ...",
               "meaning": "Tôi muốn kết thúc bằng việc ...",
               "type": "structure",
-              "pos": "sentence_pattern"
+              "pos": "sentence_pattern",
+              "ipa": "/aɪd laɪk tə kənˈkluːd baɪ …/",
+              "example": "I'd like to conclude by talking about some of the threats that mountain gorillas face.",
+              "exampleTranslation": "Tôi muốn kết thúc bằng việc nói về một số mối đe dọa khỉ đột núi đang đối mặt.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 188, track 67",
+              "exampleId": "u8-ex-051"
             }
           ]
         },
@@ -1058,147 +1865,273 @@ export default {
               "word": "unpopular",
               "meaning": "không được ưa thích",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˌʌnˈpɑːpjələr/",
+              "example": "The unpopular bullfrog was not brought in on purpose; it was accidentally introduced with aquatic plants.",
+              "exampleTranslation": "Loài ếch bò không được ưa thích này không được mang đến cố ý; nó vô tình được đưa vào cùng thực vật thủy sinh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 68",
+              "exampleId": "u8-ex-052"
             },
             {
               "id": "u8-listening-0c75ef2939f3",
               "word": "on purpose",
               "meaning": "cố ý",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn ˈpɜːrpəs/",
+              "example": "The unpopular bullfrog was not brought in on purpose; it was accidentally introduced with aquatic plants.",
+              "exampleTranslation": "Loài ếch bò không được ưa thích này không được mang đến cố ý; nó vô tình được đưa vào cùng thực vật thủy sinh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 68",
+              "exampleId": "u8-ex-052"
             },
             {
               "id": "u8-listening-c764b3fc9e06",
               "word": "aquatic plants",
               "meaning": "thực vật thủy sinh",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/əˈkwætɪk plænts/",
+              "example": "The unpopular bullfrog was not brought in on purpose; it was accidentally introduced with aquatic plants.",
+              "exampleTranslation": "Loài ếch bò không được ưa thích này không được mang đến cố ý; nó vô tình được đưa vào cùng thực vật thủy sinh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 68",
+              "exampleId": "u8-ex-052"
             },
             {
               "id": "u8-listening-11ae5e61badc",
               "word": "accidentally introduced",
               "meaning": "được đưa vào một cách vô tình",
               "type": "phrase",
-              "pos": "participle_phrase"
+              "pos": "participle_phrase",
+              "ipa": "/ˌæksəˈdenəli ˌɪntrəˈduːst/",
+              "example": "The unpopular bullfrog was not brought in on purpose; it was accidentally introduced with aquatic plants.",
+              "exampleTranslation": "Loài ếch bò không được ưa thích này không được mang đến cố ý; nó vô tình được đưa vào cùng thực vật thủy sinh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 68",
+              "exampleId": "u8-ex-052"
             },
             {
               "id": "u8-listening-6d1622d0f2bc",
               "word": "appearance",
               "meaning": "ngoại hình",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/əˈpɪrəns/",
+              "example": "The lecture describes its appearance: a broad and flat head, with females that can weigh up to 750 grams.",
+              "exampleTranslation": "Bài giảng mô tả ngoại hình của nó: đầu rộng và phẳng, với con cái có thể nặng tới 750 gam.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 68",
+              "exampleId": "u8-ex-053"
             },
             {
               "id": "u8-listening-9f165139a8c2",
               "word": "female",
               "meaning": "con cái; thuộc giống cái",
               "type": "word",
-              "pos": "noun_adjective"
+              "pos": "noun_adjective",
+              "ipa": "/ˈfiːˌmeɪl/",
+              "example": "The lecture describes its appearance: a broad and flat head, with females that can weigh up to 750 grams.",
+              "exampleTranslation": "Bài giảng mô tả ngoại hình của nó: đầu rộng và phẳng, với con cái có thể nặng tới 750 gam.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 68",
+              "exampleId": "u8-ex-053"
             },
             {
               "id": "u8-listening-508bb5d18541",
               "word": "weigh up to",
               "meaning": "nặng tới",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/weɪ ʌp tə/",
+              "example": "The lecture describes its appearance: a broad and flat head, with females that can weigh up to 750 grams.",
+              "exampleTranslation": "Bài giảng mô tả ngoại hình của nó: đầu rộng và phẳng, với con cái có thể nặng tới 750 gam.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 68",
+              "exampleId": "u8-ex-053"
             },
             {
               "id": "u8-listening-5173239d44f8",
               "word": "broad and flat",
               "meaning": "rộng và phẳng",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/brɔːd ənd flæt/",
+              "example": "The lecture describes its appearance: a broad and flat head, with females that can weigh up to 750 grams.",
+              "exampleTranslation": "Bài giảng mô tả ngoại hình của nó: đầu rộng và phẳng, với con cái có thể nặng tới 750 gam.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 68",
+              "exampleId": "u8-ex-053"
             },
             {
               "id": "u8-listening-023eca1ec0a3",
               "word": "dark spots",
               "meaning": "các đốm sẫm màu",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/dɑːrk spɑːts/",
+              "example": "Bullfrogs have dark spots, and males and females differ in throat colour and eardrum size.",
+              "exampleTranslation": "Ếch bò có các đốm sẫm màu, và con đực, con cái khác nhau về màu cổ họng và kích thước màng nhĩ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 68",
+              "exampleId": "u8-ex-054"
             },
             {
               "id": "u8-listening-48cf13f481ae",
               "word": "throat",
               "meaning": "cổ họng",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/θroʊt/",
+              "example": "Bullfrogs have dark spots, and males and females differ in throat colour and eardrum size.",
+              "exampleTranslation": "Ếch bò có các đốm sẫm màu, và con đực, con cái khác nhau về màu cổ họng và kích thước màng nhĩ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 68",
+              "exampleId": "u8-ex-054"
             },
             {
               "id": "u8-listening-dcb968e01695",
               "word": "eardrums",
               "meaning": "màng nhĩ",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈɪrdrʌmz/",
+              "example": "Bullfrogs have dark spots, and males and females differ in throat colour and eardrum size.",
+              "exampleTranslation": "Ếch bò có các đốm sẫm màu, và con đực, con cái khác nhau về màu cổ họng và kích thước màng nhĩ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 68",
+              "exampleId": "u8-ex-054"
             },
             {
               "id": "u8-listening-72834bf466cc",
               "word": "native species",
               "meaning": "các loài bản địa",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈneɪtɪv ˈspiːʃiːz/",
+              "example": "They threaten native species because they breed quickly and lay many eggs.",
+              "exampleTranslation": "Chúng đe dọa loài bản địa vì sinh sản nhanh và đẻ nhiều trứng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 68",
+              "exampleId": "u8-ex-055"
             },
             {
               "id": "u8-listening-316e247208d2",
               "word": "breed quickly",
               "meaning": "sinh sản nhanh",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/briːd kwɪkli/",
+              "example": "They threaten native species because they breed quickly and lay many eggs.",
+              "exampleTranslation": "Chúng đe dọa loài bản địa vì sinh sản nhanh và đẻ nhiều trứng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 68",
+              "exampleId": "u8-ex-055"
             },
             {
               "id": "u8-listening-277c35f2a702",
               "word": "lay eggs",
               "meaning": "đẻ trứng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/leɪ eɡz/",
+              "example": "They threaten native species because they breed quickly and lay many eggs.",
+              "exampleTranslation": "Chúng đe dọa loài bản địa vì sinh sản nhanh và đẻ nhiều trứng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 68",
+              "exampleId": "u8-ex-055"
             },
             {
               "id": "u8-listening-370aed697dc5",
               "word": "greedy",
               "meaning": "tham ăn",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ɡriːdi/",
+              "example": "Greedy bullfrogs consume native animals' food sources and can carry a disease.",
+              "exampleTranslation": "Ếch bò tham ăn tiêu thụ nguồn thức ăn của động vật bản địa và có thể mang mầm bệnh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 68",
+              "exampleId": "u8-ex-056"
             },
             {
               "id": "u8-listening-2b239c6e826c",
               "word": "food sources",
               "meaning": "nguồn thức ăn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/fuːd ˈsɔːrsəz/",
+              "example": "Greedy bullfrogs consume native animals' food sources and can carry a disease.",
+              "exampleTranslation": "Ếch bò tham ăn tiêu thụ nguồn thức ăn của động vật bản địa và có thể mang mầm bệnh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 68",
+              "exampleId": "u8-ex-056"
             },
             {
               "id": "u8-listening-2d8c75756283",
               "word": "carry a disease",
               "meaning": "mang mầm bệnh",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kæri ə dɪˈziːz/",
+              "example": "Greedy bullfrogs consume native animals' food sources and can carry a disease.",
+              "exampleTranslation": "Ếch bò tham ăn tiêu thụ nguồn thức ăn của động vật bản địa và có thể mang mầm bệnh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 68",
+              "exampleId": "u8-ex-056"
             },
             {
               "id": "u8-listening-15a6a2ce195a",
               "word": "cause financial damage",
               "meaning": "gây thiệt hại về tài chính",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kɑːz ˌfaɪˈnænʃəl ˈdæmədʒ/",
+              "example": "They cause financial damage because monitoring animals in the wild costs money.",
+              "exampleTranslation": "Chúng gây thiệt hại tài chính vì việc theo dõi động vật trong tự nhiên tốn tiền.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 68",
+              "exampleId": "u8-ex-057"
             },
             {
               "id": "u8-listening-6cd224a5feb4",
               "word": "monitor animals in the wild",
               "meaning": "theo dõi động vật trong tự nhiên",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈmɑːnətər ˈænəməlz ɪn ðə waɪld/",
+              "example": "They cause financial damage because monitoring animals in the wild costs money.",
+              "exampleTranslation": "Chúng gây thiệt hại tài chính vì việc theo dõi động vật trong tự nhiên tốn tiền.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 68",
+              "exampleId": "u8-ex-057"
             },
             {
               "id": "u8-listening-1901c083129f",
               "word": "living species",
               "meaning": "loài sinh vật",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈlɪvɪŋ ˈspiːʃiːz/",
+              "example": "Introducing a living species into a new environment can create problems.",
+              "exampleTranslation": "Đưa một loài sinh vật vào môi trường mới có thể gây vấn đề.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 68",
+              "exampleId": "u8-ex-058"
             },
             {
               "id": "u8-listening-2059e1fe626d",
               "word": "a new environment",
               "meaning": "một môi trường mới",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə njuː ɪnˈvaɪrənmənt/",
+              "example": "Introducing a living species into a new environment can create problems.",
+              "exampleTranslation": "Đưa một loài sinh vật vào môi trường mới có thể gây vấn đề.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 68",
+              "exampleId": "u8-ex-058"
             }
           ]
         },
@@ -1213,161 +2146,299 @@ export default {
               "word": "box jellyfish",
               "meaning": "sứa hộp",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/bɑːks ˈdʒeliːˌfɪʃ/",
+              "example": "Box jellyfish are found in warm coastal seas.",
+              "exampleTranslation": "Sứa hộp được tìm thấy ở vùng biển ven bờ ấm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 69",
+              "exampleId": "u8-ex-059"
             },
             {
               "id": "u8-listening-ba48d4f52c13",
               "word": "warm coastal seas",
               "meaning": "vùng biển ven bờ ấm",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/wɔːrm ˈkoʊstəl siːz/",
+              "example": "Box jellyfish are found in warm coastal seas.",
+              "exampleTranslation": "Sứa hộp được tìm thấy ở vùng biển ven bờ ấm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 69",
+              "exampleId": "u8-ex-059"
             },
             {
               "id": "u8-listening-108cdb5989f7",
               "word": "shaped like a cube",
               "meaning": "có hình khối lập phương",
               "type": "phrase",
-              "pos": "participle_phrase"
+              "pos": "participle_phrase",
+              "ipa": "/ʃeɪpt laɪk ə kjuːb/",
+              "example": "Its light blue body is shaped like a cube with rounded corners.",
+              "exampleTranslation": "Cơ thể màu xanh lam nhạt của nó có hình khối lập phương với các góc bo tròn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 69",
+              "exampleId": "u8-ex-060"
             },
             {
               "id": "u8-listening-d1248574a473",
               "word": "rounded corners",
               "meaning": "các góc bo tròn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈraʊndəd ˈkɔːrnərz/",
+              "example": "Its light blue body is shaped like a cube with rounded corners.",
+              "exampleTranslation": "Cơ thể màu xanh lam nhạt của nó có hình khối lập phương với các góc bo tròn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 69",
+              "exampleId": "u8-ex-060"
             },
             {
               "id": "u8-listening-b7cb9b343353",
               "word": "light blue",
               "meaning": "màu xanh lam nhạt",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/laɪt bluː/",
+              "example": "Its light blue body is shaped like a cube with rounded corners.",
+              "exampleTranslation": "Cơ thể màu xanh lam nhạt của nó có hình khối lập phương với các góc bo tròn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 69",
+              "exampleId": "u8-ex-060"
             },
             {
               "id": "u8-listening-a73ea0cccfbc",
               "word": "grow to a length of",
               "meaning": "phát triển tới chiều dài",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡroʊ tə ə leŋkθ əv/",
+              "example": "Its tentacles can grow to a length of three metres.",
+              "exampleTranslation": "Xúc tu của nó có thể phát triển tới chiều dài ba mét.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 69",
+              "exampleId": "u8-ex-061"
             },
             {
               "id": "u8-listening-04695fa805d6",
               "word": "sting",
               "meaning": "vết chích; chích bằng nọc",
               "type": "word",
-              "pos": "noun_verb"
+              "pos": "noun_verb",
+              "ipa": "/stɪŋ/",
+              "example": "The sting comes from cells in the tentacles that produce a poison.",
+              "exampleTranslation": "Vết chích đến từ các tế bào trong xúc tu tạo ra chất độc.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 69",
+              "exampleId": "u8-ex-062"
             },
             {
               "id": "u8-listening-57104c57fbe0",
               "word": "cells",
               "meaning": "các tế bào",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/selz/",
+              "example": "The sting comes from cells in the tentacles that produce a poison.",
+              "exampleTranslation": "Vết chích đến từ các tế bào trong xúc tu tạo ra chất độc.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 69",
+              "exampleId": "u8-ex-062"
             },
             {
               "id": "u8-listening-903657b500cf",
               "word": "produce a poison",
               "meaning": "tạo ra chất độc",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/prəˈduːs ə ˈpɔɪzən/",
+              "example": "The sting comes from cells in the tentacles that produce a poison.",
+              "exampleTranslation": "Vết chích đến từ các tế bào trong xúc tu tạo ra chất độc.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 69",
+              "exampleId": "u8-ex-062"
             },
             {
               "id": "u8-listening-046e1b2a9cf4",
               "word": "come into contact with",
               "meaning": "tiếp xúc với",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kʌm ˈɪntuː ˈkɑːnˌtækt wɪð/",
+              "example": "When tentacles come into contact with a person, they can stick to the skin.",
+              "exampleTranslation": "Khi xúc tu tiếp xúc với một người, chúng có thể bám vào da.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 69",
+              "exampleId": "u8-ex-063"
             },
             {
               "id": "u8-listening-3fb7973b1969",
               "word": "stick to the skin",
               "meaning": "bám vào da",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/stɪk tə ðə skɪn/",
+              "example": "When tentacles come into contact with a person, they can stick to the skin.",
+              "exampleTranslation": "Khi xúc tu tiếp xúc với một người, chúng có thể bám vào da.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 69",
+              "exampleId": "u8-ex-063"
             },
             {
               "id": "u8-listening-1bdd5b5b92e2",
               "word": "victim",
               "meaning": "nạn nhân",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈvɪktəm/",
+              "example": "The lecture warns that a victim of a severe sting may have a heart attack.",
+              "exampleTranslation": "Bài giảng cảnh báo rằng nạn nhân bị chích nghiêm trọng có thể bị đau tim.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 69",
+              "exampleId": "u8-ex-064"
             },
             {
               "id": "u8-listening-47910ef8cda3",
               "word": "a severe sting",
               "meaning": "vết chích nghiêm trọng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə səˈvɪr stɪŋ/",
+              "example": "The lecture warns that a victim of a severe sting may have a heart attack.",
+              "exampleTranslation": "Bài giảng cảnh báo rằng nạn nhân bị chích nghiêm trọng có thể bị đau tim.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 69",
+              "exampleId": "u8-ex-064"
             },
             {
               "id": "u8-listening-79c379e57a2d",
               "word": "have a heart attack",
               "meaning": "bị đau tim",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/hæv ə hɑːrt əˈtæk/",
+              "example": "The lecture warns that a victim of a severe sting may have a heart attack.",
+              "exampleTranslation": "Bài giảng cảnh báo rằng nạn nhân bị chích nghiêm trọng có thể bị đau tim.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 69",
+              "exampleId": "u8-ex-064"
             },
             {
               "id": "u8-listening-bb17e6bd9cd8",
               "word": "go into shock",
               "meaning": "rơi vào tình trạng sốc",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡoʊ ˈɪntuː ʃɑːk/",
+              "example": "The speaker describes a swimmer going into shock and experiencing extreme pain.",
+              "exampleTranslation": "Người nói mô tả một người bơi rơi vào tình trạng sốc và chịu đau dữ dội.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 69",
+              "exampleId": "u8-ex-065"
             },
             {
               "id": "u8-listening-93a986593e41",
               "word": "extreme pain",
               "meaning": "cơn đau dữ dội",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ekˈstriːm peɪn/",
+              "example": "The speaker describes a swimmer going into shock and experiencing extreme pain.",
+              "exampleTranslation": "Người nói mô tả một người bơi rơi vào tình trạng sốc và chịu đau dữ dội.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 69",
+              "exampleId": "u8-ex-065"
             },
             {
               "id": "u8-listening-34f54b279dd0",
               "word": "revive",
               "meaning": "làm hồi tỉnh; hồi sức",
               "type": "word",
-              "pos": "verb"
+              "pos": "verb",
+              "ipa": "/riːˈvaɪv/",
+              "example": "The final part of the lecture discusses medical help and the need to revive a seriously affected victim.",
+              "exampleTranslation": "Phần cuối bài giảng đề cập đến trợ giúp y tế và nhu cầu hồi sức cho nạn nhân bị ảnh hưởng nghiêm trọng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 69",
+              "exampleId": "u8-ex-066"
             },
             {
               "id": "u8-listening-1bc690684dc2",
               "word": "vinegar",
               "meaning": "giấm",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈvɪnəɡər/",
+              "example": "The speaker mentions bottles of vinegar kept near jellyfish warning signs.",
+              "exampleTranslation": "Người nói đề cập đến các chai giấm được đặt gần biển cảnh báo sứa.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 69",
+              "exampleId": "u8-ex-067"
             },
             {
               "id": "u8-listening-0c3d6918dfe5",
               "word": "warning signs",
               "meaning": "biển cảnh báo",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈwɔːrnɪŋ saɪnz/",
+              "example": "The speaker mentions bottles of vinegar kept near jellyfish warning signs.",
+              "exampleTranslation": "Người nói đề cập đến các chai giấm được đặt gần biển cảnh báo sứa.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 69",
+              "exampleId": "u8-ex-067"
             },
             {
               "id": "u8-listening-07d5a4d60e2c",
               "word": "remove the tentacles",
               "meaning": "gỡ bỏ các xúc tu",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/riːˈmuːv ðə ˈtentəkəlz/",
+              "example": "The lecture discusses removing the tentacles and mentions seawater in relation to easing the pain.",
+              "exampleTranslation": "Bài giảng đề cập đến việc gỡ xúc tu và nhắc đến nước biển khi nói về làm dịu cơn đau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 69",
+              "exampleId": "u8-ex-068"
             },
             {
               "id": "u8-listening-31ed89c71753",
               "word": "seawater",
               "meaning": "nước biển",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈsiːˌwɑːtər/",
+              "example": "The lecture discusses removing the tentacles and mentions seawater in relation to easing the pain.",
+              "exampleTranslation": "Bài giảng đề cập đến việc gỡ xúc tu và nhắc đến nước biển khi nói về làm dịu cơn đau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 69",
+              "exampleId": "u8-ex-068"
             },
             {
               "id": "u8-listening-8a5fe10690a5",
               "word": "ease the pain",
               "meaning": "làm dịu cơn đau",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/iːz ðə peɪn/",
+              "example": "The lecture discusses removing the tentacles and mentions seawater in relation to easing the pain.",
+              "exampleTranslation": "Bài giảng đề cập đến việc gỡ xúc tu và nhắc đến nước biển khi nói về làm dịu cơn đau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 69",
+              "exampleId": "u8-ex-068"
             },
             {
               "id": "u8-listening-69abfd762c75",
               "word": "medical help",
               "meaning": "sự trợ giúp y tế",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈmedəkəl help/",
+              "example": "The final part of the lecture discusses medical help and the need to revive a seriously affected victim.",
+              "exampleTranslation": "Phần cuối bài giảng đề cập đến trợ giúp y tế và nhu cầu hồi sức cho nạn nhân bị ảnh hưởng nghiêm trọng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 188, track 69",
+              "exampleId": "u8-ex-066"
             }
           ]
         }
@@ -1389,7 +2460,13 @@ export default {
               "word": "wild animal",
               "meaning": "động vật hoang dã",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/waɪld ˈænəməl/",
+              "example": "The Arabian leopard is a wild animal with a spotted coat.",
+              "exampleTranslation": "Báo hoa mai Ả Rập là động vật hoang dã có bộ lông đốm.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 156, 162, animal description practice",
+              "exampleId": "u8-ex-069"
             },
             {
               "id": "u8-speaking-bd53d5d045f8",
@@ -1397,9 +2474,12 @@ export default {
               "meaning": "báo hoa mai Ả Rập",
               "type": "phrase",
               "pos": "noun_phrase",
-              "ipa": "/əˈreɪbiən ˈlɛpərd/",
-              "example": "The Arabian leopard lives in mountainous areas.",
-              "exampleTranslation": "Báo hoa mai Ả Rập sống ở những vùng núi."
+              "ipa": "/əˈreɪbiːən ˈlepərd/",
+              "example": "The Arabian leopard is a wild animal with a spotted coat.",
+              "exampleTranslation": "Báo hoa mai Ả Rập là động vật hoang dã có bộ lông đốm.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 156, 162, animal description practice",
+              "exampleId": "u8-ex-069"
             },
             {
               "id": "u8-speaking-5639a11a6bd8",
@@ -1407,9 +2487,12 @@ export default {
               "meaning": "bạch tuộc vòng xanh",
               "type": "phrase",
               "pos": "noun_phrase",
-              "ipa": "/ˌbluː rɪŋd ˈɑːktəpəs/",
-              "example": "The blue-ringed octopus has bright blue rings.",
-              "exampleTranslation": "Bạch tuộc vòng xanh có những vòng màu xanh sáng."
+              "ipa": "/bluː rɪŋd ˈɑːktəˌpʊs/",
+              "example": "The blue-ringed octopus shows bright rings when frightened.",
+              "exampleTranslation": "Bạch tuộc vòng xanh hiện những vòng sáng khi hoảng sợ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 156, 187, track 66",
+              "exampleId": "u8-ex-070"
             },
             {
               "id": "u8-speaking-0d3397263cf2",
@@ -1417,9 +2500,12 @@ export default {
               "meaning": "khỉ đột núi",
               "type": "phrase",
               "pos": "noun_phrase",
-              "ipa": "/ˈmaʊntən ɡəˈrɪlə/",
-              "example": "The mountain gorilla lives in mountain forests.",
-              "exampleTranslation": "Khỉ đột núi sống trong các khu rừng trên núi."
+              "ipa": "/ˈmaʊntən ɡərˈɪlə/",
+              "example": "The mountain gorilla has a thick coat of fur.",
+              "exampleTranslation": "Khỉ đột núi có bộ lông dày.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 156, 188, track 67",
+              "exampleId": "u8-ex-071"
             },
             {
               "id": "u8-speaking-5d95dd809f55",
@@ -1428,8 +2514,11 @@ export default {
               "type": "phrase",
               "pos": "noun_phrase",
               "ipa": "/per ˈdeɪvɪdz dɪr/",
-              "example": "Père David's deer have long tails.",
-              "exampleTranslation": "Hươu Père David có đuôi dài."
+              "example": "Père David's deer has antlers like a deer and hooves like a cow.",
+              "exampleTranslation": "Hươu Père David có gạc giống hươu và móng guốc giống bò.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 156, 188, track 66",
+              "exampleId": "u8-ex-072"
             },
             {
               "id": "u8-speaking-acf5bfd986de",
@@ -1438,8 +2527,11 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/dɪr/",
-              "example": "The deer ran through the forest.",
-              "exampleTranslation": "Con hươu chạy qua rừng."
+              "example": "The deer has hard antlers on its head.",
+              "exampleTranslation": "Con hươu có gạc cứng trên đầu.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 161, animal description practice",
+              "exampleId": "u8-ex-073"
             },
             {
               "id": "u8-speaking-e73b48f750be",
@@ -1447,9 +2539,12 @@ export default {
               "meaning": "đại bàng",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ˈiːɡl/",
-              "example": "The eagle soared through the sky.",
-              "exampleTranslation": "Đại bàng bay lượn trên bầu trời."
+              "ipa": "/ˈiːɡəl/",
+              "example": "An eagle uses its big claws to catch prey.",
+              "exampleTranslation": "Đại bàng dùng móng vuốt lớn để bắt con mồi.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 161, animal description practice",
+              "exampleId": "u8-ex-074"
             },
             {
               "id": "u8-speaking-1992c8e0a6a1",
@@ -1457,9 +2552,12 @@ export default {
               "meaning": "móng vuốt lớn",
               "type": "phrase",
               "pos": "noun_phrase",
-              "ipa": "/bɪɡ klɔz/",
-              "example": "The big claws of the bear were sharp.",
-              "exampleTranslation": "Móng vuốt lớn của con gấu rất sắc nhọn."
+              "ipa": "/bɪɡ klɔːz/",
+              "example": "An eagle uses its big claws to catch prey.",
+              "exampleTranslation": "Đại bàng dùng móng vuốt lớn để bắt con mồi.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 161, animal description practice",
+              "exampleId": "u8-ex-074"
             },
             {
               "id": "u8-speaking-315e86e8a070",
@@ -1467,9 +2565,12 @@ export default {
               "meaning": "vây dài",
               "type": "phrase",
               "pos": "noun_phrase",
-              "ipa": "/lɔŋ fɪn/",
-              "example": "The long fin of the shark was visible above the water.",
-              "exampleTranslation": "Vây dài của con cá mập có thể nhìn thấy trên mặt nước."
+              "ipa": "/lɔːŋ fɪn/",
+              "example": "The dolphin swims underwater, and its long fin helps control its movement.",
+              "exampleTranslation": "Cá heo bơi dưới nước, và chiếc vây dài giúp điều khiển chuyển động.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 161, animal description practice",
+              "exampleId": "u8-ex-075"
             },
             {
               "id": "u8-speaking-371e840f3684",
@@ -1478,8 +2579,11 @@ export default {
               "type": "phrase",
               "pos": "noun_phrase",
               "ipa": "/raʊnd hʌmp/",
-              "example": "The round hump on the camel’s back was used for storing fat.",
-              "exampleTranslation": "Gù tròn trên lưng của con lạc đà được sử dụng để tích trữ chất béo."
+              "example": "The camel in the picture has a round hump.",
+              "exampleTranslation": "Con lạc đà trong hình có bướu tròn.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 161, animal description practice",
+              "exampleId": "u8-ex-076"
             },
             {
               "id": "u8-speaking-6c3ca5c25572",
@@ -1487,9 +2591,12 @@ export default {
               "meaning": "gạc cứng",
               "type": "phrase",
               "pos": "noun_phrase",
-              "ipa": "/hɑrd ˈæntlərz/",
+              "ipa": "/hɑːrd ˈæntlərz/",
               "example": "The deer has hard antlers on its head.",
-              "exampleTranslation": "Con hươu có cặp gạc cứng trên đầu."
+              "exampleTranslation": "Con hươu có gạc cứng trên đầu.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 161, animal description practice",
+              "exampleId": "u8-ex-073"
             },
             {
               "id": "u8-speaking-8732d6327e25",
@@ -1497,65 +2604,116 @@ export default {
               "meaning": "dưới nước",
               "type": "word",
               "pos": "adverb",
-              "ipa": "/ˌʌndərˈwɔːtər/",
-              "example": "The fish swam underwater for hours.",
-              "exampleTranslation": "Con cá bơi dưới nước trong vài giờ."
+              "ipa": "/ˈʌndərˌwɔːtər/",
+              "example": "The dolphin swims underwater, and its long fin helps control its movement.",
+              "exampleTranslation": "Cá heo bơi dưới nước, và chiếc vây dài giúp điều khiển chuyển động.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 161, animal description practice",
+              "exampleId": "u8-ex-075"
             },
             {
               "id": "u8-speaking-e48ad2729c14",
               "word": "plains",
               "meaning": "đồng bằng; vùng đất bằng phẳng rộng",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/pleɪnz/",
+              "example": "A rhino with a large horn walks across the plains.",
+              "exampleTranslation": "Một con tê giác có sừng lớn đi qua vùng đồng bằng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 162, animal description practice",
+              "exampleId": "u8-ex-077"
             },
             {
               "id": "u8-speaking-11d9238cc5ea",
               "word": "a thick coat of fur",
               "meaning": "bộ lông dày",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə θɪk koʊt əv fɜːr/",
+              "example": "The mountain gorilla has a thick coat of fur.",
+              "exampleTranslation": "Khỉ đột núi có bộ lông dày.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 156, 188, track 67",
+              "exampleId": "u8-ex-071"
             },
             {
               "id": "u8-speaking-9543098f1704",
               "word": "horn",
               "meaning": "sừng",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/hɔːrn/",
+              "example": "A rhino with a large horn walks across the plains.",
+              "exampleTranslation": "Một con tê giác có sừng lớn đi qua vùng đồng bằng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 162, animal description practice",
+              "exampleId": "u8-ex-077"
             },
             {
               "id": "u8-speaking-91ed2ef15eee",
               "word": "jungle",
               "meaning": "rừng rậm",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈdʒʌŋɡəl/",
+              "example": "The elephant uses its trunk to reach leaves in the jungle.",
+              "exampleTranslation": "Voi dùng vòi để với lá trong rừng rậm.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 162, animal description practice",
+              "exampleId": "u8-ex-078"
             },
             {
               "id": "u8-speaking-3e341d2d9c67",
               "word": "trunk",
               "meaning": "vòi voi",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/trʌŋk/",
+              "example": "The elephant uses its trunk to reach leaves in the jungle.",
+              "exampleTranslation": "Voi dùng vòi để với lá trong rừng rậm.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 162, animal description practice",
+              "exampleId": "u8-ex-078"
             },
             {
               "id": "u8-speaking-1723815524e4",
               "word": "a long tail",
               "meaning": "đuôi dài",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə lɔːŋ teɪl/",
+              "example": "The tiger has a long tail and sharp teeth.",
+              "exampleTranslation": "Hổ có đuôi dài và răng sắc.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 162, animal description practice",
+              "exampleId": "u8-ex-079"
             },
             {
               "id": "u8-speaking-f6f13baa12fc",
               "word": "sharp teeth",
               "meaning": "răng sắc",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ʃɑːrp tiːθ/",
+              "example": "The tiger has a long tail and sharp teeth.",
+              "exampleTranslation": "Hổ có đuôi dài và răng sắc.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 162, animal description practice",
+              "exampleId": "u8-ex-079"
             },
             {
               "id": "u8-speaking-cb35012cecca",
               "word": "brightly coloured feathers",
               "meaning": "bộ lông vũ sặc sỡ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/braɪtli ˈkʌlərd ˈfeðərz/",
+              "example": "The parrot is easily recognised by its brightly coloured feathers.",
+              "exampleTranslation": "Có thể dễ dàng nhận ra con vẹt nhờ bộ lông vũ sặc sỡ.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 162, animal description practice",
+              "exampleId": "u8-ex-080"
             }
           ]
         },
@@ -1570,175 +2728,325 @@ export default {
               "word": "prevent illegal hunting",
               "meaning": "ngăn chặn săn bắt trái phép",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/priːˈvent ˌɪˈliːɡəl ˈhʌntɪŋ/",
+              "example": "Governments can prevent illegal hunting by punishing hunters more seriously.",
+              "exampleTranslation": "Chính phủ có thể ngăn săn bắt trái phép bằng cách xử phạt người săn bắt nghiêm hơn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 189, track 70",
+              "exampleId": "u8-ex-081"
             },
             {
               "id": "u8-speaking-cb0cf95e5f24",
               "word": "punish hunters",
               "meaning": "trừng phạt người săn bắt",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈpʌnɪʃ ˈhʌntərz/",
+              "example": "Governments can prevent illegal hunting by punishing hunters more seriously.",
+              "exampleTranslation": "Chính phủ có thể ngăn săn bắt trái phép bằng cách xử phạt người săn bắt nghiêm hơn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 189, track 70",
+              "exampleId": "u8-ex-081"
             },
             {
               "id": "u8-speaking-efc96b5b63dd",
               "word": "provide money for zoos",
               "meaning": "cấp kinh phí cho vườn thú",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/prəˈvaɪd mʌni fər zuːz/",
+              "example": "The student thinks governments should provide money for zoos with old facilities.",
+              "exampleTranslation": "Học sinh cho rằng chính phủ nên cấp kinh phí cho vườn thú có cơ sở vật chất cũ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 189, track 70",
+              "exampleId": "u8-ex-082"
             },
             {
               "id": "u8-speaking-c65da82b5047",
               "word": "track wild animals",
               "meaning": "theo dõi vị trí động vật hoang dã",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/træk waɪld ˈænəməlz/",
+              "example": "Technology can track wild animals, while field trips help children see them in person.",
+              "exampleTranslation": "Công nghệ có thể theo dõi vị trí động vật hoang dã, còn chuyến học tập thực địa giúp trẻ nhìn thấy chúng trực tiếp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 189, track 70",
+              "exampleId": "u8-ex-083"
             },
             {
               "id": "u8-speaking-f99b1d2f24dd",
               "word": "field trips",
               "meaning": "các chuyến học tập thực địa",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/fiːld trɪps/",
+              "example": "Technology can track wild animals, while field trips help children see them in person.",
+              "exampleTranslation": "Công nghệ có thể theo dõi vị trí động vật hoang dã, còn chuyến học tập thực địa giúp trẻ nhìn thấy chúng trực tiếp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 189, track 70",
+              "exampleId": "u8-ex-083"
             },
             {
               "id": "u8-speaking-74892559f563",
               "word": "animal products",
               "meaning": "các sản phẩm từ động vật",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈænəməl ˈprɑːdəks/",
+              "example": "If people stop buying animal products such as real animal fur, demand drops.",
+              "exampleTranslation": "Nếu mọi người ngừng mua sản phẩm động vật như lông thú thật, nhu cầu sẽ giảm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 189, track 71",
+              "exampleId": "u8-ex-084"
             },
             {
               "id": "u8-speaking-45ff5697d2ca",
               "word": "real animal fur",
               "meaning": "lông thú thật",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/riːl ˈænəməl fɜːr/",
+              "example": "If people stop buying animal products such as real animal fur, demand drops.",
+              "exampleTranslation": "Nếu mọi người ngừng mua sản phẩm động vật như lông thú thật, nhu cầu sẽ giảm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 189, track 71",
+              "exampleId": "u8-ex-084"
             },
             {
               "id": "u8-speaking-4ab4c967cf34",
               "word": "demand drops",
               "meaning": "nhu cầu giảm",
               "type": "phrase",
-              "pos": "expression"
+              "pos": "expression",
+              "ipa": "/dɪˈmænd drɑːps/",
+              "example": "If people stop buying animal products such as real animal fur, demand drops.",
+              "exampleTranslation": "Nếu mọi người ngừng mua sản phẩm động vật như lông thú thật, nhu cầu sẽ giảm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 189, track 71",
+              "exampleId": "u8-ex-084"
             },
             {
               "id": "u8-speaking-e108219dda61",
               "word": "become extinct",
               "meaning": "tuyệt chủng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/bɪˈkʌm ɪkˈstɪŋkt/",
+              "example": "The student worries that more animals may become extinct.",
+              "exampleTranslation": "Học sinh lo rằng thêm nhiều loài có thể tuyệt chủng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 189, track 71",
+              "exampleId": "u8-ex-085"
             },
             {
               "id": "u8-speaking-46a4c52b64ce",
               "word": "keep a pet",
               "meaning": "nuôi thú cưng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kiːp ə pet/",
+              "example": "Keeping a pet and looking after it can teach children responsibility, trust and patience.",
+              "exampleTranslation": "Nuôi và chăm sóc thú cưng có thể dạy trẻ tinh thần trách nhiệm, sự tin cậy và kiên nhẫn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 164–165",
+              "exampleId": "u8-ex-086"
             },
             {
               "id": "u8-speaking-7cf17b43a128",
               "word": "look after pets",
               "meaning": "chăm sóc thú cưng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/lʊk ˈæftər pets/",
+              "example": "Keeping a pet and looking after it can teach children responsibility, trust and patience.",
+              "exampleTranslation": "Nuôi và chăm sóc thú cưng có thể dạy trẻ tinh thần trách nhiệm, sự tin cậy và kiên nhẫn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 164–165",
+              "exampleId": "u8-ex-086"
             },
             {
               "id": "u8-speaking-c5f88e747d24",
               "word": "responsibility",
               "meaning": "tinh thần trách nhiệm",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/riːˌspɑːnsəˈbɪləti/",
+              "example": "Keeping a pet and looking after it can teach children responsibility, trust and patience.",
+              "exampleTranslation": "Nuôi và chăm sóc thú cưng có thể dạy trẻ tinh thần trách nhiệm, sự tin cậy và kiên nhẫn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 164–165",
+              "exampleId": "u8-ex-086"
             },
             {
               "id": "u8-speaking-f796e2f28ae5",
               "word": "trust",
               "meaning": "sự tin cậy",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/trʌst/",
+              "example": "Keeping a pet and looking after it can teach children responsibility, trust and patience.",
+              "exampleTranslation": "Nuôi và chăm sóc thú cưng có thể dạy trẻ tinh thần trách nhiệm, sự tin cậy và kiên nhẫn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 164–165",
+              "exampleId": "u8-ex-086"
             },
             {
               "id": "u8-speaking-96d61fe343dd",
               "word": "patience",
               "meaning": "sự kiên nhẫn",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈpeɪʃəns/",
+              "example": "Keeping a pet and looking after it can teach children responsibility, trust and patience.",
+              "exampleTranslation": "Nuôi và chăm sóc thú cưng có thể dạy trẻ tinh thần trách nhiệm, sự tin cậy và kiên nhẫn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 164–165",
+              "exampleId": "u8-ex-086"
             },
             {
               "id": "u8-speaking-4dc53ebcd4e7",
               "word": "risky",
               "meaning": "có rủi ro",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/rɪski/",
+              "example": "Keeping dangerous wild animals as pets can be risky and unnatural.",
+              "exampleTranslation": "Nuôi động vật hoang dã nguy hiểm làm thú cưng có thể có rủi ro và không tự nhiên.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 164",
+              "exampleId": "u8-ex-087"
             },
             {
               "id": "u8-speaking-73eab8de5c94",
               "word": "unnatural",
               "meaning": "không tự nhiên",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ənˈnætʃərəl/",
+              "example": "Keeping dangerous wild animals as pets can be risky and unnatural.",
+              "exampleTranslation": "Nuôi động vật hoang dã nguy hiểm làm thú cưng có thể có rủi ro và không tự nhiên.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 164",
+              "exampleId": "u8-ex-087"
             },
             {
               "id": "u8-speaking-4b529ac375b4",
               "word": "friendship",
               "meaning": "tình bạn; sự gắn bó",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈfrendʃɪp/",
+              "example": "Pets offer friendship, but caring for them can sometimes be inconvenient.",
+              "exampleTranslation": "Thú cưng đem lại sự gắn bó, nhưng chăm sóc chúng đôi khi có thể bất tiện.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 164",
+              "exampleId": "u8-ex-088"
             },
             {
               "id": "u8-speaking-85dc74c5b564",
               "word": "inconvenient",
               "meaning": "bất tiện",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˌɪnkənˈviːnjənt/",
+              "example": "Pets offer friendship, but caring for them can sometimes be inconvenient.",
+              "exampleTranslation": "Thú cưng đem lại sự gắn bó, nhưng chăm sóc chúng đôi khi có thể bất tiện.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 164",
+              "exampleId": "u8-ex-088"
             },
             {
               "id": "u8-speaking-baebe0b6aeb1",
               "word": "gadgets",
               "meaning": "thiết bị nhỏ, tiện ích công nghệ",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈɡædʒəts/",
+              "example": "The discussion asks whether gadgets and robots might replace pets.",
+              "exampleTranslation": "Phần thảo luận hỏi liệu thiết bị công nghệ và robot có thể thay thế thú cưng không.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 164",
+              "exampleId": "u8-ex-089"
             },
             {
               "id": "u8-speaking-ba4c22f4b537",
               "word": "release animals",
               "meaning": "thả động vật",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/riːˈliːs ˈænəməlz/",
+              "example": "Conservation programmes can release animals and monitor them in the wild.",
+              "exampleTranslation": "Chương trình bảo tồn có thể thả động vật và theo dõi chúng trong tự nhiên.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 164",
+              "exampleId": "u8-ex-090"
             },
             {
               "id": "u8-speaking-a7ca04a153f8",
               "word": "monitor in the wild",
               "meaning": "theo dõi trong môi trường tự nhiên",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈmɑːnətər ɪn ðə waɪld/",
+              "example": "Conservation programmes can release animals and monitor them in the wild.",
+              "exampleTranslation": "Chương trình bảo tồn có thể thả động vật và theo dõi chúng trong tự nhiên.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 164",
+              "exampleId": "u8-ex-090"
             },
             {
               "id": "u8-speaking-634656783427",
               "word": "cages",
               "meaning": "chuồng; lồng",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈkeɪdʒɪz/",
+              "example": "Zoos can be educational, although cages may be unsuitable for animals.",
+              "exampleTranslation": "Vườn thú có thể có tính giáo dục, dù chuồng có thể không phù hợp với động vật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 164",
+              "exampleId": "u8-ex-091"
             },
             {
               "id": "u8-speaking-cbedbde861ac",
               "word": "educational",
               "meaning": "có tính giáo dục",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˌedʒəˈkeɪʃənəl/",
+              "example": "Zoos can be educational, although cages may be unsuitable for animals.",
+              "exampleTranslation": "Vườn thú có thể có tính giáo dục, dù chuồng có thể không phù hợp với động vật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 164",
+              "exampleId": "u8-ex-091"
             },
             {
               "id": "u8-speaking-aa6bb3d7c796",
               "word": "better conditions",
               "meaning": "điều kiện tốt hơn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈbetər kənˈdɪʃənz/",
+              "example": "Modern zoos aim for better conditions and improved animal welfare.",
+              "exampleTranslation": "Vườn thú hiện đại hướng đến điều kiện tốt hơn và cải thiện phúc lợi động vật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 164",
+              "exampleId": "u8-ex-092"
             },
             {
               "id": "u8-speaking-dcb4e335470c",
               "word": "animal welfare",
               "meaning": "phúc lợi động vật",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈænəməl ˈwelˌfer/",
+              "example": "Modern zoos aim for better conditions and improved animal welfare.",
+              "exampleTranslation": "Vườn thú hiện đại hướng đến điều kiện tốt hơn và cải thiện phúc lợi động vật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 164",
+              "exampleId": "u8-ex-092"
             }
           ]
         },
@@ -1754,7 +3062,12 @@ export default {
               "meaning": "Có thể dễ dàng nhận ra nó nhờ ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "It is easily recognised by its black and white fur."
+              "ipa": "/ɪt ɪz ˈiːzəli ˈrekəɡˌnaɪzd baɪ …/",
+              "example": "It is easily recognised by its black and white fur.",
+              "exampleTranslation": "Có thể dễ dàng nhận ra nó nhờ bộ lông đen trắng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 161–165; TB pp. 79–80",
+              "exampleId": "u8-ex-093"
             },
             {
               "id": "u8-speaking-394979c0b64b",
@@ -1762,7 +3075,12 @@ export default {
               "meaning": "Nó chủ yếu ăn ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "It mainly feeds on leaves and fruit."
+              "ipa": "/ɪt meɪnli fiːdz ɑːn …/",
+              "example": "It mainly feeds on leaves and fruit.",
+              "exampleTranslation": "Nó chủ yếu ăn lá và trái cây.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 161–165; TB pp. 79–80",
+              "exampleId": "u8-ex-094"
             },
             {
               "id": "u8-speaking-6bd613fbd42f",
@@ -1770,7 +3088,12 @@ export default {
               "meaning": "Môi trường sống tự nhiên của nó là ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "Its natural habitat is tropical forest."
+              "ipa": "/ɪts ˈnætʃərəl ˈhæbəˌtæt ɪz …/",
+              "example": "Its natural habitat is tropical forest.",
+              "exampleTranslation": "Môi trường sống tự nhiên của nó là rừng nhiệt đới.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 161–165; TB pp. 79–80",
+              "exampleId": "u8-ex-095"
             },
             {
               "id": "u8-speaking-1d74dc6528cd",
@@ -1778,7 +3101,12 @@ export default {
               "meaning": "Theo tôi thì ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "It seems to me that children benefit from caring for pets."
+              "ipa": "/ɪt siːmz tə mi ðæt …/",
+              "example": "It seems to me that children benefit from caring for pets.",
+              "exampleTranslation": "Theo tôi, trẻ em được hưởng lợi từ việc chăm sóc thú cưng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 161–165; TB pp. 79–80",
+              "exampleId": "u8-ex-096"
             },
             {
               "id": "u8-speaking-d0d00a56282d",
@@ -1786,7 +3114,12 @@ export default {
               "meaning": "Một cách thiết thực để bảo vệ động vật hoang dã là ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "One practical way to protect wildlife is to preserve forests."
+              "ipa": "/wʌn ˈpræktəkəl weɪ tə prəˈtekt ˈwaɪldˌlaɪf ɪz tə …/",
+              "example": "One practical way to protect wildlife is to preserve forests.",
+              "exampleTranslation": "Một cách thiết thực để bảo vệ động vật hoang dã là bảo tồn rừng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 161–165; TB pp. 79–80",
+              "exampleId": "u8-ex-097"
             },
             {
               "id": "u8-speaking-da0ae13f330e",
@@ -1794,7 +3127,12 @@ export default {
               "meaning": "Lý do tôi nói vậy là ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "The reason I say this is that animals need space to live naturally."
+              "ipa": "/ðə ˈriːzən aɪ seɪ ðɪs ɪz ðæt …/",
+              "example": "The reason I say this is that animals need space to live naturally.",
+              "exampleTranslation": "Lý do tôi nói vậy là động vật cần không gian để sống tự nhiên.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 161–165; TB pp. 79–80",
+              "exampleId": "u8-ex-098"
             },
             {
               "id": "u8-speaking-42898efcc978",
@@ -1802,14 +3140,25 @@ export default {
               "meaning": "Nếu không hành động, ... có thể ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "If nothing is done, more species may disappear."
+              "ipa": "/ɪf ˈnʌθɪŋ ɪz dʌn … meɪ …/",
+              "example": "If nothing is done, more species may disappear.",
+              "exampleTranslation": "Nếu không hành động, thêm nhiều loài có thể biến mất.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 161–165; TB pp. 79–80",
+              "exampleId": "u8-ex-099"
             },
             {
               "id": "u8-speaking-cb93907435c7",
               "word": "responsible pet ownership",
               "meaning": "việc nuôi thú cưng có trách nhiệm",
               "type": "collocation",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/riːˈspɑːnsəbəl pet ˈoʊnərˌʃɪp/",
+              "example": "Responsible pet ownership includes providing food, exercise and suitable care.",
+              "exampleTranslation": "Nuôi thú cưng có trách nhiệm bao gồm cung cấp thức ăn, vận động và sự chăm sóc phù hợp.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 161–165; TB pp. 79–80",
+              "exampleId": "u8-ex-100"
             }
           ]
         }
@@ -1831,245 +3180,455 @@ export default {
               "word": "endangered species",
               "meaning": "các loài có nguy cơ tuyệt chủng",
               "type": "collocation",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/enˈdeɪndʒərd ˈspiːʃiːz/",
+              "example": "Loss of natural habitats is a continuing threat to endangered species.",
+              "exampleTranslation": "Mất môi trường sống tự nhiên là mối đe dọa liên tục đối với loài có nguy cơ tuyệt chủng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 152",
+              "exampleId": "u8-ex-101"
             },
             {
               "id": "u8-writing-79686ca3c3ac",
               "word": "air pollution",
               "meaning": "ô nhiễm không khí",
               "type": "collocation",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/er pəˈluːʃən/",
+              "example": "Air pollution seriously affects people living in cities.",
+              "exampleTranslation": "Ô nhiễm không khí ảnh hưởng nghiêm trọng đến người sống ở thành phố.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 152",
+              "exampleId": "u8-ex-102"
             },
             {
               "id": "u8-writing-6750cb68b37e",
               "word": "renewable energy",
               "meaning": "năng lượng tái tạo",
               "type": "collocation",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/riːˈnuːəbəl ˈenərdʒi/",
+              "example": "The writer suggests replacing fossil fuels with renewable energy and other clean sources of energy.",
+              "exampleTranslation": "Người viết đề nghị thay nhiên liệu hóa thạch bằng năng lượng tái tạo và các nguồn năng lượng sạch khác.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 152",
+              "exampleId": "u8-ex-103"
             },
             {
               "id": "u8-writing-647dc3cc1bc0",
               "word": "natural habitats",
               "meaning": "môi trường sống tự nhiên",
               "type": "collocation",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈnætʃərəl ˈhæbəˌtæts/",
+              "example": "Loss of natural habitats is a continuing threat to endangered species.",
+              "exampleTranslation": "Mất môi trường sống tự nhiên là mối đe dọa liên tục đối với loài có nguy cơ tuyệt chủng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 152",
+              "exampleId": "u8-ex-101"
             },
             {
               "id": "u8-writing-41a40ce559ef",
               "word": "global warming",
               "meaning": "sự nóng lên toàn cầu",
               "type": "collocation",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈɡloʊbəl ˈwɔːrmɪŋ/",
+              "example": "Global warming is causing sea temperatures to rise.",
+              "exampleTranslation": "Sự nóng lên toàn cầu đang khiến nhiệt độ nước biển tăng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 152",
+              "exampleId": "u8-ex-104"
             },
             {
               "id": "u8-writing-76b28877d3c6",
               "word": "fossil fuels",
               "meaning": "nhiên liệu hóa thạch",
               "type": "collocation",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈfɑːsəl ˈfjuːəlz/",
+              "example": "The writer suggests replacing fossil fuels with renewable energy and other clean sources of energy.",
+              "exampleTranslation": "Người viết đề nghị thay nhiên liệu hóa thạch bằng năng lượng tái tạo và các nguồn năng lượng sạch khác.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 152",
+              "exampleId": "u8-ex-103"
             },
             {
               "id": "u8-writing-dda269985c74",
               "word": "sea temperatures",
               "meaning": "nhiệt độ nước biển",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/si ˈtempərətʃərz/",
+              "example": "Global warming is causing sea temperatures to rise.",
+              "exampleTranslation": "Sự nóng lên toàn cầu đang khiến nhiệt độ nước biển tăng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 152",
+              "exampleId": "u8-ex-104"
             },
             {
               "id": "u8-writing-fbb4485b6366",
               "word": "take action",
               "meaning": "hành động",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/teɪk ˈækʃən/",
+              "example": "If we do not take action, more species may become endangered.",
+              "exampleTranslation": "Nếu không hành động, thêm nhiều loài có thể trở nên có nguy cơ tuyệt chủng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 152",
+              "exampleId": "u8-ex-105"
             },
             {
               "id": "u8-writing-c1c51776c80b",
               "word": "clean sources of energy",
               "meaning": "các nguồn năng lượng sạch",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/kliːn ˈsɔːrsəz əv ˈenərdʒi/",
+              "example": "The writer suggests replacing fossil fuels with renewable energy and other clean sources of energy.",
+              "exampleTranslation": "Người viết đề nghị thay nhiên liệu hóa thạch bằng năng lượng tái tạo và các nguồn năng lượng sạch khác.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 152",
+              "exampleId": "u8-ex-103"
             },
             {
               "id": "u8-writing-ef5988103d7b",
               "word": "recycle",
               "meaning": "tái chế",
               "type": "word",
-              "pos": "verb"
+              "pos": "verb",
+              "ipa": "/riːˈsaɪkəl/",
+              "example": "We can recycle, maintain vehicles properly and prevent damage to the environment for future generations.",
+              "exampleTranslation": "Chúng ta có thể tái chế, bảo dưỡng phương tiện đúng cách và ngăn tổn hại môi trường vì các thế hệ tương lai.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 153",
+              "exampleId": "u8-ex-106"
             },
             {
               "id": "u8-writing-02a9a2efbbad",
               "word": "maintain vehicles properly",
               "meaning": "bảo dưỡng phương tiện đúng cách",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/meɪnˈteɪn ˈviːhɪkəlz ˈprɑːpərli/",
+              "example": "We can recycle, maintain vehicles properly and prevent damage to the environment for future generations.",
+              "exampleTranslation": "Chúng ta có thể tái chế, bảo dưỡng phương tiện đúng cách và ngăn tổn hại môi trường vì các thế hệ tương lai.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 153",
+              "exampleId": "u8-ex-106"
             },
             {
               "id": "u8-writing-f489f1b016d3",
               "word": "prevent damage to the environment",
               "meaning": "ngăn tổn hại cho môi trường",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/priːˈvent ˈdæmədʒ tə ðə ɪnˈvaɪrənmənt/",
+              "example": "We can recycle, maintain vehicles properly and prevent damage to the environment for future generations.",
+              "exampleTranslation": "Chúng ta có thể tái chế, bảo dưỡng phương tiện đúng cách và ngăn tổn hại môi trường vì các thế hệ tương lai.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 153",
+              "exampleId": "u8-ex-106"
             },
             {
               "id": "u8-writing-9b93ebd2dd7b",
               "word": "future generations",
               "meaning": "các thế hệ tương lai",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈfjuːtʃər ˌdʒenərˈeɪʃənz/",
+              "example": "We can recycle, maintain vehicles properly and prevent damage to the environment for future generations.",
+              "exampleTranslation": "Chúng ta có thể tái chế, bảo dưỡng phương tiện đúng cách và ngăn tổn hại môi trường vì các thế hệ tương lai.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 153",
+              "exampleId": "u8-ex-106"
             },
             {
               "id": "u8-writing-75c1ed80e671",
               "word": "get cars serviced regularly",
               "meaning": "đem xe đi bảo dưỡng định kỳ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡet kɑːrz ˈsɜːrvɪst ˈreɡjələrli/",
+              "example": "The example recommends getting cars serviced regularly to reduce pollution.",
+              "exampleTranslation": "Ví dụ khuyến nghị đem xe bảo dưỡng định kỳ để giảm ô nhiễm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 153",
+              "exampleId": "u8-ex-107"
             },
             {
               "id": "u8-writing-fb308b95fbbe",
               "word": "be at risk",
               "meaning": "có nguy cơ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː ət rɪsk/",
+              "example": "Many animals are at risk of dying out because of human activity.",
+              "exampleTranslation": "Nhiều loài động vật có nguy cơ tuyệt chủng vì hoạt động con người.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 154",
+              "exampleId": "u8-ex-108"
             },
             {
               "id": "u8-writing-43510cf73e9f",
               "word": "die out",
               "meaning": "tuyệt chủng; biến mất dần",
               "type": "phrase",
-              "pos": "phrasal_verb"
+              "pos": "phrasal_verb",
+              "ipa": "/daɪ aʊt/",
+              "example": "Many animals are at risk of dying out because of human activity.",
+              "exampleTranslation": "Nhiều loài động vật có nguy cơ tuyệt chủng vì hoạt động con người.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 154",
+              "exampleId": "u8-ex-108"
             },
             {
               "id": "u8-writing-423f831c89c3",
               "word": "fur, horns and bones",
               "meaning": "lông, sừng và xương động vật",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/fɜːr hɔːrnz ənd boʊnz/",
+              "example": "People have hunted animals for their fur, horns and bones.",
+              "exampleTranslation": "Con người đã săn động vật để lấy lông, sừng và xương.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 154",
+              "exampleId": "u8-ex-109"
             },
             {
               "id": "u8-writing-2dcea0abdcae",
               "word": "destroy natural habitats",
               "meaning": "phá hủy môi trường sống tự nhiên",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/dɪˈstrɔɪ ˈnætʃərəl ˈhæbəˌtæts/",
+              "example": "Humans have destroyed natural habitats, including rainforests where gorillas live.",
+              "exampleTranslation": "Con người đã phá hủy môi trường sống tự nhiên, gồm rừng mưa nhiệt đới nơi khỉ đột sinh sống.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 154",
+              "exampleId": "u8-ex-110"
             },
             {
               "id": "u8-writing-e5893970b3c3",
               "word": "rainforests",
               "meaning": "rừng mưa nhiệt đới",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈraɪnˌfɔːrəsts/",
+              "example": "Humans have destroyed natural habitats, including rainforests where gorillas live.",
+              "exampleTranslation": "Con người đã phá hủy môi trường sống tự nhiên, gồm rừng mưa nhiệt đới nơi khỉ đột sinh sống.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 154",
+              "exampleId": "u8-ex-110"
             },
             {
               "id": "u8-writing-42f418c1a6b7",
               "word": "pollution from industry",
               "meaning": "ô nhiễm do công nghiệp",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/pəˈluːʃən frəm ˈɪndəstri/",
+              "example": "Finally, pollution from industry has created problems for many sea creatures.",
+              "exampleTranslation": "Cuối cùng, ô nhiễm do công nghiệp đã gây vấn đề cho nhiều sinh vật biển.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 154",
+              "exampleId": "u8-ex-111"
             },
             {
               "id": "u8-writing-e2ecb148c788",
               "word": "sea creatures",
               "meaning": "sinh vật biển",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/si ˈkriːtʃərz/",
+              "example": "Finally, pollution from industry has created problems for many sea creatures.",
+              "exampleTranslation": "Cuối cùng, ô nhiễm do công nghiệp đã gây vấn đề cho nhiều sinh vật biển.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 154",
+              "exampleId": "u8-ex-111"
             },
             {
               "id": "u8-writing-c3cee5bb21b8",
               "word": "give punishments",
               "meaning": "đưa ra hình phạt",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡɪv ˈpʌnɪʃmənts/",
+              "example": "Governments should give punishments to those who hunt illegally.",
+              "exampleTranslation": "Chính phủ nên đưa ra hình phạt đối với người săn bắt trái phép.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 154",
+              "exampleId": "u8-ex-112"
             },
             {
               "id": "u8-writing-553fe375d7d6",
               "word": "hunt illegally",
               "meaning": "săn bắt trái phép",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/hʌnt ˌɪˈliːɡəli/",
+              "example": "Governments should give punishments to those who hunt illegally.",
+              "exampleTranslation": "Chính phủ nên đưa ra hình phạt đối với người săn bắt trái phép.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 154",
+              "exampleId": "u8-ex-112"
             },
             {
               "id": "u8-writing-e6846db72b1a",
               "word": "education programmes",
               "meaning": "các chương trình giáo dục",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌedʒəˈkeɪʃən ˈproʊɡræmz/",
+              "example": "Education programmes can help people understand threats to wildlife.",
+              "exampleTranslation": "Chương trình giáo dục có thể giúp mọi người hiểu mối đe dọa đối với động vật hoang dã.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 154",
+              "exampleId": "u8-ex-113"
             },
             {
               "id": "u8-writing-48d2dd59d1bc",
               "word": "invest in clean energy",
               "meaning": "đầu tư vào năng lượng sạch",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˌɪnˈvest ɪn kliːn ˈenərdʒi/",
+              "example": "Governments should invest in clean energy, such as solar and wind power.",
+              "exampleTranslation": "Chính phủ nên đầu tư vào năng lượng sạch như năng lượng mặt trời và gió.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 154",
+              "exampleId": "u8-ex-114"
             },
             {
               "id": "u8-writing-6b724b75a52b",
               "word": "solar and wind power",
               "meaning": "năng lượng mặt trời và năng lượng gió",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈsoʊlər ənd wɪnd ˈpaʊər/",
+              "example": "Governments should invest in clean energy, such as solar and wind power.",
+              "exampleTranslation": "Chính phủ nên đầu tư vào năng lượng sạch như năng lượng mặt trời và gió.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 154",
+              "exampleId": "u8-ex-114"
             },
             {
               "id": "u8-writing-30772325ae00",
               "word": "burn fossil fuels",
               "meaning": "đốt nhiên liệu hóa thạch",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/bɜːrn ˈfɑːsəl ˈfjuːəlz/",
+              "example": "Power stations and vehicles burn fossil fuels.",
+              "exampleTranslation": "Nhà máy điện và phương tiện giao thông đốt nhiên liệu hóa thạch.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 155",
+              "exampleId": "u8-ex-115"
             },
             {
               "id": "u8-writing-945c85649dce",
               "word": "power stations",
               "meaning": "các nhà máy điện",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈpaʊər ˈsteɪʃənz/",
+              "example": "Power stations and vehicles burn fossil fuels.",
+              "exampleTranslation": "Nhà máy điện và phương tiện giao thông đốt nhiên liệu hóa thạch.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 155",
+              "exampleId": "u8-ex-115"
             },
             {
               "id": "u8-writing-fc42d27140ca",
               "word": "population growth",
               "meaning": "gia tăng dân số",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌpɑːpjəˈleɪʃən ɡroʊθ/",
+              "example": "Population growth can increase pressure to cut down trees.",
+              "exampleTranslation": "Gia tăng dân số có thể làm tăng áp lực chặt cây.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 155",
+              "exampleId": "u8-ex-116"
             },
             {
               "id": "u8-writing-f03cc558734e",
               "word": "share cars",
               "meaning": "đi chung xe",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ʃer kɑːrz/",
+              "example": "People can share cars or use public transport to reduce emissions.",
+              "exampleTranslation": "Mọi người có thể đi chung xe hoặc dùng giao thông công cộng để giảm phát thải.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 155",
+              "exampleId": "u8-ex-117"
             },
             {
               "id": "u8-writing-16fdadc245fe",
               "word": "greenhouse gases",
               "meaning": "khí nhà kính",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈɡriːnˌhaʊs ˈɡæsəz/",
+              "example": "Trees absorb carbon dioxide, one of the greenhouse gases, and release oxygen.",
+              "exampleTranslation": "Cây hấp thụ cacbon điôxít, một loại khí nhà kính, và giải phóng ôxy.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 155, environment language practice",
+              "exampleId": "u8-ex-118"
             },
             {
               "id": "u8-writing-ddf74783a656",
               "word": "carbon dioxide",
               "meaning": "khí cacbon điôxít",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈkɑːrbən daɪˈɑːkˌsaɪd/",
+              "example": "Trees absorb carbon dioxide, one of the greenhouse gases, and release oxygen.",
+              "exampleTranslation": "Cây hấp thụ cacbon điôxít, một loại khí nhà kính, và giải phóng ôxy.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 155, environment language practice",
+              "exampleId": "u8-ex-118"
             },
             {
               "id": "u8-writing-e6e497571d36",
               "word": "release oxygen",
               "meaning": "giải phóng ôxy",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/riːˈliːs ˈɑːksədʒən/",
+              "example": "Trees absorb carbon dioxide, one of the greenhouse gases, and release oxygen.",
+              "exampleTranslation": "Cây hấp thụ cacbon điôxít, một loại khí nhà kính, và giải phóng ôxy.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 155, environment language practice",
+              "exampleId": "u8-ex-118"
             },
             {
               "id": "u8-writing-8691f15cd4c8",
               "word": "generate energy",
               "meaning": "tạo ra năng lượng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈdʒenərˌeɪt ˈenərdʒi/",
+              "example": "We can generate energy from renewable sources and save electricity at home.",
+              "exampleTranslation": "Chúng ta có thể tạo năng lượng từ nguồn tái tạo và tiết kiệm điện ở nhà.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 155, solutions practice",
+              "exampleId": "u8-ex-119"
             },
             {
               "id": "u8-writing-1989ef4a3ee9",
               "word": "save electricity",
               "meaning": "tiết kiệm điện",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/seɪv ɪˌlekˈtrɪsəti/",
+              "example": "We can generate energy from renewable sources and save electricity at home.",
+              "exampleTranslation": "Chúng ta có thể tạo năng lượng từ nguồn tái tạo và tiết kiệm điện ở nhà.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 155, solutions practice",
+              "exampleId": "u8-ex-119"
             }
           ]
         },
@@ -2085,7 +3644,12 @@ export default {
               "meaning": "Một nguyên nhân chính của ... là ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "One major cause of habitat loss is deforestation."
+              "ipa": "/wʌn ˈmeɪdʒər kɑːz əv … ɪz …/",
+              "example": "One major cause of habitat loss is deforestation.",
+              "exampleTranslation": "Một nguyên nhân chính gây mất môi trường sống là phá rừng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 152–155; TB pp. 74–76",
+              "exampleId": "u8-ex-120"
             },
             {
               "id": "u8-writing-63669eebd9a2",
@@ -2093,7 +3657,12 @@ export default {
               "meaning": "Vấn đề này có thể được giải quyết bằng ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "This problem could be addressed by restoring forests."
+              "ipa": "/ðɪs ˈprɑːbləm kʊd biː əˈdrest baɪ …/",
+              "example": "This problem could be addressed by restoring forests.",
+              "exampleTranslation": "Vấn đề này có thể được giải quyết bằng việc khôi phục rừng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 152–155; TB pp. 74–76",
+              "exampleId": "u8-ex-121"
             },
             {
               "id": "u8-writing-510cf651f02d",
@@ -2101,7 +3670,12 @@ export default {
               "meaning": "Các chính phủ nên đầu tư thêm vào ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "Governments should invest more in clean public transport."
+              "ipa": "/ˈɡʌvərmənts ʃʊd ˌɪnˈvest mɔːr ɪn …/",
+              "example": "Governments should invest more in clean public transport.",
+              "exampleTranslation": "Chính phủ nên đầu tư thêm vào giao thông công cộng sạch.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 152–155; TB pp. 74–76",
+              "exampleId": "u8-ex-122"
             },
             {
               "id": "u8-writing-ff6f9b204911",
@@ -2109,7 +3683,12 @@ export default {
               "meaning": "Cả cá nhân lẫn chính phủ đều có vai trò trong ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "Both individuals and governments have a role to play in protecting wildlife."
+              "ipa": "/boʊθ ˌɪndəˈvɪdʒəwəlz ənd ˈɡʌvərmənts hæv ə roʊl tə pleɪ ɪn …/",
+              "example": "Both individuals and governments have a role to play in protecting wildlife.",
+              "exampleTranslation": "Cả cá nhân lẫn chính phủ đều có vai trò bảo vệ động vật hoang dã.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 152–155; TB pp. 74–76",
+              "exampleId": "u8-ex-123"
             },
             {
               "id": "u8-writing-2565541d412d",
@@ -2117,28 +3696,51 @@ export default {
               "meaning": "Để kết luận, ... cần cả ... lẫn ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "To conclude, wildlife protection requires both strong laws and public support."
+              "ipa": "/tə kənˈkluːd … riːˈkwaɪərz boʊθ … ənd …/",
+              "example": "To conclude, wildlife protection requires both strong laws and public support.",
+              "exampleTranslation": "Để kết luận, bảo vệ động vật hoang dã cần cả luật nghiêm lẫn sự ủng hộ của công chúng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 152–155; TB pp. 74–76",
+              "exampleId": "u8-ex-124"
             },
             {
               "id": "u8-writing-d27c517591d6",
               "word": "reduce carbon emissions",
               "meaning": "giảm phát thải cacbon",
               "type": "collocation",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/rəˈduːs ˈkɑːrbən ɪˈmɪʃənz/",
+              "example": "Governments can enforce environmental laws to reduce carbon emissions and limit habitat destruction.",
+              "exampleTranslation": "Chính phủ có thể thực thi luật bảo vệ môi trường để giảm phát thải cacbon và hạn chế phá hủy môi trường sống.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 152–155; TB pp. 74–76",
+              "exampleId": "u8-ex-125"
             },
             {
               "id": "u8-writing-5f490c629773",
               "word": "habitat destruction",
               "meaning": "sự phá hủy môi trường sống",
               "type": "collocation",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈhæbəˌtæt dɪˈstrʌkʃən/",
+              "example": "Governments can enforce environmental laws to reduce carbon emissions and limit habitat destruction.",
+              "exampleTranslation": "Chính phủ có thể thực thi luật bảo vệ môi trường để giảm phát thải cacbon và hạn chế phá hủy môi trường sống.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 152–155; TB pp. 74–76",
+              "exampleId": "u8-ex-125"
             },
             {
               "id": "u8-writing-afa8f51966e1",
               "word": "enforce environmental laws",
               "meaning": "thực thi luật bảo vệ môi trường",
               "type": "collocation",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/enˈfɔːrs ɪnˌvaɪrənˈmenəl lɔːz/",
+              "example": "Governments can enforce environmental laws to reduce carbon emissions and limit habitat destruction.",
+              "exampleTranslation": "Chính phủ có thể thực thi luật bảo vệ môi trường để giảm phát thải cacbon và hạn chế phá hủy môi trường sống.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 152–155; TB pp. 74–76",
+              "exampleId": "u8-ex-125"
             }
           ]
         }

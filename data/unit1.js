@@ -19,217 +19,403 @@ export default {
               "word": "blood is thicker than water",
               "meaning": "Một giọt máu đào hơn ao nước lã",
               "type": "phrase",
-              "pos": "idiom"
+              "pos": "idiom",
+              "ipa": "/blʌd ɪz ˈθɪkər ðən ˈwɔːtər/",
+              "example": "Blood is thicker than water.",
+              "exampleTranslation": "Một giọt máu đào hơn ao nước lã.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 8, Reading",
+              "exampleId": "u1-ex-001"
             },
             {
               "id": "u1-reading-ef62bc70ce1f",
               "word": "value their friends' opinions",
               "meaning": "coi trọng ý kiến của bạn bè",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈvæljuː ðer frendz əˈpɪnjənz/",
+              "example": "They value their friends' opinions more and enjoy their company.",
+              "exampleTranslation": "Họ coi trọng ý kiến của bạn bè hơn và thích ở bên bạn bè.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 8, Reading",
+              "exampleId": "u1-ex-002"
             },
             {
               "id": "u1-reading-38715852ae56",
               "word": "enjoy their company",
               "meaning": "thích ở bên họ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˌenˈdʒɔɪ ðer ˈkʌmpəˌni/",
+              "example": "They value their friends' opinions more and enjoy their company.",
+              "exampleTranslation": "Họ coi trọng ý kiến của bạn bè hơn và thích ở bên bạn bè.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 8, Reading",
+              "exampleId": "u1-ex-002"
             },
             {
               "id": "u1-reading-9b97cd1c8385",
               "word": "miss out",
               "meaning": "bỏ lỡ điều có ích hoặc thú vị",
               "type": "phrase",
-              "pos": "phrasal_verb"
+              "pos": "phrasal_verb",
+              "ipa": "/mɪs aʊt/",
+              "example": "But are they missing out?",
+              "exampleTranslation": "Nhưng liệu họ có đang bỏ lỡ điều gì không?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 8, Reading",
+              "exampleId": "u1-ex-003"
             },
             {
               "id": "u1-reading-0a005ad0b4e7",
               "word": "extended family",
               "meaning": "gia đình nhiều thế hệ hoặc có họ hàng cùng sống",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ɪkˈstendəd ˈfæməli/",
+              "example": "Those who live with their extended family have many advantages.",
+              "exampleTranslation": "Những người sống cùng gia đình nhiều thế hệ có nhiều lợi ích.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-004"
             },
             {
               "id": "u1-reading-fdce563a13e0",
               "word": "in addition to",
               "meaning": "ngoài ra; bên cạnh",
               "type": "phrase",
-              "pos": "preposition"
+              "pos": "preposition",
+              "ipa": "/ɪn əˈdɪʃən tə/",
+              "example": "In Asia, the Middle East, South America and Sub-Saharan Africa over 40% of children live in families with other adults such as aunts, uncles and grandparents in addition to their parents.",
+              "exampleTranslation": "Ở châu Á, Trung Đông, Nam Mỹ và châu Phi cận Sahara, hơn 40% trẻ em sống cùng những người lớn khác như cô dì, chú bác và ông bà, ngoài cha mẹ của mình.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 8, Reading",
+              "exampleId": "u1-ex-005"
             },
             {
               "id": "u1-reading-1d19d96bfedb",
               "word": "on the other hand",
               "meaning": "mặt khác",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn ðə ˈʌðər hænd/",
+              "example": "On the other hand, in Europe, Australia and North America, less than 25% of children live in extended families.",
+              "exampleTranslation": "Mặt khác, ở châu Âu, Úc và Bắc Mỹ, dưới 25% trẻ em sống trong gia đình nhiều thế hệ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 8, Reading",
+              "exampleId": "u1-ex-006"
             },
             {
               "id": "u1-reading-ddbbe21afb5e",
               "word": "lack of close contact",
               "meaning": "thiếu sự liên lạc gần gũi",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/læk əv kloʊs ˈkɑːnˌtækt/",
+              "example": "Is the lack of close contact with relatives putting some children at a disadvantage?",
+              "exampleTranslation": "Liệu việc thiếu liên lạc gần gũi với họ hàng có khiến một số trẻ em chịu bất lợi không?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 8, Reading",
+              "exampleId": "u1-ex-007"
             },
             {
               "id": "u1-reading-6d8bceded085",
               "word": "relatives",
               "meaning": "họ hàng",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈrelətɪvz/",
+              "example": "Is the lack of close contact with relatives putting some children at a disadvantage?",
+              "exampleTranslation": "Liệu việc thiếu liên lạc gần gũi với họ hàng có khiến một số trẻ em chịu bất lợi không?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 8, Reading",
+              "exampleId": "u1-ex-007"
             },
             {
               "id": "u1-reading-9740734931c1",
               "word": "at a disadvantage",
               "meaning": "ở thế bất lợi",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ət ə ˌdɪsədˈvænɪdʒ/",
+              "example": "Is the lack of close contact with relatives putting some children at a disadvantage?",
+              "exampleTranslation": "Liệu việc thiếu liên lạc gần gũi với họ hàng có khiến một số trẻ em chịu bất lợi không?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 8, Reading",
+              "exampleId": "u1-ex-007"
             },
             {
               "id": "u1-reading-62dc6e16e97a",
               "word": "have a great influence",
               "meaning": "có ảnh hưởng lớn",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/hæv ə ɡreɪt ˈɪnfluːəns/",
+              "example": "The people they live with have a great influence on the way children grow up.",
+              "exampleTranslation": "Những người sống cùng có ảnh hưởng lớn đến cách trẻ em trưởng thành.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-008"
             },
             {
               "id": "u1-reading-4d1ebcc3f2b2",
               "word": "grow up",
               "meaning": "lớn lên; trưởng thành",
               "type": "phrase",
-              "pos": "phrasal_verb"
+              "pos": "phrasal_verb",
+              "ipa": "/ɡroʊ ʌp/",
+              "example": "The people they live with have a great influence on the way children grow up.",
+              "exampleTranslation": "Những người sống cùng có ảnh hưởng lớn đến cách trẻ em trưởng thành.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-008"
             },
             {
               "id": "u1-reading-b224524cd3b6",
               "word": "advantages",
               "meaning": "những lợi ích",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ædˈvæntɪdʒɪz/",
+              "example": "Those who live with their extended family have many advantages.",
+              "exampleTranslation": "Những người sống cùng gia đình nhiều thế hệ có nhiều lợi ích.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-004"
             },
             {
               "id": "u1-reading-951a2849661d",
               "word": "love and attention",
               "meaning": "tình yêu thương và sự quan tâm",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/lʌv ənd əˈtenʃən/",
+              "example": "They usually get lots of love and attention.",
+              "exampleTranslation": "Các em thường nhận được nhiều tình yêu thương và sự quan tâm.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-009"
             },
             {
               "id": "u1-reading-5b720147b691",
               "word": "retired",
               "meaning": "đã nghỉ hưu",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/riːˈtaɪərd/",
+              "example": "As they are often retired, they are not always busy and stressed as many parents are.",
+              "exampleTranslation": "Vì thường đã nghỉ hưu, ông bà không phải lúc nào cũng bận rộn và căng thẳng như nhiều bậc cha mẹ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-010"
             },
             {
               "id": "u1-reading-66f5a0fbb1d5",
               "word": "busy and stressed",
               "meaning": "bận rộn và căng thẳng",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/bɪzi ənd strest/",
+              "example": "As they are often retired, they are not always busy and stressed as many parents are.",
+              "exampleTranslation": "Vì thường đã nghỉ hưu, ông bà không phải lúc nào cũng bận rộn và căng thẳng như nhiều bậc cha mẹ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-010"
             },
             {
               "id": "u1-reading-2295ff7a8bd8",
               "word": "patient",
               "meaning": "kiên nhẫn",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˈpeɪʃənt/",
+              "example": "They have learnt to be patient and they have already handled most of the problems children and young people face.",
+              "exampleTranslation": "Họ đã học được cách kiên nhẫn và từng xử lý phần lớn những vấn đề mà trẻ em và người trẻ gặp phải.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-011"
             },
             {
               "id": "u1-reading-4e724e52bbea",
               "word": "handled",
               "meaning": "đã xử lý",
               "type": "word",
-              "pos": "verb"
+              "pos": "verb",
+              "ipa": "/ˈhændəld/",
+              "example": "They have learnt to be patient and they have already handled most of the problems children and young people face.",
+              "exampleTranslation": "Họ đã học được cách kiên nhẫn và từng xử lý phần lớn những vấn đề mà trẻ em và người trẻ gặp phải.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-011"
             },
             {
               "id": "u1-reading-3a2cbcadb199",
               "word": "problems children and young people face",
               "meaning": "những vấn đề trẻ em và người trẻ phải đối mặt",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈprɑːbləmz ˈtʃɪldrən ənd jʌŋ ˈpiːpəl feɪs/",
+              "example": "They have learnt to be patient and they have already handled most of the problems children and young people face.",
+              "exampleTranslation": "Họ đã học được cách kiên nhẫn và từng xử lý phần lớn những vấn đề mà trẻ em và người trẻ gặp phải.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-011"
             },
             {
               "id": "u1-reading-b4ab27ecd4ab",
               "word": "understand the needs of older people",
               "meaning": "hiểu nhu cầu của người lớn tuổi",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˌʌndərˈstænd ðə niːdz əv ˈoʊldər ˈpiːpəl/",
+              "example": "It is good for children to grow up to understand the needs of older people: they may become more caring and less selfish if they spend time helping their grandparents.",
+              "exampleTranslation": "Sẽ tốt nếu trẻ lớn lên biết hiểu nhu cầu của người cao tuổi: các em có thể biết quan tâm hơn và bớt ích kỷ nếu dành thời gian giúp đỡ ông bà.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-012"
             },
             {
               "id": "u1-reading-e49a417471c3",
               "word": "caring",
               "meaning": "biết quan tâm đến người khác",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˈkerɪŋ/",
+              "example": "It is good for children to grow up to understand the needs of older people: they may become more caring and less selfish if they spend time helping their grandparents.",
+              "exampleTranslation": "Sẽ tốt nếu trẻ lớn lên biết hiểu nhu cầu của người cao tuổi: các em có thể biết quan tâm hơn và bớt ích kỷ nếu dành thời gian giúp đỡ ông bà.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-012"
             },
             {
               "id": "u1-reading-18c76b5a4a40",
               "word": "selfish",
               "meaning": "ích kỷ",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˈselfɪʃ/",
+              "example": "It is good for children to grow up to understand the needs of older people: they may become more caring and less selfish if they spend time helping their grandparents.",
+              "exampleTranslation": "Sẽ tốt nếu trẻ lớn lên biết hiểu nhu cầu của người cao tuổi: các em có thể biết quan tâm hơn và bớt ích kỷ nếu dành thời gian giúp đỡ ông bà.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-012"
             },
             {
               "id": "u1-reading-8727840a9b6d",
               "word": "grandparents' stories",
               "meaning": "những câu chuyện của ông bà",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈɡrændˌperənts ˈstɔːriːz/",
+              "example": "Children learn about the past from grandparents' stories.",
+              "exampleTranslation": "Trẻ em tìm hiểu quá khứ qua những câu chuyện của ông bà.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-013"
             },
             {
               "id": "u1-reading-230bf370bef4",
               "word": "feel closer to",
               "meaning": "cảm thấy gần gũi hơn với",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/fiːl ˈkloʊsər tə/",
+              "example": "Sometimes they feel closer to their grandparents than to their parents.",
+              "exampleTranslation": "Đôi khi các em cảm thấy gần gũi với ông bà hơn với cha mẹ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-014"
             },
             {
               "id": "u1-reading-7f88a520a565",
               "word": "young adults",
               "meaning": "những người trẻ đã trưởng thành",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/jʌŋ ˈædəlts/",
+              "example": "Young adults often feel that living alone will be exciting, but they forget that it can also be lonely.",
+              "exampleTranslation": "Người trẻ trưởng thành thường nghĩ sống một mình sẽ thú vị, nhưng họ quên rằng điều đó cũng có thể cô đơn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-015"
             },
             {
               "id": "u1-reading-a786f47c0996",
               "word": "living alone",
               "meaning": "sống một mình",
               "type": "phrase",
-              "pos": "gerund_phrase"
+              "pos": "gerund_phrase",
+              "ipa": "/ˈlɪvɪŋ əˈloʊn/",
+              "example": "Young adults often feel that living alone will be exciting, but they forget that it can also be lonely.",
+              "exampleTranslation": "Người trẻ trưởng thành thường nghĩ sống một mình sẽ thú vị, nhưng họ quên rằng điều đó cũng có thể cô đơn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-015"
             },
             {
               "id": "u1-reading-1cb0f5a9e3a8",
               "word": "lonely",
               "meaning": "cô đơn",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/loʊnli/",
+              "example": "Young adults often feel that living alone will be exciting, but they forget that it can also be lonely.",
+              "exampleTranslation": "Người trẻ trưởng thành thường nghĩ sống một mình sẽ thú vị, nhưng họ quên rằng điều đó cũng có thể cô đơn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-015"
             },
             {
               "id": "u1-reading-791b97f2c479",
               "word": "remaining with the family",
               "meaning": "tiếp tục sống cùng gia đình",
               "type": "phrase",
-              "pos": "gerund_phrase"
+              "pos": "gerund_phrase",
+              "ipa": "/riːˈmeɪnɪŋ wɪð ðə ˈfæməli/",
+              "example": "By remaining with the family during this stage of their lives, they can avoid this.",
+              "exampleTranslation": "Bằng cách tiếp tục sống cùng gia đình trong giai đoạn này của cuộc đời, họ có thể tránh điều đó.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-016"
             },
             {
               "id": "u1-reading-e330ecc70500",
               "word": "stage of their lives",
               "meaning": "giai đoạn trong cuộc đời họ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/steɪdʒ əv ðer laɪvz/",
+              "example": "By remaining with the family during this stage of their lives, they can avoid this.",
+              "exampleTranslation": "Bằng cách tiếp tục sống cùng gia đình trong giai đoạn này của cuộc đời, họ có thể tránh điều đó.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-016"
             },
             {
               "id": "u1-reading-3270f7fe8ace",
               "word": "avoid",
               "meaning": "tránh",
               "type": "word",
-              "pos": "verb"
+              "pos": "verb",
+              "ipa": "/əˈvɔɪd/",
+              "example": "By remaining with the family during this stage of their lives, they can avoid this.",
+              "exampleTranslation": "Bằng cách tiếp tục sống cùng gia đình trong giai đoạn này của cuộc đời, họ có thể tránh điều đó.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-016"
             },
             {
               "id": "u1-reading-33dd09036231",
               "word": "save money",
               "meaning": "tiết kiệm tiền",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/seɪv mʌni/",
+              "example": "They can also save money for their education and future.",
+              "exampleTranslation": "Họ cũng có thể tiết kiệm tiền cho việc học và tương lai.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-017"
             },
             {
               "id": "u1-reading-68bf0109c6f8",
@@ -237,58 +423,103 @@ export default {
               "meaning": "việc học; giáo dục",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ˌedjʊˈkeɪʃn/",
-              "example": "Education is the key to success.",
-              "exampleTranslation": "Giáo dục là chìa khóa cho thành công."
+              "ipa": "/ˌedʒəˈkeɪʃən/",
+              "example": "They can also save money for their education and future.",
+              "exampleTranslation": "Họ cũng có thể tiết kiệm tiền cho việc học và tương lai.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-017"
             },
             {
               "id": "u1-reading-66dd231befc8",
               "word": "gain",
               "meaning": "có được; thu được",
               "type": "word",
-              "pos": "verb"
+              "pos": "verb",
+              "ipa": "/ɡeɪn/",
+              "example": "Young people whose grandparents live far away can gain some of these advantages by keeping in close contact by phone, email, letters and visits.",
+              "exampleTranslation": "Người trẻ có ông bà ở xa có thể nhận được một số lợi ích này bằng cách giữ liên lạc thường xuyên qua điện thoại, email, thư và những lần thăm hỏi.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-018"
             },
             {
               "id": "u1-reading-b7b71a0ffe68",
               "word": "keeping in close contact",
               "meaning": "giữ liên lạc thường xuyên và gần gũi",
               "type": "phrase",
-              "pos": "gerund_phrase"
+              "pos": "gerund_phrase",
+              "ipa": "/ˈkiːpɪŋ ɪn kloʊs ˈkɑːnˌtækt/",
+              "example": "Young people whose grandparents live far away can gain some of these advantages by keeping in close contact by phone, email, letters and visits.",
+              "exampleTranslation": "Người trẻ có ông bà ở xa có thể nhận được một số lợi ích này bằng cách giữ liên lạc thường xuyên qua điện thoại, email, thư và những lần thăm hỏi.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-018"
             },
             {
               "id": "u1-reading-44c768db2a1e",
               "word": "proverb",
               "meaning": "tục ngữ",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈprɑːvərb/",
+              "example": "An Italian proverb advises people to call their grandmother when things are not going well.",
+              "exampleTranslation": "Một câu tục ngữ Ý khuyên mọi người gọi cho bà khi mọi việc không suôn sẻ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-019"
             },
             {
               "id": "u1-reading-0de7c7d11b4c",
               "word": "come and go",
               "meaning": "đến rồi đi; không tồn tại mãi",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kʌm ənd ɡoʊ/",
+              "example": "Friends are important to young people, but friends come and go.",
+              "exampleTranslation": "Bạn bè quan trọng với người trẻ, nhưng bạn bè có thể đến rồi đi.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-020"
             },
             {
               "id": "u1-reading-cf355c18bafa",
               "word": "on your side",
               "meaning": "đứng về phía bạn",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn jər saɪd/",
+              "example": "Your family is always on your side.",
+              "exampleTranslation": "Gia đình luôn đứng về phía bạn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-021"
             },
             {
               "id": "u1-reading-f3e8234402a3",
               "word": "appreciate",
               "meaning": "trân trọng; biết ơn",
               "type": "word",
-              "pos": "verb"
+              "pos": "verb",
+              "ipa": "/əˈpriːʃiːˌeɪt/",
+              "example": "Grandparents won't be there forever. Appreciate them while you can.",
+              "exampleTranslation": "Ông bà sẽ không ở bên mãi mãi. Hãy trân trọng ông bà khi còn có thể.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-022"
             },
             {
               "id": "u1-reading-2070f725ff1c",
               "word": "forever",
               "meaning": "mãi mãi",
               "type": "word",
-              "pos": "adverb"
+              "pos": "adverb",
+              "ipa": "/fərˈevər/",
+              "example": "Grandparents won't be there forever. Appreciate them while you can.",
+              "exampleTranslation": "Ông bà sẽ không ở bên mãi mãi. Hãy trân trọng ông bà khi còn có thể.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 9, Reading",
+              "exampleId": "u1-ex-022"
             },
             {
               "id": "u1-reading-ee139bd0fd94",
@@ -297,15 +528,24 @@ export default {
               "type": "word",
               "pos": "proper_noun",
               "ipa": "/ˈeɪʒə/",
-              "example": "Asia is the largest continent.",
-              "exampleTranslation": "Châu Á là châu lục lớn nhất."
+              "example": "In Asia, the Middle East, South America and Sub-Saharan Africa over 40% of children live in families with other adults such as aunts, uncles and grandparents in addition to their parents.",
+              "exampleTranslation": "Ở châu Á, Trung Đông, Nam Mỹ và châu Phi cận Sahara, hơn 40% trẻ em sống cùng những người lớn khác như cô dì, chú bác và ông bà, ngoài cha mẹ của mình.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 8, Reading",
+              "exampleId": "u1-ex-005"
             },
             {
               "id": "u1-reading-e85bf298ffd4",
               "word": "the Middle East",
               "meaning": "Trung Đông",
               "type": "phrase",
-              "pos": "proper_noun"
+              "pos": "proper_noun",
+              "ipa": "/ðə ˈmɪdəl iːst/",
+              "example": "In Asia, the Middle East, South America and Sub-Saharan Africa over 40% of children live in families with other adults such as aunts, uncles and grandparents in addition to their parents.",
+              "exampleTranslation": "Ở châu Á, Trung Đông, Nam Mỹ và châu Phi cận Sahara, hơn 40% trẻ em sống cùng những người lớn khác như cô dì, chú bác và ông bà, ngoài cha mẹ của mình.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 8, Reading",
+              "exampleId": "u1-ex-005"
             },
             {
               "id": "u1-reading-1c583b195015",
@@ -313,9 +553,12 @@ export default {
               "meaning": "Nam Mỹ",
               "type": "phrase",
               "pos": "proper_noun",
-              "ipa": "/saʊθ əˈmɛrɪkə/",
-              "example": "South America has a diverse range of flora and fauna.",
-              "exampleTranslation": "Nam Mỹ có một loạt đa dạng các loài thực vật và động vật."
+              "ipa": "/saʊθ əˈmerəkə/",
+              "example": "In Asia, the Middle East, South America and Sub-Saharan Africa over 40% of children live in families with other adults such as aunts, uncles and grandparents in addition to their parents.",
+              "exampleTranslation": "Ở châu Á, Trung Đông, Nam Mỹ và châu Phi cận Sahara, hơn 40% trẻ em sống cùng những người lớn khác như cô dì, chú bác và ông bà, ngoài cha mẹ của mình.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 8, Reading",
+              "exampleId": "u1-ex-005"
             },
             {
               "id": "u1-reading-eed35fdc26c8",
@@ -323,9 +566,12 @@ export default {
               "meaning": "châu Phi cận Sahara",
               "type": "phrase",
               "pos": "proper_noun",
-              "ipa": "/sʌb səˈhærən ˈæfrɪkə/",
-              "example": "Sub-Saharan Africa includes many different cultures.",
-              "exampleTranslation": "Châu Phi cận Sahara có nhiều nền văn hóa khác nhau."
+              "ipa": "/sʌb ˈsæhərən ˈæfərkə/",
+              "example": "In Asia, the Middle East, South America and Sub-Saharan Africa over 40% of children live in families with other adults such as aunts, uncles and grandparents in addition to their parents.",
+              "exampleTranslation": "Ở châu Á, Trung Đông, Nam Mỹ và châu Phi cận Sahara, hơn 40% trẻ em sống cùng những người lớn khác như cô dì, chú bác và ông bà, ngoài cha mẹ của mình.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 8, Reading",
+              "exampleId": "u1-ex-005"
             },
             {
               "id": "u1-reading-7a80542464c0",
@@ -333,9 +579,12 @@ export default {
               "meaning": "Nam Phi",
               "type": "phrase",
               "pos": "proper_noun",
-              "ipa": "/saʊθ ˈæfrɪkə/",
-              "example": "South Africa has a diverse population.",
-              "exampleTranslation": "Nam Phi có một dân số đa dạng."
+              "ipa": "/saʊθ ˈæfərkə/",
+              "example": "The passage mentions children living in extended families in South Africa.",
+              "exampleTranslation": "Bài đọc đề cập đến trẻ em sống trong gia đình nhiều thế hệ ở Nam Phi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 8, Reading",
+              "exampleId": "u1-ex-023"
             },
             {
               "id": "u1-reading-b11f203e8e6c",
@@ -344,8 +593,11 @@ export default {
               "type": "word",
               "pos": "proper_noun",
               "ipa": "/ˈjʊrəp/",
-              "example": "Europe has a rich history.",
-              "exampleTranslation": "Châu Âu có một lịch sử phong phú."
+              "example": "On the other hand, in Europe, Australia and North America, less than 25% of children live in extended families.",
+              "exampleTranslation": "Mặt khác, ở châu Âu, Úc và Bắc Mỹ, dưới 25% trẻ em sống trong gia đình nhiều thế hệ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 8, Reading",
+              "exampleId": "u1-ex-006"
             },
             {
               "id": "u1-reading-c585f1decb98",
@@ -353,9 +605,12 @@ export default {
               "meaning": "nước Úc",
               "type": "word",
               "pos": "proper_noun",
-              "ipa": "/ɔːˈstreɪliə/",
-              "example": "Australia has many unique animals.",
-              "exampleTranslation": "Úc có nhiều loài động vật độc đáo."
+              "ipa": "/ɔːˈstreɪljə/",
+              "example": "On the other hand, in Europe, Australia and North America, less than 25% of children live in extended families.",
+              "exampleTranslation": "Mặt khác, ở châu Âu, Úc và Bắc Mỹ, dưới 25% trẻ em sống trong gia đình nhiều thế hệ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 8, Reading",
+              "exampleId": "u1-ex-006"
             },
             {
               "id": "u1-reading-f45c8cbc670c",
@@ -363,9 +618,12 @@ export default {
               "meaning": "Bắc Mỹ",
               "type": "phrase",
               "pos": "proper_noun",
-              "ipa": "/nɔːrθ əˈmɛrɪkə/",
-              "example": "North America has many different climates.",
-              "exampleTranslation": "Bắc Mỹ có nhiều khí hậu khác nhau."
+              "ipa": "/nɔːrθ əˈmerəkə/",
+              "example": "On the other hand, in Europe, Australia and North America, less than 25% of children live in extended families.",
+              "exampleTranslation": "Mặt khác, ở châu Âu, Úc và Bắc Mỹ, dưới 25% trẻ em sống trong gia đình nhiều thế hệ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 8, Reading",
+              "exampleId": "u1-ex-006"
             }
           ]
         },
@@ -380,14 +638,26 @@ export default {
               "word": "scientific studies",
               "meaning": "các nghiên cứu khoa học",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌsaɪənˈtɪfɪk ˈstʌdiːz/",
+              "example": "There have been a lot of scientific studies into what makes a friendship.",
+              "exampleTranslation": "Đã có nhiều nghiên cứu khoa học về những yếu tố tạo nên tình bạn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 11, Reading",
+              "exampleId": "u1-ex-024"
             },
             {
               "id": "u1-reading-4b529ac375b4",
               "word": "friendship",
               "meaning": "tình bạn",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈfrendʃɪp/",
+              "example": "There have been a lot of scientific studies into what makes a friendship.",
+              "exampleTranslation": "Đã có nhiều nghiên cứu khoa học về những yếu tố tạo nên tình bạn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 11, Reading",
+              "exampleId": "u1-ex-024"
             },
             {
               "id": "u1-reading-91bb720d0df3",
@@ -396,29 +666,50 @@ export default {
               "type": "word",
               "pos": "verb",
               "ipa": "/meɪnˈteɪn/",
-              "example": "It’s important to maintain a healthy lifestyle.",
-              "exampleTranslation": "Cần phải duy trì một lối sống lành mạnh."
+              "example": "A study in 1993 at the University of Oxford showed that people could only maintain 150 relationships.",
+              "exampleTranslation": "Một nghiên cứu năm 1993 tại Đại học Oxford cho thấy con người chỉ có thể duy trì 150 mối quan hệ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 11, Reading",
+              "exampleId": "u1-ex-025"
             },
             {
               "id": "u1-reading-8346862a9c87",
               "word": "relationships",
               "meaning": "các mối quan hệ",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/riːˈleɪʃənˌʃɪps/",
+              "example": "A study in 1993 at the University of Oxford showed that people could only maintain 150 relationships.",
+              "exampleTranslation": "Một nghiên cứu năm 1993 tại Đại học Oxford cho thấy con người chỉ có thể duy trì 150 mối quan hệ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 11, Reading",
+              "exampleId": "u1-ex-025"
             },
             {
               "id": "u1-reading-0325b30187cb",
               "word": "the explosion of social media",
               "meaning": "sự phát triển bùng nổ của mạng xã hội",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ði ɪkˈsploʊʒən əv ˈsoʊʃəl ˈmiːdiə/",
+              "example": "However, with the explosion of social media since then, many people now have over 300 people who they think of as friends.",
+              "exampleTranslation": "Tuy nhiên, với sự bùng nổ của mạng xã hội kể từ đó, nhiều người hiện có hơn 300 người mà họ xem là bạn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 11, Reading",
+              "exampleId": "u1-ex-026"
             },
             {
               "id": "u1-reading-bc04ba430ea6",
               "word": "real friends",
               "meaning": "những người bạn thực sự",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/riːl frendz/",
+              "example": "Some people think that these friends are not real friends, but others believe that social media has helped us to expand and keep our friendships because we have more time and opportunities.",
+              "exampleTranslation": "Một số người cho rằng đây không phải bạn bè thực sự, nhưng những người khác tin rằng mạng xã hội giúp mở rộng và duy trì tình bạn vì chúng ta có thêm thời gian và cơ hội.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 11, Reading",
+              "exampleId": "u1-ex-027"
             },
             {
               "id": "u1-reading-d78de925a878",
@@ -427,8 +718,11 @@ export default {
               "type": "word",
               "pos": "verb",
               "ipa": "/ɪkˈspænd/",
-              "example": "The company plans to expand its operations overseas.",
-              "exampleTranslation": "Công ty dự định mở rộng hoạt động của mình ở nước ngoài."
+              "example": "Some people think that these friends are not real friends, but others believe that social media has helped us to expand and keep our friendships because we have more time and opportunities.",
+              "exampleTranslation": "Một số người cho rằng đây không phải bạn bè thực sự, nhưng những người khác tin rằng mạng xã hội giúp mở rộng và duy trì tình bạn vì chúng ta có thêm thời gian và cơ hội.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 11, Reading",
+              "exampleId": "u1-ex-027"
             },
             {
               "id": "u1-reading-9be34f3e549c",
@@ -436,9 +730,12 @@ export default {
               "meaning": "những cơ hội",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ˌɑːpərˈtuːnətiz/",
-              "example": "The new project will create many job opportunities.",
-              "exampleTranslation": "Dự án mới sẽ tạo ra nhiều cơ hội việc làm."
+              "ipa": "/ˌɑːpərˈtuːnətiːz/",
+              "example": "Some people think that these friends are not real friends, but others believe that social media has helped us to expand and keep our friendships because we have more time and opportunities.",
+              "exampleTranslation": "Một số người cho rằng đây không phải bạn bè thực sự, nhưng những người khác tin rằng mạng xã hội giúp mở rộng và duy trì tình bạn vì chúng ta có thêm thời gian và cơ hội.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 11, Reading",
+              "exampleId": "u1-ex-027"
             },
             {
               "id": "u1-reading-04b6955af379",
@@ -446,65 +743,116 @@ export default {
               "meaning": "có khả năng chuyển nơi ở hoặc làm việc",
               "type": "phrase",
               "pos": "adjective_phrase",
-              "ipa": "/dʒiːəʊˈɡræfɪkli ˈməʊbaɪl/",
-              "example": "Being geographically mobile is an advantage in today’s global economy.",
-              "exampleTranslation": "Việc có khả năng di chuyển địa lý là một lợi thế trong nền kinh tế toàn cầu hiện nay."
+              "ipa": "/ˌdʒiːəˈɡræfɪkəli ˈmoʊbəl/",
+              "example": "People are in general more geographically mobile nowadays.",
+              "exampleTranslation": "Ngày nay, nhìn chung mọi người có khả năng chuyển nơi ở hoặc làm việc nhiều hơn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 11, Reading",
+              "exampleId": "u1-ex-028"
             },
             {
               "id": "u1-reading-ac6eb9b28a8c",
               "word": "nowadays",
               "meaning": "ngày nay",
               "type": "word",
-              "pos": "adverb"
+              "pos": "adverb",
+              "ipa": "/ˈnaʊəˌdeɪz/",
+              "example": "People are in general more geographically mobile nowadays.",
+              "exampleTranslation": "Ngày nay, nhìn chung mọi người có khả năng chuyển nơi ở hoặc làm việc nhiều hơn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 11, Reading",
+              "exampleId": "u1-ex-028"
             },
             {
               "id": "u1-reading-e3fb705699dc",
               "word": "different cultures",
               "meaning": "những nền văn hóa khác nhau",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈdɪfrənt ˈkʌltʃərz/",
+              "example": "This means that we have more chances to meet and make friends with people from different cultures and different backgrounds.",
+              "exampleTranslation": "Điều này có nghĩa chúng ta có thêm cơ hội gặp gỡ và kết bạn với người đến từ các nền văn hóa và hoàn cảnh khác nhau.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 11, Reading",
+              "exampleId": "u1-ex-029"
             },
             {
               "id": "u1-reading-4df212cf62b0",
               "word": "different backgrounds",
               "meaning": "những hoàn cảnh xuất thân khác nhau",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈdɪfrənt ˈbækˌɡraʊndz/",
+              "example": "This means that we have more chances to meet and make friends with people from different cultures and different backgrounds.",
+              "exampleTranslation": "Điều này có nghĩa chúng ta có thêm cơ hội gặp gỡ và kết bạn với người đến từ các nền văn hóa và hoàn cảnh khác nhau.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 11, Reading",
+              "exampleId": "u1-ex-029"
             },
             {
               "id": "u1-reading-6b4282d907ac",
               "word": "make friends",
               "meaning": "kết bạn",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/meɪk frendz/",
+              "example": "This means that we have more chances to meet and make friends with people from different cultures and different backgrounds.",
+              "exampleTranslation": "Điều này có nghĩa chúng ta có thêm cơ hội gặp gỡ và kết bạn với người đến từ các nền văn hóa và hoàn cảnh khác nhau.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 11, Reading",
+              "exampleId": "u1-ex-029"
             },
             {
               "id": "u1-reading-bed95c319b35",
               "word": "remain friends for life",
               "meaning": "duy trì tình bạn suốt đời",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/riːˈmeɪn frendz fər laɪf/",
+              "example": "People still often make friends at college who remain friends for life, but making new friends at work is more difficult.",
+              "exampleTranslation": "Mọi người vẫn thường kết bạn ở trường đại học và duy trì tình bạn suốt đời, nhưng kết bạn mới ở nơi làm việc khó hơn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 11, Reading",
+              "exampleId": "u1-ex-030"
             },
             {
               "id": "u1-reading-4b1214d7e934",
               "word": "security at work",
               "meaning": "sự ổn định trong công việc",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/sɪkˈjʊrəti ət wɜːrk/",
+              "example": "People now have less security at work and this also means that they find it harder to build new relationships.",
+              "exampleTranslation": "Mọi người hiện có ít sự ổn định trong công việc hơn, và điều này cũng khiến việc xây dựng quan hệ mới khó hơn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 11, Reading",
+              "exampleId": "u1-ex-031"
             },
             {
               "id": "u1-reading-c3269e1f5d15",
               "word": "build new relationships",
               "meaning": "xây dựng những mối quan hệ mới",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/bɪld njuː riːˈleɪʃənˌʃɪps/",
+              "example": "People now have less security at work and this also means that they find it harder to build new relationships.",
+              "exampleTranslation": "Mọi người hiện có ít sự ổn định trong công việc hơn, và điều này cũng khiến việc xây dựng quan hệ mới khó hơn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 11, Reading",
+              "exampleId": "u1-ex-031"
             },
             {
               "id": "u1-reading-7330059355c0",
               "word": "free time",
               "meaning": "thời gian rảnh",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/fri taɪm/",
+              "example": "As people get older, they sometimes also have less free time.",
+              "exampleTranslation": "Khi lớn tuổi hơn, đôi khi mọi người cũng có ít thời gian rảnh hơn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 11, Reading",
+              "exampleId": "u1-ex-032"
             },
             {
               "id": "u1-reading-d7ae368c1499",
@@ -512,16 +860,25 @@ export default {
               "meaning": "sự thuận tiện",
               "type": "word",
               "pos": "noun",
-              "ipa": "/kənˈviːniəns/",
-              "example": "Online shopping offers convenience.",
-              "exampleTranslation": "Mua sắm trực tuyến mang lại sự tiện lợi."
+              "ipa": "/kənˈviːnjəns/",
+              "example": "Young children often choose their friends because of convenience, such as going to the same school.",
+              "exampleTranslation": "Trẻ nhỏ thường chọn bạn vì sự thuận tiện, chẳng hạn như cùng học một trường.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 11, Reading",
+              "exampleId": "u1-ex-033"
             },
             {
               "id": "u1-reading-1be44d60fc28",
               "word": "similar interests and opinions",
               "meaning": "sở thích và quan điểm tương đồng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈsɪmələr ˈɪntərəsts ənd əˈpɪnjənz/",
+              "example": "As we get older, friendships are more connected with having similar interests and opinions.",
+              "exampleTranslation": "Khi lớn lên, tình bạn gắn nhiều hơn với việc có sở thích và quan điểm tương đồng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 11, Reading",
+              "exampleId": "u1-ex-034"
             },
             {
               "id": "u1-reading-51da96a3fae4",
@@ -529,16 +886,25 @@ export default {
               "meaning": "chắc chắn",
               "type": "word",
               "pos": "adverb",
-              "ipa": "/ˈdefɪnətli/",
-              "example": "I will definitely be there on time.",
-              "exampleTranslation": "Tôi chắc chắn sẽ đến đúng giờ."
+              "ipa": "/ˈdefənətli/",
+              "example": "One thing is definitely true: friendship is good for our health.",
+              "exampleTranslation": "Có một điều chắc chắn đúng: tình bạn có lợi cho sức khỏe.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 11, Reading",
+              "exampleId": "u1-ex-035"
             },
             {
               "id": "u1-reading-4fa9d7e48556",
               "word": "mental health problems",
               "meaning": "các vấn đề sức khỏe tinh thần",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈmentəl helθ ˈprɑːbləmz/",
+              "example": "People who spend time with friends have fewer mental health problems and are generally happier and in a better physical state of health than people who spend their free time alone.",
+              "exampleTranslation": "Những người dành thời gian với bạn bè có ít vấn đề về sức khỏe tinh thần hơn, nhìn chung hạnh phúc hơn và có thể trạng tốt hơn những người dành thời gian rảnh một mình.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 11, Reading",
+              "exampleId": "u1-ex-036"
             },
             {
               "id": "u1-reading-8ed42f97cfcb",
@@ -546,16 +912,25 @@ export default {
               "meaning": "nhìn chung",
               "type": "word",
               "pos": "adverb",
-              "ipa": "/ˈdʒenrəli/",
-              "example": "Generally speaking, I prefer tea over coffee.",
-              "exampleTranslation": "Nói chung, tôi thích trà hơn cà phê."
+              "ipa": "/ˈdʒenərəli/",
+              "example": "People who spend time with friends have fewer mental health problems and are generally happier and in a better physical state of health than people who spend their free time alone.",
+              "exampleTranslation": "Những người dành thời gian với bạn bè có ít vấn đề về sức khỏe tinh thần hơn, nhìn chung hạnh phúc hơn và có thể trạng tốt hơn những người dành thời gian rảnh một mình.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 11, Reading",
+              "exampleId": "u1-ex-036"
             },
             {
               "id": "u1-reading-f626ab0db435",
               "word": "physical state of health",
               "meaning": "tình trạng sức khỏe thể chất",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈfɪzɪkəl steɪt əv helθ/",
+              "example": "People who spend time with friends have fewer mental health problems and are generally happier and in a better physical state of health than people who spend their free time alone.",
+              "exampleTranslation": "Những người dành thời gian với bạn bè có ít vấn đề về sức khỏe tinh thần hơn, nhìn chung hạnh phúc hơn và có thể trạng tốt hơn những người dành thời gian rảnh một mình.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 11, Reading",
+              "exampleId": "u1-ex-036"
             }
           ]
         }
@@ -577,126 +952,234 @@ export default {
               "word": "make a reservation",
               "meaning": "đặt chỗ trước",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/meɪk ə ˌrezərˈveɪʃən/",
+              "example": "Hello, I'd like to make a reservation in your restaurant for next Saturday evening.",
+              "exampleTranslation": "Xin chào, tôi muốn đặt chỗ tại nhà hàng vào tối thứ Bảy tới.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 02",
+              "exampleId": "u1-ex-037"
             },
             {
               "id": "u1-listening-71b0874fd1bd",
               "word": "hold on",
               "meaning": "chờ một chút",
               "type": "phrase",
-              "pos": "phrasal_verb"
+              "pos": "phrasal_verb",
+              "ipa": "/hoʊld ɑːn/",
+              "example": "If you hold on, I'll just check.",
+              "exampleTranslation": "Nếu anh/chị đợi một chút, tôi sẽ kiểm tra ngay.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 02",
+              "exampleId": "u1-ex-038"
             },
             {
               "id": "u1-listening-8e0e376ddca6",
               "word": "a table for 12",
               "meaning": "bàn dành cho 12 người",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈteɪbəl fər twelv/",
+              "example": "I need a table for 12 - it's my husband's 30th birthday, so we're having a celebration dinner.",
+              "exampleTranslation": "Tôi cần bàn cho 12 người; đó là sinh nhật lần thứ 30 của chồng tôi nên chúng tôi sẽ dùng bữa tối để ăn mừng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 04",
+              "exampleId": "u1-ex-039"
             },
             {
               "id": "u1-listening-edfe74b52b17",
               "word": "celebration dinner",
               "meaning": "bữa tối để ăn mừng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌseləˈbreɪʃən ˈdɪnər/",
+              "example": "I need a table for 12 - it's my husband's 30th birthday, so we're having a celebration dinner.",
+              "exampleTranslation": "Tôi cần bàn cho 12 người; đó là sinh nhật lần thứ 30 của chồng tôi nên chúng tôi sẽ dùng bữa tối để ăn mừng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 04",
+              "exampleId": "u1-ex-039"
             },
             {
               "id": "u1-listening-511967e8d473",
               "word": "the day after",
               "meaning": "ngày hôm sau",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðə deɪ ˈæftər/",
+              "example": "The customer wants the table for the day after, Saturday the 17th.",
+              "exampleTranslation": "Khách muốn đặt bàn vào ngày hôm sau, thứ Bảy ngày 17.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 177, track 04",
+              "exampleId": "u1-ex-040"
             },
             {
               "id": "u1-listening-61fdc0d30c7b",
               "word": "a party of 12",
               "meaning": "một nhóm 12 người",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈpɑːrti əv twelv/",
+              "example": "The restaurant is fully booked for the party of 12, but a small room is available for private hire.",
+              "exampleTranslation": "Nhà hàng đã kín chỗ cho nhóm 12 người, nhưng có một phòng nhỏ có thể thuê riêng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 177, track 04",
+              "exampleId": "u1-ex-041"
             },
             {
               "id": "u1-listening-84c5028c3463",
               "word": "fully booked",
               "meaning": "đã kín chỗ",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/fʊli bʊkt/",
+              "example": "The restaurant is fully booked for the party of 12, but a small room is available for private hire.",
+              "exampleTranslation": "Nhà hàng đã kín chỗ cho nhóm 12 người, nhưng có một phòng nhỏ có thể thuê riêng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 177, track 04",
+              "exampleId": "u1-ex-041"
             },
             {
               "id": "u1-listening-290747d3328f",
               "word": "available for private hire",
               "meaning": "có thể thuê riêng",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/əˈveɪləbəl fər ˈpraɪvət ˈhaɪər/",
+              "example": "The restaurant is fully booked for the party of 12, but a small room is available for private hire.",
+              "exampleTranslation": "Nhà hàng đã kín chỗ cho nhóm 12 người, nhưng có một phòng nhỏ có thể thuê riêng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 177, track 04",
+              "exampleId": "u1-ex-041"
             },
             {
               "id": "u1-listening-7e880242a823",
               "word": "seat up to 20 people",
               "meaning": "có chỗ ngồi cho tối đa 20 người",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/siːt ʌp tə ˈtwenti ˈpiːpəl/",
+              "example": "It can seat up to 20 people, so there would be plenty of space for 12 of you.",
+              "exampleTranslation": "Phòng có chỗ ngồi cho tối đa 20 người nên sẽ rất rộng rãi cho 12 người.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 04",
+              "exampleId": "u1-ex-042"
             },
             {
               "id": "u1-listening-3a60ec6b758b",
               "word": "plenty of space",
               "meaning": "nhiều không gian",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/pleni əv speɪs/",
+              "example": "It can seat up to 20 people, so there would be plenty of space for 12 of you.",
+              "exampleTranslation": "Phòng có chỗ ngồi cho tối đa 20 người nên sẽ rất rộng rãi cho 12 người.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 04",
+              "exampleId": "u1-ex-042"
             },
             {
               "id": "u1-listening-dc4c857dcbe7",
               "word": "a set three-course menu",
               "meaning": "thực đơn cố định gồm ba món",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə set θri kɔːrs ˈmenjuː/",
+              "example": "Now we offer a set three-course menu for £23 per person and we can also supply you with a birthday cake at no extra charge.",
+              "exampleTranslation": "Chúng tôi có thực đơn cố định gồm ba món với giá 23 bảng mỗi người và còn có thể cung cấp bánh sinh nhật mà không tính thêm phí.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 05",
+              "exampleId": "u1-ex-043"
             },
             {
               "id": "u1-listening-f1a5516075b3",
               "word": "per person",
               "meaning": "mỗi người",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/pər ˈpɜːrsən/",
+              "example": "Now we offer a set three-course menu for £23 per person and we can also supply you with a birthday cake at no extra charge.",
+              "exampleTranslation": "Chúng tôi có thực đơn cố định gồm ba món với giá 23 bảng mỗi người và còn có thể cung cấp bánh sinh nhật mà không tính thêm phí.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 05",
+              "exampleId": "u1-ex-043"
             },
             {
               "id": "u1-listening-f30dfe1cfb6d",
               "word": "supply",
               "meaning": "cung cấp",
               "type": "word",
-              "pos": "verb"
+              "pos": "verb",
+              "ipa": "/səˈplaɪ/",
+              "example": "Now we offer a set three-course menu for £23 per person and we can also supply you with a birthday cake at no extra charge.",
+              "exampleTranslation": "Chúng tôi có thực đơn cố định gồm ba món với giá 23 bảng mỗi người và còn có thể cung cấp bánh sinh nhật mà không tính thêm phí.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 05",
+              "exampleId": "u1-ex-043"
             },
             {
               "id": "u1-listening-8f6d08ef54f6",
               "word": "at no extra charge",
               "meaning": "không tính thêm phí",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ət noʊ ˈekstrə tʃɑːrdʒ/",
+              "example": "Now we offer a set three-course menu for £23 per person and we can also supply you with a birthday cake at no extra charge.",
+              "exampleTranslation": "Chúng tôi có thực đơn cố định gồm ba món với giá 23 bảng mỗi người và còn có thể cung cấp bánh sinh nhật mà không tính thêm phí.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 05",
+              "exampleId": "u1-ex-043"
             },
             {
               "id": "u1-listening-a31176b289d0",
               "word": "in total",
               "meaning": "tổng cộng",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn ˈtoʊtəl/",
+              "example": "So how much would that cost in total?",
+              "exampleTranslation": "Vậy tổng cộng sẽ hết bao nhiêu tiền?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 05",
+              "exampleId": "u1-ex-044"
             },
             {
               "id": "u1-listening-d44fcf731c17",
               "word": "go ahead",
               "meaning": "tiến hành",
               "type": "phrase",
-              "pos": "phrasal_verb"
+              "pos": "phrasal_verb",
+              "ipa": "/ɡoʊ əˈhed/",
+              "example": "OK, I think I'd like to go ahead and make a booking.",
+              "exampleTranslation": "Được, tôi nghĩ mình muốn tiến hành đặt chỗ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 05",
+              "exampleId": "u1-ex-045"
             },
             {
               "id": "u1-listening-4176327ba671",
               "word": "make a booking",
               "meaning": "đặt chỗ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/meɪk ə ˈbʊkɪŋ/",
+              "example": "OK, I think I'd like to go ahead and make a booking.",
+              "exampleTranslation": "Được, tôi nghĩ mình muốn tiến hành đặt chỗ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 05",
+              "exampleId": "u1-ex-045"
             },
             {
               "id": "u1-listening-9e1904f2dbe2",
               "word": "take your details",
               "meaning": "ghi lại thông tin của bạn",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/teɪk jər ˈdiːteɪlz/",
+              "example": "OK, I'll just take your details.",
+              "exampleTranslation": "Được, tôi sẽ ghi lại thông tin của anh/chị.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 05",
+              "exampleId": "u1-ex-046"
             }
           ]
         },
@@ -711,140 +1194,260 @@ export default {
               "word": "sales assistant",
               "meaning": "nhân viên bán hàng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/seɪlz əˈsɪstənt/",
+              "example": "The sales assistant helps the customer choose a birthday gift.",
+              "exampleTranslation": "Nhân viên bán hàng giúp khách chọn quà sinh nhật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 177, track 06",
+              "exampleId": "u1-ex-047"
             },
             {
               "id": "u1-listening-9029538e5bff",
               "word": "a piece of jewellery",
               "meaning": "một món trang sức",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə piːs əv ˈdʒuːəlri/",
+              "example": "So I thought a piece of jewellery would be nice.",
+              "exampleTranslation": "Vì vậy tôi nghĩ một món trang sức sẽ phù hợp.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 06",
+              "exampleId": "u1-ex-048"
             },
             {
               "id": "u1-listening-404a08475d4c",
               "word": "have anything particular in mind",
               "meaning": "đang nghĩ đến thứ gì cụ thể",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/hæv ˈeniːˌθɪŋ ˌpɑːˈtɪkjələr ɪn maɪnd/",
+              "example": "Do you have anything particular in mind - a necklace, perhaps?",
+              "exampleTranslation": "Anh/chị có đang nghĩ đến món gì cụ thể không, chẳng hạn như một chiếc vòng cổ?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 06",
+              "exampleId": "u1-ex-049"
             },
             {
               "id": "u1-listening-731f46507cc5",
               "word": "necklace",
               "meaning": "vòng cổ; dây chuyền",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈnekləs/",
+              "example": "Do you have anything particular in mind - a necklace, perhaps?",
+              "exampleTranslation": "Anh/chị có đang nghĩ đến món gì cụ thể không, chẳng hạn như một chiếc vòng cổ?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 06",
+              "exampleId": "u1-ex-049"
             },
             {
               "id": "u1-listening-78dc3c7984e8",
               "word": "a pair of earrings",
               "meaning": "một đôi bông tai",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə per əv ˈiːrɪŋz/",
+              "example": "I was thinking of a pair of earrings, possibly.",
+              "exampleTranslation": "Có lẽ tôi đang nghĩ đến một đôi bông tai.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 06",
+              "exampleId": "u1-ex-050"
             },
             {
               "id": "u1-listening-210134857974",
               "word": "stones",
               "meaning": "đá gắn trên trang sức",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/stoʊnz/",
+              "example": "They have some beautiful little blue stones.",
+              "exampleTranslation": "Chúng được gắn những viên đá nhỏ màu xanh rất đẹp.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 06",
+              "exampleId": "u1-ex-051"
             },
             {
               "id": "u1-listening-78cde64c3e47",
               "word": "silver",
               "meaning": "bạc",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈsɪlvər/",
+              "example": "They're silver, and they're handmade, so you won't find anything like them anywhere else.",
+              "exampleTranslation": "Chúng làm bằng bạc và được chế tác thủ công nên anh/chị sẽ không tìm thấy món giống như vậy ở nơi khác.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 06",
+              "exampleId": "u1-ex-052"
             },
             {
               "id": "u1-listening-c4ddc7087527",
               "word": "handmade",
               "meaning": "được làm thủ công",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˈhænˈmeɪd/",
+              "example": "They're silver, and they're handmade, so you won't find anything like them anywhere else.",
+              "exampleTranslation": "Chúng làm bằng bạc và được chế tác thủ công nên anh/chị sẽ không tìm thấy món giống như vậy ở nơi khác.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 06",
+              "exampleId": "u1-ex-052"
             },
             {
               "id": "u1-listening-6610823815b8",
               "word": "we've got a sale on",
               "meaning": "cửa hàng đang có đợt giảm giá",
               "type": "phrase",
-              "pos": "expression"
+              "pos": "expression",
+              "ipa": "/wiːv ɡɑːt ə seɪl ɑːn/",
+              "example": "We've got a sale on at the moment, so they're a little cheaper.",
+              "exampleTranslation": "Hiện chúng tôi đang có đợt giảm giá nên chúng rẻ hơn một chút.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 177, tracks 06–07",
+              "exampleId": "u1-ex-053"
             },
             {
               "id": "u1-listening-bcdb8310eadb",
               "word": "at the moment",
               "meaning": "hiện tại",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ət ðə ˈmoʊmənt/",
+              "example": "We've got a sale on at the moment, so they're a little cheaper.",
+              "exampleTranslation": "Hiện chúng tôi đang có đợt giảm giá nên chúng rẻ hơn một chút.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 177, tracks 06–07",
+              "exampleId": "u1-ex-053"
             },
             {
               "id": "u1-listening-b996011067f7",
               "word": "giftwrap",
               "meaning": "gói quà",
               "type": "word",
-              "pos": "verb"
+              "pos": "verb",
+              "ipa": "/ˈɡɪftræp/",
+              "example": "And would you like me to giftwrap them for you?",
+              "exampleTranslation": "Anh/chị có muốn tôi gói chúng thành quà không?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 06",
+              "exampleId": "u1-ex-054"
             },
             {
               "id": "u1-listening-97488fbab328",
               "word": "charge",
               "meaning": "tính phí",
               "type": "word",
-              "pos": "verb"
+              "pos": "verb",
+              "ipa": "/tʃɑːrdʒ/",
+              "example": "How much do you charge for that?",
+              "exampleTranslation": "Anh/chị tính phí bao nhiêu cho việc đó?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 06",
+              "exampleId": "u1-ex-055"
             },
             {
               "id": "u1-listening-81c3bd0202d0",
               "word": "wrapping paper",
               "meaning": "giấy gói quà",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈræpɪŋ ˈpeɪpər/",
+              "example": "For £4 we give you a pretty box and your own choice of wrapping paper.",
+              "exampleTranslation": "Với 4 bảng, chúng tôi sẽ cung cấp một chiếc hộp đẹp và giấy gói do anh/chị tự chọn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 06",
+              "exampleId": "u1-ex-056"
             },
             {
               "id": "u1-listening-97daca64e550",
               "word": "luxury wrapping service",
               "meaning": "dịch vụ gói quà cao cấp",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈlʌɡʒəri ˈræpɪŋ ˈsɜːrvəs/",
+              "example": "Or for £5 you can have our luxury wrapping service, which includes a silver box and silver ribbon.",
+              "exampleTranslation": "Hoặc với 5 bảng, anh/chị có thể chọn dịch vụ gói quà cao cấp gồm hộp màu bạc và ruy băng bạc.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 06",
+              "exampleId": "u1-ex-057"
             },
             {
               "id": "u1-listening-affc35bd6c63",
               "word": "ribbon",
               "meaning": "ruy băng",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈrɪbən/",
+              "example": "Or for £5 you can have our luxury wrapping service, which includes a silver box and silver ribbon.",
+              "exampleTranslation": "Hoặc với 5 bảng, anh/chị có thể chọn dịch vụ gói quà cao cấp gồm hộp màu bạc và ruy băng bạc.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 06",
+              "exampleId": "u1-ex-057"
             },
             {
               "id": "u1-listening-2a7fe8d59735",
               "word": "personal message",
               "meaning": "lời nhắn riêng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈpɜːrsɪnəl ˈmesədʒ/",
+              "example": "And if you would like a card to write your own personal message, that will be £2 extra.",
+              "exampleTranslation": "Nếu muốn có một tấm thiệp để viết lời nhắn riêng, anh/chị sẽ trả thêm 2 bảng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 06",
+              "exampleId": "u1-ex-058"
             },
             {
               "id": "u1-listening-c8dee78f8c7b",
               "word": "extra",
               "meaning": "thêm; phụ trội",
               "type": "word",
-              "pos": "adverb"
+              "pos": "adverb",
+              "ipa": "/ˈekstrə/",
+              "example": "And if you would like a card to write your own personal message, that will be £2 extra.",
+              "exampleTranslation": "Nếu muốn có một tấm thiệp để viết lời nhắn riêng, anh/chị sẽ trả thêm 2 bảng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 06",
+              "exampleId": "u1-ex-058"
             },
             {
               "id": "u1-listening-a11a75e0feee",
               "word": "option",
               "meaning": "lựa chọn",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈɑːpʃən/",
+              "example": "Well, it's a special birthday so I'll take the luxury option.",
+              "exampleTranslation": "Đây là một sinh nhật đặc biệt nên tôi sẽ chọn phương án cao cấp.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 06",
+              "exampleId": "u1-ex-059"
             },
             {
               "id": "u1-listening-d9ccceac6215",
               "word": "cash or card",
               "meaning": "tiền mặt hoặc thẻ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/kæʃ ɔːr kɑːrd/",
+              "example": "And how would you like to pay - cash or card?",
+              "exampleTranslation": "Anh/chị muốn thanh toán bằng tiền mặt hay thẻ?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 06",
+              "exampleId": "u1-ex-060"
             },
             {
               "id": "u1-listening-3bed641b6bdf",
               "word": "favourite colour",
               "meaning": "màu yêu thích",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈfeɪvərɪt ˈkʌlər/",
+              "example": "Does she have a favourite colour?",
+              "exampleTranslation": "Cô ấy có màu yêu thích không?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 06",
+              "exampleId": "u1-ex-061"
             }
           ]
         },
@@ -859,21 +1462,39 @@ export default {
               "word": "history assignment",
               "meaning": "bài tập môn lịch sử",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈhɪstəri əˈsaɪnmənt/",
+              "example": "You aren't still working on your history assignment, are you?",
+              "exampleTranslation": "Bạn không còn đang làm bài tập lịch sử đấy chứ?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 08",
+              "exampleId": "u1-ex-062"
             },
             {
               "id": "u1-listening-1f56f4fbb5e5",
               "word": "taking a break",
               "meaning": "đang nghỉ giải lao",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈteɪkɪŋ ə breɪk/",
+              "example": "I'm taking a break and looking at photos of a family celebration.",
+              "exampleTranslation": "Tôi đang nghỉ giải lao và xem ảnh về một dịp ăn mừng của gia đình.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 177, track 08",
+              "exampleId": "u1-ex-063"
             },
             {
               "id": "u1-listening-d99cb4f12f08",
               "word": "family celebration",
               "meaning": "dịp ăn mừng của gia đình",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈfæməli ˌseləˈbreɪʃən/",
+              "example": "I'm taking a break and looking at photos of a family celebration.",
+              "exampleTranslation": "Tôi đang nghỉ giải lao và xem ảnh về một dịp ăn mừng của gia đình.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 177, track 08",
+              "exampleId": "u1-ex-063"
             },
             {
               "id": "u1-listening-cbe6181036b5",
@@ -882,176 +1503,323 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/niːs/",
-              "example": "My niece is studying abroad.",
-              "exampleTranslation": "Cháu gái của tôi đang du học."
+              "example": "She's my niece - my brother's daughter.",
+              "exampleTranslation": "Bé là cháu gái tôi, con gái của anh trai tôi.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 08",
+              "exampleId": "u1-ex-064"
             },
             {
               "id": "u1-listening-afd1a8fffb87",
               "word": "wedding",
               "meaning": "đám cưới",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈwedɪŋ/",
+              "example": "The first birthday celebration is more important than a wedding or a graduation.",
+              "exampleTranslation": "Lễ mừng sinh nhật đầu tiên quan trọng hơn một đám cưới hay lễ tốt nghiệp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 177, track 08",
+              "exampleId": "u1-ex-065"
             },
             {
               "id": "u1-listening-415473a357d9",
               "word": "graduation",
               "meaning": "lễ tốt nghiệp",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˌɡrædʒəˈweɪʃən/",
+              "example": "The first birthday celebration is more important than a wedding or a graduation.",
+              "exampleTranslation": "Lễ mừng sinh nhật đầu tiên quan trọng hơn một đám cưới hay lễ tốt nghiệp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 177, track 08",
+              "exampleId": "u1-ex-065"
             },
             {
               "id": "u1-listening-5d8d630f9fa4",
               "word": "neighbours",
               "meaning": "hàng xóm",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈneɪbərz/",
+              "example": "And we invite all our family and friends and sometimes our neighbours.",
+              "exampleTranslation": "Chúng tôi mời tất cả người thân, bạn bè và đôi khi cả hàng xóm.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 08",
+              "exampleId": "u1-ex-066"
             },
             {
               "id": "u1-listening-e14ec61814b4",
               "word": "big day",
               "meaning": "ngày trọng đại",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/bɪɡ deɪ/",
+              "example": "Here's a picture of the restaurant where we celebrated Tae-Hee's big day.",
+              "exampleTranslation": "Đây là ảnh nhà hàng nơi chúng tôi mừng ngày trọng đại của Tae-Hee.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 08",
+              "exampleId": "u1-ex-067"
             },
             {
               "id": "u1-listening-2c0cdbdbaffb",
               "word": "perfect location",
               "meaning": "địa điểm lý tưởng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈpɜːrˌfɪkt loʊˈkeɪʃən/",
+              "example": "Yes, it's a perfect location for taking photographs.",
+              "exampleTranslation": "Đúng vậy, đó là một địa điểm lý tưởng để chụp ảnh.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 08",
+              "exampleId": "u1-ex-068"
             },
             {
               "id": "u1-listening-6af758fa3f18",
               "word": "taking photographs",
               "meaning": "chụp ảnh",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈteɪkɪŋ ˈfoʊtəˌɡræfs/",
+              "example": "Yes, it's a perfect location for taking photographs.",
+              "exampleTranslation": "Đúng vậy, đó là một địa điểm lý tưởng để chụp ảnh.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 08",
+              "exampleId": "u1-ex-068"
             },
             {
               "id": "u1-listening-a4ea4167933f",
               "word": "traditional hat",
               "meaning": "mũ truyền thống",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/trəˈdɪʃənəl hæt/",
+              "example": "Yes, it's a traditional hat for a girl.",
+              "exampleTranslation": "Đúng, đó là chiếc mũ truyền thống dành cho bé gái.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 08",
+              "exampleId": "u1-ex-069"
             },
             {
               "id": "u1-listening-4566a3eca615",
               "word": "purse",
               "meaning": "ví nhỏ; túi đựng tiền nhỏ",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/pɜːrs/",
+              "example": "The little purse is made of silk and means good luck in Korean culture.",
+              "exampleTranslation": "Chiếc ví nhỏ được làm bằng lụa và tượng trưng cho may mắn trong văn hóa Hàn Quốc.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 177, track 08",
+              "exampleId": "u1-ex-070"
             },
             {
               "id": "u1-listening-3619cc03e7e2",
               "word": "made of silk",
               "meaning": "làm bằng lụa",
               "type": "phrase",
-              "pos": "participle_phrase"
+              "pos": "participle_phrase",
+              "ipa": "/meɪd əv sɪlk/",
+              "example": "The little purse is made of silk and means good luck in Korean culture.",
+              "exampleTranslation": "Chiếc ví nhỏ được làm bằng lụa và tượng trưng cho may mắn trong văn hóa Hàn Quốc.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 177, track 08",
+              "exampleId": "u1-ex-070"
             },
             {
               "id": "u1-listening-64410594d70e",
               "word": "good luck",
               "meaning": "sự may mắn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ɡʊd lʌk/",
+              "example": "The little purse is made of silk and means good luck in Korean culture.",
+              "exampleTranslation": "Chiếc ví nhỏ được làm bằng lụa và tượng trưng cho may mắn trong văn hóa Hàn Quốc.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 177, track 08",
+              "exampleId": "u1-ex-070"
             },
             {
               "id": "u1-listening-f1947f79fdfb",
               "word": "culture",
               "meaning": "văn hóa",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈkʌltʃər/",
+              "example": "The little purse is made of silk and means good luck in Korean culture.",
+              "exampleTranslation": "Chiếc ví nhỏ được làm bằng lụa và tượng trưng cho may mắn trong văn hóa Hàn Quốc.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 177, track 08",
+              "exampleId": "u1-ex-070"
             },
             {
               "id": "u1-listening-5f4f045d317c",
               "word": "belt",
               "meaning": "thắt lưng; đai",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/belt/",
+              "example": "The belt means she will have a long life!",
+              "exampleTranslation": "Chiếc đai tượng trưng cho việc bé sẽ sống trường thọ!",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 08",
+              "exampleId": "u1-ex-071"
             },
             {
               "id": "u1-listening-2b351324dbb9",
               "word": "a long life",
               "meaning": "cuộc sống trường thọ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə lɔːŋ laɪf/",
+              "example": "The belt means she will have a long life!",
+              "exampleTranslation": "Chiếc đai tượng trưng cho việc bé sẽ sống trường thọ!",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 177, track 08",
+              "exampleId": "u1-ex-071"
             },
             {
               "id": "u1-listening-2a1c2d6f7d85",
               "word": "rice cakes",
               "meaning": "bánh làm từ gạo",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/raɪs keɪks/",
+              "example": "We always eat rice cakes at a baby's party.",
+              "exampleTranslation": "Chúng tôi luôn ăn bánh làm từ gạo trong tiệc của em bé.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 08",
+              "exampleId": "u1-ex-072"
             },
             {
               "id": "u1-listening-8fced00b6ce2",
               "word": "rainbow",
               "meaning": "cầu vồng",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈreɪnˌboʊ/",
+              "example": "It looks like a rainbow!",
+              "exampleTranslation": "Nó trông như một chiếc cầu vồng!",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 08",
+              "exampleId": "u1-ex-073"
             },
             {
               "id": "u1-listening-64ab9b96a308",
               "word": "bright green",
               "meaning": "màu xanh lá tươi",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/braɪt ɡriːn/",
+              "example": "This rice cake is orange and the other one is bright green.",
+              "exampleTranslation": "Chiếc bánh gạo này màu cam còn chiếc kia màu xanh lá tươi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 178, track 08",
+              "exampleId": "u1-ex-074"
             },
             {
               "id": "u1-listening-14a2c675a9f7",
               "word": "get on really well together",
               "meaning": "rất hòa hợp với nhau",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡet ɑːn riːli wel təˈɡeðər/",
+              "example": "We get on really well together.",
+              "exampleTranslation": "Chúng tôi rất hòa hợp với nhau.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 08",
+              "exampleId": "u1-ex-075"
             },
             {
               "id": "u1-listening-21d1f8ed9293",
               "word": "guests",
               "meaning": "khách mời",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ɡests/",
+              "example": "All the guests get a gift bag at the end of the party.",
+              "exampleTranslation": "Tất cả khách mời đều nhận một túi quà vào cuối bữa tiệc.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 08",
+              "exampleId": "u1-ex-076"
             },
             {
               "id": "u1-listening-5cbb369a4985",
               "word": "gift bag",
               "meaning": "túi quà",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ɡɪft bæɡ/",
+              "example": "All the guests get a gift bag at the end of the party.",
+              "exampleTranslation": "Tất cả khách mời đều nhận một túi quà vào cuối bữa tiệc.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 08",
+              "exampleId": "u1-ex-076"
             },
             {
               "id": "u1-listening-6fa599fe7b02",
               "word": "candle",
               "meaning": "nến",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈkændəl/",
+              "example": "So it could be a candle, or some chocolates.",
+              "exampleTranslation": "Vì vậy, đó có thể là một cây nến hoặc một ít sô-cô-la.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 08",
+              "exampleId": "u1-ex-077"
             },
             {
               "id": "u1-listening-c51f8691cf60",
               "word": "the other way round",
               "meaning": "theo chiều ngược lại",
               "type": "phrase",
-              "pos": "adverb_phrase"
+              "pos": "adverb_phrase",
+              "ipa": "/ði ˈʌðər weɪ raʊnd/",
+              "example": "But shouldn't it be the other way round - the baby gets the presents?",
+              "exampleTranslation": "Nhưng chẳng phải nên ngược lại, tức là em bé nhận quà sao?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 08",
+              "exampleId": "u1-ex-078"
             },
             {
               "id": "u1-listening-b193e9b4a541",
               "word": "receives money",
               "meaning": "nhận tiền",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/rəˈsiːvz mʌni/",
+              "example": "Well, the baby receives money from the guests, so in a way you're right!",
+              "exampleTranslation": "Em bé nhận tiền từ khách mời nên xét theo một khía cạnh thì bạn nói đúng!",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 08",
+              "exampleId": "u1-ex-079"
             },
             {
               "id": "u1-listening-c19dcdf3a36f",
               "word": "in a way",
               "meaning": "xét theo một khía cạnh",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn ə weɪ/",
+              "example": "Well, the baby receives money from the guests, so in a way you're right!",
+              "exampleTranslation": "Em bé nhận tiền từ khách mời nên xét theo một khía cạnh thì bạn nói đúng!",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 08",
+              "exampleId": "u1-ex-079"
             },
             {
               "id": "u1-listening-61637c400f2b",
               "word": "have a cup of tea",
               "meaning": "uống một tách trà",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/hæv ə kʌp əv ti/",
+              "example": "So, why don't we open the box right now and have a cup of tea?",
+              "exampleTranslation": "Vậy sao chúng ta không mở hộp ngay và uống một tách trà nhỉ?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 08",
+              "exampleId": "u1-ex-080"
             }
           ]
         }
@@ -1073,14 +1841,26 @@ export default {
               "word": "father",
               "meaning": "bố; cha",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈfɑːðər/",
+              "example": "My father's a very good cook - he's much better than my mother.",
+              "exampleTranslation": "Bố tôi nấu ăn rất giỏi, giỏi hơn mẹ tôi nhiều.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 11",
+              "exampleId": "u1-ex-081"
             },
             {
               "id": "u1-speaking-cf0622ef2a66",
               "word": "mother",
               "meaning": "mẹ",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈmʌðər/",
+              "example": "My father's a very good cook - he's much better than my mother.",
+              "exampleTranslation": "Bố tôi nấu ăn rất giỏi, giỏi hơn mẹ tôi nhiều.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 11",
+              "exampleId": "u1-ex-081"
             },
             {
               "id": "u1-speaking-0b4bd77cec70",
@@ -1089,15 +1869,24 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/ˈbrʌðər/",
-              "example": "My brother is a doctor.",
-              "exampleTranslation": "Anh trai của tôi là bác sĩ."
+              "example": "My brother's getting married next year, so I'm really looking forward to having a sister-in-law!",
+              "exampleTranslation": "Anh trai tôi sẽ kết hôn vào năm tới nên tôi rất mong có chị dâu!",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 11",
+              "exampleId": "u1-ex-082"
             },
             {
               "id": "u1-speaking-1980d3927f07",
               "word": "sister",
               "meaning": "chị gái; em gái",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈsɪstər/",
+              "example": "My younger sister and I spend all of our free time together.",
+              "exampleTranslation": "Em gái tôi và tôi dành toàn bộ thời gian rảnh bên nhau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 178, track 12",
+              "exampleId": "u1-ex-083"
             },
             {
               "id": "u1-speaking-42e20cbe9422",
@@ -1106,8 +1895,11 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/ˈkʌzən/",
-              "example": "My cousin is a teacher.",
-              "exampleTranslation": "Em họ của tôi là giáo viên."
+              "example": "Sometimes our cousin comes along too.",
+              "exampleTranslation": "Đôi khi anh/em họ của chúng tôi cũng đi cùng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 10",
+              "exampleId": "u1-ex-084"
             },
             {
               "id": "u1-speaking-06a74647c5ff",
@@ -1115,16 +1907,25 @@ export default {
               "meaning": "bố vợ; bố chồng",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ˈfɑːðər ɪn lɔː/",
-              "example": "My father-in-law is retired.",
-              "exampleTranslation": "Bố chồng của tôi đã nghỉ hưu."
+              "ipa": "/ˈfɑːðərɪnˌlɔː/",
+              "example": "My husband's father is my father-in-law.",
+              "exampleTranslation": "Bố của chồng tôi là bố chồng tôi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 8, family vocabulary",
+              "exampleId": "u1-ex-085"
             },
             {
               "id": "u1-speaking-c146867bb023",
               "word": "sister-in-law",
               "meaning": "chị/em dâu; chị/em gái của vợ hoặc chồng",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈsɪstərɪnˌlɔː/",
+              "example": "My brother's getting married next year, so I'm really looking forward to having a sister-in-law!",
+              "exampleTranslation": "Anh trai tôi sẽ kết hôn vào năm tới nên tôi rất mong có chị dâu!",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 11",
+              "exampleId": "u1-ex-082"
             },
             {
               "id": "u1-speaking-7ab704997359",
@@ -1132,9 +1933,12 @@ export default {
               "meaning": "ông",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ˈɡrændˌfɑːðər/",
-              "example": "My grandfather is very wise.",
-              "exampleTranslation": "Ông của tôi rất khôn ngoan."
+              "ipa": "/ˈɡrænˌfɑːðər/",
+              "example": "My grandfather's brother is my great-uncle, and my grandmother's sister is my great-aunt.",
+              "exampleTranslation": "Anh/em trai của ông tôi là ông bác/ông chú của tôi, còn chị/em gái của bà tôi là bà bác/bà dì của tôi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 8, family vocabulary",
+              "exampleId": "u1-ex-086"
             },
             {
               "id": "u1-speaking-c04d87aa70a7",
@@ -1143,8 +1947,11 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/ˈɡrændˌmʌðər/",
-              "example": "My grandmother loves gardening.",
-              "exampleTranslation": "Bà của tôi thích làm vườn."
+              "example": "My grandfather's brother is my great-uncle, and my grandmother's sister is my great-aunt.",
+              "exampleTranslation": "Anh/em trai của ông tôi là ông bác/ông chú của tôi, còn chị/em gái của bà tôi là bà bác/bà dì của tôi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 8, family vocabulary",
+              "exampleId": "u1-ex-086"
             },
             {
               "id": "u1-speaking-3107ea0301a2",
@@ -1153,8 +1960,11 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/ˈʌŋkəl/",
-              "example": "My uncle is a businessman.",
-              "exampleTranslation": "Chú tôi là doanh nhân."
+              "example": "My uncle is my mother's brother.",
+              "exampleTranslation": "Cậu tôi là anh hoặc em trai của mẹ tôi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 8, family vocabulary",
+              "exampleId": "u1-ex-138"
             },
             {
               "id": "u1-speaking-a892fec0a7ca",
@@ -1163,8 +1973,11 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/ænt/",
-              "example": "My aunt is a nurse.",
-              "exampleTranslation": "Cô tôi là y tá."
+              "example": "I'd love to have a niece or a little nephew to take to the park one day. Yes, I really want to be an aunt!",
+              "exampleTranslation": "Tôi rất muốn một ngày nào đó có cháu gái hoặc cháu trai nhỏ để đưa đi công viên. Đúng vậy, tôi rất muốn được làm cô!",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 11",
+              "exampleId": "u1-ex-087"
             },
             {
               "id": "u1-speaking-f1004e926e8e",
@@ -1173,8 +1986,11 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/ˈnefjuː/",
-              "example": "My nephew loves playing soccer.",
-              "exampleTranslation": "Cháu trai của tôi thích chơi bóng đá."
+              "example": "I'd love to have a niece or a little nephew to take to the park one day. Yes, I really want to be an aunt!",
+              "exampleTranslation": "Tôi rất muốn một ngày nào đó có cháu gái hoặc cháu trai nhỏ để đưa đi công viên. Đúng vậy, tôi rất muốn được làm cô!",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 11",
+              "exampleId": "u1-ex-087"
             },
             {
               "id": "u1-speaking-b4e0b23386c8",
@@ -1182,198 +1998,363 @@ export default {
               "meaning": "chị hoặc em gái của ông/bà",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ˈɡreɪtˌænt/",
-              "example": "My great-aunt is a writer.",
-              "exampleTranslation": "Chị gái của bà tôi là nhà văn."
+              "ipa": "/ɡreɪt ænt/",
+              "example": "My grandfather's brother is my great-uncle, and my grandmother's sister is my great-aunt.",
+              "exampleTranslation": "Anh/em trai của ông tôi là ông bác/ông chú của tôi, còn chị/em gái của bà tôi là bà bác/bà dì của tôi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 8, family vocabulary",
+              "exampleId": "u1-ex-086"
             },
             {
               "id": "u1-speaking-7e8cac5dd2f9",
               "word": "a large family",
               "meaning": "một gia đình đông người",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə lɑːrdʒ ˈfæməli/",
+              "example": "Well, my family isn't a large family. It's quite a small family, in fact - and quite a typical family for my country.",
+              "exampleTranslation": "Gia đình tôi không đông người. Thực ra đó là một gia đình khá nhỏ và khá điển hình ở nước tôi.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 09",
+              "exampleId": "u1-ex-088"
             },
             {
               "id": "u1-speaking-84d5aed6a5d8",
               "word": "a small family",
               "meaning": "một gia đình ít người",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə smɔːl ˈfæməli/",
+              "example": "Well, my family isn't a large family. It's quite a small family, in fact - and quite a typical family for my country.",
+              "exampleTranslation": "Gia đình tôi không đông người. Thực ra đó là một gia đình khá nhỏ và khá điển hình ở nước tôi.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 09",
+              "exampleId": "u1-ex-088"
             },
             {
               "id": "u1-speaking-9fa530f23729",
               "word": "a typical family",
               "meaning": "một gia đình điển hình",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈtɪpəkəl ˈfæməli/",
+              "example": "Well, my family isn't a large family. It's quite a small family, in fact - and quite a typical family for my country.",
+              "exampleTranslation": "Gia đình tôi không đông người. Thực ra đó là một gia đình khá nhỏ và khá điển hình ở nước tôi.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 09",
+              "exampleId": "u1-ex-088"
             },
             {
               "id": "u1-speaking-e2a10749f6f3",
               "word": "a close family",
               "meaning": "một gia đình gắn bó",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə kloʊs ˈfæməli/",
+              "example": "I think we're a close, happy family.",
+              "exampleTranslation": "Tôi nghĩ chúng tôi là một gia đình gắn bó, hạnh phúc.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 09",
+              "exampleId": "u1-ex-089"
             },
             {
               "id": "u1-speaking-82a0db070e72",
               "word": "a happy family",
               "meaning": "một gia đình hạnh phúc",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə hæpi ˈfæməli/",
+              "example": "I think we're a close, happy family.",
+              "exampleTranslation": "Tôi nghĩ chúng tôi là một gia đình gắn bó, hạnh phúc.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 09",
+              "exampleId": "u1-ex-089"
             },
             {
               "id": "u1-speaking-9c2fb2e5f462",
               "word": "the baby of the family",
               "meaning": "người con nhỏ tuổi nhất trong gia đình",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðə beɪbi əv ðə ˈfæməli/",
+              "example": "So, I'm the baby of the family!",
+              "exampleTranslation": "Vì thế, tôi là người nhỏ tuổi nhất nhà!",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 09",
+              "exampleId": "u1-ex-090"
             },
             {
               "id": "u1-speaking-0c77453ce41a",
               "word": "spend time together",
               "meaning": "dành thời gian bên nhau",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/spend taɪm təˈɡeðər/",
+              "example": "My younger sister and I spend all of our free time together.",
+              "exampleTranslation": "Em gái tôi và tôi dành toàn bộ thời gian rảnh bên nhau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 178, track 12",
+              "exampleId": "u1-ex-083"
             },
             {
               "id": "u1-speaking-1fde216a9ded",
               "word": "once a week",
               "meaning": "mỗi tuần một lần",
               "type": "phrase",
-              "pos": "adverb_phrase"
+              "pos": "adverb_phrase",
+              "ipa": "/wʌns ə wiːk/",
+              "example": "We try to go out once a week - usually at weekends - on Saturdays or Sundays.",
+              "exampleTranslation": "Chúng tôi cố gắng đi chơi mỗi tuần một lần, thường vào cuối tuần, thứ Bảy hoặc Chủ nhật.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 10",
+              "exampleId": "u1-ex-091"
             },
             {
               "id": "u1-speaking-7920553d67a3",
               "word": "at weekends",
               "meaning": "vào cuối tuần",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ət ˈwiːˌkendz/",
+              "example": "We try to go out once a week - usually at weekends - on Saturdays or Sundays.",
+              "exampleTranslation": "Chúng tôi cố gắng đi chơi mỗi tuần một lần, thường vào cuối tuần, thứ Bảy hoặc Chủ nhật.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 10",
+              "exampleId": "u1-ex-091"
             },
             {
               "id": "u1-speaking-df4fa7a45c59",
               "word": "go for a long walk",
               "meaning": "đi dạo một quãng dài",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡoʊ fər ə lɔːŋ wɑːk/",
+              "example": "We all really like being in the fresh air so we often go for a long walk along the beach.",
+              "exampleTranslation": "Chúng tôi đều rất thích không khí ngoài trời nên thường đi dạo một quãng dài dọc bãi biển.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 10",
+              "exampleId": "u1-ex-092"
             },
             {
               "id": "u1-speaking-4c8d99c5c944",
               "word": "in the fresh air",
               "meaning": "ở ngoài trời thoáng đãng",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn ðə freʃ er/",
+              "example": "We all really like being in the fresh air so we often go for a long walk along the beach.",
+              "exampleTranslation": "Chúng tôi đều rất thích không khí ngoài trời nên thường đi dạo một quãng dài dọc bãi biển.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 10",
+              "exampleId": "u1-ex-092"
             },
             {
               "id": "u1-speaking-a8151d47f24d",
               "word": "have a barbecue",
               "meaning": "tổ chức một bữa nướng ngoài trời",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/hæv ə ˈbɑːrbɪkˌjuː/",
+              "example": "We usually go for a long walk and sometimes have a barbecue by the lake.",
+              "exampleTranslation": "Chúng tôi thường đi dạo một quãng dài và đôi khi tổ chức tiệc nướng bên hồ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 10",
+              "exampleId": "u1-ex-093"
             },
             {
               "id": "u1-speaking-a758644d47bd",
               "word": "eat out",
               "meaning": "ăn ở ngoài",
               "type": "phrase",
-              "pos": "phrasal_verb"
+              "pos": "phrasal_verb",
+              "ipa": "/iːt aʊt/",
+              "example": "We sometimes eat out, go bowling or go to the cinema as a family.",
+              "exampleTranslation": "Gia đình chúng tôi đôi khi đi ăn ngoài, chơi bowling hoặc đi xem phim cùng nhau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 19–21, Speaking activities",
+              "exampleId": "u1-ex-094"
             },
             {
               "id": "u1-speaking-0ef7a506fa1a",
               "word": "go bowling",
               "meaning": "đi chơi bowling",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡoʊ ˈboʊlɪŋ/",
+              "example": "We sometimes eat out, go bowling or go to the cinema as a family.",
+              "exampleTranslation": "Gia đình chúng tôi đôi khi đi ăn ngoài, chơi bowling hoặc đi xem phim cùng nhau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 19–21, Speaking activities",
+              "exampleId": "u1-ex-094"
             },
             {
               "id": "u1-speaking-cf1cf57dcef5",
               "word": "go to the cinema",
               "meaning": "đi xem phim",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡoʊ tə ðə ˈsɪnəmə/",
+              "example": "We sometimes eat out, go bowling or go to the cinema as a family.",
+              "exampleTranslation": "Gia đình chúng tôi đôi khi đi ăn ngoài, chơi bowling hoặc đi xem phim cùng nhau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 19–21, Speaking activities",
+              "exampleId": "u1-ex-094"
             },
             {
               "id": "u1-speaking-d7cf448a3627",
               "word": "get married",
               "meaning": "kết hôn",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡet ˈmeriːd/",
+              "example": "My brother's getting married next year, so I'm really looking forward to having a sister-in-law!",
+              "exampleTranslation": "Anh trai tôi sẽ kết hôn vào năm tới nên tôi rất mong có chị dâu!",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 11",
+              "exampleId": "u1-ex-082"
             },
             {
               "id": "u1-speaking-008a8c79a69f",
               "word": "look forward to + V-ing",
               "meaning": "mong chờ làm điều gì",
               "type": "structure",
-              "pos": "sentence_pattern"
+              "pos": "sentence_pattern",
+              "ipa": "/lʊk ˈfɔːrwərd tə plʌs vɜːrb plʌs ɪŋ/",
+              "example": "My brother's getting married next year, so I'm really looking forward to having a sister-in-law!",
+              "exampleTranslation": "Anh trai tôi sẽ kết hôn vào năm tới nên tôi rất mong có chị dâu!",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 11",
+              "exampleId": "u1-ex-082"
             },
             {
               "id": "u1-speaking-2e7f3498f006",
               "word": "be similar to",
               "meaning": "giống với",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː ˈsɪmələr tə/",
+              "example": "However, I think that I'm more similar to my mother in character. We're both easy-going and calm, so I think it's a mixture of both.",
+              "exampleTranslation": "Tuy nhiên, tôi nghĩ mình giống mẹ hơn về tính cách. Cả hai đều dễ tính và điềm tĩnh nên tôi nghĩ mình là sự kết hợp của cả bố lẫn mẹ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 12",
+              "exampleId": "u1-ex-095"
             },
             {
               "id": "u1-speaking-2b3061411584",
               "word": "look like",
               "meaning": "có ngoại hình giống",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/lʊk laɪk/",
+              "example": "I look like my father, and we have the same interests.",
+              "exampleTranslation": "Tôi có ngoại hình giống bố và chúng tôi có cùng sở thích.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 178, track 12",
+              "exampleId": "u1-ex-096"
             },
             {
               "id": "u1-speaking-833f2cda44f8",
               "word": "have the same interests",
               "meaning": "có cùng sở thích",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/hæv ðə seɪm ˈɪntərəsts/",
+              "example": "I look like my father, and we have the same interests.",
+              "exampleTranslation": "Tôi có ngoại hình giống bố và chúng tôi có cùng sở thích.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 178, track 12",
+              "exampleId": "u1-ex-096"
             },
             {
               "id": "u1-speaking-892228d91194",
               "word": "in character",
               "meaning": "về tính cách",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn ˈkerɪktər/",
+              "example": "However, I think that I'm more similar to my mother in character. We're both easy-going and calm, so I think it's a mixture of both.",
+              "exampleTranslation": "Tuy nhiên, tôi nghĩ mình giống mẹ hơn về tính cách. Cả hai đều dễ tính và điềm tĩnh nên tôi nghĩ mình là sự kết hợp của cả bố lẫn mẹ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 12",
+              "exampleId": "u1-ex-095"
             },
             {
               "id": "u1-speaking-c806ed85bafe",
               "word": "easy-going",
               "meaning": "dễ tính",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/iːzi ˈɡoʊɪn/",
+              "example": "However, I think that I'm more similar to my mother in character. We're both easy-going and calm, so I think it's a mixture of both.",
+              "exampleTranslation": "Tuy nhiên, tôi nghĩ mình giống mẹ hơn về tính cách. Cả hai đều dễ tính và điềm tĩnh nên tôi nghĩ mình là sự kết hợp của cả bố lẫn mẹ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 12",
+              "exampleId": "u1-ex-095"
             },
             {
               "id": "u1-speaking-2b4b2eadf7b2",
               "word": "calm",
               "meaning": "điềm tĩnh",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/kɑːm/",
+              "example": "However, I think that I'm more similar to my mother in character. We're both easy-going and calm, so I think it's a mixture of both.",
+              "exampleTranslation": "Tuy nhiên, tôi nghĩ mình giống mẹ hơn về tính cách. Cả hai đều dễ tính và điềm tĩnh nên tôi nghĩ mình là sự kết hợp của cả bố lẫn mẹ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 12",
+              "exampleId": "u1-ex-095"
             },
             {
               "id": "u1-speaking-aa8744a365a7",
               "word": "a twin brother",
               "meaning": "anh/em trai sinh đôi",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə twɪn ˈbrʌðər/",
+              "example": "My twin brother and I have different personalities.",
+              "exampleTranslation": "Anh/em trai sinh đôi của tôi và tôi có tính cách khác nhau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 21–23, Speaking",
+              "exampleId": "u1-ex-097"
             },
             {
               "id": "u1-speaking-9420dd77cc75",
               "word": "different personalities",
               "meaning": "những tính cách khác nhau",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈdɪfrənt ˌpɜːrsəˈnælɪtiːz/",
+              "example": "My twin brother and I have different personalities.",
+              "exampleTranslation": "Anh/em trai sinh đôi của tôi và tôi có tính cách khác nhau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 21–23, Speaking",
+              "exampleId": "u1-ex-097"
             },
             {
               "id": "u1-speaking-693149b7043f",
               "word": "work long hours",
               "meaning": "làm việc nhiều giờ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/wɜːrk lɔːŋ ˈaʊərz/",
+              "example": "My parents work long hours, so we spend time together at weekends.",
+              "exampleTranslation": "Bố mẹ tôi làm việc nhiều giờ nên chúng tôi dành thời gian bên nhau vào cuối tuần.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 21–23, Speaking",
+              "exampleId": "u1-ex-098"
             },
             {
               "id": "u1-speaking-f960f7220e38",
               "word": "tidy my room",
               "meaning": "dọn phòng của tôi",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/taɪdi maɪ ruːm/",
+              "example": "My mother keeps telling me to tidy my room.",
+              "exampleTranslation": "Mẹ tôi cứ nhắc tôi dọn phòng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 14",
+              "exampleId": "u1-ex-099"
             }
           ]
         },
@@ -1388,56 +2369,104 @@ export default {
               "word": "an only child",
               "meaning": "con một",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ən ˈoʊnli tʃaɪld/",
+              "example": "Although I'm an only child, my cousin and I have a lot in common and support each other.",
+              "exampleTranslation": "Dù là con một, tôi và người anh/em họ có nhiều điểm chung và hỗ trợ lẫn nhau.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 19–23 / TB pp. 17–19",
+              "exampleId": "u1-ex-100"
             },
             {
               "id": "u1-speaking-a7804399bf4b",
               "word": "a close-knit family",
               "meaning": "gia đình gắn bó khăng khít",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə kloʊs nɪt ˈfæməli/",
+              "example": "I come from a close-knit family of four.",
+              "exampleTranslation": "Tôi xuất thân từ một gia đình bốn người rất gắn bó.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 19–23, Speaking extension",
+              "exampleId": "u1-ex-101"
             },
             {
               "id": "u1-speaking-d4e2c04ee54e",
               "word": "take after someone",
               "meaning": "giống một người thân về ngoại hình hoặc tính cách",
               "type": "phrase",
-              "pos": "phrasal_verb"
+              "pos": "phrasal_verb",
+              "ipa": "/teɪk ˈæftər ˈsʌmˌwʌn/",
+              "example": "I take after my mother because we are both calm and patient.",
+              "exampleTranslation": "Tôi giống mẹ vì cả hai đều điềm tĩnh và kiên nhẫn.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 19–23 / TB pp. 17–19",
+              "exampleId": "u1-ex-102"
             },
             {
               "id": "u1-speaking-2a425930eed9",
               "word": "have a lot in common",
               "meaning": "có nhiều điểm chung",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/hæv ə lɑːt ɪn ˈkɑːmən/",
+              "example": "Although I'm an only child, my cousin and I have a lot in common and support each other.",
+              "exampleTranslation": "Dù là con một, tôi và người anh/em họ có nhiều điểm chung và hỗ trợ lẫn nhau.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 19–23 / TB pp. 17–19",
+              "exampleId": "u1-ex-100"
             },
             {
               "id": "u1-speaking-aa9ce0b0945d",
               "word": "support each other",
               "meaning": "hỗ trợ lẫn nhau",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/səˈpɔːrt iːtʃ ˈʌðər/",
+              "example": "Although I'm an only child, my cousin and I have a lot in common and support each other.",
+              "exampleTranslation": "Dù là con một, tôi và người anh/em họ có nhiều điểm chung và hỗ trợ lẫn nhau.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 19–23 / TB pp. 17–19",
+              "exampleId": "u1-ex-100"
             },
             {
               "id": "u1-speaking-f6b521b841c2",
               "word": "share household chores",
               "meaning": "chia sẻ việc nhà",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ʃer ˈhaʊsˌhoʊld tʃɔːrz/",
+              "example": "We share household chores and spend quality time with one another.",
+              "exampleTranslation": "Chúng tôi chia sẻ việc nhà và dành thời gian trọn vẹn, ý nghĩa bên nhau.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 19–23 / TB pp. 17–19",
+              "exampleId": "u1-ex-103"
             },
             {
               "id": "u1-speaking-9d0672c23a46",
               "word": "spend quality time with",
               "meaning": "dành thời gian trọn vẹn, có ý nghĩa bên ai",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/spend ˈkwɑːləti taɪm wɪð/",
+              "example": "We share household chores and spend quality time with one another.",
+              "exampleTranslation": "Chúng tôi chia sẻ việc nhà và dành thời gian trọn vẹn, ý nghĩa bên nhau.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 19–23 / TB pp. 17–19",
+              "exampleId": "u1-ex-103"
             },
             {
               "id": "u1-speaking-148c6f128c02",
               "word": "turn to someone for advice",
               "meaning": "tìm đến ai để xin lời khuyên",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/tɜːrn tə ˈsʌmˌwʌn fər ædˈvaɪs/",
+              "example": "I turn to my grandfather for advice when I have a problem.",
+              "exampleTranslation": "Tôi tìm đến ông để xin lời khuyên khi gặp vấn đề.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 19–23 / TB pp. 17–19",
+              "exampleId": "u1-ex-104"
             },
             {
               "id": "u1-speaking-a58e5220f7ad",
@@ -1445,7 +2474,12 @@ export default {
               "meaning": "Tôi xuất thân từ một gia đình ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "I come from a close-knit family of four."
+              "ipa": "/aɪ kʌm frəm ə … ˈfæməli/",
+              "example": "I come from a close-knit family of four.",
+              "exampleTranslation": "Tôi xuất thân từ một gia đình bốn người rất gắn bó.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 19–23, Speaking extension",
+              "exampleId": "u1-ex-101"
             },
             {
               "id": "u1-speaking-a327e32349da",
@@ -1453,7 +2487,12 @@ export default {
               "meaning": "Tôi thân nhất với ... vì ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "I'm closest to my sister because she always listens to me."
+              "ipa": "/aɪm ˈkloʊsəst tə … bɪˈkɑːz …/",
+              "example": "I'm closest to my sister because she always listens to me.",
+              "exampleTranslation": "Tôi thân nhất với chị/em gái vì cô ấy luôn lắng nghe tôi.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 19–23 / TB pp. 17–19",
+              "exampleId": "u1-ex-105"
             },
             {
               "id": "u1-speaking-de39df5f9861",
@@ -1461,7 +2500,12 @@ export default {
               "meaning": "Chúng tôi thường ..., nhất là cuối tuần.",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "We usually cook together, especially at weekends."
+              "ipa": "/wiː ˈjuːʒəli … əˈspeʃəli ət ˈwiːˌkendz/",
+              "example": "We usually cook together, especially at weekends.",
+              "exampleTranslation": "Chúng tôi thường nấu ăn cùng nhau, nhất là vào cuối tuần.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 19–23 / TB pp. 17–19",
+              "exampleId": "u1-ex-106"
             },
             {
               "id": "u1-speaking-3b02f69320dc",
@@ -1469,7 +2513,12 @@ export default {
               "meaning": "Mặc dù có tính cách khác nhau, ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "Although we have different personalities, we get on well."
+              "ipa": "/ˌɔːlˈðoʊ wiː hæv ˈdɪfrənt ˌpɜːrsəˈnælɪtiːz …/",
+              "example": "Although we have different personalities, we get on well.",
+              "exampleTranslation": "Mặc dù có tính cách khác nhau, chúng tôi rất hòa hợp.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 19–23 / TB pp. 17–19",
+              "exampleId": "u1-ex-107"
             },
             {
               "id": "u1-speaking-be2d7a18f783",
@@ -1477,7 +2526,12 @@ export default {
               "meaning": "Tôi muốn dành nhiều thời gian hơn bên ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "I'd like to spend more time with my grandparents."
+              "ipa": "/aɪd laɪk tə spend mɔːr taɪm wɪð …/",
+              "example": "I'd like to spend more time with my grandparents.",
+              "exampleTranslation": "Tôi muốn dành nhiều thời gian hơn bên ông bà.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 19–23 / TB pp. 17–19",
+              "exampleId": "u1-ex-108"
             }
           ]
         }
@@ -1499,308 +2553,572 @@ export default {
               "word": "describe a process",
               "meaning": "mô tả một quy trình",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/dɪsˈkraɪb ə ˈprɑːˌses/",
+              "example": "To describe a process, explain the stages in the production of a product.",
+              "exampleTranslation": "Để mô tả một quy trình, hãy giải thích các giai đoạn sản xuất một sản phẩm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 12–14, Writing",
+              "exampleId": "u1-ex-109"
             },
             {
               "id": "u1-writing-2d669b70f63c",
               "word": "stages in the production of",
               "meaning": "các giai đoạn trong việc sản xuất",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈsteɪdʒəz ɪn ðə pərˈdʌkʃən əv/",
+              "example": "To describe a process, explain the stages in the production of a product.",
+              "exampleTranslation": "Để mô tả một quy trình, hãy giải thích các giai đoạn sản xuất một sản phẩm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 12–14, Writing",
+              "exampleId": "u1-ex-109"
             },
             {
               "id": "u1-writing-8aa9f1c895ec",
               "word": "stringhoppers",
               "meaning": "món mì sợi nhỏ từ bột gạo của Sri Lanka",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈstrɪŋˌhɑːpərz/",
+              "example": "First, the dry rice is put into a rice grinder to make flour for stringhoppers.",
+              "exampleTranslation": "Đầu tiên, gạo khô được cho vào máy xay để làm bột cho món stringhopper.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 14, Writing model",
+              "exampleId": "u1-ex-110"
             },
             {
               "id": "u1-writing-ef45f68baf57",
               "word": "rice grinder",
               "meaning": "máy xay gạo",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/raɪs ˈɡraɪndər/",
+              "example": "First, the dry rice is put into a rice grinder to make flour for stringhoppers.",
+              "exampleTranslation": "Đầu tiên, gạo khô được cho vào máy xay để làm bột cho món stringhopper.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 14, Writing model",
+              "exampleId": "u1-ex-110"
             },
             {
               "id": "u1-writing-aadaec9eb608",
               "word": "stringhopper press",
               "meaning": "dụng cụ ép sợi mì stringhopper",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈstrɪŋˌhɑːpər pres/",
+              "example": "After that, the dough is put into a stringhopper press, which is a metal piece of equipment with two handles and holes in it.",
+              "exampleTranslation": "Sau đó, bột nhào được cho vào dụng cụ ép stringhopper, một thiết bị kim loại có hai tay cầm và các lỗ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 14, Writing model",
+              "exampleId": "u1-ex-111"
             },
             {
               "id": "u1-writing-709385947c2c",
               "word": "stringhopper mats",
               "meaning": "vỉ hoặc khay đỡ các vắt mì stringhopper",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈstrɪŋˌhɑːpər mæts/",
+              "example": "The noodle 'nests' are placed onto individual stringhopper mats, which are round baskets made of thin pieces of wood.",
+              "exampleTranslation": "Các vắt mì được đặt lên từng vỉ stringhopper, là những chiếc rổ tròn làm từ các thanh gỗ mỏng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 14, Writing model",
+              "exampleId": "u1-ex-112"
             },
             {
               "id": "u1-writing-28945843f858",
               "word": "a piece of equipment",
               "meaning": "một thiết bị; một dụng cụ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə piːs əv ɪˈkwɪpmənt/",
+              "example": "After that, the dough is put into a stringhopper press, which is a metal piece of equipment with two handles and holes in it.",
+              "exampleTranslation": "Sau đó, bột nhào được cho vào dụng cụ ép stringhopper, một thiết bị kim loại có hai tay cầm và các lỗ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 14, Writing model",
+              "exampleId": "u1-ex-111"
             },
             {
               "id": "u1-writing-539822cd7b4b",
               "word": "handles",
               "meaning": "tay cầm",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈhændəlz/",
+              "example": "After that, the dough is put into a stringhopper press, which is a metal piece of equipment with two handles and holes in it.",
+              "exampleTranslation": "Sau đó, bột nhào được cho vào dụng cụ ép stringhopper, một thiết bị kim loại có hai tay cầm và các lỗ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 14, Writing model",
+              "exampleId": "u1-ex-111"
             },
             {
               "id": "u1-writing-cae662172fd4",
               "word": "base",
               "meaning": "phần đế",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/beɪs/",
+              "example": "It is a metal machine with a wide base and a narrow tray on top.",
+              "exampleTranslation": "Đó là một chiếc máy kim loại có đế rộng và khay hẹp phía trên.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 12, equipment descriptions",
+              "exampleId": "u1-ex-113"
             },
             {
               "id": "u1-writing-ad9a0cab12ee",
               "word": "tray",
               "meaning": "khay",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/treɪ/",
+              "example": "It is a metal machine with a wide base and a narrow tray on top.",
+              "exampleTranslation": "Đó là một chiếc máy kim loại có đế rộng và khay hẹp phía trên.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 12, equipment descriptions",
+              "exampleId": "u1-ex-113"
             },
             {
               "id": "u1-writing-03ecab669ba2",
               "word": "metal",
               "meaning": "kim loại",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈmetəl/",
+              "example": "After that, the dough is put into a stringhopper press, which is a metal piece of equipment with two handles and holes in it.",
+              "exampleTranslation": "Sau đó, bột nhào được cho vào dụng cụ ép stringhopper, một thiết bị kim loại có hai tay cầm và các lỗ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 14, Writing model",
+              "exampleId": "u1-ex-111"
             },
             {
               "id": "u1-writing-72f7c894ad6c",
               "word": "plastic",
               "meaning": "nhựa",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈplæstɪk/",
+              "example": "It is made of a light material such as plastic.",
+              "exampleTranslation": "Nó được làm bằng một vật liệu nhẹ như nhựa.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 12, equipment descriptions",
+              "exampleId": "u1-ex-114"
             },
             {
               "id": "u1-writing-99f7855eb789",
               "word": "wood",
               "meaning": "gỗ",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/wʊd/",
+              "example": "The noodle 'nests' are placed onto individual stringhopper mats, which are round baskets made of thin pieces of wood.",
+              "exampleTranslation": "Các vắt mì được đặt lên từng vỉ stringhopper, là những chiếc rổ tròn làm từ các thanh gỗ mỏng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 14, Writing model",
+              "exampleId": "u1-ex-112"
             },
             {
               "id": "u1-writing-d6e28ffb3b19",
               "word": "cloth",
               "meaning": "vải",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/klɔːθ/",
+              "example": "Some descriptions mention triangular pieces of cloth.",
+              "exampleTranslation": "Một số phần mô tả đề cập đến các mảnh vải hình tam giác.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 12–13, equipment and shapes",
+              "exampleId": "u1-ex-115"
             },
             {
               "id": "u1-writing-a97b0931730e",
               "word": "round",
               "meaning": "hình tròn",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/raʊnd/",
+              "example": "The noodle 'nests' are placed onto individual stringhopper mats, which are round baskets made of thin pieces of wood.",
+              "exampleTranslation": "Các vắt mì được đặt lên từng vỉ stringhopper, là những chiếc rổ tròn làm từ các thanh gỗ mỏng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 14, Writing model",
+              "exampleId": "u1-ex-112"
             },
             {
               "id": "u1-writing-4ba3e8e3765f",
               "word": "square",
               "meaning": "hình vuông",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/skwer/",
+              "example": "It is square in shape and made of wood.",
+              "exampleTranslation": "Nó có hình vuông và được làm bằng gỗ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 12, equipment descriptions",
+              "exampleId": "u1-ex-116"
             },
             {
               "id": "u1-writing-d2cceeb85084",
               "word": "triangular",
               "meaning": "có hình tam giác",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/traɪˈæŋɡjələr/",
+              "example": "Some descriptions mention triangular pieces of cloth.",
+              "exampleTranslation": "Một số phần mô tả đề cập đến các mảnh vải hình tam giác.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 12–13, equipment and shapes",
+              "exampleId": "u1-ex-115"
             },
             {
               "id": "u1-writing-d3de705eef33",
               "word": "rectangular",
               "meaning": "có hình chữ nhật",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/rekˈtæŋɡjələr/",
+              "example": "These are thick pieces of wood with rectangular holes in them.",
+              "exampleTranslation": "Đây là những miếng gỗ dày có các lỗ hình chữ nhật.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 12, equipment descriptions",
+              "exampleId": "u1-ex-117"
             },
             {
               "id": "u1-writing-6ede0d3cf702",
               "word": "shallow baskets",
               "meaning": "những chiếc rổ nông",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈʃæloʊ ˈbæskəts/",
+              "example": "The noodle 'nests' are placed onto individual stringhopper mats, which are round baskets made of thin pieces of wood.",
+              "exampleTranslation": "Các vắt mì được đặt lên từng vỉ stringhopper, là những chiếc rổ tròn làm từ các thanh gỗ mỏng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 14, Writing model",
+              "exampleId": "u1-ex-112"
             },
             {
               "id": "u1-writing-e1e70aac436d",
               "word": "a criss-cross pattern",
               "meaning": "hoa văn đan chéo",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈkrɪsˈkrɔːs ˈpætərn/",
+              "example": "The wood is in a criss-cross pattern to form large holes.",
+              "exampleTranslation": "Gỗ được đan chéo để tạo thành những lỗ lớn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 12, equipment descriptions",
+              "exampleId": "u1-ex-118"
             },
             {
               "id": "u1-writing-ea452d0a0d46",
               "word": "grind into flour",
               "meaning": "xay thành bột",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡraɪnd ˈɪntuː ˈflaʊər/",
+              "example": "Put the rice into the grinder and grind it into flour.",
+              "exampleTranslation": "Cho gạo vào máy xay và xay thành bột.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 13, instructions",
+              "exampleId": "u1-ex-119"
             },
             {
               "id": "u1-writing-c9c45f59df3a",
               "word": "mix with water",
               "meaning": "trộn với nước",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/mɪks wɪð ˈwɔːtər/",
+              "example": "The flour is mixed with water to form a dough.",
+              "exampleTranslation": "Bột được trộn với nước để tạo thành khối bột nhào.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 14, Writing model",
+              "exampleId": "u1-ex-120"
             },
             {
               "id": "u1-writing-09fdaf04d57d",
               "word": "form a dough",
               "meaning": "tạo thành khối bột nhào",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/fɔːrm ə doʊ/",
+              "example": "The flour is mixed with water to form a dough.",
+              "exampleTranslation": "Bột được trộn với nước để tạo thành khối bột nhào.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 14, Writing model",
+              "exampleId": "u1-ex-120"
             },
             {
               "id": "u1-writing-9e7cb743d067",
               "word": "push through",
               "meaning": "ép qua",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/pʊʃ θruː/",
+              "example": "The dough is pushed through the holes and it comes out as thin noodles.",
+              "exampleTranslation": "Bột nhào được ép qua các lỗ và đi ra thành những sợi mì mảnh.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 14, Writing model",
+              "exampleId": "u1-ex-121"
             },
             {
               "id": "u1-writing-8bc372ea7755",
               "word": "place onto",
               "meaning": "đặt lên trên",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/pleɪs ˈɑːntuː/",
+              "example": "The noodles are placed onto mats and cooked in a steamer.",
+              "exampleTranslation": "Mì được đặt lên các vỉ rồi nấu trong nồi hấp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 14, Writing model",
+              "exampleId": "u1-ex-122"
             },
             {
               "id": "u1-writing-8b39349fc323",
               "word": "cook in a steamer",
               "meaning": "nấu trong nồi hấp",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kʊk ɪn ə ˈstiːmər/",
+              "example": "The noodles are placed onto mats and cooked in a steamer.",
+              "exampleTranslation": "Mì được đặt lên các vỉ rồi nấu trong nồi hấp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 14, Writing model",
+              "exampleId": "u1-ex-122"
             },
             {
               "id": "u1-writing-ebc3c0c0c6c8",
               "word": "serve with spicy curries",
               "meaning": "dùng kèm các món cà ri cay",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/sɜːrv wɪð spaɪsi ˈkɜːriːz/",
+              "example": "The final stage is to serve the stringhoppers with a variety of spicy curries.",
+              "exampleTranslation": "Giai đoạn cuối là dọn stringhopper cùng nhiều loại cà ri cay.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 14, Writing model",
+              "exampleId": "u1-ex-123"
             },
             {
               "id": "u1-writing-924ae389c4b9",
               "word": "cherry jam",
               "meaning": "mứt anh đào",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/tʃeri dʒæm/",
+              "example": "The quality of the cherry jam is checked before it is packed.",
+              "exampleTranslation": "Chất lượng mứt anh đào được kiểm tra trước khi đóng gói.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 15, cherry-jam process",
+              "exampleId": "u1-ex-124"
             },
             {
               "id": "u1-writing-63c84467ab84",
               "word": "spread a sheet",
               "meaning": "trải một tấm bạt hoặc tấm vải",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/spred ə ʃiːt/",
+              "example": "A sheet is spread under the tree, and a mechanical arm shakes the branches.",
+              "exampleTranslation": "Một tấm bạt được trải dưới cây và một cánh tay cơ khí rung các cành cây.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 15, diagram",
+              "exampleId": "u1-ex-125"
             },
             {
               "id": "u1-writing-15d145198922",
               "word": "a mechanical arm",
               "meaning": "một cánh tay cơ khí",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə məˈkænɪkəl ɑːrm/",
+              "example": "A sheet is spread under the tree, and a mechanical arm shakes the branches.",
+              "exampleTranslation": "Một tấm bạt được trải dưới cây và một cánh tay cơ khí rung các cành cây.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 15, diagram",
+              "exampleId": "u1-ex-125"
             },
             {
               "id": "u1-writing-f971909dbbdf",
               "word": "transport by lorry",
               "meaning": "vận chuyển bằng xe tải",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈtrænspɔːrt baɪ lɔːri/",
+              "example": "The cherries are transported by lorry to the processing plant.",
+              "exampleTranslation": "Anh đào được vận chuyển bằng xe tải đến nhà máy chế biến.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 15, diagram",
+              "exampleId": "u1-ex-126"
             },
             {
               "id": "u1-writing-d798542511c8",
               "word": "processing plant",
               "meaning": "nhà máy chế biến",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈprɑːsesɪŋ plænt/",
+              "example": "The cherries are transported by lorry to the processing plant.",
+              "exampleTranslation": "Anh đào được vận chuyển bằng xe tải đến nhà máy chế biến.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 15, diagram",
+              "exampleId": "u1-ex-126"
             },
             {
               "id": "u1-writing-8bbc62a44d31",
               "word": "remove the leaves and stems",
               "meaning": "loại bỏ lá và cuống",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/riːˈmuːv ðə liːvz ənd stemz/",
+              "example": "The leaves and stems are removed, and the stones are taken out with a metal spike.",
+              "exampleTranslation": "Lá và cuống được loại bỏ, còn hạt được lấy ra bằng một que kim loại nhọn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 15, diagram",
+              "exampleId": "u1-ex-127"
             },
             {
               "id": "u1-writing-6fa53e6cf4c3",
               "word": "take out the stone",
               "meaning": "lấy hạt cứng ra",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/teɪk aʊt ðə stoʊn/",
+              "example": "The leaves and stems are removed, and the stones are taken out with a metal spike.",
+              "exampleTranslation": "Lá và cuống được loại bỏ, còn hạt được lấy ra bằng một que kim loại nhọn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 15, diagram",
+              "exampleId": "u1-ex-127"
             },
             {
               "id": "u1-writing-0c97851bc3e3",
               "word": "metal spike",
               "meaning": "que nhọn bằng kim loại",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈmetəl spaɪk/",
+              "example": "The leaves and stems are removed, and the stones are taken out with a metal spike.",
+              "exampleTranslation": "Lá và cuống được loại bỏ, còn hạt được lấy ra bằng một que kim loại nhọn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 15, diagram",
+              "exampleId": "u1-ex-127"
             },
             {
               "id": "u1-writing-c86ad24e7e03",
               "word": "add ingredients",
               "meaning": "thêm nguyên liệu",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/æd ˌɪnˈɡriːdiːənts/",
+              "example": "Ingredients such as lemon juice and pectin are added to the cherries.",
+              "exampleTranslation": "Các nguyên liệu như nước cốt chanh và pectin được thêm vào anh đào.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 15, diagram",
+              "exampleId": "u1-ex-128"
             },
             {
               "id": "u1-writing-a0d92592fbf2",
               "word": "lemon juice",
               "meaning": "nước cốt chanh",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈlemən dʒuːs/",
+              "example": "Ingredients such as lemon juice and pectin are added to the cherries.",
+              "exampleTranslation": "Các nguyên liệu như nước cốt chanh và pectin được thêm vào anh đào.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 15, diagram",
+              "exampleId": "u1-ex-128"
             },
             {
               "id": "u1-writing-8de9cbf9d3d5",
               "word": "pectin",
               "meaning": "pectin: chất giúp mứt đông lại",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈpektən/",
+              "example": "Ingredients such as lemon juice and pectin are added to the cherries.",
+              "exampleTranslation": "Các nguyên liệu như nước cốt chanh và pectin được thêm vào anh đào.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 15, diagram",
+              "exampleId": "u1-ex-128"
             },
             {
               "id": "u1-writing-f3fa50135c63",
               "word": "check the quality",
               "meaning": "kiểm tra chất lượng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/tʃek ðə ˈkwɑːləti/",
+              "example": "The quality of the cherry jam is checked before it is packed.",
+              "exampleTranslation": "Chất lượng mứt anh đào được kiểm tra trước khi đóng gói.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 15, cherry-jam process",
+              "exampleId": "u1-ex-124"
             },
             {
               "id": "u1-writing-7cc7cc788e3f",
               "word": "put into jars",
               "meaning": "cho vào lọ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/pʊt ˈɪntuː dʒɑːrz/",
+              "example": "The jam is put into jars, and a lid is put on each jar to keep the jam fresh.",
+              "exampleTranslation": "Mứt được cho vào lọ và mỗi lọ được đậy nắp để giữ mứt tươi ngon.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 15, diagram",
+              "exampleId": "u1-ex-129"
             },
             {
               "id": "u1-writing-13955016102b",
               "word": "put a lid on",
               "meaning": "đậy nắp",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/pʊt ə lɪd ɑːn/",
+              "example": "The jam is put into jars, and a lid is put on each jar to keep the jam fresh.",
+              "exampleTranslation": "Mứt được cho vào lọ và mỗi lọ được đậy nắp để giữ mứt tươi ngon.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 15, diagram",
+              "exampleId": "u1-ex-129"
             },
             {
               "id": "u1-writing-76f520fee425",
               "word": "keep the jam fresh",
               "meaning": "giữ mứt tươi ngon",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kiːp ðə dʒæm freʃ/",
+              "example": "The jam is put into jars, and a lid is put on each jar to keep the jam fresh.",
+              "exampleTranslation": "Mứt được cho vào lọ và mỗi lọ được đậy nắp để giữ mứt tươi ngon.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 15, diagram",
+              "exampleId": "u1-ex-129"
             },
             {
               "id": "u1-writing-b0e9de86a171",
               "word": "add a label",
               "meaning": "gắn nhãn",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/æd ə ˈleɪbəl/",
+              "example": "A label is added to each jar, and the jam is ready to be sold.",
+              "exampleTranslation": "Mỗi lọ được gắn nhãn và mứt đã sẵn sàng để bán.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 15, diagram",
+              "exampleId": "u1-ex-130"
             },
             {
               "id": "u1-writing-a35f7f1dbf05",
               "word": "ready to be sold",
               "meaning": "sẵn sàng được bán",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/redi tə biː soʊld/",
+              "example": "A label is added to each jar, and the jam is ready to be sold.",
+              "exampleTranslation": "Mỗi lọ được gắn nhãn và mứt đã sẵn sàng để bán.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 15, diagram",
+              "exampleId": "u1-ex-130"
             }
           ]
         },
@@ -1815,42 +3133,78 @@ export default {
               "word": "first / next / then / finally",
               "meaning": "đầu tiên / tiếp theo / sau đó / cuối cùng",
               "type": "phrase",
-              "pos": "adverb"
+              "pos": "adverb",
+              "ipa": "/fɜːrst / nekst / ðen / ˈfaɪnəli/",
+              "example": "The fruit undergoes several stages: first it is washed; next it is cooked. After that, cooking is followed by a quality check. At the next stage, the jam is put into jars; finally, the jars are labelled.",
+              "exampleTranslation": "Trái cây trải qua nhiều giai đoạn: đầu tiên được rửa, tiếp theo được nấu. Sau đó là bước kiểm tra chất lượng. Ở giai đoạn kế tiếp, mứt được cho vào lọ; cuối cùng, các lọ được dán nhãn.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 12–15, Writing extension",
+              "exampleId": "u1-ex-131"
             },
             {
               "id": "u1-writing-56555de77f55",
               "word": "after that",
               "meaning": "sau đó",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ˈæftər ðæt/",
+              "example": "The fruit undergoes several stages: first it is washed; next it is cooked. After that, cooking is followed by a quality check. At the next stage, the jam is put into jars; finally, the jars are labelled.",
+              "exampleTranslation": "Trái cây trải qua nhiều giai đoạn: đầu tiên được rửa, tiếp theo được nấu. Sau đó là bước kiểm tra chất lượng. Ở giai đoạn kế tiếp, mứt được cho vào lọ; cuối cùng, các lọ được dán nhãn.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 12–15, Writing extension",
+              "exampleId": "u1-ex-131"
             },
             {
               "id": "u1-writing-dade3268333e",
               "word": "at the next stage",
               "meaning": "ở giai đoạn tiếp theo",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ət ðə neks steɪdʒ/",
+              "example": "The fruit undergoes several stages: first it is washed; next it is cooked. After that, cooking is followed by a quality check. At the next stage, the jam is put into jars; finally, the jars are labelled.",
+              "exampleTranslation": "Trái cây trải qua nhiều giai đoạn: đầu tiên được rửa, tiếp theo được nấu. Sau đó là bước kiểm tra chất lượng. Ở giai đoạn kế tiếp, mứt được cho vào lọ; cuối cùng, các lọ được dán nhãn.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 12–15, Writing extension",
+              "exampleId": "u1-ex-131"
             },
             {
               "id": "u1-writing-18aa66e73fb8",
               "word": "the final stage",
               "meaning": "giai đoạn cuối cùng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðə ˈfaɪnəl steɪdʒ/",
+              "example": "The final stage is to serve the stringhoppers with a variety of spicy curries.",
+              "exampleTranslation": "Giai đoạn cuối là dọn stringhopper cùng nhiều loại cà ri cay.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 14, Writing model",
+              "exampleId": "u1-ex-123"
             },
             {
               "id": "u1-writing-9a82f999d274",
               "word": "be followed by",
               "meaning": "được tiếp nối bởi",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː ˈfɑːloʊd baɪ/",
+              "example": "The fruit undergoes several stages: first it is washed; next it is cooked. After that, cooking is followed by a quality check. At the next stage, the jam is put into jars; finally, the jars are labelled.",
+              "exampleTranslation": "Trái cây trải qua nhiều giai đoạn: đầu tiên được rửa, tiếp theo được nấu. Sau đó là bước kiểm tra chất lượng. Ở giai đoạn kế tiếp, mứt được cho vào lọ; cuối cùng, các lọ được dán nhãn.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 12–15, Writing extension",
+              "exampleId": "u1-ex-131"
             },
             {
               "id": "u1-writing-09c157f9abe4",
               "word": "undergo several stages",
               "meaning": "trải qua nhiều giai đoạn",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˌʌndərˈɡoʊ ˈsevərəl ˈsteɪdʒəz/",
+              "example": "The fruit undergoes several stages: first it is washed; next it is cooked. After that, cooking is followed by a quality check. At the next stage, the jam is put into jars; finally, the jars are labelled.",
+              "exampleTranslation": "Trái cây trải qua nhiều giai đoạn: đầu tiên được rửa, tiếp theo được nấu. Sau đó là bước kiểm tra chất lượng. Ở giai đoạn kế tiếp, mứt được cho vào lọ; cuối cùng, các lọ được dán nhãn.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 12–15, Writing extension",
+              "exampleId": "u1-ex-131"
             },
             {
               "id": "u1-writing-bbfd7929b9ed",
@@ -1858,7 +3212,12 @@ export default {
               "meaning": "Sơ đồ minh họa cách ... được sản xuất.",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "The diagram illustrates how cherry jam is produced."
+              "ipa": "/ðə ˈdaɪəˌɡræm ˈɪləˌstreɪts haʊ … ɪz prəˈduːst/",
+              "example": "The diagram illustrates how cherry jam is produced.",
+              "exampleTranslation": "Sơ đồ minh họa cách sản xuất mứt anh đào.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 12–15 / TB pp. 13–15",
+              "exampleId": "u1-ex-132"
             },
             {
               "id": "u1-writing-38cdf8972606",
@@ -1866,7 +3225,12 @@ export default {
               "meaning": "Nhìn chung, quy trình gồm ... giai đoạn chính.",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "Overall, the process consists of nine main stages."
+              "ipa": "/ˈoʊvərˌɔːl ðə ˈprɑːˌses kənˈsɪsts əv … meɪn ˈsteɪdʒəz/",
+              "example": "Overall, the process consists of nine main stages.",
+              "exampleTranslation": "Nhìn chung, quy trình gồm chín giai đoạn chính.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 12–15 / TB pp. 13–15",
+              "exampleId": "u1-ex-133"
             },
             {
               "id": "u1-writing-77ea1f3b6b1b",
@@ -1874,7 +3238,12 @@ export default {
               "meaning": "Quy trình bắt đầu bằng ... và kết thúc bằng ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "The process begins with collecting fruit and ends with labelling jars."
+              "ipa": "/ðə ˈprɑːˌses bɪˈɡɪnz wɪð … ənd endz wɪð …/",
+              "example": "The process begins with collecting fruit and ends with labelling jars.",
+              "exampleTranslation": "Quy trình bắt đầu bằng việc thu hái trái cây và kết thúc bằng việc dán nhãn lọ.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 12–15 / TB pp. 13–15",
+              "exampleId": "u1-ex-134"
             },
             {
               "id": "u1-writing-0831384b7b04",
@@ -1882,7 +3251,12 @@ export default {
               "meaning": "Cấu trúc hiện tại đơn bị động để mô tả quy trình.",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "The fruit is washed before it is cooked."
+              "ipa": "/ˈsʌbdʒekt plʌs ɪz ɔːr ɑːr plʌs pæst ˈpɑːrtɪsɪpəl/",
+              "example": "The fruit is washed before it is cooked.",
+              "exampleTranslation": "Trái cây được rửa trước khi nấu.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 12–15 / TB pp. 13–15",
+              "exampleId": "u1-ex-135"
             },
             {
               "id": "u1-writing-7fea99128a3f",
@@ -1890,7 +3264,12 @@ export default {
               "meaning": "Sau khi ... đã được ..., nó được ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "Once the jam has been cooked, it is poured into jars."
+              "ipa": "/wʌns … hæz bɪn … ɪt ɪz …/",
+              "example": "Once the jam has been cooked, it is poured into jars.",
+              "exampleTranslation": "Sau khi mứt đã được nấu, nó được rót vào lọ.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 12–15 / TB pp. 13–15",
+              "exampleId": "u1-ex-136"
             },
             {
               "id": "u1-writing-bd8c13d05aba",
@@ -1898,7 +3277,12 @@ export default {
               "meaning": "Trước khi được ..., ... được ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "Before being sold, the jam is checked for quality."
+              "ipa": "/ˌbiːˈfɔːr ˈbiːɪŋ … … ɪz …/",
+              "example": "Before being sold, the jam is checked for quality.",
+              "exampleTranslation": "Trước khi được bán, mứt được kiểm tra chất lượng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 12–15 / TB pp. 13–15",
+              "exampleId": "u1-ex-137"
             }
           ]
         }

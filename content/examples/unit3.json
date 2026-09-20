@@ -1,0 +1,991 @@
+[
+  {
+    "id": "u3-ex-001",
+    "kind": "book",
+    "text": "Globalisation has affected most aspects of our lives.",
+    "translation": "Toàn cầu hóa đã ảnh hưởng đến phần lớn các khía cạnh trong cuộc sống của chúng ta.",
+    "source": "SB p. 45, Reading",
+    "cards": [
+      "u3-reading-8f7eefe3ae03",
+      "u3-reading-852805846189",
+      "u3-reading-7334ee5fbd64"
+    ]
+  },
+  {
+    "id": "u3-ex-002",
+    "kind": "adapted",
+    "text": "Distance learning allows people to study without attending a college every day.",
+    "translation": "Học từ xa cho phép mọi người học mà không cần đến trường cao đẳng hằng ngày.",
+    "source": "SB p. 45, Reading",
+    "cards": [
+      "u3-reading-c2162b68e4f7",
+      "u3-reading-1858a9f56d26"
+    ]
+  },
+  {
+    "id": "u3-ex-003",
+    "kind": "book",
+    "text": "'Blended learning' means studying partly in a traditional way in the classroom and partly on line or via email.",
+    "translation": "Học kết hợp nghĩa là học một phần theo cách truyền thống trong lớp, phần còn lại trực tuyến hoặc qua email.",
+    "source": "SB p. 45, Reading",
+    "cards": [
+      "u3-reading-fbdcf48c2c01",
+      "u3-reading-334d93b5132b",
+      "u3-reading-89af86d03fcc"
+    ]
+  },
+  {
+    "id": "u3-ex-004",
+    "kind": "adapted",
+    "text": "Lifelong learning continues throughout our working lives and even into retirement.",
+    "translation": "Học tập suốt đời tiếp diễn trong cả quãng đời làm việc và ngay cả khi nghỉ hưu.",
+    "source": "SB p. 45, Reading",
+    "cards": [
+      "u3-reading-e7aaf7e3f6bf",
+      "u3-reading-73c19e6b04bd",
+      "u3-reading-0b80c840b321"
+    ]
+  },
+  {
+    "id": "u3-ex-005",
+    "kind": "book",
+    "text": "It is easy to attend 'webinars' or on line seminars without being away from our offices.",
+    "translation": "Chúng ta dễ dàng tham gia hội thảo trực tuyến mà không phải rời văn phòng.",
+    "source": "SB p. 45, Reading",
+    "cards": [
+      "u3-reading-927a51d19307",
+      "u3-reading-30647f3196b6"
+    ]
+  },
+  {
+    "id": "u3-ex-006",
+    "kind": "book",
+    "text": "Many adults go back to college later in life because it is so easy to get a qualification without giving up work or disrupting family life.",
+    "translation": "Nhiều người trưởng thành quay lại trường vì có thể dễ dàng lấy bằng mà không phải nghỉ việc hay làm xáo trộn cuộc sống gia đình.",
+    "source": "SB p. 45, Reading",
+    "cards": [
+      "u3-reading-c81a4183738a",
+      "u3-reading-3793da86cdee",
+      "u3-reading-d35cbe81165d"
+    ]
+  },
+  {
+    "id": "u3-ex-007",
+    "kind": "adapted",
+    "text": "Students and employers benefit from international degree programmes and see them as a valuable opportunity.",
+    "translation": "Sinh viên và người sử dụng lao động hưởng lợi từ chương trình đào tạo cấp bằng quốc tế và xem đó là cơ hội quý giá.",
+    "source": "SB p. 45, Reading",
+    "cards": [
+      "u3-reading-3836a0cf4806",
+      "u3-reading-a114e9249718",
+      "u3-reading-4dd7b69db868",
+      "u3-reading-4d415e901488"
+    ]
+  },
+  {
+    "id": "u3-ex-008",
+    "kind": "book",
+    "text": "Students can get an internationally recognised degree at a much cheaper price than going abroad and so can improve their chances of getting a good job.",
+    "translation": "Sinh viên có thể lấy bằng được quốc tế công nhận với chi phí thấp hơn nhiều so với du học, qua đó tăng cơ hội tìm được việc tốt.",
+    "source": "SB p. 45, Reading",
+    "cards": [
+      "u3-reading-003d2ee6b08e",
+      "u3-reading-a0d585eb88ac",
+      "u3-reading-9fc6168a6b6f",
+      "u3-reading-2607cb212610"
+    ]
+  },
+  {
+    "id": "u3-ex-009",
+    "kind": "adapted",
+    "text": "Universities offering world-class degrees gain access to ideas and knowledge, while international students enrich campus life.",
+    "translation": "Các trường cấp bằng chất lượng hàng đầu tiếp cận được ý tưởng, tri thức, còn sinh viên quốc tế làm phong phú đời sống trong trường.",
+    "source": "SB p. 45, Reading",
+    "cards": [
+      "u3-reading-710b8bfa6c94",
+      "u3-reading-8a92bf3c9c6f",
+      "u3-reading-f40d4ebd383a",
+      "u3-reading-9e7ef9e260ae"
+    ]
+  },
+  {
+    "id": "u3-ex-010",
+    "kind": "adapted",
+    "text": "In some developing countries, the elite have better access to international education.",
+    "translation": "Ở một số nước đang phát triển, tầng lớp tinh hoa có điều kiện tiếp cận giáo dục quốc tế tốt hơn.",
+    "source": "SB p. 45, Reading",
+    "cards": [
+      "u3-reading-47816595cc85",
+      "u3-reading-19119e671274"
+    ]
+  },
+  {
+    "id": "u3-ex-011",
+    "kind": "adapted",
+    "text": "Many people in rural areas lack primary education, reliable internet connections or the money to own a computer.",
+    "translation": "Nhiều người ở nông thôn thiếu giáo dục tiểu học, kết nối internet ổn định hoặc tiền để sở hữu máy tính.",
+    "source": "SB p. 45, Reading",
+    "cards": [
+      "u3-reading-c829f3536218",
+      "u3-reading-eab7600ab7ca",
+      "u3-reading-2e1ae2e2fcc8",
+      "u3-reading-bfb3be99c435"
+    ]
+  },
+  {
+    "id": "u3-ex-012",
+    "kind": "book",
+    "text": "One concern people have about globalisation is that it can start to mean 'westernisation'. In other words, local knowledge can be lost.",
+    "translation": "Một mối lo về toàn cầu hóa là nó có thể trở thành sự Tây phương hóa. Nói cách khác, tri thức địa phương có thể bị mất đi.",
+    "source": "SB p. 45, Reading",
+    "cards": [
+      "u3-reading-bb7859820919",
+      "u3-reading-059418c7c371"
+    ]
+  },
+  {
+    "id": "u3-ex-013",
+    "kind": "adapted",
+    "text": "Education should treat every culture with respect, use different approaches and encourage the flow of ideas and information.",
+    "translation": "Giáo dục cần tôn trọng mọi nền văn hóa, sử dụng nhiều cách tiếp cận và khuyến khích trao đổi ý tưởng, thông tin.",
+    "source": "SB p. 45, Reading",
+    "cards": [
+      "u3-reading-d6b8c5a4e184",
+      "u3-reading-1f46b2fdd938",
+      "u3-reading-36bab0fabc86"
+    ]
+  },
+  {
+    "id": "u3-ex-014",
+    "kind": "book",
+    "text": "Educational institutions have changed their focus due to globalisation.",
+    "translation": "Các cơ sở giáo dục đã thay đổi trọng tâm do toàn cầu hóa.",
+    "source": "SB p. 45, Reading",
+    "cards": [
+      "u3-reading-f1f3bb07b9f6",
+      "u3-reading-bc3cd97a3e13"
+    ]
+  },
+  {
+    "id": "u3-ex-015",
+    "kind": "adapted",
+    "text": "Universities compete for overseas students using strategies such as education fairs, publicity material and advertisements.",
+    "translation": "Các trường đại học cạnh tranh thu hút sinh viên nước ngoài bằng những chiến lược như hội chợ giáo dục, tài liệu quảng bá và quảng cáo.",
+    "source": "SB p. 45, Reading",
+    "cards": [
+      "u3-reading-6035bafe9ff8",
+      "u3-reading-11c53ebb2509",
+      "u3-reading-75e84f20cc44",
+      "u3-reading-de91f6efb3b3",
+      "u3-reading-bf2dd8b54b04",
+      "u3-reading-c2bed9b2e06b"
+    ]
+  },
+  {
+    "id": "u3-ex-016",
+    "kind": "adapted",
+    "text": "There is more emphasis on customer care to help students settle in and understand the academic culture of the host country.",
+    "translation": "Việc chăm sóc người học được chú trọng hơn để giúp sinh viên thích nghi và hiểu văn hóa học thuật của nước sở tại.",
+    "source": "SB p. 45, Reading",
+    "cards": [
+      "u3-reading-24f3436e40c6",
+      "u3-reading-a4abf52d7e58",
+      "u3-reading-2de56e9ffa62",
+      "u3-reading-345085f5125e",
+      "u3-reading-6fa5040563c5"
+    ]
+  },
+  {
+    "id": "u3-ex-017",
+    "kind": "adapted",
+    "text": "The benefits should reach both developed countries and poorer nations, without leaving anyone behind.",
+    "translation": "Lợi ích cần đến được cả các nước phát triển lẫn những quốc gia nghèo hơn, không bỏ ai lại phía sau.",
+    "source": "SB p. 45, Reading",
+    "cards": [
+      "u3-reading-4f95ea6255fc",
+      "u3-reading-1b320047e4f7"
+    ]
+  },
+  {
+    "id": "u3-ex-018",
+    "kind": "adapted",
+    "text": "The trend towards work-based learning creates a closer connection with employers so school leavers are well prepared to do well at work.",
+    "translation": "Xu hướng học gắn với công việc tạo liên hệ chặt chẽ hơn với nhà tuyển dụng, giúp học sinh rời trường được chuẩn bị tốt để làm việc hiệu quả.",
+    "source": "SB p. 48, Reading",
+    "cards": [
+      "u3-reading-8e152769d913",
+      "u3-reading-e5d7086e58b5",
+      "u3-reading-7c2b21242a11",
+      "u3-reading-432900e80a97",
+      "u3-reading-d7d948c1f282",
+      "u3-reading-52373e5ae87f"
+    ]
+  },
+  {
+    "id": "u3-ex-019",
+    "kind": "adapted",
+    "text": "In apprenticeships, young people learn trades by working with an expert, such as an experienced electrician.",
+    "translation": "Trong chương trình học nghề thực hành, người trẻ học nghề bằng cách làm cùng chuyên gia, chẳng hạn một thợ điện giàu kinh nghiệm.",
+    "source": "SB p. 48, Reading",
+    "cards": [
+      "u3-reading-24824ff7254d",
+      "u3-reading-f09e30851ec8",
+      "u3-reading-4e5f021cb925",
+      "u3-reading-6d73ff976ef1"
+    ]
+  },
+  {
+    "id": "u3-ex-020",
+    "kind": "book",
+    "text": "The trend now is for a closer connection between education and the workplace at all levels and in many different types of job.",
+    "translation": "Xu hướng hiện nay là gắn kết giáo dục với nơi làm việc chặt chẽ hơn ở mọi cấp độ và nhiều loại nghề khác nhau.",
+    "source": "SB p. 48, Reading",
+    "cards": [
+      "u3-reading-fb20c0cf7736"
+    ]
+  },
+  {
+    "id": "u3-ex-021",
+    "kind": "adapted",
+    "text": "Some pupils went to grammar schools, while others studied work-based subjects at technical schools.",
+    "translation": "Một số học sinh vào trường tuyển theo năng lực, còn các em khác học môn nghề tại trường kỹ thuật.",
+    "source": "SB p. 48, Reading",
+    "cards": [
+      "u3-reading-6aee6a168674",
+      "u3-reading-ace67e7072cd",
+      "u3-reading-a5735a8f42bc"
+    ]
+  },
+  {
+    "id": "u3-ex-022",
+    "kind": "adapted",
+    "text": "In practice, dividing pupils into academic and non-academic groups did not produce good results, so a more equal system was introduced.",
+    "translation": "Trên thực tế, chia học sinh thành nhóm học thuật và không học thuật không đem lại kết quả tốt nên một hệ thống công bằng hơn được áp dụng.",
+    "source": "SB p. 48, Reading",
+    "cards": [
+      "u3-reading-da98b96e9889",
+      "u3-reading-e53e80bc4c9e",
+      "u3-reading-6287101584cf",
+      "u3-reading-b98cbb6ccf60"
+    ]
+  },
+  {
+    "id": "u3-ex-023",
+    "kind": "adapted",
+    "text": "Vocational qualifications and certificates show practical skills gained through quality training.",
+    "translation": "Bằng nghề và chứng chỉ thể hiện kỹ năng thực hành có được qua đào tạo chất lượng.",
+    "source": "SB p. 48, Reading",
+    "cards": [
+      "u3-reading-ad78319b81ba",
+      "u3-reading-f78c06aa55a0",
+      "u3-reading-f17224b8eb4c",
+      "u3-reading-ea78c1fa0259"
+    ]
+  },
+  {
+    "id": "u3-ex-024",
+    "kind": "adapted",
+    "text": "Partnerships between companies and universities link practical experience to specialised qualifications at Masters and doctorate level.",
+    "translation": "Hợp tác giữa doanh nghiệp và đại học kết nối kinh nghiệm thực tế với bằng cấp chuyên biệt ở bậc thạc sĩ và tiến sĩ.",
+    "source": "SB p. 48, Reading",
+    "cards": [
+      "u3-reading-fa4ee7c1a5f2",
+      "u3-reading-baace681c80b",
+      "u3-reading-397984f7fe04",
+      "u3-reading-9c0736a282d7",
+      "u3-reading-83fac3731f47"
+    ]
+  },
+  {
+    "id": "u3-ex-025",
+    "kind": "adapted",
+    "text": "A course can be delivered online, so employees do not have to miss work to attend classes.",
+    "translation": "Khóa học có thể được giảng dạy trực tuyến để người lao động không phải nghỉ làm đi học.",
+    "source": "SB p. 48, Reading",
+    "cards": [
+      "u3-reading-ec1e25923901",
+      "u3-reading-561eba1f3586"
+    ]
+  },
+  {
+    "id": "u3-ex-026",
+    "kind": "book",
+    "text": "Older or recently retired employees have been given the opportunity to develop new skills as tutors, mentors and coaches for the work-based part of these courses.",
+    "translation": "Người lao động lớn tuổi hoặc mới nghỉ hưu có cơ hội phát triển kỹ năng mới trong vai trò người hướng dẫn, cố vấn và huấn luyện cho phần thực hành nghề của khóa học.",
+    "source": "SB p. 48, Reading",
+    "cards": [
+      "u3-reading-914d08b41847",
+      "u3-reading-21a56657277c",
+      "u3-reading-168fcbe623de",
+      "u3-reading-abd9c14e8314"
+    ]
+  },
+  {
+    "id": "u3-ex-027",
+    "kind": "adapted",
+    "text": "Training in fields such as nursing has influenced work-based learning in other careers.",
+    "translation": "Đào tạo trong những lĩnh vực như điều dưỡng đã ảnh hưởng đến cách học gắn với công việc ở các nghề khác.",
+    "source": "SB p. 48, Reading",
+    "cards": [
+      "u3-reading-f94e9fc30bbd",
+      "u3-reading-8a91bb34721c"
+    ]
+  },
+  {
+    "id": "u3-ex-028",
+    "kind": "adapted",
+    "text": "Lecturers may teach students with different amounts of work experience at different stages of their lives.",
+    "translation": "Giảng viên có thể dạy sinh viên với mức kinh nghiệm làm việc khác nhau ở các giai đoạn khác nhau của cuộc đời.",
+    "source": "SB p. 48, Reading",
+    "cards": [
+      "u3-reading-b9f35367f758",
+      "u3-reading-b3a21cb88cf1",
+      "u3-reading-e029fe6f686f"
+    ]
+  },
+  {
+    "id": "u3-ex-029",
+    "kind": "adapted",
+    "text": "Take a seat. We are delighted you are joining us as a store assistant, and we hope you look forward to the challenge.",
+    "translation": "Mời ngồi. Chúng tôi rất vui vì bạn sẽ làm nhân viên bán hàng và hy vọng bạn mong chờ thử thách này.",
+    "source": "SB p. 180, track 27",
+    "cards": [
+      "u3-listening-3f2056a6f781",
+      "u3-listening-0e3c2fa7db90",
+      "u3-listening-21042519083f",
+      "u3-listening-beb52198fd77"
+    ]
+  },
+  {
+    "id": "u3-ex-030",
+    "kind": "book",
+    "text": "We know you've just finished a course in Information Technology, so we've decided to put you in the computing and phones section of our department store.",
+    "translation": "Chúng tôi biết bạn vừa hoàn thành khóa công nghệ thông tin nên quyết định bố trí bạn ở khu máy tính và điện thoại của cửa hàng bách hóa.",
+    "source": "SB p. 180, track 27",
+    "cards": [
+      "u3-listening-d44b2b59a403",
+      "u3-listening-3729b5060bf7",
+      "u3-listening-9e8a66afb842",
+      "u3-listening-0aaa04750811"
+    ]
+  },
+  {
+    "id": "u3-ex-031",
+    "kind": "adapted",
+    "text": "You will be based in the computing section near the audio equipment, where we sell a wider range of computer equipment and smart watches.",
+    "translation": "Bạn sẽ làm việc ở khu máy tính gần thiết bị âm thanh, nơi chúng tôi bán nhiều loại thiết bị máy tính và đồng hồ thông minh hơn.",
+    "source": "SB pp. 180–181, track 27",
+    "cards": [
+      "u3-listening-e32179a39a71",
+      "u3-listening-9460090d6559",
+      "u3-listening-6f32194eef66",
+      "u3-listening-8b0757afb0bf",
+      "u3-listening-092332da927e"
+    ]
+  },
+  {
+    "id": "u3-ex-032",
+    "kind": "adapted",
+    "text": "To attract customers, the store has a completely new look and has been renamed; it will be known as Moving Images.",
+    "translation": "Để thu hút khách hàng, cửa hàng có diện mạo mới hoàn toàn và được đổi tên; nó sẽ được gọi là Moving Images.",
+    "source": "SB p. 181, track 27",
+    "cards": [
+      "u3-listening-9c1989612087",
+      "u3-listening-3258170ca045",
+      "u3-listening-9e84869d369b",
+      "u3-listening-fabce72a16d5"
+    ]
+  },
+  {
+    "id": "u3-ex-033",
+    "kind": "book",
+    "text": "Do you have any questions before we move on?",
+    "translation": "Bạn có câu hỏi nào trước khi chúng ta chuyển sang phần tiếp theo không?",
+    "source": "SB p. 181, track 27",
+    "cards": [
+      "u3-listening-bead11588ac2"
+    ]
+  },
+  {
+    "id": "u3-ex-034",
+    "kind": "adapted",
+    "text": "I would like to book a place on Food Photography, not Food Technology.",
+    "translation": "Tôi muốn đăng ký một chỗ trong khóa Nhiếp ảnh món ăn, không phải Công nghệ thực phẩm.",
+    "source": "SB p. 180, track 26",
+    "cards": [
+      "u3-listening-098d1130c778",
+      "u3-listening-74723dcbeaff",
+      "u3-listening-7edfd3141e0a"
+    ]
+  },
+  {
+    "id": "u3-ex-035",
+    "kind": "adapted",
+    "text": "You are in luck: there are spaces left, although we have taken ten bookings and the course is limited to twelve participants.",
+    "translation": "Bạn gặp may đấy: vẫn còn chỗ dù chúng tôi đã nhận mười đăng ký và khóa học chỉ giới hạn mười hai người.",
+    "source": "SB p. 180, track 26",
+    "cards": [
+      "u3-listening-3c78de08bc3b",
+      "u3-listening-8f575e4ef0e7",
+      "u3-listening-3b3d69ad60e6",
+      "u3-listening-150d047fc2f8"
+    ]
+  },
+  {
+    "id": "u3-ex-036",
+    "kind": "adapted",
+    "text": "Can I check the details on the leaflet?",
+    "translation": "Tôi có thể kiểm tra các thông tin trên tờ giới thiệu không?",
+    "source": "SB p. 181, track 28",
+    "cards": [
+      "u3-listening-1b3075d28b2e",
+      "u3-listening-73e47f3ae78b"
+    ]
+  },
+  {
+    "id": "u3-ex-037",
+    "kind": "adapted",
+    "text": "According to the leaflet, it is an early start and the class lasts longer than a couple of hours.",
+    "translation": "Theo tờ giới thiệu, lớp bắt đầu sớm và kéo dài hơn khoảng hai giờ.",
+    "source": "SB p. 181, track 28",
+    "cards": [
+      "u3-listening-2784a4868d47",
+      "u3-listening-584ed0155bc1",
+      "u3-listening-2961a6d1c8dc"
+    ]
+  },
+  {
+    "id": "u3-ex-038",
+    "kind": "adapted",
+    "text": "You will learn the basics of using a digital camera, including camera angles, close-up shots, wide-angle shots and shots taken from above.",
+    "translation": "Bạn sẽ học kiến thức cơ bản về máy ảnh kỹ thuật số, gồm góc chụp, ảnh cận cảnh, ảnh góc rộng và ảnh từ trên xuống.",
+    "source": "SB p. 181, track 28",
+    "cards": [
+      "u3-listening-ab036a166cf8",
+      "u3-listening-e3576203715c",
+      "u3-listening-59dcb0a66183",
+      "u3-listening-44653f39b181",
+      "u3-listening-d692b570183b",
+      "u3-listening-f2584678e34d"
+    ]
+  },
+  {
+    "id": "u3-ex-039",
+    "kind": "adapted",
+    "text": "The purpose of the workshop is to take good photos in the first place, rather than edit pictures later.",
+    "translation": "Mục đích buổi học là chụp ảnh đẹp ngay từ đầu thay vì chỉnh sửa ảnh về sau.",
+    "source": "SB p. 181, track 28",
+    "cards": [
+      "u3-listening-40d0e7fd6578",
+      "u3-listening-e19c1a8bc576",
+      "u3-listening-b554986556dd"
+    ]
+  },
+  {
+    "id": "u3-ex-040",
+    "kind": "adapted",
+    "text": "This practical course includes a hands-on session on location at a hotel just round the corner, where you have the opportunity to practise taking photographs.",
+    "translation": "Khóa học thực hành này có buổi thực tập tại một khách sạn ngay gần đó, nơi bạn có cơ hội luyện chụp ảnh.",
+    "source": "SB p. 181, track 28",
+    "cards": [
+      "u3-listening-87b047e1d2f9",
+      "u3-listening-3a57fcac367f",
+      "u3-listening-29024c8b51c9",
+      "u3-listening-9e678c17abe7",
+      "u3-listening-a479c0ddb64b",
+      "u3-listening-3fb663e34a3f"
+    ]
+  },
+  {
+    "id": "u3-ex-041",
+    "kind": "book",
+    "text": "The full fee for the course is $55 and that includes a light lunch and refreshments at the hotel.",
+    "translation": "Toàn bộ học phí là 55 đô la, bao gồm bữa trưa nhẹ cùng đồ ăn nhẹ và thức uống tại khách sạn.",
+    "source": "SB p. 181, track 28",
+    "cards": [
+      "u3-listening-b6fa71fd78d9",
+      "u3-listening-5fea3a78bc27",
+      "u3-listening-6c71b2fbb0ee"
+    ]
+  },
+  {
+    "id": "u3-ex-042",
+    "kind": "adapted",
+    "text": "You do not need to bring along drinks and snacks; we just need your details to confirm your place.",
+    "translation": "Bạn không cần mang đồ uống hay đồ ăn vặt; chúng tôi chỉ cần thông tin của bạn để xác nhận chỗ đăng ký.",
+    "source": "SB p. 181, track 28",
+    "cards": [
+      "u3-listening-b874b1f61e81",
+      "u3-listening-be85f181f161",
+      "u3-listening-09c6356b016f"
+    ]
+  },
+  {
+    "id": "u3-ex-043",
+    "kind": "adapted",
+    "text": "Jobs in emergency services, farming, research and development, entertainment, travel and transport, and tourism require different skills.",
+    "translation": "Công việc trong các ngành ứng cứu khẩn cấp, nông nghiệp, nghiên cứu phát triển, giải trí, đi lại vận tải và du lịch đòi hỏi những kỹ năng khác nhau.",
+    "source": "SB pp. 58–59, employment vocabulary",
+    "cards": [
+      "u3-speaking-1ee17b91f745",
+      "u3-speaking-41e6aa382c64",
+      "u3-speaking-28191c082cdc",
+      "u3-speaking-b34564f1c4cd",
+      "u3-speaking-eb40af85e49e",
+      "u3-speaking-8bd0f4bb7d22"
+    ]
+  },
+  {
+    "id": "u3-ex-044",
+    "kind": "adapted",
+    "text": "I feel amazed by this amazing job and thrilled by every thrilling experience.",
+    "translation": "Tôi cảm thấy kinh ngạc trước công việc tuyệt vời này và hào hứng với mỗi trải nghiệm đầy phấn khích.",
+    "source": "SB pp. 58–59, -ed/-ing adjectives",
+    "cards": [
+      "u3-speaking-9794daccc95e",
+      "u3-speaking-6fc9dfd6e738",
+      "u3-speaking-b53260d7721d",
+      "u3-speaking-912f78665707"
+    ]
+  },
+  {
+    "id": "u3-ex-045",
+    "kind": "adapted",
+    "text": "A boring task makes me feel bored, but a challenging job makes me feel challenged.",
+    "translation": "Nhiệm vụ nhàm chán khiến tôi thấy chán, còn công việc đầy thử thách khiến tôi thấy được thử thách.",
+    "source": "SB pp. 58–59, -ed/-ing adjectives",
+    "cards": [
+      "u3-speaking-a541c5a84bfb",
+      "u3-speaking-c395ec05c7b4",
+      "u3-speaking-cb542e55357a",
+      "u3-speaking-0f2bfa9ebcff"
+    ]
+  },
+  {
+    "id": "u3-ex-046",
+    "kind": "adapted",
+    "text": "I felt fascinated by the fascinating subject, tired after a tiring day, and embarrassed by an embarrassing experience.",
+    "translation": "Tôi thấy hứng thú với môn học hấp dẫn, mệt sau một ngày mệt mỏi và ngượng ngùng vì một trải nghiệm đáng xấu hổ.",
+    "source": "SB pp. 58–59, -ed/-ing adjectives",
+    "cards": [
+      "u3-speaking-e659aae074bb",
+      "u3-speaking-cdd509caa935",
+      "u3-speaking-0967789e9a08",
+      "u3-speaking-80a3f0ada7f3",
+      "u3-speaking-1a72ecd2bfa1",
+      "u3-speaking-653617a16ba3"
+    ]
+  },
+  {
+    "id": "u3-ex-047",
+    "kind": "adapted",
+    "text": "After working long hours, I had to give a presentation in front of my colleagues.",
+    "translation": "Sau nhiều giờ làm việc, tôi phải thuyết trình trước các đồng nghiệp.",
+    "source": "SB pp. 58–60, Speaking",
+    "cards": [
+      "u3-speaking-a3a4f8f2b3b9",
+      "u3-speaking-e7643152d082",
+      "u3-speaking-693149b7043f"
+    ]
+  },
+  {
+    "id": "u3-ex-048",
+    "kind": "book",
+    "text": "I'm doing a part-time fashion and textiles course. I'm at Milton College, in the centre of the city. I'm in my third year.",
+    "translation": "Tôi đang học khóa thời trang và dệt may bán thời gian tại Milton College ở trung tâm thành phố. Tôi đang học năm thứ ba.",
+    "source": "SB p. 181, track 29",
+    "cards": [
+      "u3-speaking-6ab13461007f",
+      "u3-speaking-150de8248bda",
+      "u3-speaking-a9305cae7a73"
+    ]
+  },
+  {
+    "id": "u3-ex-049",
+    "kind": "adapted",
+    "text": "I enjoy working with wool and leather, but my new scarf is made out of plastic.",
+    "translation": "Tôi thích làm việc với len và da thuộc, nhưng chiếc khăn mới của tôi lại làm bằng nhựa.",
+    "source": "SB p. 181, track 29",
+    "cards": [
+      "u3-speaking-03aecd05f965",
+      "u3-speaking-fcba3ab51980"
+    ]
+  },
+  {
+    "id": "u3-ex-050",
+    "kind": "book",
+    "text": "I'd really like to learn how to use computer software to create new designs. This should also help me create new shades of colour.",
+    "translation": "Tôi rất muốn học cách dùng phần mềm máy tính để tạo thiết kế mới. Điều đó cũng giúp tôi tạo ra các sắc độ màu mới.",
+    "source": "SB p. 181, track 29",
+    "cards": [
+      "u3-speaking-1106dede47c7",
+      "u3-speaking-3c2f2435d1d7",
+      "u3-speaking-34b0f7c57945"
+    ]
+  },
+  {
+    "id": "u3-ex-051",
+    "kind": "adapted",
+    "text": "If I get some experience at college fashion shows, my dream of becoming a fashion photographer may come true.",
+    "translation": "Nếu tích lũy kinh nghiệm tại các buổi trình diễn thời trang của trường, ước mơ trở thành nhiếp ảnh gia thời trang của tôi có thể thành hiện thực.",
+    "source": "SB p. 181, track 29",
+    "cards": [
+      "u3-speaking-0d522c46a598",
+      "u3-speaking-7f34e7685559",
+      "u3-speaking-f6e386d72ceb",
+      "u3-speaking-e468b2ca950d"
+    ]
+  },
+  {
+    "id": "u3-ex-052",
+    "kind": "adapted",
+    "text": "Make notes and cover all the points, then introduce your talk by saying, “I'd like to tell you about a learning experience.”",
+    "translation": "Hãy ghi chú và đề cập đủ mọi ý, rồi mở đầu bằng câu: “Tôi muốn kể với bạn về một trải nghiệm học tập.”",
+    "source": "SB pp. 61–63, Speaking Part 2",
+    "cards": [
+      "u3-speaking-d2ea956b6888",
+      "u3-speaking-fd61bfdf6846",
+      "u3-speaking-1808b783a797",
+      "u3-speaking-6a440c7ac02a"
+    ]
+  },
+  {
+    "id": "u3-ex-053",
+    "kind": "adapted",
+    "text": "I am an active and sporty person, so I decided to learn to ski.",
+    "translation": "Tôi là người năng động, thích thể thao nên quyết định học trượt tuyết.",
+    "source": "SB p. 181, track 31",
+    "cards": [
+      "u3-speaking-5d165f571709",
+      "u3-speaking-9442389eb134"
+    ]
+  },
+  {
+    "id": "u3-ex-054",
+    "kind": "adapted",
+    "text": "After taking the chair lift to the nursery slope, I fell over while learning to keep my balance; I preferred learning in a group to learning individually.",
+    "translation": "Sau khi đi cáp treo đến dốc cho người mới học, tôi bị ngã khi tập giữ thăng bằng; tôi thích học theo nhóm hơn học riêng.",
+    "source": "SB p. 181, track 31",
+    "cards": [
+      "u3-speaking-f8b8b63b07e7",
+      "u3-speaking-458571e5ffdf",
+      "u3-speaking-824a51b8d81b",
+      "u3-speaking-fea473d37928",
+      "u3-speaking-086a790d9ecc",
+      "u3-speaking-8d177c0a1277"
+    ]
+  },
+  {
+    "id": "u3-ex-055",
+    "kind": "adapted",
+    "text": "I won a skiing competition and received a silver cup.",
+    "translation": "Tôi thắng một cuộc thi trượt tuyết và nhận được cúp bạc.",
+    "source": "SB p. 181, track 31",
+    "cards": [
+      "u3-speaking-eedeef79fda3",
+      "u3-speaking-cde1477c42a7"
+    ]
+  },
+  {
+    "id": "u3-ex-056",
+    "kind": "adapted",
+    "text": "The learning experience was thrilling: I skied downhill for the very first time and felt proud of myself at the bottom of the slope.",
+    "translation": "Trải nghiệm học tập thật hào hứng: tôi lần đầu trượt xuống dốc và thấy tự hào khi đến chân dốc.",
+    "source": "SB p. 181, track 31",
+    "cards": [
+      "u3-speaking-86c8920be2a9",
+      "u3-speaking-6b902b948705",
+      "u3-speaking-4a13530b4151",
+      "u3-speaking-66c9a7d5fb5b",
+      "u3-speaking-9c8282c7c7ec"
+    ]
+  },
+  {
+    "id": "u3-ex-057",
+    "kind": "practice",
+    "text": "I'm currently studying business at a local university.",
+    "translation": "Hiện tôi đang học kinh doanh tại một trường đại học địa phương.",
+    "source": "SB pp. 58–63; TB pp. 35–37",
+    "cards": [
+      "u3-speaking-a8c25c68ff6f"
+    ]
+  },
+  {
+    "id": "u3-ex-058",
+    "kind": "practice",
+    "text": "The most rewarding part of my course is solving real problems.",
+    "translation": "Phần đáng quý nhất trong khóa học của tôi là giải quyết những vấn đề thực tế.",
+    "source": "SB pp. 58–63; TB pp. 35–37",
+    "cards": [
+      "u3-speaking-2d029e4f9e00"
+    ]
+  },
+  {
+    "id": "u3-ex-059",
+    "kind": "practice",
+    "text": "At first, I found it difficult to speak in front of others.",
+    "translation": "Lúc đầu, tôi thấy khó nói trước người khác.",
+    "source": "SB pp. 58–63; TB pp. 35–37",
+    "cards": [
+      "u3-speaking-c9bf18cc47f9"
+    ]
+  },
+  {
+    "id": "u3-ex-060",
+    "kind": "practice",
+    "text": "With practice, I gradually became more confident.",
+    "translation": "Nhờ luyện tập, tôi dần trở nên tự tin hơn.",
+    "source": "SB pp. 58–63; TB pp. 35–37",
+    "cards": [
+      "u3-speaking-41e7c9278331"
+    ]
+  },
+  {
+    "id": "u3-ex-061",
+    "kind": "practice",
+    "text": "This experience taught me how to work in a team.",
+    "translation": "Trải nghiệm này dạy tôi cách làm việc trong nhóm.",
+    "source": "SB pp. 58–63; TB pp. 35–37",
+    "cards": [
+      "u3-speaking-83363e451d06"
+    ]
+  },
+  {
+    "id": "u3-ex-062",
+    "kind": "practice",
+    "text": "The course helped me gain practical experience, develop transferable skills and step outside my comfort zone.",
+    "translation": "Khóa học giúp tôi tích lũy kinh nghiệm thực tế, phát triển kỹ năng áp dụng trong nhiều công việc và bước ra khỏi vùng an toàn.",
+    "source": "SB pp. 58–63, Speaking extension",
+    "cards": [
+      "u3-speaking-6e891451de8a",
+      "u3-speaking-fc51231133e5",
+      "u3-speaking-1fe55cb7a97b"
+    ]
+  },
+  {
+    "id": "u3-ex-063",
+    "kind": "adapted",
+    "text": "We can present data in a line graph, a bar chart, a pie chart or a table.",
+    "translation": "Chúng ta có thể trình bày dữ liệu bằng biểu đồ đường, biểu đồ cột, biểu đồ tròn hoặc bảng.",
+    "source": "SB p. 49, chart types",
+    "cards": [
+      "u3-writing-5e440cb6eadb",
+      "u3-writing-2bad31af89c6",
+      "u3-writing-f78aabb54625",
+      "u3-writing-0d4fc4a78d37"
+    ]
+  },
+  {
+    "id": "u3-ex-064",
+    "kind": "adapted",
+    "text": "The graph shows an upward trend and a steady rise throughout the period: the percentage rose gradually, increasing from 17% to 20%, or by three percentage points.",
+    "translation": "Biểu đồ cho thấy xu hướng tăng và sự tăng đều suốt giai đoạn: tỷ lệ tăng dần từ 17% lên 20%, tức tăng ba điểm phần trăm.",
+    "source": "SB p. 51, graph description",
+    "cards": [
+      "u3-writing-93493920f449",
+      "u3-writing-da6d2ee379c3",
+      "u3-writing-363156ec72f4",
+      "u3-writing-be7cf762ea82",
+      "u3-writing-c2052749fe35",
+      "u3-writing-8331b239a82f"
+    ]
+  },
+  {
+    "id": "u3-ex-065",
+    "kind": "adapted",
+    "text": "After a drop or decrease, the figures returned to their original level; the graph shows a fall followed by a rise, or a decline followed by growth.",
+    "translation": "Sau khi giảm, số liệu trở lại mức ban đầu; biểu đồ thể hiện một đợt giảm tiếp theo là tăng, hay sự suy giảm rồi tăng trưởng.",
+    "source": "SB p. 52, graph description",
+    "cards": [
+      "u3-writing-ab42b9596700",
+      "u3-writing-8fcc17ece632",
+      "u3-writing-d90ee9ccf6be",
+      "u3-writing-fd5f8cbed3d0",
+      "u3-writing-19c64195eb8f",
+      "u3-writing-c983ae37b4a4"
+    ]
+  },
+  {
+    "id": "u3-ex-066",
+    "kind": "adapted",
+    "text": "At all points, non-graduates were more likely than recent graduates to be unemployed or out of work.",
+    "translation": "Ở mọi thời điểm, người không có bằng đại học có khả năng thất nghiệp cao hơn người mới tốt nghiệp.",
+    "source": "SB p. 52, model answer",
+    "cards": [
+      "u3-writing-40257e15c193",
+      "u3-writing-f1c9f487bdd9",
+      "u3-writing-3f786edc8d4c",
+      "u3-writing-ef65af02d658",
+      "u3-writing-9a626ce3a327"
+    ]
+  },
+  {
+    "id": "u3-ex-067",
+    "kind": "adapted",
+    "text": "The chart compares participation in full-time education and employer-funded training.",
+    "translation": "Biểu đồ so sánh mức tham gia giáo dục toàn thời gian và đào tạo do người sử dụng lao động tài trợ.",
+    "source": "SB p. 51, bar chart",
+    "cards": [
+      "u3-writing-56a3c84e8ca7",
+      "u3-writing-bf6209b9887a",
+      "u3-writing-3ea38fc32095"
+    ]
+  },
+  {
+    "id": "u3-ex-068",
+    "kind": "adapted",
+    "text": "The table gives new entrants to teacher training programmes, while other charts show the percentage or proportion in each group.",
+    "translation": "Bảng cho biết số người mới vào chương trình đào tạo giáo viên, còn các biểu đồ khác thể hiện tỷ lệ phần trăm hoặc tỷ trọng của từng nhóm.",
+    "source": "SB pp. 49–53, charts",
+    "cards": [
+      "u3-writing-75e80550328e",
+      "u3-writing-0aaef76fa4be",
+      "u3-writing-8975c9b4ea06",
+      "u3-writing-40b149bf4da1"
+    ]
+  },
+  {
+    "id": "u3-ex-069",
+    "kind": "practice",
+    "text": "The most popular option attracted over a third, the option in second place a little under a third, another just under a sixth, and the least popular about one in ten.",
+    "translation": "Lựa chọn phổ biến nhất thu hút hơn một phần ba, lựa chọn đứng thứ hai ít hơn một phần ba một chút, lựa chọn khác dưới một phần sáu một chút, còn lựa chọn ít phổ biến nhất khoảng một phần mười.",
+    "source": "SB p. 52, proportion language",
+    "cards": [
+      "u3-writing-3ced9ca051c1",
+      "u3-writing-9e2fd309192b",
+      "u3-writing-2a3e726853ea",
+      "u3-writing-a5996987e246",
+      "u3-writing-04e414516c8b",
+      "u3-writing-19f783b1620b"
+    ]
+  },
+  {
+    "id": "u3-ex-070",
+    "kind": "adapted",
+    "text": "Use the vertical axis and horizontal axis to make comparisons of literacy rates by region and gender and identify the greatest difference.",
+    "translation": "Hãy dùng trục tung và trục hoành để so sánh tỷ lệ biết đọc viết theo vùng và giới tính, rồi xác định sự chênh lệch lớn nhất.",
+    "source": "SB p. 53, Writing task",
+    "cards": [
+      "u3-writing-c79548af4955",
+      "u3-writing-230ebc7aeb6f",
+      "u3-writing-fb4093ba9477",
+      "u3-writing-b9fc968e037f",
+      "u3-writing-38d64db4ac4b",
+      "u3-writing-e35147b9a16d"
+    ]
+  },
+  {
+    "id": "u3-ex-071",
+    "kind": "practice",
+    "text": "The chart compares seven regions in terms of literacy rates.",
+    "translation": "Biểu đồ so sánh bảy vùng xét về tỷ lệ biết đọc, biết viết.",
+    "source": "SB pp. 49–53; TB pp. 30–32",
+    "cards": [
+      "u3-writing-86e82222634a"
+    ]
+  },
+  {
+    "id": "u3-ex-072",
+    "kind": "practice",
+    "text": "Overall, the proportion of graduates showed an upward trend.",
+    "translation": "Nhìn chung, tỷ lệ người tốt nghiệp đại học cho thấy xu hướng tăng.",
+    "source": "SB pp. 49–53; TB pp. 30–32",
+    "cards": [
+      "u3-writing-5c37d44b5fb5"
+    ]
+  },
+  {
+    "id": "u3-ex-073",
+    "kind": "practice",
+    "text": "Full-time students accounted for 60% of the total.",
+    "translation": "Sinh viên toàn thời gian chiếm 60% tổng số.",
+    "source": "SB pp. 49–53; TB pp. 30–32",
+    "cards": [
+      "u3-writing-3f39e473bd54"
+    ]
+  },
+  {
+    "id": "u3-ex-074",
+    "kind": "practice",
+    "text": "The rate remained stable at 20%.",
+    "translation": "Tỷ lệ giữ ổn định ở mức 20%.",
+    "source": "SB pp. 49–53; TB pp. 30–32",
+    "cards": [
+      "u3-writing-b1b286223068"
+    ]
+  },
+  {
+    "id": "u3-ex-075",
+    "kind": "practice",
+    "text": "The rate rose from 20% to 25%, an increase of five percentage points.",
+    "translation": "Tỷ lệ tăng từ 20% lên 25%, tức tăng năm điểm phần trăm.",
+    "source": "SB pp. 49–53; TB pp. 30–32",
+    "cards": [
+      "u3-writing-a6d5e13c8326"
+    ]
+  },
+  {
+    "id": "u3-ex-076",
+    "kind": "practice",
+    "text": "The male unemployment rate was twice as high as the female rate.",
+    "translation": "Tỷ lệ thất nghiệp của nam cao gấp đôi tỷ lệ của nữ.",
+    "source": "SB pp. 49–53; TB pp. 30–32",
+    "cards": [
+      "u3-writing-ac0de098f460"
+    ]
+  },
+  {
+    "id": "u3-ex-077",
+    "kind": "practice",
+    "text": "The rate for men was higher than that for women, at 80% and 60%, respectively.",
+    "translation": "Tỷ lệ của nam cao hơn nữ, lần lượt là 80% và 60%.",
+    "source": "SB pp. 49–53; TB pp. 30–32",
+    "cards": [
+      "u3-writing-05073fc3c94b"
+    ]
+  },
+  {
+    "id": "u3-ex-078",
+    "kind": "adapted",
+    "text": "Career sectors include hotel and catering, construction, health care, sports and leisure, art and design, and retail.",
+    "translation": "Các lĩnh vực nghề nghiệp gồm khách sạn và dịch vụ ăn uống, xây dựng, chăm sóc sức khỏe, thể thao giải trí, mỹ thuật thiết kế và bán lẻ.",
+    "source": "SB p. 58, career sectors",
+    "cards": [
+      "u3-speaking-d25178f69a84",
+      "u3-speaking-7a01adea4b8a",
+      "u3-speaking-9da4925c250a",
+      "u3-speaking-7503b0e51b1b",
+      "u3-speaking-f09222229aa1",
+      "u3-speaking-1778c2d9b45b"
+    ]
+  },
+  {
+    "id": "u3-ex-079",
+    "kind": "adapted",
+    "text": "You could become a chef or a badminton coach, or study building engineering, computing or medicine.",
+    "translation": "Bạn có thể trở thành đầu bếp hay huấn luyện viên cầu lông, hoặc học kỹ thuật xây dựng, tin học hay ngành y.",
+    "source": "SB pp. 58–59, career choices",
+    "cards": [
+      "u3-speaking-f59ac0828b9a",
+      "u3-speaking-8fd8924ebe1f",
+      "u3-speaking-bf8d4d19a9ee",
+      "u3-speaking-2ddeaa83d089",
+      "u3-speaking-a82ce870f999"
+    ]
+  },
+  {
+    "id": "u3-ex-080",
+    "kind": "adapted",
+    "text": "A graphic designer and a web designer may find design interesting, while others prefer shop management or fitness training and find design not very exciting.",
+    "translation": "Nhà thiết kế đồ họa và thiết kế web có thể thấy thiết kế thú vị, còn người khác thích quản lý cửa hàng hoặc tập luyện thể lực và thấy thiết kế không hấp dẫn lắm.",
+    "source": "SB pp. 58–59, career choices",
+    "cards": [
+      "u3-speaking-85e98d6ab08a",
+      "u3-speaking-687fb7c51c67",
+      "u3-speaking-53c6521e9360",
+      "u3-speaking-acb12c64719c",
+      "u3-speaking-5360a4ab6b98",
+      "u3-speaking-637ab2808704"
+    ]
+  }
+]

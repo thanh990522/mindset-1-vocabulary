@@ -4,7 +4,7 @@ Website học từ vựng cho Mindset for IELTS Level 1, biên soạn cho lớp 
 
 **Học tại: https://thanh990522.github.io/mindset-1-vocabulary/**
 
-Bộ thẻ được mở rộng từ 325 mục lên **2.070 thẻ**, gồm 8 Unit và 32 phần kỹ năng. Reading lấy ngôn ngữ trong bài đọc; Listening lấy từ transcript. Speaking/Writing có thêm collocation và cấu trúc ứng dụng, được ghi nhãn “Bổ sung luyện tập”.
+Bộ thẻ được mở rộng từ 325 mục lên **2.070 thẻ**, gồm 8 Unit và 32 phần kỹ năng. Reading lấy ngôn ngữ trong bài đọc; Listening lấy từ transcript. Speaking/Writing có thêm collocation và cấu trúc ứng dụng. Mỗi thẻ đều có IPA và ví dụ Anh–Việt theo bài học.
 
 | Unit | Reading | Listening | Speaking | Writing | Tổng thẻ |
 | --- | ---: | ---: | ---: | ---: | ---: |
@@ -24,9 +24,9 @@ Một từ có thể xuất hiện ở nhiều kỹ năng vì ngữ cảnh khác
 - Tất cả từ, cụm từ, collocation và cấu trúc đều dùng thẻ lật Anh–Việt, có thể đổi mặt trước. Mỗi thẻ có nhãn loại từ theo ngữ cảnh: danh từ, động từ, tính từ, cụm từ hoặc cấu trúc câu.
 - Lọc theo Unit, kỹ năng, nội dung, loại thẻ và trạng thái đã nhớ; tìm bằng tiếng Anh hoặc tiếng Việt có/không dấu.
 - Trộn thẻ, phân trang và lưu tiến độ trên trình duyệt. Tiến độ bản cũ được chuyển cho những từ còn khớp trong cùng Unit.
-- Xem nguồn trang/track trên từng thẻ. Các ví dụ là ví dụ luyện tập.
-- Nút nghe dùng giọng tiếng Anh của thiết bị; không phải bản thu của sách. Phiên âm chỉ giữ ở những mục khớp dữ liệu cũ.
-- Theme vàng–xanh dương, thẻ tự co chiều cao theo mặt đang xem, font Arial với font dự phòng hỗ trợ tiếng Việt, dùng được bằng bàn phím và trên điện thoại.
+- Lật thẻ để xem ví dụ trong ngữ cảnh bài học cùng bản dịch tiếng Việt. Thông tin nguồn được lưu trong dữ liệu, không hiển thị trên từng thẻ.
+- Nút nghe dùng giọng tiếng Anh của thiết bị; không phải bản thu của sách. Cả 2.070 thẻ có IPA theo hướng giọng Mỹ, đặt ngay bên dưới từ/cụm tiếng Anh.
+- Theme theo [Việt Anh](https://truongvietanh.com/): navy `#26275D`, vàng `#F9DD0E`, icon cho bốn kỹ năng; thẻ tự co chiều cao theo mặt đang xem, font Inter với font dự phòng hỗ trợ tiếng Việt, dùng được bằng bàn phím và trên điện thoại.
 
 Xem [ghi chú đối chiếu nội dung](CONTENT_NOTES.md) để biết phạm vi nguồn và quy tắc biên soạn.
 
@@ -36,11 +36,15 @@ Nguồn chỉnh sửa nằm trong `content/unit1.txt` đến `content/unit8.txt`
 
 ```text
 @reading|Tên nhóm|SB pp. 8–11; TB pp. 12–13
-term|nghĩa tiếng Việt|loại thẻ tùy chọn|ví dụ tùy chọn|loại từ
+term|nghĩa tiếng Việt|loại thẻ tùy chọn|ví dụ cũ tùy chọn|loại từ
 extended family|gia đình nhiều thế hệ|||noun_phrase
 ```
 
 Các loại thẻ: `word`, `phrase`, `collocation`, `structure`. Bắt đầu nguồn bằng `Bổ sung` cho nhóm ứng dụng Speaking/Writing. Trường thứ năm là loại từ bắt buộc, dùng mã trong `content/parts-of-speech.json`. Giữ trường trống bằng dấu `||` nếu bỏ qua loại thẻ hoặc ví dụ. Không dùng dấu `|` bên trong nội dung của một trường.
+
+Ví dụ được quản lý trong `content/examples/unitN.json`: mỗi câu có `text`, `translation`, `kind` (`book`, `adapted`, `practice`), `source` và danh sách ID thẻ `cards`. Một câu có thể minh họa nhiều từ trong cùng ngữ cảnh. Ngân hàng này thay thế trường ví dụ cũ trên dòng từ vựng. Build sẽ dừng nếu có thẻ thiếu ví dụ hoặc bản dịch.
+
+Phiên âm nằm trong `content/ipa-us.json`, khóa là từ/cụm viết thường. Dữ liệu nền từ [ipa-dict](https://github.com/open-dict-data/ipa-dict), có chỉnh theo ngữ cảnh và giấy phép trong `IPA_LICENSE.txt`.
 
 ```bash
 npm run build

@@ -1,0 +1,1489 @@
+[
+  {
+    "id": "u1-ex-001",
+    "kind": "book",
+    "text": "Blood is thicker than water.",
+    "translation": "Một giọt máu đào hơn ao nước lã.",
+    "source": "SB p. 8, Reading",
+    "cards": [
+      "u1-reading-f3a92ef28f36"
+    ]
+  },
+  {
+    "id": "u1-ex-002",
+    "kind": "book",
+    "text": "They value their friends' opinions more and enjoy their company.",
+    "translation": "Họ coi trọng ý kiến của bạn bè hơn và thích ở bên bạn bè.",
+    "source": "SB p. 8, Reading",
+    "cards": [
+      "u1-reading-ef62bc70ce1f",
+      "u1-reading-38715852ae56"
+    ]
+  },
+  {
+    "id": "u1-ex-003",
+    "kind": "book",
+    "text": "But are they missing out?",
+    "translation": "Nhưng liệu họ có đang bỏ lỡ điều gì không?",
+    "source": "SB p. 8, Reading",
+    "cards": [
+      "u1-reading-9b97cd1c8385"
+    ]
+  },
+  {
+    "id": "u1-ex-004",
+    "kind": "book",
+    "text": "Those who live with their extended family have many advantages.",
+    "translation": "Những người sống cùng gia đình nhiều thế hệ có nhiều lợi ích.",
+    "source": "SB p. 9, Reading",
+    "cards": [
+      "u1-reading-0a005ad0b4e7",
+      "u1-reading-b224524cd3b6"
+    ]
+  },
+  {
+    "id": "u1-ex-005",
+    "kind": "book",
+    "text": "In Asia, the Middle East, South America and Sub-Saharan Africa over 40% of children live in families with other adults such as aunts, uncles and grandparents in addition to their parents.",
+    "translation": "Ở châu Á, Trung Đông, Nam Mỹ và châu Phi cận Sahara, hơn 40% trẻ em sống cùng những người lớn khác như cô dì, chú bác và ông bà, ngoài cha mẹ của mình.",
+    "source": "SB p. 8, Reading",
+    "cards": [
+      "u1-reading-fdce563a13e0",
+      "u1-reading-ee139bd0fd94",
+      "u1-reading-e85bf298ffd4",
+      "u1-reading-1c583b195015",
+      "u1-reading-eed35fdc26c8"
+    ]
+  },
+  {
+    "id": "u1-ex-006",
+    "kind": "book",
+    "text": "On the other hand, in Europe, Australia and North America, less than 25% of children live in extended families.",
+    "translation": "Mặt khác, ở châu Âu, Úc và Bắc Mỹ, dưới 25% trẻ em sống trong gia đình nhiều thế hệ.",
+    "source": "SB p. 8, Reading",
+    "cards": [
+      "u1-reading-1d19d96bfedb",
+      "u1-reading-b11f203e8e6c",
+      "u1-reading-c585f1decb98",
+      "u1-reading-f45c8cbc670c"
+    ]
+  },
+  {
+    "id": "u1-ex-007",
+    "kind": "book",
+    "text": "Is the lack of close contact with relatives putting some children at a disadvantage?",
+    "translation": "Liệu việc thiếu liên lạc gần gũi với họ hàng có khiến một số trẻ em chịu bất lợi không?",
+    "source": "SB p. 8, Reading",
+    "cards": [
+      "u1-reading-ddbbe21afb5e",
+      "u1-reading-6d8bceded085",
+      "u1-reading-9740734931c1"
+    ]
+  },
+  {
+    "id": "u1-ex-008",
+    "kind": "book",
+    "text": "The people they live with have a great influence on the way children grow up.",
+    "translation": "Những người sống cùng có ảnh hưởng lớn đến cách trẻ em trưởng thành.",
+    "source": "SB p. 9, Reading",
+    "cards": [
+      "u1-reading-62dc6e16e97a",
+      "u1-reading-4d1ebcc3f2b2"
+    ]
+  },
+  {
+    "id": "u1-ex-009",
+    "kind": "book",
+    "text": "They usually get lots of love and attention.",
+    "translation": "Các em thường nhận được nhiều tình yêu thương và sự quan tâm.",
+    "source": "SB p. 9, Reading",
+    "cards": [
+      "u1-reading-951a2849661d"
+    ]
+  },
+  {
+    "id": "u1-ex-010",
+    "kind": "book",
+    "text": "As they are often retired, they are not always busy and stressed as many parents are.",
+    "translation": "Vì thường đã nghỉ hưu, ông bà không phải lúc nào cũng bận rộn và căng thẳng như nhiều bậc cha mẹ.",
+    "source": "SB p. 9, Reading",
+    "cards": [
+      "u1-reading-5b720147b691",
+      "u1-reading-66f5a0fbb1d5"
+    ]
+  },
+  {
+    "id": "u1-ex-011",
+    "kind": "book",
+    "text": "They have learnt to be patient and they have already handled most of the problems children and young people face.",
+    "translation": "Họ đã học được cách kiên nhẫn và từng xử lý phần lớn những vấn đề mà trẻ em và người trẻ gặp phải.",
+    "source": "SB p. 9, Reading",
+    "cards": [
+      "u1-reading-2295ff7a8bd8",
+      "u1-reading-4e724e52bbea",
+      "u1-reading-3a2cbcadb199"
+    ]
+  },
+  {
+    "id": "u1-ex-012",
+    "kind": "book",
+    "text": "It is good for children to grow up to understand the needs of older people: they may become more caring and less selfish if they spend time helping their grandparents.",
+    "translation": "Sẽ tốt nếu trẻ lớn lên biết hiểu nhu cầu của người cao tuổi: các em có thể biết quan tâm hơn và bớt ích kỷ nếu dành thời gian giúp đỡ ông bà.",
+    "source": "SB p. 9, Reading",
+    "cards": [
+      "u1-reading-b4ab27ecd4ab",
+      "u1-reading-e49a417471c3",
+      "u1-reading-18c76b5a4a40"
+    ]
+  },
+  {
+    "id": "u1-ex-013",
+    "kind": "book",
+    "text": "Children learn about the past from grandparents' stories.",
+    "translation": "Trẻ em tìm hiểu quá khứ qua những câu chuyện của ông bà.",
+    "source": "SB p. 9, Reading",
+    "cards": [
+      "u1-reading-8727840a9b6d"
+    ]
+  },
+  {
+    "id": "u1-ex-014",
+    "kind": "book",
+    "text": "Sometimes they feel closer to their grandparents than to their parents.",
+    "translation": "Đôi khi các em cảm thấy gần gũi với ông bà hơn với cha mẹ.",
+    "source": "SB p. 9, Reading",
+    "cards": [
+      "u1-reading-230bf370bef4"
+    ]
+  },
+  {
+    "id": "u1-ex-015",
+    "kind": "book",
+    "text": "Young adults often feel that living alone will be exciting, but they forget that it can also be lonely.",
+    "translation": "Người trẻ trưởng thành thường nghĩ sống một mình sẽ thú vị, nhưng họ quên rằng điều đó cũng có thể cô đơn.",
+    "source": "SB p. 9, Reading",
+    "cards": [
+      "u1-reading-7f88a520a565",
+      "u1-reading-a786f47c0996",
+      "u1-reading-1cb0f5a9e3a8"
+    ]
+  },
+  {
+    "id": "u1-ex-016",
+    "kind": "book",
+    "text": "By remaining with the family during this stage of their lives, they can avoid this.",
+    "translation": "Bằng cách tiếp tục sống cùng gia đình trong giai đoạn này của cuộc đời, họ có thể tránh điều đó.",
+    "source": "SB p. 9, Reading",
+    "cards": [
+      "u1-reading-791b97f2c479",
+      "u1-reading-e330ecc70500",
+      "u1-reading-3270f7fe8ace"
+    ]
+  },
+  {
+    "id": "u1-ex-017",
+    "kind": "book",
+    "text": "They can also save money for their education and future.",
+    "translation": "Họ cũng có thể tiết kiệm tiền cho việc học và tương lai.",
+    "source": "SB p. 9, Reading",
+    "cards": [
+      "u1-reading-33dd09036231",
+      "u1-reading-68bf0109c6f8"
+    ]
+  },
+  {
+    "id": "u1-ex-018",
+    "kind": "book",
+    "text": "Young people whose grandparents live far away can gain some of these advantages by keeping in close contact by phone, email, letters and visits.",
+    "translation": "Người trẻ có ông bà ở xa có thể nhận được một số lợi ích này bằng cách giữ liên lạc thường xuyên qua điện thoại, email, thư và những lần thăm hỏi.",
+    "source": "SB p. 9, Reading",
+    "cards": [
+      "u1-reading-66dd231befc8",
+      "u1-reading-b7b71a0ffe68"
+    ]
+  },
+  {
+    "id": "u1-ex-019",
+    "kind": "adapted",
+    "text": "An Italian proverb advises people to call their grandmother when things are not going well.",
+    "translation": "Một câu tục ngữ Ý khuyên mọi người gọi cho bà khi mọi việc không suôn sẻ.",
+    "source": "SB p. 9, Reading",
+    "cards": [
+      "u1-reading-44c768db2a1e"
+    ]
+  },
+  {
+    "id": "u1-ex-020",
+    "kind": "book",
+    "text": "Friends are important to young people, but friends come and go.",
+    "translation": "Bạn bè quan trọng với người trẻ, nhưng bạn bè có thể đến rồi đi.",
+    "source": "SB p. 9, Reading",
+    "cards": [
+      "u1-reading-0de7c7d11b4c"
+    ]
+  },
+  {
+    "id": "u1-ex-021",
+    "kind": "book",
+    "text": "Your family is always on your side.",
+    "translation": "Gia đình luôn đứng về phía bạn.",
+    "source": "SB p. 9, Reading",
+    "cards": [
+      "u1-reading-cf355c18bafa"
+    ]
+  },
+  {
+    "id": "u1-ex-022",
+    "kind": "book",
+    "text": "Grandparents won't be there forever. Appreciate them while you can.",
+    "translation": "Ông bà sẽ không ở bên mãi mãi. Hãy trân trọng ông bà khi còn có thể.",
+    "source": "SB p. 9, Reading",
+    "cards": [
+      "u1-reading-f3e8234402a3",
+      "u1-reading-2070f725ff1c"
+    ]
+  },
+  {
+    "id": "u1-ex-023",
+    "kind": "adapted",
+    "text": "The passage mentions children living in extended families in South Africa.",
+    "translation": "Bài đọc đề cập đến trẻ em sống trong gia đình nhiều thế hệ ở Nam Phi.",
+    "source": "SB p. 8, Reading",
+    "cards": [
+      "u1-reading-7a80542464c0"
+    ]
+  },
+  {
+    "id": "u1-ex-024",
+    "kind": "book",
+    "text": "There have been a lot of scientific studies into what makes a friendship.",
+    "translation": "Đã có nhiều nghiên cứu khoa học về những yếu tố tạo nên tình bạn.",
+    "source": "SB p. 11, Reading",
+    "cards": [
+      "u1-reading-5a35edfbcba0",
+      "u1-reading-4b529ac375b4"
+    ]
+  },
+  {
+    "id": "u1-ex-025",
+    "kind": "book",
+    "text": "A study in 1993 at the University of Oxford showed that people could only maintain 150 relationships.",
+    "translation": "Một nghiên cứu năm 1993 tại Đại học Oxford cho thấy con người chỉ có thể duy trì 150 mối quan hệ.",
+    "source": "SB p. 11, Reading",
+    "cards": [
+      "u1-reading-91bb720d0df3",
+      "u1-reading-8346862a9c87"
+    ]
+  },
+  {
+    "id": "u1-ex-026",
+    "kind": "book",
+    "text": "However, with the explosion of social media since then, many people now have over 300 people who they think of as friends.",
+    "translation": "Tuy nhiên, với sự bùng nổ của mạng xã hội kể từ đó, nhiều người hiện có hơn 300 người mà họ xem là bạn.",
+    "source": "SB p. 11, Reading",
+    "cards": [
+      "u1-reading-0325b30187cb"
+    ]
+  },
+  {
+    "id": "u1-ex-027",
+    "kind": "book",
+    "text": "Some people think that these friends are not real friends, but others believe that social media has helped us to expand and keep our friendships because we have more time and opportunities.",
+    "translation": "Một số người cho rằng đây không phải bạn bè thực sự, nhưng những người khác tin rằng mạng xã hội giúp mở rộng và duy trì tình bạn vì chúng ta có thêm thời gian và cơ hội.",
+    "source": "SB p. 11, Reading",
+    "cards": [
+      "u1-reading-bc04ba430ea6",
+      "u1-reading-d78de925a878",
+      "u1-reading-9be34f3e549c"
+    ]
+  },
+  {
+    "id": "u1-ex-028",
+    "kind": "book",
+    "text": "People are in general more geographically mobile nowadays.",
+    "translation": "Ngày nay, nhìn chung mọi người có khả năng chuyển nơi ở hoặc làm việc nhiều hơn.",
+    "source": "SB p. 11, Reading",
+    "cards": [
+      "u1-reading-04b6955af379",
+      "u1-reading-ac6eb9b28a8c"
+    ]
+  },
+  {
+    "id": "u1-ex-029",
+    "kind": "book",
+    "text": "This means that we have more chances to meet and make friends with people from different cultures and different backgrounds.",
+    "translation": "Điều này có nghĩa chúng ta có thêm cơ hội gặp gỡ và kết bạn với người đến từ các nền văn hóa và hoàn cảnh khác nhau.",
+    "source": "SB p. 11, Reading",
+    "cards": [
+      "u1-reading-e3fb705699dc",
+      "u1-reading-4df212cf62b0",
+      "u1-reading-6b4282d907ac"
+    ]
+  },
+  {
+    "id": "u1-ex-030",
+    "kind": "book",
+    "text": "People still often make friends at college who remain friends for life, but making new friends at work is more difficult.",
+    "translation": "Mọi người vẫn thường kết bạn ở trường đại học và duy trì tình bạn suốt đời, nhưng kết bạn mới ở nơi làm việc khó hơn.",
+    "source": "SB p. 11, Reading",
+    "cards": [
+      "u1-reading-bed95c319b35"
+    ]
+  },
+  {
+    "id": "u1-ex-031",
+    "kind": "book",
+    "text": "People now have less security at work and this also means that they find it harder to build new relationships.",
+    "translation": "Mọi người hiện có ít sự ổn định trong công việc hơn, và điều này cũng khiến việc xây dựng quan hệ mới khó hơn.",
+    "source": "SB p. 11, Reading",
+    "cards": [
+      "u1-reading-4b1214d7e934",
+      "u1-reading-c3269e1f5d15"
+    ]
+  },
+  {
+    "id": "u1-ex-032",
+    "kind": "book",
+    "text": "As people get older, they sometimes also have less free time.",
+    "translation": "Khi lớn tuổi hơn, đôi khi mọi người cũng có ít thời gian rảnh hơn.",
+    "source": "SB p. 11, Reading",
+    "cards": [
+      "u1-reading-7330059355c0"
+    ]
+  },
+  {
+    "id": "u1-ex-033",
+    "kind": "adapted",
+    "text": "Young children often choose their friends because of convenience, such as going to the same school.",
+    "translation": "Trẻ nhỏ thường chọn bạn vì sự thuận tiện, chẳng hạn như cùng học một trường.",
+    "source": "SB p. 11, Reading",
+    "cards": [
+      "u1-reading-d7ae368c1499"
+    ]
+  },
+  {
+    "id": "u1-ex-034",
+    "kind": "book",
+    "text": "As we get older, friendships are more connected with having similar interests and opinions.",
+    "translation": "Khi lớn lên, tình bạn gắn nhiều hơn với việc có sở thích và quan điểm tương đồng.",
+    "source": "SB p. 11, Reading",
+    "cards": [
+      "u1-reading-1be44d60fc28"
+    ]
+  },
+  {
+    "id": "u1-ex-035",
+    "kind": "adapted",
+    "text": "One thing is definitely true: friendship is good for our health.",
+    "translation": "Có một điều chắc chắn đúng: tình bạn có lợi cho sức khỏe.",
+    "source": "SB p. 11, Reading",
+    "cards": [
+      "u1-reading-51da96a3fae4"
+    ]
+  },
+  {
+    "id": "u1-ex-036",
+    "kind": "book",
+    "text": "People who spend time with friends have fewer mental health problems and are generally happier and in a better physical state of health than people who spend their free time alone.",
+    "translation": "Những người dành thời gian với bạn bè có ít vấn đề về sức khỏe tinh thần hơn, nhìn chung hạnh phúc hơn và có thể trạng tốt hơn những người dành thời gian rảnh một mình.",
+    "source": "SB p. 11, Reading",
+    "cards": [
+      "u1-reading-4fa9d7e48556",
+      "u1-reading-8ed42f97cfcb",
+      "u1-reading-f626ab0db435"
+    ]
+  },
+  {
+    "id": "u1-ex-037",
+    "kind": "book",
+    "text": "Hello, I'd like to make a reservation in your restaurant for next Saturday evening.",
+    "translation": "Xin chào, tôi muốn đặt chỗ tại nhà hàng vào tối thứ Bảy tới.",
+    "source": "SB p. 177, track 02",
+    "cards": [
+      "u1-listening-77a8806fddc7"
+    ]
+  },
+  {
+    "id": "u1-ex-038",
+    "kind": "book",
+    "text": "If you hold on, I'll just check.",
+    "translation": "Nếu anh/chị đợi một chút, tôi sẽ kiểm tra ngay.",
+    "source": "SB p. 177, track 02",
+    "cards": [
+      "u1-listening-71b0874fd1bd"
+    ]
+  },
+  {
+    "id": "u1-ex-039",
+    "kind": "book",
+    "text": "I need a table for 12 - it's my husband's 30th birthday, so we're having a celebration dinner.",
+    "translation": "Tôi cần bàn cho 12 người; đó là sinh nhật lần thứ 30 của chồng tôi nên chúng tôi sẽ dùng bữa tối để ăn mừng.",
+    "source": "SB p. 177, track 04",
+    "cards": [
+      "u1-listening-8e0e376ddca6",
+      "u1-listening-edfe74b52b17"
+    ]
+  },
+  {
+    "id": "u1-ex-040",
+    "kind": "adapted",
+    "text": "The customer wants the table for the day after, Saturday the 17th.",
+    "translation": "Khách muốn đặt bàn vào ngày hôm sau, thứ Bảy ngày 17.",
+    "source": "SB p. 177, track 04",
+    "cards": [
+      "u1-listening-511967e8d473"
+    ]
+  },
+  {
+    "id": "u1-ex-041",
+    "kind": "adapted",
+    "text": "The restaurant is fully booked for the party of 12, but a small room is available for private hire.",
+    "translation": "Nhà hàng đã kín chỗ cho nhóm 12 người, nhưng có một phòng nhỏ có thể thuê riêng.",
+    "source": "SB p. 177, track 04",
+    "cards": [
+      "u1-listening-61fdc0d30c7b",
+      "u1-listening-84c5028c3463",
+      "u1-listening-290747d3328f"
+    ]
+  },
+  {
+    "id": "u1-ex-042",
+    "kind": "book",
+    "text": "It can seat up to 20 people, so there would be plenty of space for 12 of you.",
+    "translation": "Phòng có chỗ ngồi cho tối đa 20 người nên sẽ rất rộng rãi cho 12 người.",
+    "source": "SB p. 177, track 04",
+    "cards": [
+      "u1-listening-7e880242a823",
+      "u1-listening-3a60ec6b758b"
+    ]
+  },
+  {
+    "id": "u1-ex-043",
+    "kind": "book",
+    "text": "Now we offer a set three-course menu for £23 per person and we can also supply you with a birthday cake at no extra charge.",
+    "translation": "Chúng tôi có thực đơn cố định gồm ba món với giá 23 bảng mỗi người và còn có thể cung cấp bánh sinh nhật mà không tính thêm phí.",
+    "source": "SB p. 177, track 05",
+    "cards": [
+      "u1-listening-dc4c857dcbe7",
+      "u1-listening-f1a5516075b3",
+      "u1-listening-f30dfe1cfb6d",
+      "u1-listening-8f6d08ef54f6"
+    ]
+  },
+  {
+    "id": "u1-ex-044",
+    "kind": "book",
+    "text": "So how much would that cost in total?",
+    "translation": "Vậy tổng cộng sẽ hết bao nhiêu tiền?",
+    "source": "SB p. 177, track 05",
+    "cards": [
+      "u1-listening-a31176b289d0"
+    ]
+  },
+  {
+    "id": "u1-ex-045",
+    "kind": "book",
+    "text": "OK, I think I'd like to go ahead and make a booking.",
+    "translation": "Được, tôi nghĩ mình muốn tiến hành đặt chỗ.",
+    "source": "SB p. 177, track 05",
+    "cards": [
+      "u1-listening-d44fcf731c17",
+      "u1-listening-4176327ba671"
+    ]
+  },
+  {
+    "id": "u1-ex-046",
+    "kind": "book",
+    "text": "OK, I'll just take your details.",
+    "translation": "Được, tôi sẽ ghi lại thông tin của anh/chị.",
+    "source": "SB p. 177, track 05",
+    "cards": [
+      "u1-listening-9e1904f2dbe2"
+    ]
+  },
+  {
+    "id": "u1-ex-047",
+    "kind": "adapted",
+    "text": "The sales assistant helps the customer choose a birthday gift.",
+    "translation": "Nhân viên bán hàng giúp khách chọn quà sinh nhật.",
+    "source": "SB p. 177, track 06",
+    "cards": [
+      "u1-listening-e6a659cb1b54"
+    ]
+  },
+  {
+    "id": "u1-ex-048",
+    "kind": "book",
+    "text": "So I thought a piece of jewellery would be nice.",
+    "translation": "Vì vậy tôi nghĩ một món trang sức sẽ phù hợp.",
+    "source": "SB p. 177, track 06",
+    "cards": [
+      "u1-listening-9029538e5bff"
+    ]
+  },
+  {
+    "id": "u1-ex-049",
+    "kind": "book",
+    "text": "Do you have anything particular in mind - a necklace, perhaps?",
+    "translation": "Anh/chị có đang nghĩ đến món gì cụ thể không, chẳng hạn như một chiếc vòng cổ?",
+    "source": "SB p. 177, track 06",
+    "cards": [
+      "u1-listening-404a08475d4c",
+      "u1-listening-731f46507cc5"
+    ]
+  },
+  {
+    "id": "u1-ex-050",
+    "kind": "book",
+    "text": "I was thinking of a pair of earrings, possibly.",
+    "translation": "Có lẽ tôi đang nghĩ đến một đôi bông tai.",
+    "source": "SB p. 177, track 06",
+    "cards": [
+      "u1-listening-78dc3c7984e8"
+    ]
+  },
+  {
+    "id": "u1-ex-051",
+    "kind": "book",
+    "text": "They have some beautiful little blue stones.",
+    "translation": "Chúng được gắn những viên đá nhỏ màu xanh rất đẹp.",
+    "source": "SB p. 177, track 06",
+    "cards": [
+      "u1-listening-210134857974"
+    ]
+  },
+  {
+    "id": "u1-ex-052",
+    "kind": "book",
+    "text": "They're silver, and they're handmade, so you won't find anything like them anywhere else.",
+    "translation": "Chúng làm bằng bạc và được chế tác thủ công nên anh/chị sẽ không tìm thấy món giống như vậy ở nơi khác.",
+    "source": "SB p. 177, track 06",
+    "cards": [
+      "u1-listening-78cde64c3e47",
+      "u1-listening-c4ddc7087527"
+    ]
+  },
+  {
+    "id": "u1-ex-053",
+    "kind": "adapted",
+    "text": "We've got a sale on at the moment, so they're a little cheaper.",
+    "translation": "Hiện chúng tôi đang có đợt giảm giá nên chúng rẻ hơn một chút.",
+    "source": "SB p. 177, tracks 06–07",
+    "cards": [
+      "u1-listening-6610823815b8",
+      "u1-listening-bcdb8310eadb"
+    ]
+  },
+  {
+    "id": "u1-ex-054",
+    "kind": "book",
+    "text": "And would you like me to giftwrap them for you?",
+    "translation": "Anh/chị có muốn tôi gói chúng thành quà không?",
+    "source": "SB p. 177, track 06",
+    "cards": [
+      "u1-listening-b996011067f7"
+    ]
+  },
+  {
+    "id": "u1-ex-055",
+    "kind": "book",
+    "text": "How much do you charge for that?",
+    "translation": "Anh/chị tính phí bao nhiêu cho việc đó?",
+    "source": "SB p. 177, track 06",
+    "cards": [
+      "u1-listening-97488fbab328"
+    ]
+  },
+  {
+    "id": "u1-ex-056",
+    "kind": "book",
+    "text": "For £4 we give you a pretty box and your own choice of wrapping paper.",
+    "translation": "Với 4 bảng, chúng tôi sẽ cung cấp một chiếc hộp đẹp và giấy gói do anh/chị tự chọn.",
+    "source": "SB p. 177, track 06",
+    "cards": [
+      "u1-listening-81c3bd0202d0"
+    ]
+  },
+  {
+    "id": "u1-ex-057",
+    "kind": "book",
+    "text": "Or for £5 you can have our luxury wrapping service, which includes a silver box and silver ribbon.",
+    "translation": "Hoặc với 5 bảng, anh/chị có thể chọn dịch vụ gói quà cao cấp gồm hộp màu bạc và ruy băng bạc.",
+    "source": "SB p. 177, track 06",
+    "cards": [
+      "u1-listening-97daca64e550",
+      "u1-listening-affc35bd6c63"
+    ]
+  },
+  {
+    "id": "u1-ex-058",
+    "kind": "book",
+    "text": "And if you would like a card to write your own personal message, that will be £2 extra.",
+    "translation": "Nếu muốn có một tấm thiệp để viết lời nhắn riêng, anh/chị sẽ trả thêm 2 bảng.",
+    "source": "SB p. 177, track 06",
+    "cards": [
+      "u1-listening-2a7fe8d59735",
+      "u1-listening-c8dee78f8c7b"
+    ]
+  },
+  {
+    "id": "u1-ex-059",
+    "kind": "book",
+    "text": "Well, it's a special birthday so I'll take the luxury option.",
+    "translation": "Đây là một sinh nhật đặc biệt nên tôi sẽ chọn phương án cao cấp.",
+    "source": "SB p. 177, track 06",
+    "cards": [
+      "u1-listening-a11a75e0feee"
+    ]
+  },
+  {
+    "id": "u1-ex-060",
+    "kind": "book",
+    "text": "And how would you like to pay - cash or card?",
+    "translation": "Anh/chị muốn thanh toán bằng tiền mặt hay thẻ?",
+    "source": "SB p. 177, track 06",
+    "cards": [
+      "u1-listening-d9ccceac6215"
+    ]
+  },
+  {
+    "id": "u1-ex-061",
+    "kind": "book",
+    "text": "Does she have a favourite colour?",
+    "translation": "Cô ấy có màu yêu thích không?",
+    "source": "SB p. 177, track 06",
+    "cards": [
+      "u1-listening-3bed641b6bdf"
+    ]
+  },
+  {
+    "id": "u1-ex-062",
+    "kind": "book",
+    "text": "You aren't still working on your history assignment, are you?",
+    "translation": "Bạn không còn đang làm bài tập lịch sử đấy chứ?",
+    "source": "SB p. 177, track 08",
+    "cards": [
+      "u1-listening-6e91afc15ecd"
+    ]
+  },
+  {
+    "id": "u1-ex-063",
+    "kind": "adapted",
+    "text": "I'm taking a break and looking at photos of a family celebration.",
+    "translation": "Tôi đang nghỉ giải lao và xem ảnh về một dịp ăn mừng của gia đình.",
+    "source": "SB p. 177, track 08",
+    "cards": [
+      "u1-listening-1f56f4fbb5e5",
+      "u1-listening-d99cb4f12f08"
+    ]
+  },
+  {
+    "id": "u1-ex-064",
+    "kind": "book",
+    "text": "She's my niece - my brother's daughter.",
+    "translation": "Bé là cháu gái tôi, con gái của anh trai tôi.",
+    "source": "SB p. 177, track 08",
+    "cards": [
+      "u1-listening-cbe6181036b5"
+    ]
+  },
+  {
+    "id": "u1-ex-065",
+    "kind": "adapted",
+    "text": "The first birthday celebration is more important than a wedding or a graduation.",
+    "translation": "Lễ mừng sinh nhật đầu tiên quan trọng hơn một đám cưới hay lễ tốt nghiệp.",
+    "source": "SB p. 177, track 08",
+    "cards": [
+      "u1-listening-afd1a8fffb87",
+      "u1-listening-415473a357d9"
+    ]
+  },
+  {
+    "id": "u1-ex-066",
+    "kind": "book",
+    "text": "And we invite all our family and friends and sometimes our neighbours.",
+    "translation": "Chúng tôi mời tất cả người thân, bạn bè và đôi khi cả hàng xóm.",
+    "source": "SB p. 177, track 08",
+    "cards": [
+      "u1-listening-5d8d630f9fa4"
+    ]
+  },
+  {
+    "id": "u1-ex-067",
+    "kind": "book",
+    "text": "Here's a picture of the restaurant where we celebrated Tae-Hee's big day.",
+    "translation": "Đây là ảnh nhà hàng nơi chúng tôi mừng ngày trọng đại của Tae-Hee.",
+    "source": "SB p. 177, track 08",
+    "cards": [
+      "u1-listening-e14ec61814b4"
+    ]
+  },
+  {
+    "id": "u1-ex-068",
+    "kind": "book",
+    "text": "Yes, it's a perfect location for taking photographs.",
+    "translation": "Đúng vậy, đó là một địa điểm lý tưởng để chụp ảnh.",
+    "source": "SB p. 177, track 08",
+    "cards": [
+      "u1-listening-2c0cdbdbaffb",
+      "u1-listening-6af758fa3f18"
+    ]
+  },
+  {
+    "id": "u1-ex-069",
+    "kind": "book",
+    "text": "Yes, it's a traditional hat for a girl.",
+    "translation": "Đúng, đó là chiếc mũ truyền thống dành cho bé gái.",
+    "source": "SB p. 177, track 08",
+    "cards": [
+      "u1-listening-a4ea4167933f"
+    ]
+  },
+  {
+    "id": "u1-ex-070",
+    "kind": "adapted",
+    "text": "The little purse is made of silk and means good luck in Korean culture.",
+    "translation": "Chiếc ví nhỏ được làm bằng lụa và tượng trưng cho may mắn trong văn hóa Hàn Quốc.",
+    "source": "SB p. 177, track 08",
+    "cards": [
+      "u1-listening-4566a3eca615",
+      "u1-listening-3619cc03e7e2",
+      "u1-listening-64410594d70e",
+      "u1-listening-f1947f79fdfb"
+    ]
+  },
+  {
+    "id": "u1-ex-071",
+    "kind": "book",
+    "text": "The belt means she will have a long life!",
+    "translation": "Chiếc đai tượng trưng cho việc bé sẽ sống trường thọ!",
+    "source": "SB p. 177, track 08",
+    "cards": [
+      "u1-listening-5f4f045d317c",
+      "u1-listening-2b351324dbb9"
+    ]
+  },
+  {
+    "id": "u1-ex-072",
+    "kind": "book",
+    "text": "We always eat rice cakes at a baby's party.",
+    "translation": "Chúng tôi luôn ăn bánh làm từ gạo trong tiệc của em bé.",
+    "source": "SB p. 178, track 08",
+    "cards": [
+      "u1-listening-2a1c2d6f7d85"
+    ]
+  },
+  {
+    "id": "u1-ex-073",
+    "kind": "book",
+    "text": "It looks like a rainbow!",
+    "translation": "Nó trông như một chiếc cầu vồng!",
+    "source": "SB p. 178, track 08",
+    "cards": [
+      "u1-listening-8fced00b6ce2"
+    ]
+  },
+  {
+    "id": "u1-ex-074",
+    "kind": "adapted",
+    "text": "This rice cake is orange and the other one is bright green.",
+    "translation": "Chiếc bánh gạo này màu cam còn chiếc kia màu xanh lá tươi.",
+    "source": "SB p. 178, track 08",
+    "cards": [
+      "u1-listening-64ab9b96a308"
+    ]
+  },
+  {
+    "id": "u1-ex-075",
+    "kind": "book",
+    "text": "We get on really well together.",
+    "translation": "Chúng tôi rất hòa hợp với nhau.",
+    "source": "SB p. 178, track 08",
+    "cards": [
+      "u1-listening-14a2c675a9f7"
+    ]
+  },
+  {
+    "id": "u1-ex-076",
+    "kind": "book",
+    "text": "All the guests get a gift bag at the end of the party.",
+    "translation": "Tất cả khách mời đều nhận một túi quà vào cuối bữa tiệc.",
+    "source": "SB p. 178, track 08",
+    "cards": [
+      "u1-listening-21d1f8ed9293",
+      "u1-listening-5cbb369a4985"
+    ]
+  },
+  {
+    "id": "u1-ex-077",
+    "kind": "book",
+    "text": "So it could be a candle, or some chocolates.",
+    "translation": "Vì vậy, đó có thể là một cây nến hoặc một ít sô-cô-la.",
+    "source": "SB p. 178, track 08",
+    "cards": [
+      "u1-listening-6fa599fe7b02"
+    ]
+  },
+  {
+    "id": "u1-ex-078",
+    "kind": "book",
+    "text": "But shouldn't it be the other way round - the baby gets the presents?",
+    "translation": "Nhưng chẳng phải nên ngược lại, tức là em bé nhận quà sao?",
+    "source": "SB p. 178, track 08",
+    "cards": [
+      "u1-listening-c51f8691cf60"
+    ]
+  },
+  {
+    "id": "u1-ex-079",
+    "kind": "book",
+    "text": "Well, the baby receives money from the guests, so in a way you're right!",
+    "translation": "Em bé nhận tiền từ khách mời nên xét theo một khía cạnh thì bạn nói đúng!",
+    "source": "SB p. 178, track 08",
+    "cards": [
+      "u1-listening-b193e9b4a541",
+      "u1-listening-c19dcdf3a36f"
+    ]
+  },
+  {
+    "id": "u1-ex-080",
+    "kind": "book",
+    "text": "So, why don't we open the box right now and have a cup of tea?",
+    "translation": "Vậy sao chúng ta không mở hộp ngay và uống một tách trà nhỉ?",
+    "source": "SB p. 178, track 08",
+    "cards": [
+      "u1-listening-61637c400f2b"
+    ]
+  },
+  {
+    "id": "u1-ex-081",
+    "kind": "book",
+    "text": "My father's a very good cook - he's much better than my mother.",
+    "translation": "Bố tôi nấu ăn rất giỏi, giỏi hơn mẹ tôi nhiều.",
+    "source": "SB p. 178, track 11",
+    "cards": [
+      "u1-speaking-88a1881f0025",
+      "u1-speaking-cf0622ef2a66"
+    ]
+  },
+  {
+    "id": "u1-ex-082",
+    "kind": "book",
+    "text": "My brother's getting married next year, so I'm really looking forward to having a sister-in-law!",
+    "translation": "Anh trai tôi sẽ kết hôn vào năm tới nên tôi rất mong có chị dâu!",
+    "source": "SB p. 178, track 11",
+    "cards": [
+      "u1-speaking-0b4bd77cec70",
+      "u1-speaking-c146867bb023",
+      "u1-speaking-d7cf448a3627",
+      "u1-speaking-008a8c79a69f"
+    ]
+  },
+  {
+    "id": "u1-ex-083",
+    "kind": "adapted",
+    "text": "My younger sister and I spend all of our free time together.",
+    "translation": "Em gái tôi và tôi dành toàn bộ thời gian rảnh bên nhau.",
+    "source": "SB p. 178, track 12",
+    "cards": [
+      "u1-speaking-1980d3927f07",
+      "u1-speaking-0c77453ce41a"
+    ]
+  },
+  {
+    "id": "u1-ex-084",
+    "kind": "book",
+    "text": "Sometimes our cousin comes along too.",
+    "translation": "Đôi khi anh/em họ của chúng tôi cũng đi cùng.",
+    "source": "SB p. 178, track 10",
+    "cards": [
+      "u1-speaking-42e20cbe9422"
+    ]
+  },
+  {
+    "id": "u1-ex-085",
+    "kind": "adapted",
+    "text": "My husband's father is my father-in-law.",
+    "translation": "Bố của chồng tôi là bố chồng tôi.",
+    "source": "SB p. 8, family vocabulary",
+    "cards": [
+      "u1-speaking-06a74647c5ff"
+    ]
+  },
+  {
+    "id": "u1-ex-086",
+    "kind": "adapted",
+    "text": "My grandfather's brother is my great-uncle, and my grandmother's sister is my great-aunt.",
+    "translation": "Anh/em trai của ông tôi là ông bác/ông chú của tôi, còn chị/em gái của bà tôi là bà bác/bà dì của tôi.",
+    "source": "SB p. 8, family vocabulary",
+    "cards": [
+      "u1-speaking-7ab704997359",
+      "u1-speaking-c04d87aa70a7",
+      "u1-speaking-b4e0b23386c8"
+    ]
+  },
+  {
+    "id": "u1-ex-087",
+    "kind": "book",
+    "text": "I'd love to have a niece or a little nephew to take to the park one day. Yes, I really want to be an aunt!",
+    "translation": "Tôi rất muốn một ngày nào đó có cháu gái hoặc cháu trai nhỏ để đưa đi công viên. Đúng vậy, tôi rất muốn được làm cô!",
+    "source": "SB p. 178, track 11",
+    "cards": [
+      "u1-speaking-a892fec0a7ca",
+      "u1-speaking-f1004e926e8e"
+    ]
+  },
+  {
+    "id": "u1-ex-088",
+    "kind": "book",
+    "text": "Well, my family isn't a large family. It's quite a small family, in fact - and quite a typical family for my country.",
+    "translation": "Gia đình tôi không đông người. Thực ra đó là một gia đình khá nhỏ và khá điển hình ở nước tôi.",
+    "source": "SB p. 178, track 09",
+    "cards": [
+      "u1-speaking-7e8cac5dd2f9",
+      "u1-speaking-84d5aed6a5d8",
+      "u1-speaking-9fa530f23729"
+    ]
+  },
+  {
+    "id": "u1-ex-089",
+    "kind": "book",
+    "text": "I think we're a close, happy family.",
+    "translation": "Tôi nghĩ chúng tôi là một gia đình gắn bó, hạnh phúc.",
+    "source": "SB p. 178, track 09",
+    "cards": [
+      "u1-speaking-e2a10749f6f3",
+      "u1-speaking-82a0db070e72"
+    ]
+  },
+  {
+    "id": "u1-ex-090",
+    "kind": "book",
+    "text": "So, I'm the baby of the family!",
+    "translation": "Vì thế, tôi là người nhỏ tuổi nhất nhà!",
+    "source": "SB p. 178, track 09",
+    "cards": [
+      "u1-speaking-9c2fb2e5f462"
+    ]
+  },
+  {
+    "id": "u1-ex-091",
+    "kind": "book",
+    "text": "We try to go out once a week - usually at weekends - on Saturdays or Sundays.",
+    "translation": "Chúng tôi cố gắng đi chơi mỗi tuần một lần, thường vào cuối tuần, thứ Bảy hoặc Chủ nhật.",
+    "source": "SB p. 178, track 10",
+    "cards": [
+      "u1-speaking-1fde216a9ded",
+      "u1-speaking-7920553d67a3"
+    ]
+  },
+  {
+    "id": "u1-ex-092",
+    "kind": "book",
+    "text": "We all really like being in the fresh air so we often go for a long walk along the beach.",
+    "translation": "Chúng tôi đều rất thích không khí ngoài trời nên thường đi dạo một quãng dài dọc bãi biển.",
+    "source": "SB p. 178, track 10",
+    "cards": [
+      "u1-speaking-df4fa7a45c59",
+      "u1-speaking-4c8d99c5c944"
+    ]
+  },
+  {
+    "id": "u1-ex-093",
+    "kind": "book",
+    "text": "We usually go for a long walk and sometimes have a barbecue by the lake.",
+    "translation": "Chúng tôi thường đi dạo một quãng dài và đôi khi tổ chức tiệc nướng bên hồ.",
+    "source": "SB p. 178, track 10",
+    "cards": [
+      "u1-speaking-a8151d47f24d"
+    ]
+  },
+  {
+    "id": "u1-ex-094",
+    "kind": "adapted",
+    "text": "We sometimes eat out, go bowling or go to the cinema as a family.",
+    "translation": "Gia đình chúng tôi đôi khi đi ăn ngoài, chơi bowling hoặc đi xem phim cùng nhau.",
+    "source": "SB pp. 19–21, Speaking activities",
+    "cards": [
+      "u1-speaking-a758644d47bd",
+      "u1-speaking-0ef7a506fa1a",
+      "u1-speaking-cf1cf57dcef5"
+    ]
+  },
+  {
+    "id": "u1-ex-095",
+    "kind": "book",
+    "text": "However, I think that I'm more similar to my mother in character. We're both easy-going and calm, so I think it's a mixture of both.",
+    "translation": "Tuy nhiên, tôi nghĩ mình giống mẹ hơn về tính cách. Cả hai đều dễ tính và điềm tĩnh nên tôi nghĩ mình là sự kết hợp của cả bố lẫn mẹ.",
+    "source": "SB p. 178, track 12",
+    "cards": [
+      "u1-speaking-2e7f3498f006",
+      "u1-speaking-892228d91194",
+      "u1-speaking-c806ed85bafe",
+      "u1-speaking-2b4b2eadf7b2"
+    ]
+  },
+  {
+    "id": "u1-ex-096",
+    "kind": "adapted",
+    "text": "I look like my father, and we have the same interests.",
+    "translation": "Tôi có ngoại hình giống bố và chúng tôi có cùng sở thích.",
+    "source": "SB p. 178, track 12",
+    "cards": [
+      "u1-speaking-2b3061411584",
+      "u1-speaking-833f2cda44f8"
+    ]
+  },
+  {
+    "id": "u1-ex-097",
+    "kind": "adapted",
+    "text": "My twin brother and I have different personalities.",
+    "translation": "Anh/em trai sinh đôi của tôi và tôi có tính cách khác nhau.",
+    "source": "SB pp. 21–23, Speaking",
+    "cards": [
+      "u1-speaking-aa8744a365a7",
+      "u1-speaking-9420dd77cc75"
+    ]
+  },
+  {
+    "id": "u1-ex-098",
+    "kind": "adapted",
+    "text": "My parents work long hours, so we spend time together at weekends.",
+    "translation": "Bố mẹ tôi làm việc nhiều giờ nên chúng tôi dành thời gian bên nhau vào cuối tuần.",
+    "source": "SB pp. 21–23, Speaking",
+    "cards": [
+      "u1-speaking-693149b7043f"
+    ]
+  },
+  {
+    "id": "u1-ex-099",
+    "kind": "book",
+    "text": "My mother keeps telling me to tidy my room.",
+    "translation": "Mẹ tôi cứ nhắc tôi dọn phòng.",
+    "source": "SB p. 178, track 14",
+    "cards": [
+      "u1-speaking-f960f7220e38"
+    ]
+  },
+  {
+    "id": "u1-ex-100",
+    "kind": "practice",
+    "text": "Although I'm an only child, my cousin and I have a lot in common and support each other.",
+    "translation": "Dù là con một, tôi và người anh/em họ có nhiều điểm chung và hỗ trợ lẫn nhau.",
+    "source": "SB pp. 19–23 / TB pp. 17–19",
+    "cards": [
+      "u1-speaking-eccbee98917a",
+      "u1-speaking-2a425930eed9",
+      "u1-speaking-aa9ce0b0945d"
+    ]
+  },
+  {
+    "id": "u1-ex-101",
+    "kind": "practice",
+    "text": "I come from a close-knit family of four.",
+    "translation": "Tôi xuất thân từ một gia đình bốn người rất gắn bó.",
+    "source": "SB pp. 19–23, Speaking extension",
+    "cards": [
+      "u1-speaking-a7804399bf4b",
+      "u1-speaking-a58e5220f7ad"
+    ]
+  },
+  {
+    "id": "u1-ex-102",
+    "kind": "practice",
+    "text": "I take after my mother because we are both calm and patient.",
+    "translation": "Tôi giống mẹ vì cả hai đều điềm tĩnh và kiên nhẫn.",
+    "source": "SB pp. 19–23 / TB pp. 17–19",
+    "cards": [
+      "u1-speaking-d4e2c04ee54e"
+    ]
+  },
+  {
+    "id": "u1-ex-103",
+    "kind": "practice",
+    "text": "We share household chores and spend quality time with one another.",
+    "translation": "Chúng tôi chia sẻ việc nhà và dành thời gian trọn vẹn, ý nghĩa bên nhau.",
+    "source": "SB pp. 19–23 / TB pp. 17–19",
+    "cards": [
+      "u1-speaking-f6b521b841c2",
+      "u1-speaking-9d0672c23a46"
+    ]
+  },
+  {
+    "id": "u1-ex-104",
+    "kind": "practice",
+    "text": "I turn to my grandfather for advice when I have a problem.",
+    "translation": "Tôi tìm đến ông để xin lời khuyên khi gặp vấn đề.",
+    "source": "SB pp. 19–23 / TB pp. 17–19",
+    "cards": [
+      "u1-speaking-148c6f128c02"
+    ]
+  },
+  {
+    "id": "u1-ex-105",
+    "kind": "practice",
+    "text": "I'm closest to my sister because she always listens to me.",
+    "translation": "Tôi thân nhất với chị/em gái vì cô ấy luôn lắng nghe tôi.",
+    "source": "SB pp. 19–23 / TB pp. 17–19",
+    "cards": [
+      "u1-speaking-a327e32349da"
+    ]
+  },
+  {
+    "id": "u1-ex-106",
+    "kind": "practice",
+    "text": "We usually cook together, especially at weekends.",
+    "translation": "Chúng tôi thường nấu ăn cùng nhau, nhất là vào cuối tuần.",
+    "source": "SB pp. 19–23 / TB pp. 17–19",
+    "cards": [
+      "u1-speaking-de39df5f9861"
+    ]
+  },
+  {
+    "id": "u1-ex-107",
+    "kind": "practice",
+    "text": "Although we have different personalities, we get on well.",
+    "translation": "Mặc dù có tính cách khác nhau, chúng tôi rất hòa hợp.",
+    "source": "SB pp. 19–23 / TB pp. 17–19",
+    "cards": [
+      "u1-speaking-3b02f69320dc"
+    ]
+  },
+  {
+    "id": "u1-ex-108",
+    "kind": "practice",
+    "text": "I'd like to spend more time with my grandparents.",
+    "translation": "Tôi muốn dành nhiều thời gian hơn bên ông bà.",
+    "source": "SB pp. 19–23 / TB pp. 17–19",
+    "cards": [
+      "u1-speaking-be2d7a18f783"
+    ]
+  },
+  {
+    "id": "u1-ex-109",
+    "kind": "adapted",
+    "text": "To describe a process, explain the stages in the production of a product.",
+    "translation": "Để mô tả một quy trình, hãy giải thích các giai đoạn sản xuất một sản phẩm.",
+    "source": "SB pp. 12–14, Writing",
+    "cards": [
+      "u1-writing-7bf68f7c991b",
+      "u1-writing-2d669b70f63c"
+    ]
+  },
+  {
+    "id": "u1-ex-110",
+    "kind": "adapted",
+    "text": "First, the dry rice is put into a rice grinder to make flour for stringhoppers.",
+    "translation": "Đầu tiên, gạo khô được cho vào máy xay để làm bột cho món stringhopper.",
+    "source": "SB p. 14, Writing model",
+    "cards": [
+      "u1-writing-8aa9f1c895ec",
+      "u1-writing-ef45f68baf57"
+    ]
+  },
+  {
+    "id": "u1-ex-111",
+    "kind": "book",
+    "text": "After that, the dough is put into a stringhopper press, which is a metal piece of equipment with two handles and holes in it.",
+    "translation": "Sau đó, bột nhào được cho vào dụng cụ ép stringhopper, một thiết bị kim loại có hai tay cầm và các lỗ.",
+    "source": "SB p. 14, Writing model",
+    "cards": [
+      "u1-writing-aadaec9eb608",
+      "u1-writing-28945843f858",
+      "u1-writing-539822cd7b4b",
+      "u1-writing-03ecab669ba2"
+    ]
+  },
+  {
+    "id": "u1-ex-112",
+    "kind": "book",
+    "text": "The noodle 'nests' are placed onto individual stringhopper mats, which are round baskets made of thin pieces of wood.",
+    "translation": "Các vắt mì được đặt lên từng vỉ stringhopper, là những chiếc rổ tròn làm từ các thanh gỗ mỏng.",
+    "source": "SB p. 14, Writing model",
+    "cards": [
+      "u1-writing-709385947c2c",
+      "u1-writing-99f7855eb789",
+      "u1-writing-a97b0931730e",
+      "u1-writing-6ede0d3cf702"
+    ]
+  },
+  {
+    "id": "u1-ex-113",
+    "kind": "book",
+    "text": "It is a metal machine with a wide base and a narrow tray on top.",
+    "translation": "Đó là một chiếc máy kim loại có đế rộng và khay hẹp phía trên.",
+    "source": "SB p. 12, equipment descriptions",
+    "cards": [
+      "u1-writing-cae662172fd4",
+      "u1-writing-ad9a0cab12ee"
+    ]
+  },
+  {
+    "id": "u1-ex-114",
+    "kind": "book",
+    "text": "It is made of a light material such as plastic.",
+    "translation": "Nó được làm bằng một vật liệu nhẹ như nhựa.",
+    "source": "SB p. 12, equipment descriptions",
+    "cards": [
+      "u1-writing-72f7c894ad6c"
+    ]
+  },
+  {
+    "id": "u1-ex-115",
+    "kind": "adapted",
+    "text": "Some descriptions mention triangular pieces of cloth.",
+    "translation": "Một số phần mô tả đề cập đến các mảnh vải hình tam giác.",
+    "source": "SB pp. 12–13, equipment and shapes",
+    "cards": [
+      "u1-writing-d6e28ffb3b19",
+      "u1-writing-d2cceeb85084"
+    ]
+  },
+  {
+    "id": "u1-ex-116",
+    "kind": "book",
+    "text": "It is square in shape and made of wood.",
+    "translation": "Nó có hình vuông và được làm bằng gỗ.",
+    "source": "SB p. 12, equipment descriptions",
+    "cards": [
+      "u1-writing-4ba3e8e3765f"
+    ]
+  },
+  {
+    "id": "u1-ex-117",
+    "kind": "book",
+    "text": "These are thick pieces of wood with rectangular holes in them.",
+    "translation": "Đây là những miếng gỗ dày có các lỗ hình chữ nhật.",
+    "source": "SB p. 12, equipment descriptions",
+    "cards": [
+      "u1-writing-d3de705eef33"
+    ]
+  },
+  {
+    "id": "u1-ex-118",
+    "kind": "book",
+    "text": "The wood is in a criss-cross pattern to form large holes.",
+    "translation": "Gỗ được đan chéo để tạo thành những lỗ lớn.",
+    "source": "SB p. 12, equipment descriptions",
+    "cards": [
+      "u1-writing-e1e70aac436d"
+    ]
+  },
+  {
+    "id": "u1-ex-119",
+    "kind": "adapted",
+    "text": "Put the rice into the grinder and grind it into flour.",
+    "translation": "Cho gạo vào máy xay và xay thành bột.",
+    "source": "SB p. 13, instructions",
+    "cards": [
+      "u1-writing-ea452d0a0d46"
+    ]
+  },
+  {
+    "id": "u1-ex-120",
+    "kind": "adapted",
+    "text": "The flour is mixed with water to form a dough.",
+    "translation": "Bột được trộn với nước để tạo thành khối bột nhào.",
+    "source": "SB p. 14, Writing model",
+    "cards": [
+      "u1-writing-c9c45f59df3a",
+      "u1-writing-09fdaf04d57d"
+    ]
+  },
+  {
+    "id": "u1-ex-121",
+    "kind": "book",
+    "text": "The dough is pushed through the holes and it comes out as thin noodles.",
+    "translation": "Bột nhào được ép qua các lỗ và đi ra thành những sợi mì mảnh.",
+    "source": "SB p. 14, Writing model",
+    "cards": [
+      "u1-writing-9e7cb743d067"
+    ]
+  },
+  {
+    "id": "u1-ex-122",
+    "kind": "adapted",
+    "text": "The noodles are placed onto mats and cooked in a steamer.",
+    "translation": "Mì được đặt lên các vỉ rồi nấu trong nồi hấp.",
+    "source": "SB p. 14, Writing model",
+    "cards": [
+      "u1-writing-8bc372ea7755",
+      "u1-writing-8b39349fc323"
+    ]
+  },
+  {
+    "id": "u1-ex-123",
+    "kind": "book",
+    "text": "The final stage is to serve the stringhoppers with a variety of spicy curries.",
+    "translation": "Giai đoạn cuối là dọn stringhopper cùng nhiều loại cà ri cay.",
+    "source": "SB p. 14, Writing model",
+    "cards": [
+      "u1-writing-ebc3c0c0c6c8",
+      "u1-writing-18aa66e73fb8"
+    ]
+  },
+  {
+    "id": "u1-ex-124",
+    "kind": "adapted",
+    "text": "The quality of the cherry jam is checked before it is packed.",
+    "translation": "Chất lượng mứt anh đào được kiểm tra trước khi đóng gói.",
+    "source": "SB p. 15, cherry-jam process",
+    "cards": [
+      "u1-writing-924ae389c4b9",
+      "u1-writing-f3fa50135c63"
+    ]
+  },
+  {
+    "id": "u1-ex-125",
+    "kind": "adapted",
+    "text": "A sheet is spread under the tree, and a mechanical arm shakes the branches.",
+    "translation": "Một tấm bạt được trải dưới cây và một cánh tay cơ khí rung các cành cây.",
+    "source": "SB p. 15, diagram",
+    "cards": [
+      "u1-writing-63c84467ab84",
+      "u1-writing-15d145198922"
+    ]
+  },
+  {
+    "id": "u1-ex-126",
+    "kind": "adapted",
+    "text": "The cherries are transported by lorry to the processing plant.",
+    "translation": "Anh đào được vận chuyển bằng xe tải đến nhà máy chế biến.",
+    "source": "SB p. 15, diagram",
+    "cards": [
+      "u1-writing-f971909dbbdf",
+      "u1-writing-d798542511c8"
+    ]
+  },
+  {
+    "id": "u1-ex-127",
+    "kind": "adapted",
+    "text": "The leaves and stems are removed, and the stones are taken out with a metal spike.",
+    "translation": "Lá và cuống được loại bỏ, còn hạt được lấy ra bằng một que kim loại nhọn.",
+    "source": "SB p. 15, diagram",
+    "cards": [
+      "u1-writing-8bbc62a44d31",
+      "u1-writing-6fa53e6cf4c3",
+      "u1-writing-0c97851bc3e3"
+    ]
+  },
+  {
+    "id": "u1-ex-128",
+    "kind": "adapted",
+    "text": "Ingredients such as lemon juice and pectin are added to the cherries.",
+    "translation": "Các nguyên liệu như nước cốt chanh và pectin được thêm vào anh đào.",
+    "source": "SB p. 15, diagram",
+    "cards": [
+      "u1-writing-c86ad24e7e03",
+      "u1-writing-a0d92592fbf2",
+      "u1-writing-8de9cbf9d3d5"
+    ]
+  },
+  {
+    "id": "u1-ex-129",
+    "kind": "adapted",
+    "text": "The jam is put into jars, and a lid is put on each jar to keep the jam fresh.",
+    "translation": "Mứt được cho vào lọ và mỗi lọ được đậy nắp để giữ mứt tươi ngon.",
+    "source": "SB p. 15, diagram",
+    "cards": [
+      "u1-writing-7cc7cc788e3f",
+      "u1-writing-13955016102b",
+      "u1-writing-76f520fee425"
+    ]
+  },
+  {
+    "id": "u1-ex-130",
+    "kind": "adapted",
+    "text": "A label is added to each jar, and the jam is ready to be sold.",
+    "translation": "Mỗi lọ được gắn nhãn và mứt đã sẵn sàng để bán.",
+    "source": "SB p. 15, diagram",
+    "cards": [
+      "u1-writing-b0e9de86a171",
+      "u1-writing-a35f7f1dbf05"
+    ]
+  },
+  {
+    "id": "u1-ex-131",
+    "kind": "practice",
+    "text": "The fruit undergoes several stages: first it is washed; next it is cooked. After that, cooking is followed by a quality check. At the next stage, the jam is put into jars; finally, the jars are labelled.",
+    "translation": "Trái cây trải qua nhiều giai đoạn: đầu tiên được rửa, tiếp theo được nấu. Sau đó là bước kiểm tra chất lượng. Ở giai đoạn kế tiếp, mứt được cho vào lọ; cuối cùng, các lọ được dán nhãn.",
+    "source": "SB pp. 12–15, Writing extension",
+    "cards": [
+      "u1-writing-09be80c078d2",
+      "u1-writing-56555de77f55",
+      "u1-writing-dade3268333e",
+      "u1-writing-9a82f999d274",
+      "u1-writing-09c157f9abe4"
+    ]
+  },
+  {
+    "id": "u1-ex-132",
+    "kind": "practice",
+    "text": "The diagram illustrates how cherry jam is produced.",
+    "translation": "Sơ đồ minh họa cách sản xuất mứt anh đào.",
+    "source": "SB pp. 12–15 / TB pp. 13–15",
+    "cards": [
+      "u1-writing-bbfd7929b9ed"
+    ]
+  },
+  {
+    "id": "u1-ex-133",
+    "kind": "practice",
+    "text": "Overall, the process consists of nine main stages.",
+    "translation": "Nhìn chung, quy trình gồm chín giai đoạn chính.",
+    "source": "SB pp. 12–15 / TB pp. 13–15",
+    "cards": [
+      "u1-writing-38cdf8972606"
+    ]
+  },
+  {
+    "id": "u1-ex-134",
+    "kind": "practice",
+    "text": "The process begins with collecting fruit and ends with labelling jars.",
+    "translation": "Quy trình bắt đầu bằng việc thu hái trái cây và kết thúc bằng việc dán nhãn lọ.",
+    "source": "SB pp. 12–15 / TB pp. 13–15",
+    "cards": [
+      "u1-writing-77ea1f3b6b1b"
+    ]
+  },
+  {
+    "id": "u1-ex-135",
+    "kind": "practice",
+    "text": "The fruit is washed before it is cooked.",
+    "translation": "Trái cây được rửa trước khi nấu.",
+    "source": "SB pp. 12–15 / TB pp. 13–15",
+    "cards": [
+      "u1-writing-0831384b7b04"
+    ]
+  },
+  {
+    "id": "u1-ex-136",
+    "kind": "practice",
+    "text": "Once the jam has been cooked, it is poured into jars.",
+    "translation": "Sau khi mứt đã được nấu, nó được rót vào lọ.",
+    "source": "SB pp. 12–15 / TB pp. 13–15",
+    "cards": [
+      "u1-writing-7fea99128a3f"
+    ]
+  },
+  {
+    "id": "u1-ex-137",
+    "kind": "practice",
+    "text": "Before being sold, the jam is checked for quality.",
+    "translation": "Trước khi được bán, mứt được kiểm tra chất lượng.",
+    "source": "SB pp. 12–15 / TB pp. 13–15",
+    "cards": [
+      "u1-writing-bd8c13d05aba"
+    ]
+  },
+  {
+    "id": "u1-ex-138",
+    "kind": "adapted",
+    "text": "My uncle is my mother's brother.",
+    "translation": "Cậu tôi là anh hoặc em trai của mẹ tôi.",
+    "source": "SB p. 8, family vocabulary",
+    "cards": [
+      "u1-speaking-3107ea0301a2"
+    ]
+  }
+]

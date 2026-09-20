@@ -1,5 +1,5 @@
-import { unitsRegistry } from "./data/units.js?v=20260919-2";
-import { posLabels } from "./data/parts-of-speech.js?v=20260919-2";
+import { unitsRegistry } from "./data/units.js?v=20260920-1";
+import { posLabels } from "./data/parts-of-speech.js?v=20260920-1";
 
 const $ = (selector) => document.querySelector(selector);
 const PAGE_SIZE = 12;
@@ -68,7 +68,7 @@ function filteredWords() {
   if (state.status !== "all") words = words.filter((word) => state.learned.has(word.id) === (state.status === "learned"));
   const terms = searchKey(state.query).split(/\s+/).filter(Boolean);
   if (terms.length) words = words.filter((word) => {
-    const haystack = searchKey([word.word, word.meaning, word.example || "", word.groupTitle].join(" "));
+    const haystack = searchKey([word.word, word.meaning, word.example || "", word.exampleTranslation || "", word.groupTitle].join(" "));
     return terms.every((term) => haystack.includes(term));
   });
   if (state.shuffled) words.sort((a, b) => state.shuffled.get(a.id) - state.shuffled.get(b.id));
@@ -85,6 +85,13 @@ function updateProgress() {
   $("#skill-progress").textContent = `${words.filter((word) => state.learned.has(word.id)).length} / ${words.length} đã nhớ`;
 }
 
+const skillIcons = {
+  reading: '<path d="M12 6v14m0-14C8 3 4 4 2 5v14c3-2 7-2 10 1 3-3 7-3 10-1V5c-2-1-6-2-10 1Z"/>',
+  listening: '<path d="M4 14v-3a8 8 0 0 1 16 0v3"/><rect x="2" y="12" width="5" height="9" rx="2"/><rect x="17" y="12" width="5" height="9" rx="2"/>',
+  speaking: '<path d="M21 11a8 8 0 0 1-8 8H7l-5 3 2-6a8 8 0 1 1 17-5Z"/><path d="M8 10h8m-8 4h5"/>',
+  writing: '<path d="m15 4 5 5M4 20l5-1L21 7a2 2 0 0 0-5-5L4 14v6Z"/>'
+};
+function skillIcon(skill) { return `<svg class="skill-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${skillIcons[skill]}</svg>`; }
 const speakerIcon = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M11 5 6 9H3v6h3l5 4V5Z"/><path d="M15 8a6 6 0 0 1 0 8m3-11a10 10 0 0 1 0 14"/></svg>';
 
 function cardHTML(word) {
@@ -92,17 +99,16 @@ function cardHTML(word) {
   const flipped = state.flipped.has(word.id);
   const english = `<span class="term" lang="en">${escapeHTML(word.word)}</span>${word.ipa ? `<span class="ipa" lang="en">${escapeHTML(word.ipa)}</span>` : ""}`;
   const vietnamese = `<span class="meaning" lang="vi">${escapeHTML(word.meaning)}</span>`;
-  const example = word.example ? `<span class="example"><span class="example-label">Ví dụ luyện tập</span><span lang="en">${escapeHTML(word.example)}</span></span>${word.exampleTranslation ? `<span class="example-translation">${escapeHTML(word.exampleTranslation)}</span>` : ""}` : "";
+  const example = word.example ? `<span class="example"><span class="example-label">Ví dụ</span><span lang="en">${escapeHTML(word.example)}</span></span>${word.exampleTranslation ? `<span class="example-translation" lang="vi">${escapeHTML(word.exampleTranslation)}</span>` : ""}` : "";
   const primary = state.direction === "en" ? word.word : word.meaning;
-  const originNote = word.origin === "extension" ? "Bổ sung để luyện tập theo chủ đề và mục tiêu bài học." : word.origin === "transcript" ? "Từ transcript; một số cụm được chuẩn hóa về dạng cơ bản để học." : word.origin === "passage" ? "Từ bài đọc; một số cụm được chuẩn hóa về dạng cơ bản để học." : "Ngôn ngữ trong bài học và mẫu trả lời; cụm có thể được chuẩn hóa để học.";
+
   return `<article class="vocab-card${learned ? " is-learned" : ""}" data-card="${word.id}">
     <div class="card-meta"><span class="card-topic" lang="en" title="${escapeHTML(word.groupTitle)}">${escapeHTML(word.groupTitle)}</span><span class="card-pos" title="Loại từ: ${posLabels[word.pos]} · ${labels[word.type]}">${posLabels[word.pos]}</span></div>
     <button class="flip${flipped ? " is-flipped" : ""}" type="button" data-action="flip" data-id="${word.id}" aria-pressed="${flipped}" aria-label="Lật thẻ: ${escapeHTML(primary)}">
       <span class="face front" aria-hidden="${flipped}">${state.direction === "en" ? english : vietnamese}<span class="flip-hint">Nhấn để xem ${state.direction === "en" ? "nghĩa" : "từ tiếng Anh"}</span></span>
-      <span class="face back" aria-hidden="${!flipped}">${state.direction === "en" ? vietnamese : english}${example}${word.origin === "extension" ? '<span class="extension-tag">Bổ sung luyện tập</span>' : ""}<span class="flip-hint">Nhấn để lật lại</span></span>
+      <span class="face back" aria-hidden="${!flipped}">${state.direction === "en" ? vietnamese : english}${example}<span class="flip-hint">Nhấn để lật lại</span></span>
     </button>
     <div class="card-actions"><button class="audio-button" type="button" data-action="speak" data-id="${word.id}">${speakerIcon}${word.type === "structure" && word.example ? "Nghe ví dụ" : "Nghe"}</button><button class="learn-button" type="button" data-action="learn" data-id="${word.id}" aria-pressed="${learned}">${learned ? "✓ Đã nhớ" : "+ Đánh dấu đã nhớ"}</button></div>
-    <details class="card-source"><summary>Nguồn${word.origin === "extension" ? " · Bổ sung" : ""}</summary><p>${escapeHTML(word.source)}</p><p>${originNote}</p></details>
   </article>`;
 }
 
@@ -133,7 +139,7 @@ function showSection() {
   $("#unit-select").value = state.unit.id;
   $("#unit-number").textContent = `Unit ${String(state.unit.number).padStart(2, "0")}`;
   $("#unit-title").textContent = state.unit.title;
-  $("#skill-tabs").innerHTML = state.unit.sections.map((section) => `<button class="skill-tab" type="button" data-skill="${section.id}" aria-current="${section.id === state.skill}">${section.label}<small>${sectionWords(section).length}</small></button>`).join("");
+  $("#skill-tabs").innerHTML = state.unit.sections.map((section) => `<button class="skill-tab" type="button" data-skill="${section.id}" aria-current="${section.id === state.skill}">${skillIcon(section.id)}${section.label}<small>${sectionWords(section).length}</small></button>`).join("");
   const section = currentSection();
   $("#skill-description").textContent = section.description;
   $("#group-select").innerHTML = '<option value="all">Tất cả nội dung</option>' + section.groups.map((group) => `<option value="${group.id}">${escapeHTML(group.title)} (${group.words.length})${group.origin === "extension" ? " · Bổ sung" : ""}</option>`).join("");

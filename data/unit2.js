@@ -20,51 +20,90 @@ export default {
               "meaning": "nhà thuyền",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ˈhaʊsbəʊt/",
-              "example": "They live on a houseboat on the river.",
-              "exampleTranslation": "Họ sống trên một chiếc thuyền nhà trên sông."
+              "ipa": "/ˈhaʊsˌboʊt/",
+              "example": "People who live on houseboats enjoy being close to nature.",
+              "exampleTranslation": "Những người sống trên nhà thuyền thích được gần gũi với thiên nhiên.",
+              "exampleKind": "book",
+              "exampleSource": "SB pp. 26–28, Reading",
+              "exampleId": "u2-ex-001"
             },
             {
               "id": "u2-reading-fbb690f9cbc8",
               "word": "guest house",
               "meaning": "nhà khách; nhà nghỉ nhỏ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ɡest haʊs/",
+              "example": "The houseboat can be used as a guest house with a terrace on the roof.",
+              "exampleTranslation": "Nhà thuyền có thể được dùng làm nhà khách với sân hiên trên mái.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-002"
             },
             {
               "id": "u2-reading-923a238ba423",
               "word": "terrace on the roof",
               "meaning": "sân hiên trên mái",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈterəs ɑːn ðə ruːf/",
+              "example": "The houseboat can be used as a guest house with a terrace on the roof.",
+              "exampleTranslation": "Nhà thuyền có thể được dùng làm nhà khách với sân hiên trên mái.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-002"
             },
             {
               "id": "u2-reading-82103cc59e8c",
               "word": "close to nature",
               "meaning": "gần gũi với thiên nhiên",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/kloʊs tə ˈneɪtʃər/",
+              "example": "People who live on houseboats enjoy being close to nature.",
+              "exampleTranslation": "Những người sống trên nhà thuyền thích được gần gũi với thiên nhiên.",
+              "exampleKind": "book",
+              "exampleSource": "SB pp. 26–28, Reading",
+              "exampleId": "u2-ex-001"
             },
             {
               "id": "u2-reading-f5d48a058c48",
               "word": "permanently",
               "meaning": "lâu dài; thường xuyên",
               "type": "word",
-              "pos": "adverb"
+              "pos": "adverb",
+              "ipa": "/ˈpɜːrmənəntli/",
+              "example": "Not all houseboats are permanently fixed in one place.",
+              "exampleTranslation": "Không phải mọi nhà thuyền đều được cố định lâu dài ở một chỗ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 27, Reading",
+              "exampleId": "u2-ex-003"
             },
             {
               "id": "u2-reading-40cc0f5b8c9a",
               "word": "see-through house",
               "meaning": "ngôi nhà trong suốt",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/si θruː haʊs/",
+              "example": "The see-through house has walls of glass.",
+              "exampleTranslation": "Ngôi nhà trong suốt có các bức tường bằng kính.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-004"
             },
             {
               "id": "u2-reading-fae1fc5dbb91",
               "word": "walls of glass",
               "meaning": "những bức tường bằng kính",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/wɔːlz əv ɡlæs/",
+              "example": "The see-through house has walls of glass.",
+              "exampleTranslation": "Ngôi nhà trong suốt có các bức tường bằng kính.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-004"
             },
             {
               "id": "u2-reading-c8ccaa438365",
@@ -72,163 +111,298 @@ export default {
               "meaning": "ánh sáng ban ngày",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ˈdeɪlaɪt/",
-              "example": "The room was filled with daylight.",
-              "exampleTranslation": "Căn phòng tràn ngập ánh sáng ban ngày."
+              "ipa": "/ˈdeɪˌlaɪt/",
+              "example": "There is plenty of daylight but no privacy.",
+              "exampleTranslation": "Có nhiều ánh sáng ban ngày nhưng không có sự riêng tư.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-005"
             },
             {
               "id": "u2-reading-a4cc6bc01a92",
               "word": "privacy",
               "meaning": "sự riêng tư",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈpraɪvəsi/",
+              "example": "There is plenty of daylight but no privacy.",
+              "exampleTranslation": "Có nhiều ánh sáng ban ngày nhưng không có sự riêng tư.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-005"
             },
             {
               "id": "u2-reading-f2e40fc1edb7",
               "word": "architect",
               "meaning": "kiến trúc sư",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈɑːrkəˌtekt/",
+              "example": "Architect Sou Fujimoto designed it for a couple to make their home.",
+              "exampleTranslation": "Kiến trúc sư Sou Fujimoto thiết kế ngôi nhà để một cặp đôi sinh sống.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-006"
             },
             {
               "id": "u2-reading-6c6a1de7abaa",
               "word": "based on",
               "meaning": "dựa trên",
               "type": "phrase",
-              "pos": "participle_phrase"
+              "pos": "participle_phrase",
+              "ipa": "/beɪst ɑːn/",
+              "example": "He based his ideas on early man living in trees.",
+              "exampleTranslation": "Ông lấy ý tưởng từ con người thời nguyên thủy sống trên cây.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-007"
             },
             {
               "id": "u2-reading-33ed0a4e454c",
               "word": "early man",
               "meaning": "con người thời nguyên thủy",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ɜːrli mæn/",
+              "example": "He based his ideas on early man living in trees.",
+              "exampleTranslation": "Ông lấy ý tưởng từ con người thời nguyên thủy sống trên cây.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-007"
             },
             {
               "id": "u2-reading-474ab03b6375",
               "word": "suit everyone",
               "meaning": "phù hợp với tất cả mọi người",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/suːt ˈevriːˌwʌn/",
+              "example": "It wouldn't suit everyone but the couple who live there love the feeling of being surrounded by the natural world.",
+              "exampleTranslation": "Ngôi nhà không phù hợp với tất cả mọi người, nhưng cặp đôi sống ở đó thích cảm giác được thế giới tự nhiên bao quanh.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-008"
             },
             {
               "id": "u2-reading-32fc2a288d1a",
               "word": "surrounded by",
               "meaning": "được bao quanh bởi",
               "type": "phrase",
-              "pos": "participle_phrase"
+              "pos": "participle_phrase",
+              "ipa": "/sərˈaʊndɪd baɪ/",
+              "example": "It wouldn't suit everyone but the couple who live there love the feeling of being surrounded by the natural world.",
+              "exampleTranslation": "Ngôi nhà không phù hợp với tất cả mọi người, nhưng cặp đôi sống ở đó thích cảm giác được thế giới tự nhiên bao quanh.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-008"
             },
             {
               "id": "u2-reading-b1066f4ef907",
               "word": "natural world",
               "meaning": "thế giới tự nhiên",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈnætʃərəl wɜːrld/",
+              "example": "It wouldn't suit everyone but the couple who live there love the feeling of being surrounded by the natural world.",
+              "exampleTranslation": "Ngôi nhà không phù hợp với tất cả mọi người, nhưng cặp đôi sống ở đó thích cảm giác được thế giới tự nhiên bao quanh.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-008"
             },
             {
               "id": "u2-reading-52c87103ecb0",
               "word": "shipping containers",
               "meaning": "công-ten-nơ vận chuyển hàng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈʃɪpɪŋ kənˈteɪnərz/",
+              "example": "Some homes are made from several shipping containers joined together.",
+              "exampleTranslation": "Một số ngôi nhà được làm từ nhiều công-ten-nơ vận chuyển hàng ghép lại với nhau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-009"
             },
             {
               "id": "u2-reading-ece4f9db54ba",
               "word": "joined together",
               "meaning": "được ghép lại với nhau",
               "type": "phrase",
-              "pos": "participle_phrase"
+              "pos": "participle_phrase",
+              "ipa": "/dʒɔɪnd təˈɡeðər/",
+              "example": "Some homes are made from several shipping containers joined together.",
+              "exampleTranslation": "Một số ngôi nhà được làm từ nhiều công-ten-nơ vận chuyển hàng ghép lại với nhau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-009"
             },
             {
               "id": "u2-reading-ff24452a476f",
               "word": "eco-friendly",
               "meaning": "thân thiện với môi trường",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˈekoʊ frendli/",
+              "example": "They are cheap to buy and eco-friendly.",
+              "exampleTranslation": "Chúng có giá mua rẻ và thân thiện với môi trường.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-010"
             },
             {
               "id": "u2-reading-9fef817ee638",
               "word": "guest rooms",
               "meaning": "phòng dành cho khách",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ɡest ruːmz/",
+              "example": "They can also be placed in the garden or drive as guest rooms, studies or utility rooms.",
+              "exampleTranslation": "Chúng cũng có thể được đặt trong vườn hoặc lối xe vào nhà để làm phòng khách, phòng học hay phòng giặt và thiết bị.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-011"
             },
             {
               "id": "u2-reading-c3eb92ab239c",
               "word": "utility rooms",
               "meaning": "phòng giặt và chứa thiết bị gia dụng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/juːˈtɪləti ruːmz/",
+              "example": "They can also be placed in the garden or drive as guest rooms, studies or utility rooms.",
+              "exampleTranslation": "Chúng cũng có thể được đặt trong vườn hoặc lối xe vào nhà để làm phòng khách, phòng học hay phòng giặt và thiết bị.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-011"
             },
             {
               "id": "u2-reading-7062520c5a0e",
               "word": "drive",
               "meaning": "lối xe vào nhà",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/draɪv/",
+              "example": "They can also be placed in the garden or drive as guest rooms, studies or utility rooms.",
+              "exampleTranslation": "Chúng cũng có thể được đặt trong vườn hoặc lối xe vào nhà để làm phòng khách, phòng học hay phòng giặt và thiết bị.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-011"
             },
             {
               "id": "u2-reading-f0c913ecf113",
               "word": "refugee",
               "meaning": "người tị nạn",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈrefjuːdʒi/",
+              "example": "A refugee from Laos built the tiny house to draw attention to the world housing shortage.",
+              "exampleTranslation": "Một người tị nạn từ Lào xây ngôi nhà tí hon để thu hút sự chú ý đến tình trạng thiếu nhà ở trên thế giới.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-012"
             },
             {
               "id": "u2-reading-007489659b5c",
               "word": "draw attention to",
               "meaning": "thu hút sự chú ý đến",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/drɔː əˈtenʃən tə/",
+              "example": "A refugee from Laos built the tiny house to draw attention to the world housing shortage.",
+              "exampleTranslation": "Một người tị nạn từ Lào xây ngôi nhà tí hon để thu hút sự chú ý đến tình trạng thiếu nhà ở trên thế giới.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-012"
             },
             {
               "id": "u2-reading-a2f6728145ad",
               "word": "housing shortage",
               "meaning": "tình trạng thiếu nhà ở",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈhaʊzɪŋ ˈʃɔːrtədʒ/",
+              "example": "A refugee from Laos built the tiny house to draw attention to the world housing shortage.",
+              "exampleTranslation": "Một người tị nạn từ Lào xây ngôi nhà tí hon để thu hút sự chú ý đến tình trạng thiếu nhà ở trên thế giới.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-012"
             },
             {
               "id": "u2-reading-b16acf283c7f",
               "word": "wooden structure",
               "meaning": "kết cấu bằng gỗ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈwʊdən ˈstrʌktʃər/",
+              "example": "It is a wooden structure on wheels and weighs 40 kg.",
+              "exampleTranslation": "Đó là một kết cấu bằng gỗ có bánh xe và nặng 40 kg.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-013"
             },
             {
               "id": "u2-reading-cacee0a6d869",
               "word": "on wheels",
               "meaning": "có bánh xe",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn hwiːlz/",
+              "example": "It is a wooden structure on wheels and weighs 40 kg.",
+              "exampleTranslation": "Đó là một kết cấu bằng gỗ có bánh xe và nặng 40 kg.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-013"
             },
             {
               "id": "u2-reading-b17766435463",
               "word": "locking door",
               "meaning": "cửa có khóa",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈlɑːkɪŋ dɔːr/",
+              "example": "It has a locking door and a window.",
+              "exampleTranslation": "Nó có một cửa ra vào có khóa và một cửa sổ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-014"
             },
             {
               "id": "u2-reading-465009f2011b",
               "word": "turn it onto its side",
               "meaning": "xoay nó nằm nghiêng sang một bên",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/tɜːrn ɪt ˈɑːntuː ɪts saɪd/",
+              "example": "You can turn it onto its side when you want to lie down.",
+              "exampleTranslation": "Bạn có thể xoay nó nằm nghiêng sang một bên khi muốn nằm xuống.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-015"
             },
             {
               "id": "u2-reading-f192af72ba02",
               "word": "lie down",
               "meaning": "nằm xuống",
               "type": "phrase",
-              "pos": "phrasal_verb"
+              "pos": "phrasal_verb",
+              "ipa": "/laɪ daʊn/",
+              "example": "You can turn it onto its side when you want to lie down.",
+              "exampleTranslation": "Bạn có thể xoay nó nằm nghiêng sang một bên khi muốn nằm xuống.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-015"
             },
             {
               "id": "u2-reading-7b617aac7d2b",
               "word": "uncomfortable",
               "meaning": "không thoải mái",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ənˈkʌmfərtəbəl/",
+              "example": "He found it a bit uncomfortable!",
+              "exampleTranslation": "Anh ấy thấy hơi không thoải mái!",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-016"
             },
             {
               "id": "u2-reading-01b1539b30a2",
@@ -237,50 +411,89 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/ˈɪɡluː/",
-              "example": "An igloo is a shelter made from blocks of snow.",
-              "exampleTranslation": "Nhà tuyết là nơi trú ẩn được làm từ các khối tuyết."
+              "example": "For an unusual holiday you can stay in an igloo, a house made of ice.",
+              "exampleTranslation": "Để có kỳ nghỉ khác lạ, bạn có thể ở trong một căn nhà tuyết làm bằng băng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-017"
             },
             {
               "id": "u2-reading-1b7bd77ef9b3",
               "word": "reindeer skins",
               "meaning": "da tuần lộc",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈreɪnˌdɪr skɪnz/",
+              "example": "We used reindeer skins to keep warm!",
+              "exampleTranslation": "Chúng tôi dùng da tuần lộc để giữ ấm!",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-018"
             },
             {
               "id": "u2-reading-20dd33a39f84",
               "word": "keep warm",
               "meaning": "giữ ấm",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kiːp wɔːrm/",
+              "example": "We used reindeer skins to keep warm!",
+              "exampleTranslation": "Chúng tôi dùng da tuần lộc để giữ ấm!",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-018"
             },
             {
               "id": "u2-reading-d97a0dff1486",
               "word": "minus five degrees",
               "meaning": "âm năm độ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈmaɪnəs faɪv dɪˈɡriːz/",
+              "example": "It was minus five degrees centigrade outside the igloo.",
+              "exampleTranslation": "Bên ngoài nhà tuyết, nhiệt độ là âm năm độ C.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-019"
             },
             {
               "id": "u2-reading-54ad3893e738",
               "word": "tree house",
               "meaning": "nhà trên cây",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/tri haʊs/",
+              "example": "The tree house was the perfect place to get away from their busy lives.",
+              "exampleTranslation": "Ngôi nhà trên cây là nơi lý tưởng để họ tạm rời cuộc sống bận rộn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-020"
             },
             {
               "id": "u2-reading-1813881b075c",
               "word": "get away from",
               "meaning": "tạm rời xa; thoát khỏi",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡet əˈweɪ frəm/",
+              "example": "The tree house was the perfect place to get away from their busy lives.",
+              "exampleTranslation": "Ngôi nhà trên cây là nơi lý tưởng để họ tạm rời cuộc sống bận rộn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-020"
             },
             {
               "id": "u2-reading-509f99988b5b",
               "word": "busy lives",
               "meaning": "cuộc sống bận rộn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/bɪzi laɪvz/",
+              "example": "The tree house was the perfect place to get away from their busy lives.",
+              "exampleTranslation": "Ngôi nhà trên cây là nơi lý tưởng để họ tạm rời cuộc sống bận rộn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-020"
             },
             {
               "id": "u2-reading-cce1b2a29460",
@@ -288,9 +501,12 @@ export default {
               "meaning": "thuộc thang nhiệt độ Celsius (độ C)",
               "type": "word",
               "pos": "adjective",
-              "ipa": "/ˈsentɪɡreɪd/",
-              "example": "The temperature outside is 20 degrees centigrade.",
-              "exampleTranslation": "Nhiệt độ bên ngoài là 20 độ xêntêgrét."
+              "ipa": "/ˈsentəˌɡreɪd/",
+              "example": "It was minus five degrees centigrade outside the igloo.",
+              "exampleTranslation": "Bên ngoài nhà tuyết, nhiệt độ là âm năm độ C.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 26, Reading",
+              "exampleId": "u2-ex-019"
             }
           ]
         },
@@ -305,105 +521,195 @@ export default {
               "word": "feel at home",
               "meaning": "cảm thấy thoải mái như ở nhà",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/fiːl ət hoʊm/",
+              "example": "The writer thought she could only feel at home with her parents and her annoying little brother.",
+              "exampleTranslation": "Người kể chuyện nghĩ mình chỉ có thể cảm thấy như ở nhà khi ở bên bố mẹ và cậu em trai hay gây khó chịu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-021"
             },
             {
               "id": "u2-reading-92e93e7e81c4",
               "word": "annoying",
               "meaning": "gây khó chịu",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/əˈnɔɪɪŋ/",
+              "example": "The writer thought she could only feel at home with her parents and her annoying little brother.",
+              "exampleTranslation": "Người kể chuyện nghĩ mình chỉ có thể cảm thấy như ở nhà khi ở bên bố mẹ và cậu em trai hay gây khó chịu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-021"
             },
             {
               "id": "u2-reading-b9b98ccddc18",
               "word": "roast chicken",
               "meaning": "gà quay; gà nướng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/roʊst ˈtʃɪkən/",
+              "example": "The smell of her mother's roast chicken reminded her of home.",
+              "exampleTranslation": "Mùi gà nướng của mẹ gợi cô nhớ về nhà.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-022"
             },
             {
               "id": "u2-reading-e726c5854df8",
               "word": "seaweed",
               "meaning": "rong biển",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈsiːˌwiːd/",
+              "example": "The smell of seaweed drifted in from the nearby beach.",
+              "exampleTranslation": "Mùi rong biển thoảng vào từ bãi biển gần đó.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-023"
             },
             {
               "id": "u2-reading-ae4cd191b703",
               "word": "drift in",
               "meaning": "thoảng vào; trôi vào",
               "type": "phrase",
-              "pos": "phrasal_verb"
+              "pos": "phrasal_verb",
+              "ipa": "/drɪft ɪn/",
+              "example": "The smell of seaweed drifted in from the nearby beach.",
+              "exampleTranslation": "Mùi rong biển thoảng vào từ bãi biển gần đó.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-023"
             },
             {
               "id": "u2-reading-0876113b00fd",
               "word": "nearby beach",
               "meaning": "bãi biển gần đó",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈnɪrˈbaɪ biːtʃ/",
+              "example": "The smell of seaweed drifted in from the nearby beach.",
+              "exampleTranslation": "Mùi rong biển thoảng vào từ bãi biển gần đó.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-023"
             },
             {
               "id": "u2-reading-11cb6d836ffd",
               "word": "seagulls",
               "meaning": "chim hải âu",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈsiːˌɡʌlz/",
+              "example": "The sound of seagulls squawking was the sound of home.",
+              "exampleTranslation": "Tiếng hải âu kêu quang quác chính là âm thanh của quê nhà.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-024"
             },
             {
               "id": "u2-reading-46d43b13b63e",
               "word": "squawk",
               "meaning": "kêu quang quác",
               "type": "word",
-              "pos": "verb"
+              "pos": "verb",
+              "ipa": "/skwɔːk/",
+              "example": "The sound of seagulls squawking was the sound of home.",
+              "exampleTranslation": "Tiếng hải âu kêu quang quác chính là âm thanh của quê nhà.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-024"
             },
             {
               "id": "u2-reading-097b7d282637",
               "word": "put your feet up",
               "meaning": "ngồi nghỉ ngơi, thư giãn",
               "type": "phrase",
-              "pos": "idiom"
+              "pos": "idiom",
+              "ipa": "/pʊt jər fiːt ʌp/",
+              "example": "She liked to put her feet up and gaze into the log fire.",
+              "exampleTranslation": "Cô thích ngồi thư giãn và chăm chú nhìn ngọn lửa củi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-025"
             },
             {
               "id": "u2-reading-71e86a643f5a",
               "word": "gaze into",
               "meaning": "nhìn chăm chú vào",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡeɪz ˈɪntuː/",
+              "example": "She liked to put her feet up and gaze into the log fire.",
+              "exampleTranslation": "Cô thích ngồi thư giãn và chăm chú nhìn ngọn lửa củi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-025"
             },
             {
               "id": "u2-reading-d702f38985ac",
               "word": "log fire",
               "meaning": "lửa đốt bằng củi",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/lɔːɡ ˈfaɪər/",
+              "example": "She liked to put her feet up and gaze into the log fire.",
+              "exampleTranslation": "Cô thích ngồi thư giãn và chăm chú nhìn ngọn lửa củi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-025"
             },
             {
               "id": "u2-reading-7a2cdfe52565",
               "word": "school trip",
               "meaning": "chuyến đi do trường tổ chức",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/skuːl trɪp/",
+              "example": "I was 15 when I first went away from home on a school trip to Germany.",
+              "exampleTranslation": "Tôi 15 tuổi khi lần đầu xa nhà trong chuyến đi Đức do trường tổ chức.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-026"
             },
             {
               "id": "u2-reading-c0cb225001c9",
               "word": "host families",
               "meaning": "các gia đình đón học sinh đến ở",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/hoʊst ˈfæməliːz/",
+              "example": "She felt nervous about the host families and wondered who her host would be.",
+              "exampleTranslation": "Cô cảm thấy hồi hộp về các gia đình đón học sinh và tự hỏi ai sẽ là chủ nhà của mình.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-027"
             },
             {
               "id": "u2-reading-fb3a7850111f",
               "word": "nervous",
               "meaning": "lo lắng; hồi hộp",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˈnɜːrvəs/",
+              "example": "She felt nervous about the host families and wondered who her host would be.",
+              "exampleTranslation": "Cô cảm thấy hồi hộp về các gia đình đón học sinh và tự hỏi ai sẽ là chủ nhà của mình.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-027"
             },
             {
               "id": "u2-reading-4553a31df06c",
               "word": "unfamiliar food",
               "meaning": "đồ ăn không quen thuộc",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌʌnfəˈmɪljər fuːd/",
+              "example": "Would they give me dinner at this time and would I be able to eat the unfamiliar food?",
+              "exampleTranslation": "Liệu họ có cho tôi ăn tối vào giờ này và liệu tôi có ăn được những món không quen không?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-028"
             },
             {
               "id": "u2-reading-50d88b8404f2",
@@ -411,86 +717,155 @@ export default {
               "meaning": "nhớ nhà",
               "type": "word",
               "pos": "adjective",
-              "ipa": "/ˈhəʊmsɪk/",
-              "example": "She felt homesick after moving to a new city.",
-              "exampleTranslation": "Cô ấy cảm thấy nhớ nhà sau khi chuyển đến một thành phố mới."
+              "ipa": "/ˈhoʊmˌsɪk/",
+              "example": "I knew I would spend three weeks, homesick and sad, missing my family back home.",
+              "exampleTranslation": "Tôi nghĩ mình sẽ trải qua ba tuần nhớ nhà, buồn bã và nhớ gia đình.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-029"
             },
             {
               "id": "u2-reading-e0f167bc84b8",
               "word": "coach",
               "meaning": "xe khách đường dài",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/koʊtʃ/",
+              "example": "They arrived late at night after a long journey by coach and boat.",
+              "exampleTranslation": "Họ đến vào đêm muộn sau chuyến đi dài bằng xe khách và tàu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-030"
             },
             {
               "id": "u2-reading-617e11e0fb0c",
               "word": "exchange partner",
               "meaning": "bạn ghép cặp trong chương trình trao đổi",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ɪksˈtʃeɪndʒ ˈpɑːrtnər/",
+              "example": "Suddenly I heard my name called and the name of my exchange partner, Brigitte Schmitt.",
+              "exampleTranslation": "Đột nhiên tôi nghe gọi tên mình và tên bạn ghép cặp trong chương trình trao đổi, Brigitte Schmitt.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-031"
             },
             {
               "id": "u2-reading-67c9b1f23004",
               "word": "step forward",
               "meaning": "bước lên phía trước",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/step ˈfɔːrwərd/",
+              "example": "A pretty, blonde girl stepped forward, smiling widely.",
+              "exampleTranslation": "Một cô gái xinh xắn tóc vàng bước lên phía trước và cười tươi.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-032"
             },
             {
               "id": "u2-reading-99c140707979",
               "word": "pleasant-looking",
               "meaning": "có vẻ ngoài dễ mến",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˈplezənt ˈlʊkɪŋ/",
+              "example": "Behind her stood her parents, a pleasant-looking couple who were also smiling.",
+              "exampleTranslation": "Phía sau cô ấy là bố mẹ, một cặp đôi có vẻ ngoài dễ mến cũng đang mỉm cười.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-033"
             },
             {
               "id": "u2-reading-d0021d658516",
               "word": "hold out your hands",
               "meaning": "đưa tay ra",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/hoʊld aʊt jər hændz/",
+              "example": "Her parents held out their hands to welcome the visitor.",
+              "exampleTranslation": "Bố mẹ cô ấy đưa tay ra để chào đón người khách.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-034"
             },
             {
               "id": "u2-reading-71a7afe101dd",
               "word": "smile widely",
               "meaning": "cười tươi",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/smaɪl waɪdli/",
+              "example": "A pretty, blonde girl stepped forward, smiling widely.",
+              "exampleTranslation": "Một cô gái xinh xắn tóc vàng bước lên phía trước và cười tươi.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-032"
             },
             {
               "id": "u2-reading-908c8cca2e39",
               "word": "welcoming",
               "meaning": "thân thiện, tạo cảm giác được chào đón",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˈwelkəmɪŋ/",
+              "example": "The whole family were kind and welcoming.",
+              "exampleTranslation": "Cả gia đình đều tốt bụng và niềm nở.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-035"
             },
             {
               "id": "u2-reading-e99a330ef904",
               "word": "cosy",
               "meaning": "ấm cúng",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/koʊzi/",
+              "example": "My room was cosy and warm and looked out onto a forest.",
+              "exampleTranslation": "Phòng tôi ấm cúng, ấm áp và có tầm nhìn ra một khu rừng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-036"
             },
             {
               "id": "u2-reading-a3eae7481a99",
               "word": "look out onto",
               "meaning": "có tầm nhìn ra",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/lʊk aʊt ˈɑːntuː/",
+              "example": "My room was cosy and warm and looked out onto a forest.",
+              "exampleTranslation": "Phòng tôi ấm cúng, ấm áp và có tầm nhìn ra một khu rừng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-036"
             },
             {
               "id": "u2-reading-261ebd2b4bb0",
               "word": "sit on your lap",
               "meaning": "ngồi trong lòng bạn",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/sɪt ɑːn jər læp/",
+              "example": "Their two cats sat on my lap in the evenings.",
+              "exampleTranslation": "Hai con mèo của họ ngồi trong lòng tôi vào buổi tối.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-037"
             },
             {
               "id": "u2-reading-ad93e5a7adef",
               "word": "bake in the oven",
               "meaning": "nướng trong lò",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/beɪk ɪn ðə ˈʌvən/",
+              "example": "The fresh clean smell of the trees and of apples baking in the oven became familiar and comforting, like the smells of home.",
+              "exampleTranslation": "Mùi cây cối trong lành và táo đang nướng trong lò trở nên quen thuộc, mang lại cảm giác an tâm như những mùi hương ở nhà.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-038"
             },
             {
               "id": "u2-reading-3a419467866c",
@@ -499,71 +874,128 @@ export default {
               "type": "word",
               "pos": "adjective",
               "ipa": "/fəˈmɪljər/",
-              "example": "This place is familiar to me.",
-              "exampleTranslation": "Nơi này quen thuộc với tôi."
+              "example": "The fresh clean smell of the trees and of apples baking in the oven became familiar and comforting, like the smells of home.",
+              "exampleTranslation": "Mùi cây cối trong lành và táo đang nướng trong lò trở nên quen thuộc, mang lại cảm giác an tâm như những mùi hương ở nhà.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-038"
             },
             {
               "id": "u2-reading-5f53df7ec9e8",
               "word": "comforting",
               "meaning": "mang lại cảm giác an tâm",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˈkʌmfərtɪŋ/",
+              "example": "The fresh clean smell of the trees and of apples baking in the oven became familiar and comforting, like the smells of home.",
+              "exampleTranslation": "Mùi cây cối trong lành và táo đang nướng trong lò trở nên quen thuộc, mang lại cảm giác an tâm như những mùi hương ở nhà.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-038"
             },
             {
               "id": "u2-reading-4e7954003af7",
               "word": "clear a space",
               "meaning": "dọn một khoảng trống",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/klɪr ə speɪs/",
+              "example": "I cleared a space for her clothes and put a vase of fresh flowers by the bed.",
+              "exampleTranslation": "Tôi dọn một chỗ cho quần áo của cô ấy và đặt một bình hoa tươi cạnh giường.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-039"
             },
             {
               "id": "u2-reading-3ca3af74c8e2",
               "word": "a vase of fresh flowers",
               "meaning": "một bình hoa tươi",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə vɑːz əv freʃ ˈflaʊərz/",
+              "example": "I cleared a space for her clothes and put a vase of fresh flowers by the bed.",
+              "exampleTranslation": "Tôi dọn một chỗ cho quần áo của cô ấy và đặt một bình hoa tươi cạnh giường.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-039"
             },
             {
               "id": "u2-reading-10ef487e48df",
               "word": "apple pie",
               "meaning": "bánh táo",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈæpəl paɪ/",
+              "example": "I asked my mum to make her famous roast chicken and an apple pie to make our guest feel at home.",
+              "exampleTranslation": "Tôi nhờ mẹ làm món gà nướng nổi tiếng của mẹ và bánh táo để vị khách cảm thấy như ở nhà.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-040"
             },
             {
               "id": "u2-reading-40b4478548e7",
               "word": "welcome banner",
               "meaning": "băng-rôn chào mừng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈwelkəm ˈbænər/",
+              "example": "We made a welcome banner and put it up on the front door.",
+              "exampleTranslation": "Chúng tôi làm một băng-rôn chào mừng và treo lên cửa chính.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-041"
             },
             {
               "id": "u2-reading-7279998f9446",
               "word": "front door",
               "meaning": "cửa chính",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/frʌnt dɔːr/",
+              "example": "We made a welcome banner and put it up on the front door.",
+              "exampleTranslation": "Chúng tôi làm một băng-rôn chào mừng và treo lên cửa chính.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-041"
             },
             {
               "id": "u2-reading-7da767f388e4",
               "word": "a warm welcome",
               "meaning": "sự chào đón nồng nhiệt",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə wɔːrm ˈwelkəm/",
+              "example": "I now understood the importance of a warm welcome.",
+              "exampleTranslation": "Giờ tôi đã hiểu tầm quan trọng của sự chào đón nồng nhiệt.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-042"
             },
             {
               "id": "u2-reading-4740ae6347b0",
               "word": "host",
               "meaning": "chủ nhà; người đón khách",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/hoʊst/",
+              "example": "She felt nervous about the host families and wondered who her host would be.",
+              "exampleTranslation": "Cô cảm thấy hồi hộp về các gia đình đón học sinh và tự hỏi ai sẽ là chủ nhà của mình.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-027"
             },
             {
               "id": "u2-reading-56e2a3f2b82c",
               "word": "a long journey by coach",
               "meaning": "chuyến đi dài bằng xe khách",
               "type": "collocation",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə lɔːŋ dʒɜːrni baɪ koʊtʃ/",
+              "example": "They arrived late at night after a long journey by coach and boat.",
+              "exampleTranslation": "Họ đến vào đêm muộn sau chuyến đi dài bằng xe khách và tàu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-030"
             },
             {
               "id": "u2-reading-d1ec49df3bf4",
@@ -571,9 +1003,12 @@ export default {
               "meaning": "tầm quan trọng",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ɪmˈpɔːt(ə)ns/",
-              "example": "The importance of education cannot be overstated.",
-              "exampleTranslation": "Giáo dục có tầm quan trọng vô cùng lớn."
+              "ipa": "/ˌɪmˈpɔːrtəns/",
+              "example": "I now understood the importance of a warm welcome.",
+              "exampleTranslation": "Giờ tôi đã hiểu tầm quan trọng của sự chào đón nồng nhiệt.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 29, Reading",
+              "exampleId": "u2-ex-042"
             }
           ]
         }
@@ -595,119 +1030,221 @@ export default {
               "word": "facilities",
               "meaning": "các tiện ích; cơ sở vật chất",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/fəˈsɪlətiːz/",
+              "example": "Hello, I'd like some information about your facilities.",
+              "exampleTranslation": "Xin chào, tôi muốn biết một số thông tin về các tiện ích của trung tâm.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 15",
+              "exampleId": "u2-ex-043"
             },
             {
               "id": "u2-listening-69e0b709f656",
               "word": "swimming pool",
               "meaning": "bể bơi",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈswɪmɪŋ puːl/",
+              "example": "We have a swimming pool, squash courts, a gym and we have a couple of outdoor tennis courts too.",
+              "exampleTranslation": "Chúng tôi có bể bơi, sân bóng quần, phòng tập và cả một vài sân quần vợt ngoài trời.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 15",
+              "exampleId": "u2-ex-044"
             },
             {
               "id": "u2-listening-c833921fa62e",
               "word": "squash courts",
               "meaning": "sân bóng quần",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/skwɑːʃ kɔːrts/",
+              "example": "We have a swimming pool, squash courts, a gym and we have a couple of outdoor tennis courts too.",
+              "exampleTranslation": "Chúng tôi có bể bơi, sân bóng quần, phòng tập và cả một vài sân quần vợt ngoài trời.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 15",
+              "exampleId": "u2-ex-044"
             },
             {
               "id": "u2-listening-aadbb4d7392b",
               "word": "outdoor tennis courts",
               "meaning": "sân quần vợt ngoài trời",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈaʊtˌdɔːr ˈtenəs kɔːrts/",
+              "example": "We have a swimming pool, squash courts, a gym and we have a couple of outdoor tennis courts too.",
+              "exampleTranslation": "Chúng tôi có bể bơi, sân bóng quần, phòng tập và cả một vài sân quần vợt ngoài trời.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 15",
+              "exampleId": "u2-ex-044"
             },
             {
               "id": "u2-listening-436629dc15c2",
               "word": "become a member",
               "meaning": "trở thành hội viên",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/bɪˈkʌm ə ˈmembər/",
+              "example": "Our website tells you how you can become a member and how much the yearly fee is.",
+              "exampleTranslation": "Website của chúng tôi hướng dẫn cách trở thành hội viên và cho biết mức phí hằng năm.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 16",
+              "exampleId": "u2-ex-045"
             },
             {
               "id": "u2-listening-4886481eb549",
               "word": "yearly fee",
               "meaning": "phí hằng năm",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/jɪrli fi/",
+              "example": "Our website tells you how you can become a member and how much the yearly fee is.",
+              "exampleTranslation": "Website của chúng tôi hướng dẫn cách trở thành hội viên và cho biết mức phí hằng năm.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 16",
+              "exampleId": "u2-ex-045"
             },
             {
               "id": "u2-listening-99f321efa4cc",
               "word": "make a note of",
               "meaning": "ghi lại",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/meɪk ə noʊt əv/",
+              "example": "Do you want to make a note of the address?",
+              "exampleTranslation": "Bạn có muốn ghi lại địa chỉ không?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 179, track 17",
+              "exampleId": "u2-ex-046"
             },
             {
               "id": "u2-listening-1b15a927a3d2",
               "word": "all one word",
               "meaning": "viết liền thành một từ",
               "type": "phrase",
-              "pos": "expression"
+              "pos": "expression",
+              "ipa": "/ɔːl wʌn wɜːrd/",
+              "example": "'Get active' - is that all one word?",
+              "exampleTranslation": "'Get active' được viết liền thành một từ phải không?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 179, track 17",
+              "exampleId": "u2-ex-047"
             },
             {
               "id": "u2-listening-1c381c9cba99",
               "word": "open a new account",
               "meaning": "mở tài khoản mới",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈoʊpən ə njuː əˈkaʊnt/",
+              "example": "I'd like to open a new account, please.",
+              "exampleTranslation": "Tôi muốn mở một tài khoản mới.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 16",
+              "exampleId": "u2-ex-048"
             },
             {
               "id": "u2-listening-e6e9a92fa141",
               "word": "basic account",
               "meaning": "tài khoản cơ bản",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈbeɪsɪk əˈkaʊnt/",
+              "example": "Is it a basic account you're looking to open or a savings account?",
+              "exampleTranslation": "Anh/chị muốn mở tài khoản cơ bản hay tài khoản tiết kiệm?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 16",
+              "exampleId": "u2-ex-049"
             },
             {
               "id": "u2-listening-f2dfcb1845c9",
               "word": "savings account",
               "meaning": "tài khoản tiết kiệm",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈseɪvɪŋz əˈkaʊnt/",
+              "example": "Is it a basic account you're looking to open or a savings account?",
+              "exampleTranslation": "Anh/chị muốn mở tài khoản cơ bản hay tài khoản tiết kiệm?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 178, track 16",
+              "exampleId": "u2-ex-049"
             },
             {
               "id": "u2-listening-1422db12ffe3",
               "word": "complete your application online",
               "meaning": "hoàn thành đơn đăng ký trực tuyến",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kəmˈpliːt jər ˌæpləˈkeɪʃən ˈɔːnˌlaɪn/",
+              "example": "We can complete your application on line. I'll just get the form up on screen now.",
+              "exampleTranslation": "Chúng ta có thể hoàn thành đơn đăng ký trực tuyến. Tôi sẽ mở biểu mẫu lên màn hình ngay.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 179, track 16",
+              "exampleId": "u2-ex-050"
             },
             {
               "id": "u2-listening-2aa1226167b5",
               "word": "on screen",
               "meaning": "trên màn hình",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn skriːn/",
+              "example": "We can complete your application on line. I'll just get the form up on screen now.",
+              "exampleTranslation": "Chúng ta có thể hoàn thành đơn đăng ký trực tuyến. Tôi sẽ mở biểu mẫu lên màn hình ngay.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 179, track 16",
+              "exampleId": "u2-ex-050"
             },
             {
               "id": "u2-listening-f8d486cfee51",
               "word": "personal details",
               "meaning": "thông tin cá nhân",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈpɜːrsɪnəl ˈdiːteɪlz/",
+              "example": "I just need a few personal details. Can you give me your full name, please?",
+              "exampleTranslation": "Tôi chỉ cần một vài thông tin cá nhân. Anh/chị cho tôi biết họ tên đầy đủ được không?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 179, track 17",
+              "exampleId": "u2-ex-051"
             },
             {
               "id": "u2-listening-3409ef498120",
               "word": "full name",
               "meaning": "họ và tên đầy đủ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/fʊl neɪm/",
+              "example": "I just need a few personal details. Can you give me your full name, please?",
+              "exampleTranslation": "Tôi chỉ cần một vài thông tin cá nhân. Anh/chị cho tôi biết họ tên đầy đủ được không?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 179, track 17",
+              "exampleId": "u2-ex-051"
             },
             {
               "id": "u2-listening-25299876a55d",
               "word": "at the end",
               "meaning": "ở cuối",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ət ðə end/",
+              "example": "It's got an 'e' at the end.",
+              "exampleTranslation": "Tên đó có chữ e ở cuối.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 179, track 17",
+              "exampleId": "u2-ex-052"
             },
             {
               "id": "u2-listening-6a75fbb762b8",
               "word": "a double D",
               "meaning": "hai chữ D liên tiếp",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈdʌbəl diː/",
+              "example": "Is that Waddington with a double D, did you say?",
+              "exampleTranslation": "Có phải anh/chị nói Waddington với hai chữ D liên tiếp không?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 179, track 17",
+              "exampleId": "u2-ex-053"
             }
           ]
         },
@@ -722,35 +1259,65 @@ export default {
               "word": "a good choice of",
               "meaning": "nhiều lựa chọn về",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ɡʊd tʃɔɪs əv/",
+              "example": "The restaurant had a good choice of meat and fish.",
+              "exampleTranslation": "Nhà hàng có nhiều lựa chọn về thịt và cá.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 18",
+              "exampleId": "u2-ex-054"
             },
             {
               "id": "u2-listening-7b508dace774",
               "word": "limited",
               "meaning": "hạn chế; ít lựa chọn",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˈlɪmətəd/",
+              "example": "Jo thought the menu was limited: there were too many fish dishes on the menu, and she couldn't stand seafood.",
+              "exampleTranslation": "Jo nghĩ thực đơn ít lựa chọn: có quá nhiều món cá trong thực đơn và cô không chịu được hải sản.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 18",
+              "exampleId": "u2-ex-055"
             },
             {
               "id": "u2-listening-ee7f93d6f279",
               "word": "can't stand seafood",
               "meaning": "không chịu nổi hải sản",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kænt stænd ˈsiːˌfuːd/",
+              "example": "Jo thought the menu was limited: there were too many fish dishes on the menu, and she couldn't stand seafood.",
+              "exampleTranslation": "Jo nghĩ thực đơn ít lựa chọn: có quá nhiều món cá trong thực đơn và cô không chịu được hải sản.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 18",
+              "exampleId": "u2-ex-055"
             },
             {
               "id": "u2-listening-a6c2a78a770d",
               "word": "fish dishes",
               "meaning": "các món cá",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/fɪʃ ˈdɪʃəz/",
+              "example": "Jo thought the menu was limited: there were too many fish dishes on the menu, and she couldn't stand seafood.",
+              "exampleTranslation": "Jo nghĩ thực đơn ít lựa chọn: có quá nhiều món cá trong thực đơn và cô không chịu được hải sản.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 18",
+              "exampleId": "u2-ex-055"
             },
             {
               "id": "u2-listening-947ef632a37e",
               "word": "on the menu",
               "meaning": "có trong thực đơn",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn ðə ˈmenjuː/",
+              "example": "Jo thought the menu was limited: there were too many fish dishes on the menu, and she couldn't stand seafood.",
+              "exampleTranslation": "Jo nghĩ thực đơn ít lựa chọn: có quá nhiều món cá trong thực đơn và cô không chịu được hải sản.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 18",
+              "exampleId": "u2-ex-055"
             },
             {
               "id": "u2-listening-aff0f313b556",
@@ -759,8 +1326,11 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/steɪk/",
-              "example": "I'm going to cook a steak for dinner.",
-              "exampleTranslation": "Tôi sẽ nấu một miếng bít tết cho bữa tối."
+              "example": "They enjoyed the steak, and the beef at another table looked delicious.",
+              "exampleTranslation": "Họ thích món bít tết và thịt bò ở bàn khác trông cũng rất ngon.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 18",
+              "exampleId": "u2-ex-056"
             },
             {
               "id": "u2-listening-aa415c4e8890",
@@ -769,15 +1339,24 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/biːf/",
-              "example": "I’m cooking beef stew for dinner.",
-              "exampleTranslation": "Tôi đang nấu thịt bò hầm cho bữa tối."
+              "example": "They enjoyed the steak, and the beef at another table looked delicious.",
+              "exampleTranslation": "Họ thích món bít tết và thịt bò ở bàn khác trông cũng rất ngon.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 18",
+              "exampleId": "u2-ex-056"
             },
             {
               "id": "u2-listening-3c29fc346437",
               "word": "delicious",
               "meaning": "ngon",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/dɪˈlɪʃəs/",
+              "example": "They enjoyed the steak, and the beef at another table looked delicious.",
+              "exampleTranslation": "Họ thích món bít tết và thịt bò ở bàn khác trông cũng rất ngon.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 18",
+              "exampleId": "u2-ex-056"
             },
             {
               "id": "u2-listening-53bc5c9386ea",
@@ -785,100 +1364,181 @@ export default {
               "meaning": "hợp lý; phải chăng",
               "type": "word",
               "pos": "adjective",
-              "ipa": "/ˈriː.zən.ə.bəl/",
-              "example": "The price was reasonable for the quality of the food.",
-              "exampleTranslation": "Giá cả hợp lý với chất lượng của thức ăn."
+              "ipa": "/ˈriːzənəbəl/",
+              "example": "The bill was reasonable: £40 including a tip, or £20 per person.",
+              "exampleTranslation": "Hóa đơn khá phải chăng: 40 bảng gồm cả tiền boa, tức 20 bảng mỗi người.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 18",
+              "exampleId": "u2-ex-057"
             },
             {
               "id": "u2-listening-4d39aea773b1",
               "word": "the bill",
               "meaning": "hóa đơn thanh toán",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðə bɪl/",
+              "example": "The bill was reasonable: £40 including a tip, or £20 per person.",
+              "exampleTranslation": "Hóa đơn khá phải chăng: 40 bảng gồm cả tiền boa, tức 20 bảng mỗi người.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 18",
+              "exampleId": "u2-ex-057"
             },
             {
               "id": "u2-listening-dbe94301b1bc",
               "word": "including a tip",
               "meaning": "bao gồm tiền boa",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ˌɪnˈkluːdɪŋ ə tɪp/",
+              "example": "The bill was reasonable: £40 including a tip, or £20 per person.",
+              "exampleTranslation": "Hóa đơn khá phải chăng: 40 bảng gồm cả tiền boa, tức 20 bảng mỗi người.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 18",
+              "exampleId": "u2-ex-057"
             },
             {
               "id": "u2-listening-f1a5516075b3",
               "word": "per person",
               "meaning": "mỗi người",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/pər ˈpɜːrsən/",
+              "example": "The bill was reasonable: £40 including a tip, or £20 per person.",
+              "exampleTranslation": "Hóa đơn khá phải chăng: 40 bảng gồm cả tiền boa, tức 20 bảng mỗi người.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 18",
+              "exampleId": "u2-ex-057"
             },
             {
               "id": "u2-listening-557b558c8643",
               "word": "on my way home",
               "meaning": "trên đường về nhà",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn maɪ weɪ hoʊm/",
+              "example": "I'm on my way home - I'm still waiting for the bus.",
+              "exampleTranslation": "Tôi đang trên đường về nhà, vẫn đang chờ xe buýt.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 179, track 19",
+              "exampleId": "u2-ex-058"
             },
             {
               "id": "u2-listening-65e130037b8f",
               "word": "wait for the bus",
               "meaning": "đợi xe buýt",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/weɪt fər ðə bʌs/",
+              "example": "I'm on my way home - I'm still waiting for the bus.",
+              "exampleTranslation": "Tôi đang trên đường về nhà, vẫn đang chờ xe buýt.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 179, track 19",
+              "exampleId": "u2-ex-058"
             },
             {
               "id": "u2-listening-5a259b1cd3d3",
               "word": "get a taxi",
               "meaning": "bắt taxi",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡet ə tæksi/",
+              "example": "I was going to get a taxi, but the bus is due in about fifteen minutes, at 7.50 to be exact.",
+              "exampleTranslation": "Tôi định bắt taxi, nhưng xe buýt dự kiến đến sau khoảng mười lăm phút, chính xác là lúc 7 giờ 50.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 19",
+              "exampleId": "u2-ex-059"
             },
             {
               "id": "u2-listening-f501647d8467",
               "word": "due in about fifteen minutes",
               "meaning": "dự kiến đến sau khoảng mười lăm phút",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/djuː ɪn əˈbaʊt ˈfɪfˈtiːn ˈmɪnɪts/",
+              "example": "I was going to get a taxi, but the bus is due in about fifteen minutes, at 7.50 to be exact.",
+              "exampleTranslation": "Tôi định bắt taxi, nhưng xe buýt dự kiến đến sau khoảng mười lăm phút, chính xác là lúc 7 giờ 50.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 19",
+              "exampleId": "u2-ex-059"
             },
             {
               "id": "u2-listening-6b8f21a42081",
               "word": "run on time",
               "meaning": "chạy đúng giờ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/rʌn ɑːn taɪm/",
+              "example": "The bus is running on time and has already left the railway station.",
+              "exampleTranslation": "Xe buýt đang chạy đúng giờ và đã rời ga tàu hỏa.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 19",
+              "exampleId": "u2-ex-060"
             },
             {
               "id": "u2-listening-83e2ed4bdf75",
               "word": "railway station",
               "meaning": "ga tàu hỏa",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈreɪlˌweɪ ˈsteɪʃən/",
+              "example": "The bus is running on time and has already left the railway station.",
+              "exampleTranslation": "Xe buýt đang chạy đúng giờ và đã rời ga tàu hỏa.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 19",
+              "exampleId": "u2-ex-060"
             },
             {
               "id": "u2-listening-bed32db4937d",
               "word": "pick you up",
               "meaning": "đón bạn",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/pɪk juː ʌp/",
+              "example": "I can pick you up if you tell me where the bus stop is.",
+              "exampleTranslation": "Tôi có thể đón bạn nếu bạn cho biết trạm xe buýt ở đâu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 19",
+              "exampleId": "u2-ex-061"
             },
             {
               "id": "u2-listening-6168d576bc09",
               "word": "bus stop",
               "meaning": "điểm dừng xe buýt",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/bʌs stɑːp/",
+              "example": "I can pick you up if you tell me where the bus stop is.",
+              "exampleTranslation": "Tôi có thể đón bạn nếu bạn cho biết trạm xe buýt ở đâu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 19",
+              "exampleId": "u2-ex-061"
             },
             {
               "id": "u2-listening-09f18d412bfb",
               "word": "traffic lights",
               "meaning": "đèn giao thông",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈtræfɪk laɪts/",
+              "example": "The traffic lights have just changed and I can see the bus coming now.",
+              "exampleTranslation": "Đèn giao thông vừa đổi màu và giờ tôi đã thấy xe buýt đang tới.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 179, track 19",
+              "exampleId": "u2-ex-062"
             },
             {
               "id": "u2-listening-60cce41ed36e",
               "word": "to be exact",
               "meaning": "nói chính xác là",
               "type": "phrase",
-              "pos": "expression"
+              "pos": "expression",
+              "ipa": "/tə biː ɪɡˈzækt/",
+              "example": "I was going to get a taxi, but the bus is due in about fifteen minutes, at 7.50 to be exact.",
+              "exampleTranslation": "Tôi định bắt taxi, nhưng xe buýt dự kiến đến sau khoảng mười lăm phút, chính xác là lúc 7 giờ 50.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 19",
+              "exampleId": "u2-ex-059"
             }
           ]
         },
@@ -893,238 +1553,442 @@ export default {
               "word": "sailing course",
               "meaning": "khóa học chèo thuyền buồm",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈseɪlɪŋ kɔːrs/",
+              "example": "You were on a sailing course down at the harbour, weren't you?",
+              "exampleTranslation": "Bạn đã tham gia khóa học chèo thuyền buồm ở bến cảng, phải không?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 179, track 20",
+              "exampleId": "u2-ex-063"
             },
             {
               "id": "u2-listening-aa74f6fd03bf",
               "word": "harbour",
               "meaning": "bến cảng",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈhɑːrbər/",
+              "example": "You were on a sailing course down at the harbour, weren't you?",
+              "exampleTranslation": "Bạn đã tham gia khóa học chèo thuyền buồm ở bến cảng, phải không?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 179, track 20",
+              "exampleId": "u2-ex-063"
             },
             {
               "id": "u2-listening-ba43a3cc62d6",
               "word": "fresh sea air",
               "meaning": "không khí biển trong lành",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/freʃ si er/",
+              "example": "I really enjoyed breathing in all that fresh sea air. It was only two days but the time flew by!",
+              "exampleTranslation": "Tôi rất thích hít thở không khí biển trong lành. Chỉ có hai ngày nhưng thời gian trôi qua thật nhanh!",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 179, track 20",
+              "exampleId": "u2-ex-064"
             },
             {
               "id": "u2-listening-7873f2d4447b",
               "word": "time flew by",
               "meaning": "thời gian trôi qua rất nhanh",
               "type": "phrase",
-              "pos": "idiom"
+              "pos": "idiom",
+              "ipa": "/taɪm fluː baɪ/",
+              "example": "I really enjoyed breathing in all that fresh sea air. It was only two days but the time flew by!",
+              "exampleTranslation": "Tôi rất thích hít thở không khí biển trong lành. Chỉ có hai ngày nhưng thời gian trôi qua thật nhanh!",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 179, track 20",
+              "exampleId": "u2-ex-064"
             },
             {
               "id": "u2-listening-cf2eb894cc40",
               "word": "instructor",
               "meaning": "người hướng dẫn",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˌɪnˈstrʌktər/",
+              "example": "The instructor began by teaching us safety rules, which was necessary, but not very exciting.",
+              "exampleTranslation": "Người hướng dẫn bắt đầu bằng việc dạy quy tắc an toàn, một việc cần thiết nhưng không thú vị lắm.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 179, track 20",
+              "exampleId": "u2-ex-065"
             },
             {
               "id": "u2-listening-1ce806cb5268",
               "word": "safety rules",
               "meaning": "quy tắc an toàn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/seɪfti ruːlz/",
+              "example": "The instructor began by teaching us safety rules, which was necessary, but not very exciting.",
+              "exampleTranslation": "Người hướng dẫn bắt đầu bằng việc dạy quy tắc an toàn, một việc cần thiết nhưng không thú vị lắm.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 179, track 20",
+              "exampleId": "u2-ex-065"
             },
             {
               "id": "u2-listening-40b37d9055f4",
               "word": "open the sails",
               "meaning": "căng buồm",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈoʊpən ðə seɪlz/",
+              "example": "On the first morning we learnt how to open the sails and I even learnt how to turn the boat.",
+              "exampleTranslation": "Ngay buổi sáng đầu tiên, chúng tôi học cách căng buồm và tôi còn học cách cho thuyền đổi hướng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 179, track 20",
+              "exampleId": "u2-ex-066"
             },
             {
               "id": "u2-listening-c1549e46767f",
               "word": "turn the boat",
               "meaning": "cho thuyền đổi hướng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/tɜːrn ðə boʊt/",
+              "example": "On the first morning we learnt how to open the sails and I even learnt how to turn the boat.",
+              "exampleTranslation": "Ngay buổi sáng đầu tiên, chúng tôi học cách căng buồm và tôi còn học cách cho thuyền đổi hướng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 179, track 20",
+              "exampleId": "u2-ex-066"
             },
             {
               "id": "u2-listening-2b4b2eadf7b2",
               "word": "calm",
               "meaning": "êm; lặng sóng",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/kɑːm/",
+              "example": "The water wasn't as calm as it looked, I can tell you - I lost my balance a few times!",
+              "exampleTranslation": "Mặt nước không êm như vẻ ngoài đâu, tôi đã mất thăng bằng vài lần!",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 179, track 20",
+              "exampleId": "u2-ex-067"
             },
             {
               "id": "u2-listening-a3a66b7afaea",
               "word": "lose my balance",
               "meaning": "mất thăng bằng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/luːz maɪ ˈbæləns/",
+              "example": "The water wasn't as calm as it looked, I can tell you - I lost my balance a few times!",
+              "exampleTranslation": "Mặt nước không êm như vẻ ngoài đâu, tôi đã mất thăng bằng vài lần!",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 179, track 20",
+              "exampleId": "u2-ex-067"
             },
             {
               "id": "u2-listening-acafbd2ade20",
               "word": "run courses",
               "meaning": "tổ chức các khóa học",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/rʌn ˈkɔːrsəz/",
+              "example": "They run courses once a month, and you can sign up while there are spaces available.",
+              "exampleTranslation": "Họ tổ chức khóa học mỗi tháng một lần và bạn có thể đăng ký khi vẫn còn chỗ trống.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 20",
+              "exampleId": "u2-ex-068"
             },
             {
               "id": "u2-listening-7b587b09469c",
               "word": "once a month",
               "meaning": "mỗi tháng một lần",
               "type": "phrase",
-              "pos": "adverb_phrase"
+              "pos": "adverb_phrase",
+              "ipa": "/wʌns ə mʌnθ/",
+              "example": "They run courses once a month, and you can sign up while there are spaces available.",
+              "exampleTranslation": "Họ tổ chức khóa học mỗi tháng một lần và bạn có thể đăng ký khi vẫn còn chỗ trống.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 20",
+              "exampleId": "u2-ex-068"
             },
             {
               "id": "u2-listening-b8a1397fa72e",
               "word": "sign up",
               "meaning": "đăng ký tham gia",
               "type": "phrase",
-              "pos": "phrasal_verb"
+              "pos": "phrasal_verb",
+              "ipa": "/saɪn ʌp/",
+              "example": "They run courses once a month, and you can sign up while there are spaces available.",
+              "exampleTranslation": "Họ tổ chức khóa học mỗi tháng một lần và bạn có thể đăng ký khi vẫn còn chỗ trống.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 20",
+              "exampleId": "u2-ex-068"
             },
             {
               "id": "u2-listening-60cfc9f9777e",
               "word": "spaces available",
               "meaning": "chỗ còn trống",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈspeɪsəz əˈveɪləbəl/",
+              "example": "They run courses once a month, and you can sign up while there are spaces available.",
+              "exampleTranslation": "Họ tổ chức khóa học mỗi tháng một lần và bạn có thể đăng ký khi vẫn còn chỗ trống.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 20",
+              "exampleId": "u2-ex-068"
             },
             {
               "id": "u2-listening-a32ff3ee0d17",
               "word": "course leader",
               "meaning": "người phụ trách khóa học",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/kɔːrs ˈliːdər/",
+              "example": "The course leader is an experienced sailor, so you should give him a ring.",
+              "exampleTranslation": "Người phụ trách khóa học là người đi thuyền buồm có kinh nghiệm nên bạn hãy gọi cho anh ấy.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 20",
+              "exampleId": "u2-ex-069"
             },
             {
               "id": "u2-listening-c8fc6f5f7aed",
               "word": "experienced sailor",
               "meaning": "người đi thuyền buồm có kinh nghiệm",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ɪkˈspɪriːənst ˈseɪlər/",
+              "example": "The course leader is an experienced sailor, so you should give him a ring.",
+              "exampleTranslation": "Người phụ trách khóa học là người đi thuyền buồm có kinh nghiệm nên bạn hãy gọi cho anh ấy.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 20",
+              "exampleId": "u2-ex-069"
             },
             {
               "id": "u2-listening-9b395d254ba0",
               "word": "give him a ring",
               "meaning": "gọi điện cho anh ấy",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡɪv hɪm ə rɪŋ/",
+              "example": "The course leader is an experienced sailor, so you should give him a ring.",
+              "exampleTranslation": "Người phụ trách khóa học là người đi thuyền buồm có kinh nghiệm nên bạn hãy gọi cho anh ấy.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 20",
+              "exampleId": "u2-ex-069"
             },
             {
               "id": "u2-listening-982791983f4b",
               "word": "Orientation Week",
               "meaning": "tuần lễ định hướng cho tân sinh viên",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌɔːriːenˈteɪʃən wiːk/",
+              "example": "During Orientation Week, events help students make friends, find their way around the university and get around the city.",
+              "exampleTranslation": "Trong tuần định hướng, các sự kiện giúp sinh viên kết bạn, làm quen đường đi trong trường và di chuyển quanh thành phố.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 21",
+              "exampleId": "u2-ex-070"
             },
             {
               "id": "u2-listening-6b4282d907ac",
               "word": "make friends",
               "meaning": "kết bạn",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/meɪk frendz/",
+              "example": "During Orientation Week, events help students make friends, find their way around the university and get around the city.",
+              "exampleTranslation": "Trong tuần định hướng, các sự kiện giúp sinh viên kết bạn, làm quen đường đi trong trường và di chuyển quanh thành phố.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 21",
+              "exampleId": "u2-ex-070"
             },
             {
               "id": "u2-listening-63f9f5ced61e",
               "word": "find our way around",
               "meaning": "làm quen đường đi, tìm được lối đi",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/faɪnd aʊər weɪ ərˈaʊn/",
+              "example": "During Orientation Week, events help students make friends, find their way around the university and get around the city.",
+              "exampleTranslation": "Trong tuần định hướng, các sự kiện giúp sinh viên kết bạn, làm quen đường đi trong trường và di chuyển quanh thành phố.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 21",
+              "exampleId": "u2-ex-070"
             },
             {
               "id": "u2-listening-7cc7d116a076",
               "word": "get around the city",
               "meaning": "di chuyển quanh thành phố",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡet ərˈaʊn ðə sɪti/",
+              "example": "During Orientation Week, events help students make friends, find their way around the university and get around the city.",
+              "exampleTranslation": "Trong tuần định hướng, các sự kiện giúp sinh viên kết bạn, làm quen đường đi trong trường và di chuyển quanh thành phố.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 21",
+              "exampleId": "u2-ex-070"
             },
             {
               "id": "u2-listening-cf019b2e27a5",
               "word": "walking tour",
               "meaning": "chuyến tham quan đi bộ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈwɔːkɪŋ tʊr/",
+              "example": "I remember I went on a walking tour of the city on my first day.",
+              "exampleTranslation": "Tôi nhớ mình đã tham gia chuyến đi bộ tham quan thành phố ngay ngày đầu tiên.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 179, track 21",
+              "exampleId": "u2-ex-071"
             },
             {
               "id": "u2-listening-ffe5318fb574",
               "word": "bike tour",
               "meaning": "chuyến tham quan bằng xe đạp",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/baɪk tʊr/",
+              "example": "I joined a bike tour and got the last place on the list.",
+              "exampleTranslation": "Tôi tham gia chuyến tham quan bằng xe đạp và nhận được chỗ cuối cùng trong danh sách.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 21",
+              "exampleId": "u2-ex-072"
             },
             {
               "id": "u2-listening-a8e3cb1e20af",
               "word": "on the list",
               "meaning": "có tên trong danh sách",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn ðə lɪst/",
+              "example": "I joined a bike tour and got the last place on the list.",
+              "exampleTranslation": "Tôi tham gia chuyến tham quan bằng xe đạp và nhận được chỗ cuối cùng trong danh sách.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 21",
+              "exampleId": "u2-ex-072"
             },
             {
               "id": "u2-listening-18e278db1c22",
               "word": "cycle hire shop",
               "meaning": "cửa hàng cho thuê xe đạp",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈsaɪkəl ˈhaɪər ʃɑːp/",
+              "example": "At the cycle hire shop, we could choose an electric bike.",
+              "exampleTranslation": "Ở cửa hàng cho thuê xe đạp, chúng tôi có thể chọn xe đạp điện.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 21",
+              "exampleId": "u2-ex-073"
             },
             {
               "id": "u2-listening-e14dea1eeece",
               "word": "electric bike",
               "meaning": "xe đạp điện",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ɪˈlektrɪk baɪk/",
+              "example": "At the cycle hire shop, we could choose an electric bike.",
+              "exampleTranslation": "Ở cửa hàng cho thuê xe đạp, chúng tôi có thể chọn xe đạp điện.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 21",
+              "exampleId": "u2-ex-073"
             },
             {
               "id": "u2-listening-e16d576e22a9",
               "word": "the whole group",
               "meaning": "cả nhóm",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðə hoʊl ɡruːp/",
+              "example": "In fact the cycle hire was only $120 for the whole group.",
+              "exampleTranslation": "Thực ra tiền thuê xe chỉ là 120 đô la cho cả nhóm.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 179, track 21",
+              "exampleId": "u2-ex-074"
             },
             {
               "id": "u2-listening-b874b1f61e81",
               "word": "bring along",
               "meaning": "mang theo",
               "type": "phrase",
-              "pos": "phrasal_verb"
+              "pos": "phrasal_verb",
+              "ipa": "/brɪŋ əˈlɔːŋ/",
+              "example": "We didn't need to bring along a helmet, and the lock let us park our bikes safely and take a break.",
+              "exampleTranslation": "Chúng tôi không cần mang theo mũ bảo hiểm, còn khóa xe giúp chúng tôi đỗ xe an toàn rồi nghỉ giải lao.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 21",
+              "exampleId": "u2-ex-075"
             },
             {
               "id": "u2-listening-115584860cd5",
               "word": "helmet",
               "meaning": "mũ bảo hiểm",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈhelmət/",
+              "example": "We didn't need to bring along a helmet, and the lock let us park our bikes safely and take a break.",
+              "exampleTranslation": "Chúng tôi không cần mang theo mũ bảo hiểm, còn khóa xe giúp chúng tôi đỗ xe an toàn rồi nghỉ giải lao.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 21",
+              "exampleId": "u2-ex-075"
             },
             {
               "id": "u2-listening-0c030586945f",
               "word": "lock",
               "meaning": "khóa xe",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/lɑːk/",
+              "example": "We didn't need to bring along a helmet, and the lock let us park our bikes safely and take a break.",
+              "exampleTranslation": "Chúng tôi không cần mang theo mũ bảo hiểm, còn khóa xe giúp chúng tôi đỗ xe an toàn rồi nghỉ giải lao.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 21",
+              "exampleId": "u2-ex-075"
             },
             {
               "id": "u2-listening-b2ab0c8359f6",
               "word": "park our bikes safely",
               "meaning": "đỗ xe đạp an toàn",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/pɑːrk aʊər baɪks seɪfli/",
+              "example": "We didn't need to bring along a helmet, and the lock let us park our bikes safely and take a break.",
+              "exampleTranslation": "Chúng tôi không cần mang theo mũ bảo hiểm, còn khóa xe giúp chúng tôi đỗ xe an toàn rồi nghỉ giải lao.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 21",
+              "exampleId": "u2-ex-075"
             },
             {
               "id": "u2-listening-5ec19dd07070",
               "word": "take a break",
               "meaning": "nghỉ giải lao",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/teɪk ə breɪk/",
+              "example": "We didn't need to bring along a helmet, and the lock let us park our bikes safely and take a break.",
+              "exampleTranslation": "Chúng tôi không cần mang theo mũ bảo hiểm, còn khóa xe giúp chúng tôi đỗ xe an toàn rồi nghỉ giải lao.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 179, track 21",
+              "exampleId": "u2-ex-075"
             },
             {
               "id": "u2-listening-34e9a6d91b71",
               "word": "as far as the harbour",
               "meaning": "đến tận bến cảng",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/əz fɑːr əz ðə ˈhɑːrbər/",
+              "example": "I'd love to cycle as far as the harbour next time.",
+              "exampleTranslation": "Lần sau tôi rất muốn đạp xe đến tận bến cảng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 180, track 21",
+              "exampleId": "u2-ex-076"
             },
             {
               "id": "u2-listening-8c3c5b82d462",
               "word": "That's a date!",
               "meaning": "Vậy hẹn thế nhé!",
               "type": "phrase",
-              "pos": "expression"
+              "pos": "expression",
+              "ipa": "/ðæts ə deɪt/",
+              "example": "Great! That's a date then!",
+              "exampleTranslation": "Tuyệt! Vậy hẹn thế nhé!",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 180, track 21",
+              "exampleId": "u2-ex-077"
             }
           ]
         }
@@ -1146,7 +2010,13 @@ export default {
               "word": "home town",
               "meaning": "quê nhà; thành phố quê hương",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/hoʊm taʊn/",
+              "example": "My home town has a hot and humid climate.",
+              "exampleTranslation": "Quê tôi có khí hậu nóng ẩm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 39–43, Speaking",
+              "exampleId": "u2-ex-078"
             },
             {
               "id": "u2-speaking-10db699812d0",
@@ -1155,8 +2025,11 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/ˈklaɪmət/",
-              "example": "The climate in this region is very hot and humid.",
-              "exampleTranslation": "Khí hậu ở khu vực này rất nóng và ẩm."
+              "example": "My home town has a hot and humid climate.",
+              "exampleTranslation": "Quê tôi có khí hậu nóng ẩm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 39–43, Speaking",
+              "exampleId": "u2-ex-078"
             },
             {
               "id": "u2-speaking-e6eaea18e885",
@@ -1164,9 +2037,12 @@ export default {
               "meaning": "vị trí",
               "type": "word",
               "pos": "noun",
-              "ipa": "/loʊˈkeɪʃn/",
-              "example": "The location of the new restaurant is perfect.",
-              "exampleTranslation": "Vị trí của nhà hàng mới rất hoàn hảo."
+              "ipa": "/loʊˈkeɪʃən/",
+              "example": "The colourful buildings make this location a popular tourist area.",
+              "exampleTranslation": "Các tòa nhà nhiều màu sắc khiến địa điểm này trở thành khu du lịch được yêu thích.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 39–43, Speaking",
+              "exampleId": "u2-ex-079"
             },
             {
               "id": "u2-speaking-f8e739da4683",
@@ -1175,15 +2051,24 @@ export default {
               "type": "word",
               "pos": "adjective",
               "ipa": "/ˈkʌlərfəl/",
-              "example": "The garden is full of colourful flowers.",
-              "exampleTranslation": "Khu vườn đầy hoa sặc sỡ màu sắc."
+              "example": "The colourful buildings make this location a popular tourist area.",
+              "exampleTranslation": "Các tòa nhà nhiều màu sắc khiến địa điểm này trở thành khu du lịch được yêu thích.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 39–43, Speaking",
+              "exampleId": "u2-ex-079"
             },
             {
               "id": "u2-speaking-8ea904f02de4",
               "word": "tourist area",
               "meaning": "khu du lịch",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈtʊrəst ˈeriːə/",
+              "example": "The colourful buildings make this location a popular tourist area.",
+              "exampleTranslation": "Các tòa nhà nhiều màu sắc khiến địa điểm này trở thành khu du lịch được yêu thích.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 39–43, Speaking",
+              "exampleId": "u2-ex-079"
             },
             {
               "id": "u2-speaking-1ed270ea879e",
@@ -1192,8 +2077,11 @@ export default {
               "type": "phrase",
               "pos": "prepositional_phrase",
               "ipa": "/ɪn ðə saʊθ/",
-              "example": "The weather is warmer in the south.",
-              "exampleTranslation": "Thời tiết ấm hơn ở phía Nam."
+              "example": "In the south of the town, there is a huge indoor pool with incredible facilities.",
+              "exampleTranslation": "Ở phía nam thị trấn có một bể bơi trong nhà rất lớn với các tiện ích tuyệt vời.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 39–43, Speaking",
+              "exampleId": "u2-ex-080"
             },
             {
               "id": "u2-speaking-0fabe40e86f8",
@@ -1201,9 +2089,12 @@ export default {
               "meaning": "ở trong nhà",
               "type": "word",
               "pos": "adjective",
-              "ipa": "/ˈɪn.dɔːr/",
-              "example": "The indoor pool was heated.",
-              "exampleTranslation": "Hồ bơi trong nhà được sưởi ấm."
+              "ipa": "/ˈɪnˌdɔːr/",
+              "example": "In the south of the town, there is a huge indoor pool with incredible facilities.",
+              "exampleTranslation": "Ở phía nam thị trấn có một bể bơi trong nhà rất lớn với các tiện ích tuyệt vời.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 39–43, Speaking",
+              "exampleId": "u2-ex-080"
             },
             {
               "id": "u2-speaking-6bf67200c289",
@@ -1211,9 +2102,12 @@ export default {
               "meaning": "đáng kinh ngạc",
               "type": "word",
               "pos": "adjective",
-              "ipa": "/ɪnˈkredəbl/",
-              "example": "The view from the top of the mountain was incredible.",
-              "exampleTranslation": "Cảnh quan từ đỉnh núi rất đáng kinh ngạc."
+              "ipa": "/ˌɪnˈkredəbəl/",
+              "example": "In the south of the town, there is a huge indoor pool with incredible facilities.",
+              "exampleTranslation": "Ở phía nam thị trấn có một bể bơi trong nhà rất lớn với các tiện ích tuyệt vời.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 39–43, Speaking",
+              "exampleId": "u2-ex-080"
             },
             {
               "id": "u2-speaking-5e580eee1a39",
@@ -1222,50 +2116,89 @@ export default {
               "type": "word",
               "pos": "adjective",
               "ipa": "/hjuːdʒ/",
-              "example": "The huge elephant was impressive to see.",
-              "exampleTranslation": "Con voi khổng lồ rất đáng ngạc nhiên."
+              "example": "In the south of the town, there is a huge indoor pool with incredible facilities.",
+              "exampleTranslation": "Ở phía nam thị trấn có một bể bơi trong nhà rất lớn với các tiện ích tuyệt vời.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 39–43, Speaking",
+              "exampleId": "u2-ex-080"
             },
             {
               "id": "u2-speaking-15ded4eacf5e",
               "word": "in the north-east",
               "meaning": "ở phía đông bắc",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn ðə ˌnɔːrˈθiːst/",
+              "example": "Some towns are on the coast in the north-east, while others are inland.",
+              "exampleTranslation": "Một số thị trấn nằm ven biển ở phía đông bắc, còn những nơi khác nằm trong nội địa.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 180, track 23; SB pp. 39–43",
+              "exampleId": "u2-ex-081"
             },
             {
               "id": "u2-speaking-82044f595573",
               "word": "on the coast",
               "meaning": "ở ven biển",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn ðə koʊst/",
+              "example": "Some towns are on the coast in the north-east, while others are inland.",
+              "exampleTranslation": "Một số thị trấn nằm ven biển ở phía đông bắc, còn những nơi khác nằm trong nội địa.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 180, track 23; SB pp. 39–43",
+              "exampleId": "u2-ex-081"
             },
             {
               "id": "u2-speaking-9628d7750ebf",
               "word": "inland",
               "meaning": "trong nội địa",
               "type": "word",
-              "pos": "adverb"
+              "pos": "adverb",
+              "ipa": "/ˈɪnˌlænd/",
+              "example": "Some towns are on the coast in the north-east, while others are inland.",
+              "exampleTranslation": "Một số thị trấn nằm ven biển ở phía đông bắc, còn những nơi khác nằm trong nội địa.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 180, track 23; SB pp. 39–43",
+              "exampleId": "u2-ex-081"
             },
             {
               "id": "u2-speaking-7d4639f86a93",
               "word": "in the centre of town",
               "meaning": "ở trung tâm thị trấn",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn ðə ˈsentər əv taʊn/",
+              "example": "In the centre of town, on the north side of the square we have the historic town hall, which was built in 1895.",
+              "exampleTranslation": "Ở trung tâm thị trấn, phía bắc quảng trường, có tòa thị chính mang giá trị lịch sử được xây năm 1895.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 180, track 22",
+              "exampleId": "u2-ex-082"
             },
             {
               "id": "u2-speaking-08342948f1ed",
               "word": "on the north side of the square",
               "meaning": "ở phía bắc quảng trường",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn ðə nɔːrθ saɪd əv ðə skwer/",
+              "example": "In the centre of town, on the north side of the square we have the historic town hall, which was built in 1895.",
+              "exampleTranslation": "Ở trung tâm thị trấn, phía bắc quảng trường, có tòa thị chính mang giá trị lịch sử được xây năm 1895.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 180, track 22",
+              "exampleId": "u2-ex-082"
             },
             {
               "id": "u2-speaking-bcf6d0b67fe2",
               "word": "historic town hall",
               "meaning": "tòa thị chính có giá trị lịch sử",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/hɪˈstɔːrɪk taʊn hɔːl/",
+              "example": "In the centre of town, on the north side of the square we have the historic town hall, which was built in 1895.",
+              "exampleTranslation": "Ở trung tâm thị trấn, phía bắc quảng trường, có tòa thị chính mang giá trị lịch sử được xây năm 1895.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 180, track 22",
+              "exampleId": "u2-ex-082"
             },
             {
               "id": "u2-speaking-4d8ec8b91d6e",
@@ -1273,9 +2206,12 @@ export default {
               "meaning": "ở phía trước",
               "type": "phrase",
               "pos": "preposition",
-              "ipa": "/ɪn ˈfrʌnt əv/",
-              "example": "There is a fountain in front of the hotel.",
-              "exampleTranslation": "Có một đài phun nước phía trước khách sạn."
+              "ipa": "/ɪn frʌnt əv/",
+              "example": "In front of the town hall there is a fountain, and opposite it there is a library.",
+              "exampleTranslation": "Trước tòa thị chính có đài phun nước và đối diện là thư viện.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 180, track 22",
+              "exampleId": "u2-ex-083"
             },
             {
               "id": "u2-speaking-d9f62c2ad0ad",
@@ -1283,44 +2219,77 @@ export default {
               "meaning": "đối diện",
               "type": "word",
               "pos": "preposition",
-              "ipa": "/ˈɒp.ə.zɪt/",
-              "example": "The park is opposite the school.",
-              "exampleTranslation": "Công viên đối diện với trường học."
+              "ipa": "/ˈɑːpəzət/",
+              "example": "In front of the town hall there is a fountain, and opposite it there is a library.",
+              "exampleTranslation": "Trước tòa thị chính có đài phun nước và đối diện là thư viện.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 180, track 22",
+              "exampleId": "u2-ex-083"
             },
             {
               "id": "u2-speaking-2d73f24277d3",
               "word": "go over the bridge",
               "meaning": "đi qua cầu",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡoʊ ˈoʊvər ðə brɪdʒ/",
+              "example": "Then if you go over the bridge, we have the art gallery, a big modern building, which often has interesting exhibitions.",
+              "exampleTranslation": "Sau đó, đi qua cầu bạn sẽ gặp phòng trưng bày nghệ thuật, một tòa nhà lớn hiện đại thường có những triển lãm thú vị.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 180, track 22",
+              "exampleId": "u2-ex-084"
             },
             {
               "id": "u2-speaking-0139638a5463",
               "word": "art gallery",
               "meaning": "phòng trưng bày nghệ thuật",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ɑːrt ˈɡæləri/",
+              "example": "Then if you go over the bridge, we have the art gallery, a big modern building, which often has interesting exhibitions.",
+              "exampleTranslation": "Sau đó, đi qua cầu bạn sẽ gặp phòng trưng bày nghệ thuật, một tòa nhà lớn hiện đại thường có những triển lãm thú vị.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 180, track 22",
+              "exampleId": "u2-ex-084"
             },
             {
               "id": "u2-speaking-b69414f1b353",
               "word": "interesting exhibitions",
               "meaning": "những cuộc triển lãm thú vị",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈɪntərəstɪŋ ˌeksəˈbɪʃənz/",
+              "example": "Then if you go over the bridge, we have the art gallery, a big modern building, which often has interesting exhibitions.",
+              "exampleTranslation": "Sau đó, đi qua cầu bạn sẽ gặp phòng trưng bày nghệ thuật, một tòa nhà lớn hiện đại thường có những triển lãm thú vị.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 180, track 22",
+              "exampleId": "u2-ex-084"
             },
             {
               "id": "u2-speaking-31a390b2336f",
               "word": "shopping mall",
               "meaning": "trung tâm mua sắm",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈʃɑːpɪŋ mɔːl/",
+              "example": "I often meet up with friends at the shopping mall.",
+              "exampleTranslation": "Tôi thường gặp gỡ bạn bè tại trung tâm mua sắm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 180, track 22",
+              "exampleId": "u2-ex-085"
             },
             {
               "id": "u2-speaking-e637e1c28d15",
               "word": "meet up with friends",
               "meaning": "gặp gỡ bạn bè",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/miːt ʌp wɪð frendz/",
+              "example": "I often meet up with friends at the shopping mall.",
+              "exampleTranslation": "Tôi thường gặp gỡ bạn bè tại trung tâm mua sắm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 180, track 22",
+              "exampleId": "u2-ex-085"
             },
             {
               "id": "u2-speaking-b032a8abd93a",
@@ -1328,86 +2297,155 @@ export default {
               "meaning": "bên cạnh",
               "type": "phrase",
               "pos": "preposition",
-              "ipa": "/nekst tuː/",
-              "example": "The bank is next to the supermarket.",
-              "exampleTranslation": "Ngân hàng nằm bên cạnh siêu thị."
+              "ipa": "/neks tə/",
+              "example": "Next to the harbour is the stadium, where people go to watch our local football team.",
+              "exampleTranslation": "Bên cạnh bến cảng là sân vận động, nơi mọi người đến xem đội bóng địa phương thi đấu.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 180, track 22",
+              "exampleId": "u2-ex-086"
             },
             {
               "id": "u2-speaking-45ca990733fa",
               "word": "local football team",
               "meaning": "đội bóng địa phương",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈloʊkəl ˈfʊtˌbɔːl tiːm/",
+              "example": "Next to the harbour is the stadium, where people go to watch our local football team.",
+              "exampleTranslation": "Bên cạnh bến cảng là sân vận động, nơi mọi người đến xem đội bóng địa phương thi đấu.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 180, track 22",
+              "exampleId": "u2-ex-086"
             },
             {
               "id": "u2-speaking-d920f0abe0a5",
               "word": "outdoor pool",
               "meaning": "bể bơi ngoài trời",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈaʊtˌdɔːr puːl/",
+              "example": "It's an outdoor pool - lovely in summer, but very chilly the rest of the year.",
+              "exampleTranslation": "Đó là bể bơi ngoài trời, rất dễ chịu vào mùa hè nhưng khá lạnh vào thời gian còn lại trong năm.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 180, track 22",
+              "exampleId": "u2-ex-087"
             },
             {
               "id": "u2-speaking-b0b889633adb",
               "word": "chilly",
               "meaning": "khá lạnh; se lạnh",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/tʃɪli/",
+              "example": "It's an outdoor pool - lovely in summer, but very chilly the rest of the year.",
+              "exampleTranslation": "Đó là bể bơi ngoài trời, rất dễ chịu vào mùa hè nhưng khá lạnh vào thời gian còn lại trong năm.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 180, track 22",
+              "exampleId": "u2-ex-087"
             },
             {
               "id": "u2-speaking-bf878406334c",
               "word": "busy and crowded",
               "meaning": "nhộn nhịp và đông đúc",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/bɪzi ənd ˈkraʊdəd/",
+              "example": "The city is busy and crowded, and the weather is hot and humid.",
+              "exampleTranslation": "Thành phố nhộn nhịp, đông đúc và thời tiết nóng ẩm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 40–41, Speaking descriptions",
+              "exampleId": "u2-ex-088"
             },
             {
               "id": "u2-speaking-d0f951518407",
               "word": "hot and humid",
               "meaning": "nóng và ẩm",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/hɑːt ənd ˈhjuːməd/",
+              "example": "The city is busy and crowded, and the weather is hot and humid.",
+              "exampleTranslation": "Thành phố nhộn nhịp, đông đúc và thời tiết nóng ẩm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 40–41, Speaking descriptions",
+              "exampleId": "u2-ex-088"
             },
             {
               "id": "u2-speaking-23937fe0fe1f",
               "word": "cool and mild",
               "meaning": "mát mẻ và ôn hòa",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/kuːl ənd maɪld/",
+              "example": "The centre is lively and exciting but sometimes dirty and polluted; the outskirts are cool and mild.",
+              "exampleTranslation": "Trung tâm sôi động và thú vị nhưng đôi khi bẩn, ô nhiễm; vùng ngoại ô thì mát mẻ và ôn hòa.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 40–41, Speaking descriptions",
+              "exampleId": "u2-ex-089"
             },
             {
               "id": "u2-speaking-5c2e8b32bf77",
               "word": "dirty and polluted",
               "meaning": "bẩn và ô nhiễm",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/dɜːrti ənd pəˈluːtɪd/",
+              "example": "The centre is lively and exciting but sometimes dirty and polluted; the outskirts are cool and mild.",
+              "exampleTranslation": "Trung tâm sôi động và thú vị nhưng đôi khi bẩn, ô nhiễm; vùng ngoại ô thì mát mẻ và ôn hòa.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 40–41, Speaking descriptions",
+              "exampleId": "u2-ex-089"
             },
             {
               "id": "u2-speaking-1182b12bb8ca",
               "word": "lively and exciting",
               "meaning": "sôi động và thú vị",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/laɪvli ənd ɪkˈsaɪtɪŋ/",
+              "example": "The centre is lively and exciting but sometimes dirty and polluted; the outskirts are cool and mild.",
+              "exampleTranslation": "Trung tâm sôi động và thú vị nhưng đôi khi bẩn, ô nhiễm; vùng ngoại ô thì mát mẻ và ôn hòa.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 40–41, Speaking descriptions",
+              "exampleId": "u2-ex-089"
             },
             {
               "id": "u2-speaking-ac4405c5eb2b",
               "word": "tall and high-rise buildings",
               "meaning": "các tòa nhà cao tầng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/tɔːl ənd haɪ raɪz ˈbɪldɪŋz/",
+              "example": "The financial area has tall and high-rise buildings, while factories are in the industrial area.",
+              "exampleTranslation": "Khu tài chính có các tòa nhà cao tầng, còn nhà máy nằm trong khu công nghiệp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 40–41, Speaking descriptions",
+              "exampleId": "u2-ex-090"
             },
             {
               "id": "u2-speaking-3e4fa0e945a2",
               "word": "industrial area",
               "meaning": "khu công nghiệp",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌɪnˈdʌstriːəl ˈeriːə/",
+              "example": "The financial area has tall and high-rise buildings, while factories are in the industrial area.",
+              "exampleTranslation": "Khu tài chính có các tòa nhà cao tầng, còn nhà máy nằm trong khu công nghiệp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 40–41, Speaking descriptions",
+              "exampleId": "u2-ex-090"
             },
             {
               "id": "u2-speaking-e62c6b54a9fd",
               "word": "financial area",
               "meaning": "khu tài chính",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌfaɪˈnænʃəl ˈeriːə/",
+              "example": "The financial area has tall and high-rise buildings, while factories are in the industrial area.",
+              "exampleTranslation": "Khu tài chính có các tòa nhà cao tầng, còn nhà máy nằm trong khu công nghiệp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 40–41, Speaking descriptions",
+              "exampleId": "u2-ex-090"
             },
             {
               "id": "u2-speaking-41dda3b2113b",
@@ -1416,8 +2454,11 @@ export default {
               "type": "word",
               "pos": "adjective",
               "ipa": "/ˈeɪnʃənt/",
-              "example": "The ancient ruins are fascinating to explore.",
-              "exampleTranslation": "Những di tích cổ đại thật thú vị để khám phá."
+              "example": "An enormous, magnificent building stands at the end of a narrow street in the ancient town.",
+              "exampleTranslation": "Một tòa nhà khổng lồ, tráng lệ nằm ở cuối con phố hẹp trong thị trấn cổ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 40–43, Speaking descriptions",
+              "exampleId": "u2-ex-091"
             },
             {
               "id": "u2-speaking-beb942513440",
@@ -1425,9 +2466,12 @@ export default {
               "meaning": "tráng lệ",
               "type": "word",
               "pos": "adjective",
-              "ipa": "/mæɡˈnɪf.ə.sənt/",
-              "example": "The palace was magnificent.",
-              "exampleTranslation": "Cung điện rất hùng vĩ."
+              "ipa": "/mæɡˈnɪfəsənt/",
+              "example": "An enormous, magnificent building stands at the end of a narrow street in the ancient town.",
+              "exampleTranslation": "Một tòa nhà khổng lồ, tráng lệ nằm ở cuối con phố hẹp trong thị trấn cổ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 40–43, Speaking descriptions",
+              "exampleId": "u2-ex-091"
             },
             {
               "id": "u2-speaking-5eda958e9dde",
@@ -1435,9 +2479,12 @@ export default {
               "meaning": "hẹp",
               "type": "word",
               "pos": "adjective",
-              "ipa": "/ˈnær.oʊ/",
-              "example": "The narrow alley was difficult to navigate.",
-              "exampleTranslation": "Con hẻm chật hẹp khó đi qua."
+              "ipa": "/ˈnæroʊ/",
+              "example": "An enormous, magnificent building stands at the end of a narrow street in the ancient town.",
+              "exampleTranslation": "Một tòa nhà khổng lồ, tráng lệ nằm ở cuối con phố hẹp trong thị trấn cổ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 40–43, Speaking descriptions",
+              "exampleId": "u2-ex-091"
             },
             {
               "id": "u2-speaking-c354eb166766",
@@ -1445,58 +2492,103 @@ export default {
               "meaning": "rất lớn; khổng lồ",
               "type": "word",
               "pos": "adjective",
-              "ipa": "/ɪˈnɔrməs/",
-              "example": "The elephant was enormous and majestic.",
-              "exampleTranslation": "Con voi to lớn và uy nghi."
+              "ipa": "/iːˈnɔːrməs/",
+              "example": "An enormous, magnificent building stands at the end of a narrow street in the ancient town.",
+              "exampleTranslation": "Một tòa nhà khổng lồ, tráng lệ nằm ở cuối con phố hẹp trong thị trấn cổ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 40–43, Speaking descriptions",
+              "exampleId": "u2-ex-091"
             },
             {
               "id": "u2-speaking-595419e22f92",
               "word": "be situated on",
               "meaning": "nằm ở; tọa lạc bên",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː ˈsɪtʃuːˌeɪtɪd ɑːn/",
+              "example": "Our town is situated on the Yangtze river.",
+              "exampleTranslation": "Thị trấn của chúng tôi nằm bên sông Dương Tử.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 180, track 24",
+              "exampleId": "u2-ex-092"
             },
             {
               "id": "u2-speaking-087f0c0ccc6d",
               "word": "be located across from",
               "meaning": "nằm đối diện với",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː ˈloʊˌkeɪd əˈkrɔːs frəm/",
+              "example": "The library is located across from the swimming pool.",
+              "exampleTranslation": "Thư viện nằm đối diện bể bơi.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 180, track 24",
+              "exampleId": "u2-ex-093"
             },
             {
               "id": "u2-speaking-16f66304b179",
               "word": "change over the years",
               "meaning": "thay đổi qua năm tháng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/tʃeɪndʒ ˈoʊvər ðə jɪrz/",
+              "example": "Many things have changed over the years in my home town.",
+              "exampleTranslation": "Nhiều điều ở quê tôi đã thay đổi qua năm tháng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 180, track 24",
+              "exampleId": "u2-ex-094"
             },
             {
               "id": "u2-speaking-f54a3b0d8f77",
               "word": "look for work",
               "meaning": "tìm việc làm",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/lʊk fər wɜːrk/",
+              "example": "Recently, many young people have started to leave my home town to look for work.",
+              "exampleTranslation": "Gần đây, nhiều người trẻ đã bắt đầu rời quê tôi để tìm việc.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 180, track 24",
+              "exampleId": "u2-ex-095"
             },
             {
               "id": "u2-speaking-7ce5598892c9",
               "word": "be keen on sport",
               "meaning": "rất thích thể thao",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː kiːn ɑːn spɔːrt/",
+              "example": "I'm really keen on sport, especially swimming.",
+              "exampleTranslation": "Tôi rất thích thể thao, đặc biệt là bơi lội.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 180, track 25",
+              "exampleId": "u2-ex-096"
             },
             {
               "id": "u2-speaking-d23b38a33aca",
               "word": "ancient castle",
               "meaning": "lâu đài cổ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈeɪnʃənt ˈkæsəl/",
+              "example": "Most of the city is pretty modern, but there's an ancient castle where the Emperor used to live.",
+              "exampleTranslation": "Phần lớn thành phố khá hiện đại, nhưng có một lâu đài cổ nơi hoàng đế từng sống.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 180, track 25",
+              "exampleId": "u2-ex-097"
             },
             {
               "id": "u2-speaking-e361fc9fd63d",
               "word": "traffic jams",
               "meaning": "tình trạng tắc đường",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈtræfɪk dʒæmz/",
+              "example": "There are traffic jams, but public transport is modern and the underground is fast and cheap.",
+              "exampleTranslation": "Có tình trạng tắc đường, nhưng giao thông công cộng hiện đại và tàu điện ngầm nhanh, rẻ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 180, track 25",
+              "exampleId": "u2-ex-098"
             },
             {
               "id": "u2-speaking-1415b3e0aa64",
@@ -1504,23 +2596,38 @@ export default {
               "meaning": "phương tiện giao thông công cộng",
               "type": "phrase",
               "pos": "noun_phrase",
-              "ipa": "/ˌpʌblɪk ˈtrænspɔːrt/",
-              "example": "I usually take public transport to work.",
-              "exampleTranslation": "Tôi thường đi phương tiện giao thông công cộng đến nơi làm việc của mình."
+              "ipa": "/ˈpʌblɪk ˈtrænspɔːrt/",
+              "example": "There are traffic jams, but public transport is modern and the underground is fast and cheap.",
+              "exampleTranslation": "Có tình trạng tắc đường, nhưng giao thông công cộng hiện đại và tàu điện ngầm nhanh, rẻ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 180, track 25",
+              "exampleId": "u2-ex-098"
             },
             {
               "id": "u2-speaking-af9b34bfc2c4",
               "word": "the underground",
               "meaning": "tàu điện ngầm",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ði ˈʌndərɡraʊnd/",
+              "example": "There are traffic jams, but public transport is modern and the underground is fast and cheap.",
+              "exampleTranslation": "Có tình trạng tắc đường, nhưng giao thông công cộng hiện đại và tàu điện ngầm nhanh, rẻ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 180, track 25",
+              "exampleId": "u2-ex-098"
             },
             {
               "id": "u2-speaking-2c1867c137c4",
               "word": "places of interest",
               "meaning": "những địa điểm đáng tham quan",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈpleɪsəz əv ˈɪntərəst/",
+              "example": "The art gallery and the ancient castle are two places of interest.",
+              "exampleTranslation": "Phòng trưng bày nghệ thuật và lâu đài cổ là hai địa điểm đáng tham quan.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 39–43, Speaking",
+              "exampleId": "u2-ex-099"
             }
           ]
         },
@@ -1536,7 +2643,12 @@ export default {
               "meaning": "Tôi sinh ra và lớn lên ở ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "I was born and raised in a coastal town."
+              "ipa": "/aɪ wəz bɔːrn ənd reɪzd ɪn …/",
+              "example": "I was born and raised in a coastal town.",
+              "exampleTranslation": "Tôi sinh ra và lớn lên ở một thị trấn ven biển.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 39–43; TB pp. 26–28",
+              "exampleId": "u2-ex-100"
             },
             {
               "id": "u2-speaking-10ef0813788e",
@@ -1544,7 +2656,12 @@ export default {
               "meaning": "Điều tôi thích nhất ở quê mình là ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "What I like most about my home town is its relaxed atmosphere."
+              "ipa": "/hwʌt aɪ laɪk moʊs əˈbaʊt maɪ hoʊm taʊn ɪz …/",
+              "example": "What I like most about my home town is its relaxed atmosphere.",
+              "exampleTranslation": "Điều tôi thích nhất ở quê mình là bầu không khí thư thái.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 39–43; TB pp. 26–28",
+              "exampleId": "u2-ex-101"
             },
             {
               "id": "u2-speaking-a1a1799a4e33",
@@ -1552,7 +2669,12 @@ export default {
               "meaning": "Nơi đó nằm trong khoảng có thể đi bộ từ ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "The park is within walking distance of my house."
+              "ipa": "/ɪt ɪz wɪˈðɪn ˈwɔːkɪŋ ˈdɪstəns əv …/",
+              "example": "The park is within walking distance of my house.",
+              "exampleTranslation": "Công viên nằm trong khoảng có thể đi bộ từ nhà tôi.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 39–43; TB pp. 26–28",
+              "exampleId": "u2-ex-102"
             },
             {
               "id": "u2-speaking-3bc0d14b9e0b",
@@ -1560,7 +2682,12 @@ export default {
               "meaning": "Trước đây nơi đó ..., nhưng bây giờ ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "It used to be quiet, but now it is quite busy."
+              "ipa": "/ɪt juːst tə biː … bʌt naʊ …/",
+              "example": "It used to be quiet, but now it is quite busy.",
+              "exampleTranslation": "Trước đây nơi đó yên tĩnh, nhưng hiện nay khá đông đúc.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 39–43; TB pp. 26–28",
+              "exampleId": "u2-ex-103"
             },
             {
               "id": "u2-speaking-58d603b78e54",
@@ -1568,28 +2695,51 @@ export default {
               "meaning": "Trong mười năm qua, ... đã trở nên ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "Over the past ten years, my town has become more modern."
+              "ipa": "/ˈoʊvər ðə pæst ten jɪrz … hæz bɪˈkʌm …/",
+              "example": "Over the past ten years, my town has become more modern.",
+              "exampleTranslation": "Trong mười năm qua, thị trấn đã trở nên hiện đại hơn.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 39–43; TB pp. 26–28",
+              "exampleId": "u2-ex-104"
             },
             {
               "id": "u2-speaking-0719e7666ba4",
               "word": "a strong sense of community",
               "meaning": "cảm giác gắn kết cộng đồng mạnh mẽ",
               "type": "collocation",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə strɔːŋ sens əv kəmˈjuːnəti/",
+              "example": "My neighbourhood offers a strong sense of community, a relaxed pace of life and easy access to public transport.",
+              "exampleTranslation": "Khu phố tôi có sự gắn kết cộng đồng, nhịp sống thư thái và thuận tiện sử dụng giao thông công cộng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 39–43, Speaking extension",
+              "exampleId": "u2-ex-105"
             },
             {
               "id": "u2-speaking-aa1bcf31d713",
               "word": "a relaxed pace of life",
               "meaning": "nhịp sống thư thái",
               "type": "collocation",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə riːˈlækst peɪs əv laɪf/",
+              "example": "My neighbourhood offers a strong sense of community, a relaxed pace of life and easy access to public transport.",
+              "exampleTranslation": "Khu phố tôi có sự gắn kết cộng đồng, nhịp sống thư thái và thuận tiện sử dụng giao thông công cộng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 39–43, Speaking extension",
+              "exampleId": "u2-ex-105"
             },
             {
               "id": "u2-speaking-a381743e935f",
               "word": "easy access to public transport",
               "meaning": "dễ tiếp cận phương tiện công cộng",
               "type": "collocation",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/iːzi ˈækˌses tə ˈpʌblɪk ˈtrænspɔːrt/",
+              "example": "My neighbourhood offers a strong sense of community, a relaxed pace of life and easy access to public transport.",
+              "exampleTranslation": "Khu phố tôi có sự gắn kết cộng đồng, nhịp sống thư thái và thuận tiện sử dụng giao thông công cộng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 39–43, Speaking extension",
+              "exampleId": "u2-ex-105"
             }
           ]
         }
@@ -1611,133 +2761,247 @@ export default {
               "word": "university campus",
               "meaning": "khuôn viên trường đại học",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌjuːnəˈvɜːrsəti ˈkæmpəs/",
+              "example": "The university campus changed greatly during this period.",
+              "exampleTranslation": "Khuôn viên đại học thay đổi nhiều trong giai đoạn này.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 32, Writing model",
+              "exampleId": "u2-ex-106"
             },
             {
               "id": "u2-writing-d77b2265fc72",
               "word": "halls of residence",
               "meaning": "ký túc xá sinh viên",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/hɔːlz əv ˈrezɪdəns/",
+              "example": "The campus includes halls of residence, lecture theatres, laboratories and a Students' Union.",
+              "exampleTranslation": "Khuôn viên có ký túc xá, giảng đường, phòng thí nghiệm và tòa nhà hội sinh viên.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 30–32, campus maps",
+              "exampleId": "u2-ex-107"
             },
             {
               "id": "u2-writing-b9121d1e78ac",
               "word": "lecture theatres",
               "meaning": "giảng đường",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈlektʃər ˈθiːətərz/",
+              "example": "The campus includes halls of residence, lecture theatres, laboratories and a Students' Union.",
+              "exampleTranslation": "Khuôn viên có ký túc xá, giảng đường, phòng thí nghiệm và tòa nhà hội sinh viên.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 30–32, campus maps",
+              "exampleId": "u2-ex-107"
             },
             {
               "id": "u2-writing-6c8f7d0993d7",
               "word": "laboratories",
               "meaning": "các phòng thí nghiệm",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈlæbrəˌtɔːriːz/",
+              "example": "The campus includes halls of residence, lecture theatres, laboratories and a Students' Union.",
+              "exampleTranslation": "Khuôn viên có ký túc xá, giảng đường, phòng thí nghiệm và tòa nhà hội sinh viên.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 30–32, campus maps",
+              "exampleId": "u2-ex-107"
             },
             {
               "id": "u2-writing-63ad963d12d5",
               "word": "Students' Union",
               "meaning": "hội sinh viên; tòa nhà hội sinh viên",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈstuːdənts ˈjuːnjən/",
+              "example": "The campus includes halls of residence, lecture theatres, laboratories and a Students' Union.",
+              "exampleTranslation": "Khuôn viên có ký túc xá, giảng đường, phòng thí nghiệm và tòa nhà hội sinh viên.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 30–32, campus maps",
+              "exampleId": "u2-ex-107"
             },
             {
               "id": "u2-writing-3fe85321c539",
               "word": "recreation area",
               "meaning": "khu vui chơi, giải trí",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌrekriːˈeɪʃən ˈeriːə/",
+              "example": "The tennis courts were demolished; however, in their place the university created a recreation area with seating areas.",
+              "exampleTranslation": "Các sân quần vợt bị phá dỡ; tuy nhiên, tại chỗ đó trường tạo một khu giải trí có chỗ ngồi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 32, Writing model",
+              "exampleId": "u2-ex-108"
             },
             {
               "id": "u2-writing-8936bcc0cf4d",
               "word": "football pitch",
               "meaning": "sân bóng đá",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈfʊtˌbɔːl pɪtʃ/",
+              "example": "The football pitch is on the left side of the campus, while the car park is in the top right-hand corner.",
+              "exampleTranslation": "Sân bóng đá nằm bên trái khuôn viên, còn bãi đỗ xe ở góc trên bên phải.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 30–34, map language practice",
+              "exampleId": "u2-ex-109"
             },
             {
               "id": "u2-writing-47a9f2d4aa42",
               "word": "table tennis tables",
               "meaning": "bàn bóng bàn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈteɪbəl ˈtenəs ˈteɪbəlz/",
+              "example": "What is more, the university developed new sports facilities, including table tennis tables.",
+              "exampleTranslation": "Hơn nữa, trường đại học xây dựng thêm các tiện ích thể thao, gồm các bàn bóng bàn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 32, Writing model",
+              "exampleId": "u2-ex-110"
             },
             {
               "id": "u2-writing-e6b059404156",
               "word": "car park",
               "meaning": "bãi đỗ xe",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/kɑːr pɑːrk/",
+              "example": "There was a car park there in 1995, whereas now the main reception is there.",
+              "exampleTranslation": "Năm 1995 nơi đó là bãi đỗ xe, còn hiện nay là khu lễ tân chính.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 32, Writing model",
+              "exampleId": "u2-ex-111"
             },
             {
               "id": "u2-writing-a27919247b27",
               "word": "tennis courts",
               "meaning": "sân quần vợt",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈtenəs kɔːrts/",
+              "example": "The tennis courts were demolished; however, in their place the university created a recreation area with seating areas.",
+              "exampleTranslation": "Các sân quần vợt bị phá dỡ; tuy nhiên, tại chỗ đó trường tạo một khu giải trí có chỗ ngồi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 32, Writing model",
+              "exampleId": "u2-ex-108"
             },
             {
               "id": "u2-writing-2d6ef9f59b2a",
               "word": "seating areas",
               "meaning": "các khu vực có chỗ ngồi",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈsiːtɪŋ ˈeriːəz/",
+              "example": "The tennis courts were demolished; however, in their place the university created a recreation area with seating areas.",
+              "exampleTranslation": "Các sân quần vợt bị phá dỡ; tuy nhiên, tại chỗ đó trường tạo một khu giải trí có chỗ ngồi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 32, Writing model",
+              "exampleId": "u2-ex-108"
             },
             {
               "id": "u2-writing-bc133445009a",
               "word": "in the top right-hand corner",
               "meaning": "ở góc trên bên phải",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn ðə tɑːp raɪtˈhænd ˈkɔːrnər/",
+              "example": "The football pitch is on the left side of the campus, while the car park is in the top right-hand corner.",
+              "exampleTranslation": "Sân bóng đá nằm bên trái khuôn viên, còn bãi đỗ xe ở góc trên bên phải.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 30–34, map language practice",
+              "exampleId": "u2-ex-109"
             },
             {
               "id": "u2-writing-b8872d5ce6d5",
               "word": "on the left side of",
               "meaning": "ở phía bên trái của",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn ðə left saɪd əv/",
+              "example": "The football pitch is on the left side of the campus, while the car park is in the top right-hand corner.",
+              "exampleTranslation": "Sân bóng đá nằm bên trái khuôn viên, còn bãi đỗ xe ở góc trên bên phải.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 30–34, map language practice",
+              "exampleId": "u2-ex-109"
             },
             {
               "id": "u2-writing-b2876107b7ae",
               "word": "between ... and ...",
               "meaning": "giữa ... và ...",
               "type": "structure",
-              "pos": "sentence_pattern"
+              "pos": "sentence_pattern",
+              "ipa": "/biːtˈwiːn … ənd …/",
+              "example": "The library is between the gym and the pond, in the middle of the campus and to the right of the buildings towards the bottom of the map.",
+              "exampleTranslation": "Thư viện nằm giữa phòng tập và ao, ở giữa khuôn viên và bên phải các tòa nhà phía dưới bản đồ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 30–31, location language",
+              "exampleId": "u2-ex-112"
             },
             {
               "id": "u2-writing-f4ce2522775a",
               "word": "in the middle of",
               "meaning": "ở giữa",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn ðə ˈmɪdəl əv/",
+              "example": "The library is between the gym and the pond, in the middle of the campus and to the right of the buildings towards the bottom of the map.",
+              "exampleTranslation": "Thư viện nằm giữa phòng tập và ao, ở giữa khuôn viên và bên phải các tòa nhà phía dưới bản đồ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 30–31, location language",
+              "exampleId": "u2-ex-112"
             },
             {
               "id": "u2-writing-00237eff121d",
               "word": "towards the bottom of",
               "meaning": "về phía dưới của",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/tɔːrdz ðə ˈbɑːtəm əv/",
+              "example": "The library is between the gym and the pond, in the middle of the campus and to the right of the buildings towards the bottom of the map.",
+              "exampleTranslation": "Thư viện nằm giữa phòng tập và ao, ở giữa khuôn viên và bên phải các tòa nhà phía dưới bản đồ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 30–31, location language",
+              "exampleId": "u2-ex-112"
             },
             {
               "id": "u2-writing-8d79a8f48121",
               "word": "to the right of",
               "meaning": "ở bên phải của",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/tə ðə raɪt əv/",
+              "example": "The library is between the gym and the pond, in the middle of the campus and to the right of the buildings towards the bottom of the map.",
+              "exampleTranslation": "Thư viện nằm giữa phòng tập và ao, ở giữa khuôn viên và bên phải các tòa nhà phía dưới bản đồ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 30–31, location language",
+              "exampleId": "u2-ex-112"
             },
             {
               "id": "u2-writing-54fc0bf0aab2",
               "word": "in the past",
               "meaning": "trong quá khứ",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn ðə pæst/",
+              "example": "In the past, the library was relocated; in addition, it increased in size.",
+              "exampleTranslation": "Trước đây, thư viện được di dời; ngoài ra, diện tích của nó còn tăng lên.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 32, Writing model",
+              "exampleId": "u2-ex-113"
             },
             {
               "id": "u2-writing-a27acd7fcabd",
               "word": "during this period",
               "meaning": "trong giai đoạn này",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ˈdɜːrɪŋ ðɪs ˈpɪriːəd/",
+              "example": "The university campus changed greatly during this period.",
+              "exampleTranslation": "Khuôn viên đại học thay đổi nhiều trong giai đoạn này.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 32, Writing model",
+              "exampleId": "u2-ex-106"
             }
           ]
         },
@@ -1752,21 +3016,39 @@ export default {
               "word": "relocate",
               "meaning": "di dời sang vị trí khác",
               "type": "word",
-              "pos": "verb"
+              "pos": "verb",
+              "ipa": "/ˌriːˈloʊkeɪt/",
+              "example": "In the past, the library was relocated; in addition, it increased in size.",
+              "exampleTranslation": "Trước đây, thư viện được di dời; ngoài ra, diện tích của nó còn tăng lên.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 32, Writing model",
+              "exampleId": "u2-ex-113"
             },
             {
               "id": "u2-writing-2cce7b42f09c",
               "word": "increase in size",
               "meaning": "tăng về diện tích; mở rộng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɪnˈkriːs ɪn saɪz/",
+              "example": "In the past, the library was relocated; in addition, it increased in size.",
+              "exampleTranslation": "Trước đây, thư viện được di dời; ngoài ra, diện tích của nó còn tăng lên.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 32, Writing model",
+              "exampleId": "u2-ex-113"
             },
             {
               "id": "u2-writing-f7ecefe85890",
               "word": "demolish",
               "meaning": "phá dỡ",
               "type": "word",
-              "pos": "verb"
+              "pos": "verb",
+              "ipa": "/dɪˈmɑːlɪʃ/",
+              "example": "The tennis courts were demolished; however, in their place the university created a recreation area with seating areas.",
+              "exampleTranslation": "Các sân quần vợt bị phá dỡ; tuy nhiên, tại chỗ đó trường tạo một khu giải trí có chỗ ngồi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 32, Writing model",
+              "exampleId": "u2-ex-108"
             },
             {
               "id": "u2-writing-d78de925a878",
@@ -1775,134 +3057,245 @@ export default {
               "type": "word",
               "pos": "verb",
               "ipa": "/ɪkˈspænd/",
-              "example": "The company plans to expand its operations overseas.",
-              "exampleTranslation": "Công ty dự định mở rộng hoạt động của mình ở nước ngoài."
+              "example": "It is clear that the university changed and expanded during this period.",
+              "exampleTranslation": "Có thể thấy rõ rằng trường đại học đã thay đổi và mở rộng trong giai đoạn này.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 32, Writing model",
+              "exampleId": "u2-ex-114"
             },
             {
               "id": "u2-writing-947726dd6318",
               "word": "develop",
               "meaning": "phát triển; xây dựng thêm",
               "type": "word",
-              "pos": "verb"
+              "pos": "verb",
+              "ipa": "/dɪˈveləp/",
+              "example": "What is more, the university developed new sports facilities, including table tennis tables.",
+              "exampleTranslation": "Hơn nữa, trường đại học xây dựng thêm các tiện ích thể thao, gồm các bàn bóng bàn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 32, Writing model",
+              "exampleId": "u2-ex-110"
             },
             {
               "id": "u2-writing-2b4ee6a219bb",
               "word": "create a recreation area",
               "meaning": "tạo một khu vui chơi, giải trí",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kriːˈeɪt ə ˌrekriːˈeɪʃən ˈeriːə/",
+              "example": "The tennis courts were demolished; however, in their place the university created a recreation area with seating areas.",
+              "exampleTranslation": "Các sân quần vợt bị phá dỡ; tuy nhiên, tại chỗ đó trường tạo một khu giải trí có chỗ ngồi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 32, Writing model",
+              "exampleId": "u2-ex-108"
             },
             {
               "id": "u2-writing-3f7ecc24887e",
               "word": "in their place",
               "meaning": "tại vị trí trước đó của chúng",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn ðer pleɪs/",
+              "example": "The tennis courts were demolished; however, in their place the university created a recreation area with seating areas.",
+              "exampleTranslation": "Các sân quần vợt bị phá dỡ; tuy nhiên, tại chỗ đó trường tạo một khu giải trí có chỗ ngồi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 32, Writing model",
+              "exampleId": "u2-ex-108"
             },
             {
               "id": "u2-writing-a6fe080d1b11",
               "word": "cut down trees",
               "meaning": "chặt cây",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kʌt daʊn triːz/",
+              "example": "Workers cut down trees, dug a pond and planted new trees around it.",
+              "exampleTranslation": "Công nhân chặt cây, đào một cái ao rồi trồng cây mới quanh ao.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 32–33, map changes",
+              "exampleId": "u2-ex-115"
             },
             {
               "id": "u2-writing-8f44248c8a15",
               "word": "dig a pond",
               "meaning": "đào ao",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/dɪɡ ə pɑːnd/",
+              "example": "Workers cut down trees, dug a pond and planted new trees around it.",
+              "exampleTranslation": "Công nhân chặt cây, đào một cái ao rồi trồng cây mới quanh ao.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 32–33, map changes",
+              "exampleId": "u2-ex-115"
             },
             {
               "id": "u2-writing-397c40b0c852",
               "word": "plant trees",
               "meaning": "trồng cây",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/plænt triːz/",
+              "example": "Workers cut down trees, dug a pond and planted new trees around it.",
+              "exampleTranslation": "Công nhân chặt cây, đào một cái ao rồi trồng cây mới quanh ao.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 32–33, map changes",
+              "exampleId": "u2-ex-115"
             },
             {
               "id": "u2-writing-f9071321eaa6",
               "word": "arts centre",
               "meaning": "trung tâm nghệ thuật",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ɑːrts ˈsentər/",
+              "example": "The wasteland was developed into an arts centre with a concert hall, meeting rooms, an information desk, an exhibition area and an outdoor performance area.",
+              "exampleTranslation": "Khu đất bỏ hoang được phát triển thành trung tâm nghệ thuật có phòng hòa nhạc, phòng họp, quầy thông tin, khu triển lãm và khu biểu diễn ngoài trời.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 34, arts-centre maps",
+              "exampleId": "u2-ex-116"
             },
             {
               "id": "u2-writing-f044d65d03ae",
               "word": "concert hall",
               "meaning": "phòng hòa nhạc",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈkɑːnsərt hɔːl/",
+              "example": "The wasteland was developed into an arts centre with a concert hall, meeting rooms, an information desk, an exhibition area and an outdoor performance area.",
+              "exampleTranslation": "Khu đất bỏ hoang được phát triển thành trung tâm nghệ thuật có phòng hòa nhạc, phòng họp, quầy thông tin, khu triển lãm và khu biểu diễn ngoài trời.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 34, arts-centre maps",
+              "exampleId": "u2-ex-116"
             },
             {
               "id": "u2-writing-57896d594010",
               "word": "meeting rooms",
               "meaning": "phòng họp",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈmiːtɪŋ ruːmz/",
+              "example": "The wasteland was developed into an arts centre with a concert hall, meeting rooms, an information desk, an exhibition area and an outdoor performance area.",
+              "exampleTranslation": "Khu đất bỏ hoang được phát triển thành trung tâm nghệ thuật có phòng hòa nhạc, phòng họp, quầy thông tin, khu triển lãm và khu biểu diễn ngoài trời.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 34, arts-centre maps",
+              "exampleId": "u2-ex-116"
             },
             {
               "id": "u2-writing-9f29e5c3560e",
               "word": "information desk",
               "meaning": "quầy thông tin",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌɪnfərˈmeɪʃən desk/",
+              "example": "The wasteland was developed into an arts centre with a concert hall, meeting rooms, an information desk, an exhibition area and an outdoor performance area.",
+              "exampleTranslation": "Khu đất bỏ hoang được phát triển thành trung tâm nghệ thuật có phòng hòa nhạc, phòng họp, quầy thông tin, khu triển lãm và khu biểu diễn ngoài trời.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 34, arts-centre maps",
+              "exampleId": "u2-ex-116"
             },
             {
               "id": "u2-writing-a4b18daa52ae",
               "word": "wasteland",
               "meaning": "đất bỏ hoang",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈweɪstˌlænd/",
+              "example": "The wasteland was developed into an arts centre with a concert hall, meeting rooms, an information desk, an exhibition area and an outdoor performance area.",
+              "exampleTranslation": "Khu đất bỏ hoang được phát triển thành trung tâm nghệ thuật có phòng hòa nhạc, phòng họp, quầy thông tin, khu triển lãm và khu biểu diễn ngoài trời.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 34, arts-centre maps",
+              "exampleId": "u2-ex-116"
             },
             {
               "id": "u2-writing-f1a1e6efe2b1",
               "word": "exhibition area",
               "meaning": "khu triển lãm",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌeksəˈbɪʃən ˈeriːə/",
+              "example": "The wasteland was developed into an arts centre with a concert hall, meeting rooms, an information desk, an exhibition area and an outdoor performance area.",
+              "exampleTranslation": "Khu đất bỏ hoang được phát triển thành trung tâm nghệ thuật có phòng hòa nhạc, phòng họp, quầy thông tin, khu triển lãm và khu biểu diễn ngoài trời.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 34, arts-centre maps",
+              "exampleId": "u2-ex-116"
             },
             {
               "id": "u2-writing-6e2a2d1d52bf",
               "word": "outdoor performance area",
               "meaning": "khu biểu diễn ngoài trời",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈaʊtˌdɔːr pərˈfɔːrməns ˈeriːə/",
+              "example": "The wasteland was developed into an arts centre with a concert hall, meeting rooms, an information desk, an exhibition area and an outdoor performance area.",
+              "exampleTranslation": "Khu đất bỏ hoang được phát triển thành trung tâm nghệ thuật có phòng hòa nhạc, phòng họp, quầy thông tin, khu triển lãm và khu biểu diễn ngoài trời.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 34, arts-centre maps",
+              "exampleId": "u2-ex-116"
             },
             {
               "id": "u2-writing-a97541517d61",
               "word": "whereas",
               "meaning": "trong khi đó; còn",
               "type": "word",
-              "pos": "conjunction"
+              "pos": "conjunction",
+              "ipa": "/hweˈræz/",
+              "example": "There was a car park there in 1995, whereas now the main reception is there.",
+              "exampleTranslation": "Năm 1995 nơi đó là bãi đỗ xe, còn hiện nay là khu lễ tân chính.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 32, Writing model",
+              "exampleId": "u2-ex-111"
             },
             {
               "id": "u2-writing-47951833ecf6",
               "word": "however",
               "meaning": "tuy nhiên",
               "type": "word",
-              "pos": "adverb"
+              "pos": "adverb",
+              "ipa": "/ˌhaʊˈevər/",
+              "example": "The tennis courts were demolished; however, in their place the university created a recreation area with seating areas.",
+              "exampleTranslation": "Các sân quần vợt bị phá dỡ; tuy nhiên, tại chỗ đó trường tạo một khu giải trí có chỗ ngồi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 32, Writing model",
+              "exampleId": "u2-ex-108"
             },
             {
               "id": "u2-writing-9c8027f087cf",
               "word": "in addition",
               "meaning": "ngoài ra",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn əˈdɪʃən/",
+              "example": "In the past, the library was relocated; in addition, it increased in size.",
+              "exampleTranslation": "Trước đây, thư viện được di dời; ngoài ra, diện tích của nó còn tăng lên.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 32, Writing model",
+              "exampleId": "u2-ex-113"
             },
             {
               "id": "u2-writing-54fe228d9556",
               "word": "what is more",
               "meaning": "hơn nữa",
               "type": "phrase",
-              "pos": "expression"
+              "pos": "expression",
+              "ipa": "/hwʌt ɪz mɔːr/",
+              "example": "What is more, the university developed new sports facilities, including table tennis tables.",
+              "exampleTranslation": "Hơn nữa, trường đại học xây dựng thêm các tiện ích thể thao, gồm các bàn bóng bàn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 32, Writing model",
+              "exampleId": "u2-ex-110"
             },
             {
               "id": "u2-writing-691365ab14e0",
               "word": "it is clear that",
               "meaning": "có thể thấy rõ rằng",
               "type": "phrase",
-              "pos": "sentence_pattern"
+              "pos": "sentence_pattern",
+              "ipa": "/ɪt ɪz klɪr ðæt/",
+              "example": "It is clear that the university changed and expanded during this period.",
+              "exampleTranslation": "Có thể thấy rõ rằng trường đại học đã thay đổi và mở rộng trong giai đoạn này.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 32, Writing model",
+              "exampleId": "u2-ex-114"
             }
           ]
         },
@@ -1918,7 +3311,12 @@ export default {
               "meaning": "Hai bản đồ thể hiện ... đã thay đổi như thế nào từ ... đến ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "The maps show how the campus changed between 2005 and 2025."
+              "ipa": "/ðə mæps ʃoʊ haʊ … tʃeɪndʒd biːtˈwiːn … ənd …/",
+              "example": "The maps show how the campus changed between 2005 and 2025.",
+              "exampleTranslation": "Hai bản đồ thể hiện khuôn viên đã thay đổi thế nào từ năm 2005 đến năm 2025.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 30–34; TB pp. 21–23",
+              "exampleId": "u2-ex-117"
             },
             {
               "id": "u2-writing-75575e545e0e",
@@ -1926,7 +3324,12 @@ export default {
               "meaning": "Nhìn chung, khu vực này trở nên ... hơn.",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "Overall, the area became more developed."
+              "ipa": "/ˈoʊvərˌɔːl ðə ˈeriːə biːˈkeɪm mɔːr …/",
+              "example": "Overall, the area became more developed.",
+              "exampleTranslation": "Nhìn chung, khu vực này trở nên phát triển hơn.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 30–34; TB pp. 21–23",
+              "exampleId": "u2-ex-118"
             },
             {
               "id": "u2-writing-48ed28bb364d",
@@ -1934,7 +3337,12 @@ export default {
               "meaning": "... đã được thay thế bằng ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "The car park was replaced by a garden."
+              "ipa": "/… wəz ˌriːˈpleɪst baɪ …/",
+              "example": "The car park was replaced by a garden.",
+              "exampleTranslation": "Bãi đỗ xe được thay thế bằng một khu vườn.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 30–34; TB pp. 21–23",
+              "exampleId": "u2-ex-119"
             },
             {
               "id": "u2-writing-2ad6ddf85a1d",
@@ -1942,7 +3350,12 @@ export default {
               "meaning": "... đã được chuyển đổi thành ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "The warehouse was converted into a library."
+              "ipa": "/… wəz kənˈvɜːrtɪd ˈɪntuː …/",
+              "example": "The warehouse was converted into a library.",
+              "exampleTranslation": "Nhà kho được chuyển thành thư viện.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 30–34; TB pp. 21–23",
+              "exampleId": "u2-ex-120"
             },
             {
               "id": "u2-writing-dbf114460a2e",
@@ -1950,7 +3363,12 @@ export default {
               "meaning": "... vẫn không thay đổi.",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "The main entrance remained unchanged."
+              "ipa": "/… riːˈmeɪnd ənˈtʃeɪndʒd/",
+              "example": "The main entrance remained unchanged.",
+              "exampleTranslation": "Lối vào chính vẫn không thay đổi.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 30–34; TB pp. 21–23",
+              "exampleId": "u2-ex-121"
             },
             {
               "id": "u2-writing-dcf2ded20d21",
@@ -1958,7 +3376,12 @@ export default {
               "meaning": "... đã được mở rộng về phía bắc.",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "The library was extended to the north."
+              "ipa": "/… wəz ɪkˈstendəd tə ðə nɔːrθ/",
+              "example": "The library was extended to the north.",
+              "exampleTranslation": "Thư viện được mở rộng về phía bắc.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 30–34; TB pp. 21–23",
+              "exampleId": "u2-ex-122"
             },
             {
               "id": "u2-writing-edd9d5ddbdd0",
@@ -1966,7 +3389,12 @@ export default {
               "meaning": "... đã được xây trên khu đất trước đây là ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "A café was built on the site of the old gym."
+              "ipa": "/… wəz bɪlt ɑːn ðə saɪt əv …/",
+              "example": "A café was built on the site of the old gym.",
+              "exampleTranslation": "Một quán cà phê được xây trên khu đất trước đây là phòng tập.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 30–34; TB pp. 21–23",
+              "exampleId": "u2-ex-123"
             }
           ]
         }

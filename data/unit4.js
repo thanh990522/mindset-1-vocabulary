@@ -19,35 +19,65 @@ export default {
               "word": "eat with your fingers",
               "meaning": "ăn bằng tay",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/iːt wɪð jər ˈfɪŋɡərz/",
+              "example": "To eat rice and curry with your fingers, mix them together and form a ball.",
+              "exampleTranslation": "Để ăn cơm và cà ri bằng tay, hãy trộn chúng với nhau rồi nặn thành một viên tròn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-001"
             },
             {
               "id": "u4-reading-9d4041e00a54",
               "word": "rice and curry",
               "meaning": "cơm và cà ri",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/raɪs ənd kʌri/",
+              "example": "To eat rice and curry with your fingers, mix them together and form a ball.",
+              "exampleTranslation": "Để ăn cơm và cà ri bằng tay, hãy trộn chúng với nhau rồi nặn thành một viên tròn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-001"
             },
             {
               "id": "u4-reading-7b1b89a5b93a",
               "word": "form a ball",
               "meaning": "nặn thành một viên tròn",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/fɔːrm ə bɔːl/",
+              "example": "To eat rice and curry with your fingers, mix them together and form a ball.",
+              "exampleTranslation": "Để ăn cơm và cà ri bằng tay, hãy trộn chúng với nhau rồi nặn thành một viên tròn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-001"
             },
             {
               "id": "u4-reading-cc1a5dc3abe7",
               "word": "daal",
               "meaning": "món cà ri đậu lăng",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/dɑːl/",
+              "example": "Daal is a lentil curry widely eaten in the Indian subcontinent.",
+              "exampleTranslation": "Daal là món cà ri đậu lăng được ăn phổ biến ở tiểu lục địa Ấn Độ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-002"
             },
             {
               "id": "u4-reading-4aa43af34529",
               "word": "lentil curry",
               "meaning": "cà ri đậu lăng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈlentəl kʌri/",
+              "example": "Daal is a lentil curry widely eaten in the Indian subcontinent.",
+              "exampleTranslation": "Daal là món cà ri đậu lăng được ăn phổ biến ở tiểu lục địa Ấn Độ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-002"
             },
             {
               "id": "u4-reading-1f8ed8c0fadb",
@@ -55,16 +85,25 @@ export default {
               "meaning": "đầu ngón tay",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ˈfɪŋɡərtɪps/",
-              "example": "I felt the sand between my fingertips.",
-              "exampleTranslation": "Tôi cảm thấy cát giữa đầu ngón tay của mình."
+              "ipa": "/ˈfɪŋɡərˌtɪps/",
+              "example": "You use your fingertips, never the palm of your hand, and use your thumb to pop it into your mouth.",
+              "exampleTranslation": "Bạn dùng đầu ngón tay, tuyệt đối không dùng lòng bàn tay, và dùng ngón cái để đưa thức ăn vào miệng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-003"
             },
             {
               "id": "u4-reading-73e85ddae96a",
               "word": "the palm of your hand",
               "meaning": "lòng bàn tay",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðə pɑːlm əv jər hænd/",
+              "example": "You use your fingertips, never the palm of your hand, and use your thumb to pop it into your mouth.",
+              "exampleTranslation": "Bạn dùng đầu ngón tay, tuyệt đối không dùng lòng bàn tay, và dùng ngón cái để đưa thức ăn vào miệng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-003"
             },
             {
               "id": "u4-reading-05eeec2d7084",
@@ -73,15 +112,24 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/θʌm/",
-              "example": "I hurt my thumb playing basketball.",
-              "exampleTranslation": "Tôi làm đau ngón tay cái khi chơi bóng rổ."
+              "example": "You use your fingertips, never the palm of your hand, and use your thumb to pop it into your mouth.",
+              "exampleTranslation": "Bạn dùng đầu ngón tay, tuyệt đối không dùng lòng bàn tay, và dùng ngón cái để đưa thức ăn vào miệng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-003"
             },
             {
               "id": "u4-reading-54f35d9c1d62",
               "word": "pop it into your mouth",
               "meaning": "bỏ nhanh nó vào miệng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/pɑːp ɪt ˈɪntuː jər maʊθ/",
+              "example": "You use your fingertips, never the palm of your hand, and use your thumb to pop it into your mouth.",
+              "exampleTranslation": "Bạn dùng đầu ngón tay, tuyệt đối không dùng lòng bàn tay, và dùng ngón cái để đưa thức ăn vào miệng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-003"
             },
             {
               "id": "u4-reading-1ac7d61d1d29",
@@ -89,23 +137,38 @@ export default {
               "meaning": "những lần thử",
               "type": "word",
               "pos": "noun",
-              "ipa": "/əˈtempts/",
-              "example": "Despite several attempts to fix the problem, it persisted.",
-              "exampleTranslation": "Mặc dù đã có nhiều nỗ lực để giải quyết vấn đề nhưng vấn đề vẫn tiếp diễn."
+              "ipa": "/əˈtemps/",
+              "example": "I thought I knew where my mouth was, but my first few attempts were a disaster.",
+              "exampleTranslation": "Tôi tưởng mình biết miệng ở đâu, nhưng vài lần thử đầu tiên thật là thảm họa.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-004"
             },
             {
               "id": "u4-reading-03e10bb1a92c",
               "word": "a disaster",
               "meaning": "một thảm họa; một lần thất bại hoàn toàn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə dɪˈzæstər/",
+              "example": "I thought I knew where my mouth was, but my first few attempts were a disaster.",
+              "exampleTranslation": "Tôi tưởng mình biết miệng ở đâu, nhưng vài lần thử đầu tiên thật là thảm họa.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-004"
             },
             {
               "id": "u4-reading-ff26b3ca10f8",
               "word": "the Indian subcontinent",
               "meaning": "tiểu lục địa Ấn Độ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðə ˈɪndiːən səbˈkɑːntɪnənt/",
+              "example": "Daal is a lentil curry widely eaten in the Indian subcontinent.",
+              "exampleTranslation": "Daal là món cà ri đậu lăng được ăn phổ biến ở tiểu lục địa Ấn Độ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-002"
             },
             {
               "id": "u4-reading-cf18a497a692",
@@ -114,92 +177,167 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/ˈkɑːliːɡz/",
-              "example": "My colleagues are very supportive.",
-              "exampleTranslation": "Các đồng nghiệp của tôi luôn sẵn lòng giúp đỡ."
+              "example": "When dining with colleagues, she expects them to repeat the offer; trying to be polite abroad can mean she ends up with nothing.",
+              "exampleTranslation": "Khi dùng bữa với đồng nghiệp, cô ấy mong họ mời lại; việc cố tỏ ra lịch sự ở nước ngoài có thể khiến cô chẳng được ăn gì.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-005"
             },
             {
               "id": "u4-reading-1c925acbd975",
               "word": "repeat the offer",
               "meaning": "nhắc lại lời mời",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/riːˈpiːt ðə ˈɔːfər/",
+              "example": "When dining with colleagues, she expects them to repeat the offer; trying to be polite abroad can mean she ends up with nothing.",
+              "exampleTranslation": "Khi dùng bữa với đồng nghiệp, cô ấy mong họ mời lại; việc cố tỏ ra lịch sự ở nước ngoài có thể khiến cô chẳng được ăn gì.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-005"
             },
             {
               "id": "u4-reading-0caf85875989",
               "word": "be polite",
               "meaning": "lịch sự",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː pəˈlaɪt/",
+              "example": "When dining with colleagues, she expects them to repeat the offer; trying to be polite abroad can mean she ends up with nothing.",
+              "exampleTranslation": "Khi dùng bữa với đồng nghiệp, cô ấy mong họ mời lại; việc cố tỏ ra lịch sự ở nước ngoài có thể khiến cô chẳng được ăn gì.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-005"
             },
             {
               "id": "u4-reading-213f0d3a354c",
               "word": "end up with nothing",
               "meaning": "rốt cuộc chẳng có gì",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/end ʌp wɪð ˈnʌθɪŋ/",
+              "example": "When dining with colleagues, she expects them to repeat the offer; trying to be polite abroad can mean she ends up with nothing.",
+              "exampleTranslation": "Khi dùng bữa với đồng nghiệp, cô ấy mong họ mời lại; việc cố tỏ ra lịch sự ở nước ngoài có thể khiến cô chẳng được ăn gì.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-005"
             },
             {
               "id": "u4-reading-d50f249ab21a",
               "word": "get used to",
               "meaning": "quen với",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡet juːst tə/",
+              "example": "It took her a while to get used to accepting food the first time it was offered when she travelled abroad.",
+              "exampleTranslation": "Cô ấy mất một thời gian để quen với việc nhận thức ăn ngay lần đầu được mời khi đi nước ngoài.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-006"
             },
             {
               "id": "u4-reading-658a1460dad0",
               "word": "travel abroad",
               "meaning": "đi nước ngoài",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈtrævəl əˈbrɔːd/",
+              "example": "It took her a while to get used to accepting food the first time it was offered when she travelled abroad.",
+              "exampleTranslation": "Cô ấy mất một thời gian để quen với việc nhận thức ăn ngay lần đầu được mời khi đi nước ngoài.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-006"
             },
             {
               "id": "u4-reading-ac4c532b0f9b",
               "word": "fast food culture",
               "meaning": "văn hóa đồ ăn nhanh",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/fæst fuːd ˈkʌltʃər/",
+              "example": "The fast food culture always shocks Alfredo when he travels.",
+              "exampleTranslation": "Văn hóa đồ ăn nhanh luôn khiến Alfredo bị sốc khi đi du lịch.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-007"
             },
             {
               "id": "u4-reading-e1a3c9ca234f",
               "word": "live on junk food",
               "meaning": "sống chủ yếu bằng đồ ăn ít giá trị dinh dưỡng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/lɪv ɑːn dʒʌŋk fuːd/",
+              "example": "I can't believe there are people in the world who live on 'junk food' like burgers and just grab a sandwich for lunch.",
+              "exampleTranslation": "Tôi không thể tin có những người sống chủ yếu bằng đồ ăn ít dinh dưỡng như burger và chỉ ăn vội bánh mì kẹp vào bữa trưa.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-008"
             },
             {
               "id": "u4-reading-4c11805b5d60",
               "word": "grab a sandwich",
               "meaning": "ăn vội một chiếc bánh mì kẹp",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡræb ə ˈsæmwɪtʃ/",
+              "example": "I can't believe there are people in the world who live on 'junk food' like burgers and just grab a sandwich for lunch.",
+              "exampleTranslation": "Tôi không thể tin có những người sống chủ yếu bằng đồ ăn ít dinh dưỡng như burger và chỉ ăn vội bánh mì kẹp vào bữa trưa.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-008"
             },
             {
               "id": "u4-reading-42050f885e8b",
               "word": "cook fresh food",
               "meaning": "nấu thức ăn tươi",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kʊk freʃ fuːd/",
+              "example": "We cook fresh food for lunch and dinner and sit down and eat as a family at least once a day, twice at weekends.",
+              "exampleTranslation": "Chúng tôi nấu thức ăn tươi cho bữa trưa và bữa tối, rồi ngồi ăn cùng gia đình ít nhất một lần mỗi ngày, hai lần vào cuối tuần.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-009"
             },
             {
               "id": "u4-reading-23391f2d7be8",
               "word": "eat as a family",
               "meaning": "ăn cùng cả gia đình",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/iːt əz ə ˈfæməli/",
+              "example": "We cook fresh food for lunch and dinner and sit down and eat as a family at least once a day, twice at weekends.",
+              "exampleTranslation": "Chúng tôi nấu thức ăn tươi cho bữa trưa và bữa tối, rồi ngồi ăn cùng gia đình ít nhất một lần mỗi ngày, hai lần vào cuối tuần.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-009"
             },
             {
               "id": "u4-reading-503df1a5ff4a",
               "word": "grow their own vegetables",
               "meaning": "tự trồng rau để ăn",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡroʊ ðer oʊn ˈvedʒtəbəlz/",
+              "example": "A lot of people grow their own vegetables and keep chickens.",
+              "exampleTranslation": "Nhiều người tự trồng rau và nuôi gà.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-010"
             },
             {
               "id": "u4-reading-5ebf6d391c3d",
               "word": "keep chickens",
               "meaning": "nuôi gà",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kiːp ˈtʃɪkənz/",
+              "example": "A lot of people grow their own vegetables and keep chickens.",
+              "exampleTranslation": "Nhiều người tự trồng rau và nuôi gà.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-010"
             },
             {
               "id": "u4-reading-689f6a627384",
@@ -207,30 +345,51 @@ export default {
               "meaning": "bản sắc; đặc điểm nhận dạng",
               "type": "word",
               "pos": "noun",
-              "ipa": "/aɪˈdentəti/",
-              "example": "Food is an important part of our cultural identity.",
-              "exampleTranslation": "Ẩm thực là một phần quan trọng trong bản sắc văn hóa của chúng ta."
+              "ipa": "/aɪˈdentɪˌti/",
+              "example": "Food is part of your identity, so what are you saying about yourself when you eat some rubbish which contains chemicals and goodness knows what else?",
+              "exampleTranslation": "Thức ăn là một phần bản sắc của bạn, vậy bạn thể hiện điều gì về mình khi ăn thứ đồ tệ hại chứa hóa chất và có trời mới biết còn gì nữa?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-011"
             },
             {
               "id": "u4-reading-8bf9e1e86a74",
               "word": "contain chemicals",
               "meaning": "chứa hóa chất",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kənˈteɪn ˈkemɪkəlz/",
+              "example": "Food is part of your identity, so what are you saying about yourself when you eat some rubbish which contains chemicals and goodness knows what else?",
+              "exampleTranslation": "Thức ăn là một phần bản sắc của bạn, vậy bạn thể hiện điều gì về mình khi ăn thứ đồ tệ hại chứa hóa chất và có trời mới biết còn gì nữa?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-011"
             },
             {
               "id": "u4-reading-b528f17526ad",
               "word": "goodness knows what else",
               "meaning": "có trời mới biết còn gì khác nữa",
               "type": "phrase",
-              "pos": "idiom"
+              "pos": "idiom",
+              "ipa": "/ˈɡʊdnəs noʊz hwʌt els/",
+              "example": "Food is part of your identity, so what are you saying about yourself when you eat some rubbish which contains chemicals and goodness knows what else?",
+              "exampleTranslation": "Thức ăn là một phần bản sắc của bạn, vậy bạn thể hiện điều gì về mình khi ăn thứ đồ tệ hại chứa hóa chất và có trời mới biết còn gì nữa?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-011"
             },
             {
               "id": "u4-reading-4cc854911836",
               "word": "a fizzy drink",
               "meaning": "đồ uống có ga",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈfɪzi drɪŋk/",
+              "example": "The worst thing I have seen on my travels is a baby being given a fizzy drink in a bottle.",
+              "exampleTranslation": "Điều tệ nhất tôi từng thấy trong các chuyến đi là một em bé được cho uống nước có ga trong bình.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-012"
             },
             {
               "id": "u4-reading-28af4d7711a6",
@@ -238,9 +397,12 @@ export default {
               "meaning": "người ăn chay; thuộc chế độ ăn chay",
               "type": "word",
               "pos": "noun_adjective",
-              "ipa": "/ˌvɛdʒ.əˈteə.ri.ən/",
-              "example": "She has been a vegetarian for five years.",
-              "exampleTranslation": "Cô ấy đã là người ăn chay được năm năm."
+              "ipa": "/ˌvedʒəˈteˌriːən/",
+              "example": "Being a vegetarian is so easy here in the UK that we forget that not everyone in the world understands vegetarianism.",
+              "exampleTranslation": "Ở Anh, việc ăn chay dễ dàng đến mức chúng tôi quên rằng không phải ai trên thế giới cũng hiểu về chế độ ăn chay.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-013"
             },
             {
               "id": "u4-reading-486dc6a828b3",
@@ -248,58 +410,103 @@ export default {
               "meaning": "chế độ; quan niệm ăn chay",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ˌvedʒəˈteriənɪzəm/",
-              "example": "Vegetarianism is becoming more common.",
-              "exampleTranslation": "Chế độ ăn chay đang trở nên phổ biến hơn."
+              "ipa": "/ˌvedʒəˈteˌriːəˌnɪzəm/",
+              "example": "Being a vegetarian is so easy here in the UK that we forget that not everyone in the world understands vegetarianism.",
+              "exampleTranslation": "Ở Anh, việc ăn chay dễ dàng đến mức chúng tôi quên rằng không phải ai trên thế giới cũng hiểu về chế độ ăn chay.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-013"
             },
             {
               "id": "u4-reading-988669808409",
               "word": "vegans",
               "meaning": "người ăn thuần chay",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈveɡənz/",
+              "example": "Vegans may find travelling difficult because some people do not understand avoiding animal products for ethical reasons.",
+              "exampleTranslation": "Người ăn thuần chay có thể thấy việc đi du lịch khó khăn vì một số người không hiểu việc tránh sản phẩm động vật vì lý do đạo đức.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-014"
             },
             {
               "id": "u4-reading-3fc0c957b4c3",
               "word": "for ethical reasons",
               "meaning": "vì lý do đạo đức",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/fər ˈeθɪkəl ˈriːzənz/",
+              "example": "Vegans may find travelling difficult because some people do not understand avoiding animal products for ethical reasons.",
+              "exampleTranslation": "Người ăn thuần chay có thể thấy việc đi du lịch khó khăn vì một số người không hiểu việc tránh sản phẩm động vật vì lý do đạo đức.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-014"
             },
             {
               "id": "u4-reading-988f051f798d",
               "word": "equate to prosperity",
               "meaning": "tương đương với sự sung túc",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɪˈkweɪt tə prɑːˈsperəti/",
+              "example": "In places where meat equates to prosperity, going out for a meal without eating meat is an idea alien to some people.",
+              "exampleTranslation": "Ở những nơi thịt tượng trưng cho sự sung túc, việc ra ngoài ăn mà không ăn thịt là ý tưởng xa lạ với một số người.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-015"
             },
             {
               "id": "u4-reading-996623726955",
               "word": "go out for a meal",
               "meaning": "ra ngoài ăn một bữa",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡoʊ aʊt fər ə miːl/",
+              "example": "In places where meat equates to prosperity, going out for a meal without eating meat is an idea alien to some people.",
+              "exampleTranslation": "Ở những nơi thịt tượng trưng cho sự sung túc, việc ra ngoài ăn mà không ăn thịt là ý tưởng xa lạ với một số người.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-015"
             },
             {
               "id": "u4-reading-4dd598c6bb1b",
               "word": "alien to them",
               "meaning": "xa lạ với họ",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/ˈeɪliːən tə ðəm/",
+              "example": "In places where meat equates to prosperity, going out for a meal without eating meat is an idea alien to some people.",
+              "exampleTranslation": "Ở những nơi thịt tượng trưng cho sự sung túc, việc ra ngoài ăn mà không ăn thịt là ý tưởng xa lạ với một số người.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-015"
             },
             {
               "id": "u4-reading-92a86f2d8afb",
               "word": "vegetarian products",
               "meaning": "sản phẩm dành cho người ăn chay",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌvedʒəˈteˌriːən ˈprɑːdəks/",
+              "example": "I'm glad to get home where we have special vegetarian products.",
+              "exampleTranslation": "Tôi vui khi về nhà, nơi có những sản phẩm riêng dành cho người ăn chay.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-016"
             },
             {
               "id": "u4-reading-b3668c8c0d36",
               "word": "food culture shock",
               "meaning": "sốc văn hóa trong ăn uống",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/fuːd ˈkʌltʃər ʃɑːk/",
+              "example": "I think breakfast is the meal where food culture shock really hits you.",
+              "exampleTranslation": "Tôi nghĩ bữa sáng là bữa ăn mà sốc văn hóa trong ăn uống tác động rõ nhất đến bạn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-017"
             },
             {
               "id": "u4-reading-38c09b544838",
@@ -307,9 +514,12 @@ export default {
               "meaning": "ngũ cốc ăn sáng",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ˈsɪrɪəl/",
-              "example": "I had cereal with milk for breakfast.",
-              "exampleTranslation": "Tôi ăn ngũ cốc với sữa cho bữa sáng."
+              "ipa": "/ˈsɪriːəl/",
+              "example": "We usually eat cereal or toast, maybe yoghurt and fruit.",
+              "exampleTranslation": "Chúng tôi thường ăn ngũ cốc hoặc bánh mì nướng, có thể thêm sữa chua và trái cây.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-018"
             },
             {
               "id": "u4-reading-a60ec1cf58f4",
@@ -318,29 +528,50 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/toʊst/",
-              "example": "I had toast with butter and jam for breakfast.",
-              "exampleTranslation": "Tôi đã ăn bánh mì nướng với bơ và mứt cho bữa sáng."
+              "example": "We usually eat cereal or toast, maybe yoghurt and fruit.",
+              "exampleTranslation": "Chúng tôi thường ăn ngũ cốc hoặc bánh mì nướng, có thể thêm sữa chua và trái cây.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-018"
             },
             {
               "id": "u4-reading-3b7a21fc282a",
               "word": "yoghurt",
               "meaning": "sữa chua",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈjoʊɡərt/",
+              "example": "We usually eat cereal or toast, maybe yoghurt and fruit.",
+              "exampleTranslation": "Chúng tôi thường ăn ngũ cốc hoặc bánh mì nướng, có thể thêm sữa chua và trái cây.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-018"
             },
             {
               "id": "u4-reading-46e29dd96149",
               "word": "steamed vegetables",
               "meaning": "rau hấp",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/stiːmd ˈvedʒtəbəlz/",
+              "example": "She loves steamed vegetables, but she can't face them at breakfast.",
+              "exampleTranslation": "Cô ấy thích rau hấp, nhưng không thể nghĩ đến việc ăn chúng vào bữa sáng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-019"
             },
             {
               "id": "u4-reading-c98cccbdee76",
               "word": "can't face them at breakfast",
               "meaning": "không thể nghĩ đến việc ăn chúng vào bữa sáng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kænt feɪs ðəm ət ˈbrekfəst/",
+              "example": "She loves steamed vegetables, but she can't face them at breakfast.",
+              "exampleTranslation": "Cô ấy thích rau hấp, nhưng không thể nghĩ đến việc ăn chúng vào bữa sáng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 65",
+              "exampleId": "u4-ex-019"
             }
           ]
         },
@@ -355,70 +586,130 @@ export default {
               "word": "cookery shows",
               "meaning": "các chương trình dạy nấu ăn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈkʊkəri ʃoʊz/",
+              "example": "Some viewers complained to the BBC that there were too many cookery shows on television channels.",
+              "exampleTranslation": "Một số khán giả phàn nàn với BBC rằng có quá nhiều chương trình nấu ăn trên các kênh truyền hình.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 68",
+              "exampleId": "u4-ex-020"
             },
             {
               "id": "u4-reading-36b66835ec3d",
               "word": "viewers",
               "meaning": "khán giả truyền hình",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈvjuːərz/",
+              "example": "Some viewers complained to the BBC that there were too many cookery shows on television channels.",
+              "exampleTranslation": "Một số khán giả phàn nàn với BBC rằng có quá nhiều chương trình nấu ăn trên các kênh truyền hình.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 68",
+              "exampleId": "u4-ex-020"
             },
             {
               "id": "u4-reading-99abb0ce177e",
               "word": "complain to",
               "meaning": "phàn nàn với",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kəmˈpleɪn tə/",
+              "example": "Some viewers complained to the BBC that there were too many cookery shows on television channels.",
+              "exampleTranslation": "Một số khán giả phàn nàn với BBC rằng có quá nhiều chương trình nấu ăn trên các kênh truyền hình.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 68",
+              "exampleId": "u4-ex-020"
             },
             {
               "id": "u4-reading-61ffa9c8c703",
               "word": "channels",
               "meaning": "các kênh truyền hình",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈtʃænəlz/",
+              "example": "Some viewers complained to the BBC that there were too many cookery shows on television channels.",
+              "exampleTranslation": "Một số khán giả phàn nàn với BBC rằng có quá nhiều chương trình nấu ăn trên các kênh truyền hình.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 68",
+              "exampleId": "u4-ex-020"
             },
             {
               "id": "u4-reading-e771270f4a94",
               "word": "begin her career",
               "meaning": "bắt đầu sự nghiệp của cô ấy",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/bɪˈɡɪn hər kərˈɪr/",
+              "example": "She began her career as a cook when, in 1948, she moved to Paris and learnt to cook sophisticated French cuisine because her husband loved good food.",
+              "exampleTranslation": "Bà bắt đầu sự nghiệp đầu bếp khi chuyển đến Paris năm 1948 và học nấu những món Pháp cầu kỳ vì chồng bà yêu thích đồ ăn ngon.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 68",
+              "exampleId": "u4-ex-021"
             },
             {
               "id": "u4-reading-54596cd8d296",
               "word": "sophisticated French cuisine",
               "meaning": "ẩm thực Pháp cầu kỳ, tinh tế",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/səˈfɪstəˌkeɪtɪd frentʃ kwɪˈziːn/",
+              "example": "She began her career as a cook when, in 1948, she moved to Paris and learnt to cook sophisticated French cuisine because her husband loved good food.",
+              "exampleTranslation": "Bà bắt đầu sự nghiệp đầu bếp khi chuyển đến Paris năm 1948 và học nấu những món Pháp cầu kỳ vì chồng bà yêu thích đồ ăn ngon.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 68",
+              "exampleId": "u4-ex-021"
             },
             {
               "id": "u4-reading-6e3acfd8d4fa",
               "word": "publish a collection",
               "meaning": "xuất bản một tuyển tập",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈpʌblɪʃ ə kəˈlekʃən/",
+              "example": "Julia Child published a collection of simple French recipes for ordinary housewives, and it was an instant success.",
+              "exampleTranslation": "Julia Child xuất bản tuyển tập công thức món Pháp đơn giản dành cho những bà nội trợ bình thường, và cuốn sách thành công ngay lập tức.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 68",
+              "exampleId": "u4-ex-022"
             },
             {
               "id": "u4-reading-63b8bd59a482",
               "word": "recipes",
               "meaning": "các công thức nấu ăn",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈresəpiːz/",
+              "example": "Julia Child published a collection of simple French recipes for ordinary housewives, and it was an instant success.",
+              "exampleTranslation": "Julia Child xuất bản tuyển tập công thức món Pháp đơn giản dành cho những bà nội trợ bình thường, và cuốn sách thành công ngay lập tức.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 68",
+              "exampleId": "u4-ex-022"
             },
             {
               "id": "u4-reading-8a0936a7dc33",
               "word": "ordinary housewives",
               "meaning": "những bà nội trợ bình thường",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈɔːrdəˌneri ˈhaʊˌswaɪvz/",
+              "example": "Julia Child published a collection of simple French recipes for ordinary housewives, and it was an instant success.",
+              "exampleTranslation": "Julia Child xuất bản tuyển tập công thức món Pháp đơn giản dành cho những bà nội trợ bình thường, và cuốn sách thành công ngay lập tức.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 68",
+              "exampleId": "u4-ex-022"
             },
             {
               "id": "u4-reading-0d88c547cc5c",
               "word": "an instant success",
               "meaning": "thành công ngay lập tức",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ən ˈɪnstənt səkˈses/",
+              "example": "Julia Child published a collection of simple French recipes for ordinary housewives, and it was an instant success.",
+              "exampleTranslation": "Julia Child xuất bản tuyển tập công thức món Pháp đơn giản dành cho những bà nội trợ bình thường, và cuốn sách thành công ngay lập tức.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 68",
+              "exampleId": "u4-ex-022"
             },
             {
               "id": "u4-reading-5242ef887230",
@@ -427,106 +718,193 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/ˈhjuːmər/",
-              "example": "He has a great sense of humour.",
-              "exampleTranslation": "Anh ta có khiếu hài hước tuyệt vời."
+              "example": "She was invited to do a TV show, where her humour and strong personality soon won her great fame.",
+              "exampleTranslation": "Bà được mời làm một chương trình truyền hình, nơi sự hài hước và cá tính mạnh mẽ nhanh chóng đem lại danh tiếng lớn cho bà.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 68",
+              "exampleId": "u4-ex-023"
             },
             {
               "id": "u4-reading-66514ba0af22",
               "word": "strong personality",
               "meaning": "cá tính mạnh mẽ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/strɔːŋ ˌpɜːrsəˈnælɪti/",
+              "example": "She was invited to do a TV show, where her humour and strong personality soon won her great fame.",
+              "exampleTranslation": "Bà được mời làm một chương trình truyền hình, nơi sự hài hước và cá tính mạnh mẽ nhanh chóng đem lại danh tiếng lớn cho bà.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 68",
+              "exampleId": "u4-ex-023"
             },
             {
               "id": "u4-reading-7622f79311c9",
               "word": "win her great fame",
               "meaning": "đem lại danh tiếng lớn cho cô ấy",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/wɪn hər ɡreɪt feɪm/",
+              "example": "She was invited to do a TV show, where her humour and strong personality soon won her great fame.",
+              "exampleTranslation": "Bà được mời làm một chương trình truyền hình, nơi sự hài hước và cá tính mạnh mẽ nhanh chóng đem lại danh tiếng lớn cho bà.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 68",
+              "exampleId": "u4-ex-023"
             },
             {
               "id": "u4-reading-70491978a88d",
               "word": "have a bad temper",
               "meaning": "có tính nóng nảy",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/hæv ə bæd ˈtempər/",
+              "example": "He is famous for having a bad temper and using foul language.",
+              "exampleTranslation": "Ông nổi tiếng vì tính nóng nảy và sử dụng lời lẽ tục tĩu.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 68",
+              "exampleId": "u4-ex-024"
             },
             {
               "id": "u4-reading-135b378e1a74",
               "word": "use foul language",
               "meaning": "dùng lời lẽ tục tĩu",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/juːz faʊl ˈlæŋɡwədʒ/",
+              "example": "He is famous for having a bad temper and using foul language.",
+              "exampleTranslation": "Ông nổi tiếng vì tính nóng nảy và sử dụng lời lẽ tục tĩu.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 68",
+              "exampleId": "u4-ex-024"
             },
             {
               "id": "u4-reading-5b639e04587f",
               "word": "shout at his staff",
               "meaning": "quát mắng nhân viên của anh ấy",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ʃaʊt ət hɪz stæf/",
+              "example": "In Hell's Kitchen, Gordon Ramsay shouts at his staff when they make mistakes.",
+              "exampleTranslation": "Trong chương trình Hell's Kitchen, Gordon Ramsay quát mắng nhân viên khi họ mắc lỗi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 68",
+              "exampleId": "u4-ex-025"
             },
             {
               "id": "u4-reading-1f60134435a1",
               "word": "make mistakes",
               "meaning": "mắc lỗi",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/meɪk mɪˈsteɪks/",
+              "example": "In Hell's Kitchen, Gordon Ramsay shouts at his staff when they make mistakes.",
+              "exampleTranslation": "Trong chương trình Hell's Kitchen, Gordon Ramsay quát mắng nhân viên khi họ mắc lỗi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 68",
+              "exampleId": "u4-ex-025"
             },
             {
               "id": "u4-reading-0fe3cd6de53f",
               "word": "working-class",
               "meaning": "thuộc tầng lớp lao động",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˈwɜːrkɪŋ klæs/",
+              "example": "Jamie Oliver is described as a working-class boy who made healthy eating fashionable.",
+              "exampleTranslation": "Jamie Oliver được mô tả là chàng trai thuộc tầng lớp lao động đã khiến việc ăn lành mạnh trở thành xu hướng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 68",
+              "exampleId": "u4-ex-026"
             },
             {
               "id": "u4-reading-904cdf7e4c4c",
               "word": "make healthy eating fashionable",
               "meaning": "khiến việc ăn lành mạnh trở thành xu hướng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/meɪk helθi ˈiːtɪŋ ˈfæʃənəbəl/",
+              "example": "Jamie Oliver is described as a working-class boy who made healthy eating fashionable.",
+              "exampleTranslation": "Jamie Oliver được mô tả là chàng trai thuộc tầng lớp lao động đã khiến việc ăn lành mạnh trở thành xu hướng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 68",
+              "exampleId": "u4-ex-026"
             },
             {
               "id": "u4-reading-3246465f97ff",
               "word": "school meals",
               "meaning": "bữa ăn ở trường",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/skuːl miːlz/",
+              "example": "He believes children should eat healthy food and he worked with the government to make school meals healthier.",
+              "exampleTranslation": "Ông tin trẻ em nên ăn thực phẩm lành mạnh và đã làm việc với chính phủ để cải thiện bữa ăn ở trường.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 68",
+              "exampleId": "u4-ex-027"
             },
             {
               "id": "u4-reading-509489bcd5af",
               "word": "a series of shows",
               "meaning": "một loạt chương trình",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈsɪriːz əv ʃoʊz/",
+              "example": "They were both fat but then did a series of shows on how to cook diet food and both lost weight.",
+              "exampleTranslation": "Cả hai từng béo, nhưng sau đó thực hiện một loạt chương trình hướng dẫn nấu đồ ăn giảm cân và đều giảm cân.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 68",
+              "exampleId": "u4-ex-028"
             },
             {
               "id": "u4-reading-c040f177f91b",
               "word": "diet food",
               "meaning": "đồ ăn phục vụ chế độ giảm cân",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈdaɪət fuːd/",
+              "example": "They were both fat but then did a series of shows on how to cook diet food and both lost weight.",
+              "exampleTranslation": "Cả hai từng béo, nhưng sau đó thực hiện một loạt chương trình hướng dẫn nấu đồ ăn giảm cân và đều giảm cân.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 68",
+              "exampleId": "u4-ex-028"
             },
             {
               "id": "u4-reading-1e9217ffe16b",
               "word": "lose weight",
               "meaning": "giảm cân",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/luːz weɪt/",
+              "example": "They were both fat but then did a series of shows on how to cook diet food and both lost weight.",
+              "exampleTranslation": "Cả hai từng béo, nhưng sau đó thực hiện một loạt chương trình hướng dẫn nấu đồ ăn giảm cân và đều giảm cân.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 68",
+              "exampleId": "u4-ex-028"
             },
             {
               "id": "u4-reading-15988ce6b25b",
               "word": "unhealthy food",
               "meaning": "thức ăn không lành mạnh",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ənˈhelθi fuːd/",
+              "example": "They cooked unhealthy food using lots of fat and they didn't care about healthy eating.",
+              "exampleTranslation": "Họ nấu những món không lành mạnh với nhiều chất béo và không quan tâm đến việc ăn uống lành mạnh.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 68",
+              "exampleId": "u4-ex-029"
             },
             {
               "id": "u4-reading-8dac6e62ddb4",
               "word": "a competitive element",
               "meaning": "yếu tố cạnh tranh",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə kəmˈpetətɪv ˈeləmənt/",
+              "example": "Cookery programmes can add a competitive element: contestants are eliminated by judges, and their personalities provide entertainment.",
+              "exampleTranslation": "Chương trình nấu ăn có thể thêm yếu tố cạnh tranh: thí sinh bị giám khảo loại, còn cá tính của họ tạo nên sự giải trí.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 68, paragraph E",
+              "exampleId": "u4-ex-030"
             },
             {
               "id": "u4-reading-b34564f1c4cd",
@@ -534,23 +912,38 @@ export default {
               "meaning": "sự giải trí",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ˌentərˈteɪnmənt/",
-              "example": "The entertainment industry is a major source of employment.",
-              "exampleTranslation": "Ngành giải trí là một nguồn việc làm chính."
+              "ipa": "/ˌenərˈteɪnmənt/",
+              "example": "Cookery programmes can add a competitive element: contestants are eliminated by judges, and their personalities provide entertainment.",
+              "exampleTranslation": "Chương trình nấu ăn có thể thêm yếu tố cạnh tranh: thí sinh bị giám khảo loại, còn cá tính của họ tạo nên sự giải trí.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 68, paragraph E",
+              "exampleId": "u4-ex-030"
             },
             {
               "id": "u4-reading-df9f5b30be92",
               "word": "contestant",
               "meaning": "thí sinh",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/kənˈtestənt/",
+              "example": "Cookery programmes can add a competitive element: contestants are eliminated by judges, and their personalities provide entertainment.",
+              "exampleTranslation": "Chương trình nấu ăn có thể thêm yếu tố cạnh tranh: thí sinh bị giám khảo loại, còn cá tính của họ tạo nên sự giải trí.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 68, paragraph E",
+              "exampleId": "u4-ex-030"
             },
             {
               "id": "u4-reading-aae3ae9a671f",
               "word": "be eliminated",
               "meaning": "bị loại",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː ɪˈlɪməˌneɪtɪd/",
+              "example": "Cookery programmes can add a competitive element: contestants are eliminated by judges, and their personalities provide entertainment.",
+              "exampleTranslation": "Chương trình nấu ăn có thể thêm yếu tố cạnh tranh: thí sinh bị giám khảo loại, còn cá tính của họ tạo nên sự giải trí.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 68, paragraph E",
+              "exampleId": "u4-ex-030"
             },
             {
               "id": "u4-reading-6e9ecebecad2",
@@ -558,100 +951,181 @@ export default {
               "meaning": "các giám khảo",
               "type": "word",
               "pos": "noun",
-              "ipa": "/dʒʌdʒɪz/",
-              "example": "The judges will announce the winner tomorrow.",
-              "exampleTranslation": "Ban giám khảo sẽ công bố người chiến thắng vào ngày mai."
+              "ipa": "/ˈdʒʌdʒɪz/",
+              "example": "Cookery programmes can add a competitive element: contestants are eliminated by judges, and their personalities provide entertainment.",
+              "exampleTranslation": "Chương trình nấu ăn có thể thêm yếu tố cạnh tranh: thí sinh bị giám khảo loại, còn cá tính của họ tạo nên sự giải trí.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 68, paragraph E",
+              "exampleId": "u4-ex-030"
             },
             {
               "id": "u4-reading-0d95bb606452",
               "word": "personalities",
               "meaning": "tính cách; cá tính",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˌpɜːrsəˈnælɪtiːz/",
+              "example": "Cookery programmes can add a competitive element: contestants are eliminated by judges, and their personalities provide entertainment.",
+              "exampleTranslation": "Chương trình nấu ăn có thể thêm yếu tố cạnh tranh: thí sinh bị giám khảo loại, còn cá tính của họ tạo nên sự giải trí.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 68, paragraph E",
+              "exampleId": "u4-ex-030"
             },
             {
               "id": "u4-reading-aa7f92cb46e6",
               "word": "ready-made meals",
               "meaning": "bữa ăn chế biến sẵn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/redi meɪd miːlz/",
+              "example": "We know that cooking at home is better for us than eating ready-made or takeaway meals.",
+              "exampleTranslation": "Chúng ta biết rằng nấu ăn ở nhà tốt hơn cho mình so với ăn bữa chế biến sẵn hoặc đồ mua mang về.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 69",
+              "exampleId": "u4-ex-031"
             },
             {
               "id": "u4-reading-3ca170e7a3f8",
               "word": "takeaway meals",
               "meaning": "đồ ăn mua mang về",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈteɪkəˌweɪ miːlz/",
+              "example": "We know that cooking at home is better for us than eating ready-made or takeaway meals.",
+              "exampleTranslation": "Chúng ta biết rằng nấu ăn ở nhà tốt hơn cho mình so với ăn bữa chế biến sẵn hoặc đồ mua mang về.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 69",
+              "exampleId": "u4-ex-031"
             },
             {
               "id": "u4-reading-5cfb1cab49db",
               "word": "not necessarily mean",
               "meaning": "không nhất thiết có nghĩa là",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/nɑːt ˌnesəˈserəli miːn/",
+              "example": "However, the fact that there is more cookery on TV doesn't necessarily mean people cook more.",
+              "exampleTranslation": "Tuy nhiên, việc có thêm chương trình nấu ăn trên truyền hình không nhất thiết có nghĩa là mọi người nấu ăn nhiều hơn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 69",
+              "exampleId": "u4-ex-032"
             },
             {
               "id": "u4-reading-97969f94c0cd",
               "word": "produce different results",
               "meaning": "cho ra các kết quả khác nhau",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/prəˈduːs ˈdɪfrənt rɪˈzʌlts/",
+              "example": "Different studies have produced different results about the time people spend cooking.",
+              "exampleTranslation": "Các nghiên cứu khác nhau đã cho ra kết quả khác nhau về thời gian mọi người dành để nấu ăn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 69",
+              "exampleId": "u4-ex-033"
             },
             {
               "id": "u4-reading-4f5fc2c6b9b0",
               "word": "influence viewers",
               "meaning": "ảnh hưởng đến khán giả",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈɪnfluːəns ˈvjuːərz/",
+              "example": "Certain cookery shows influence viewers more than others.",
+              "exampleTranslation": "Một số chương trình nấu ăn ảnh hưởng đến khán giả nhiều hơn những chương trình khác.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 69",
+              "exampleId": "u4-ex-034"
             },
             {
               "id": "u4-reading-e2411f906450",
               "word": "influential",
               "meaning": "có sức ảnh hưởng",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˌɪnfluːˈenʃəl/",
+              "example": "Jamie's influential programme teaches quick, healthy meals rather than restaurant-style food.",
+              "exampleTranslation": "Chương trình có sức ảnh hưởng của Jamie hướng dẫn những bữa ăn nhanh, lành mạnh thay vì đồ ăn theo phong cách nhà hàng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 69",
+              "exampleId": "u4-ex-035"
             },
             {
               "id": "u4-reading-2e260a079de7",
               "word": "restaurant-style food",
               "meaning": "đồ ăn theo phong cách nhà hàng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈresˌtrɑːnt staɪl fuːd/",
+              "example": "Jamie's influential programme teaches quick, healthy meals rather than restaurant-style food.",
+              "exampleTranslation": "Chương trình có sức ảnh hưởng của Jamie hướng dẫn những bữa ăn nhanh, lành mạnh thay vì đồ ăn theo phong cách nhà hàng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 69",
+              "exampleId": "u4-ex-035"
             },
             {
               "id": "u4-reading-3839f02e19fd",
               "word": "have an important role to play",
               "meaning": "có vai trò quan trọng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/hæv ən ˌɪmˈpɔːrtənt roʊl tə pleɪ/",
+              "example": "Grandparents have an important role to play because they may have more time - and experience - than parents.",
+              "exampleTranslation": "Ông bà có vai trò quan trọng vì họ có thể có nhiều thời gian và kinh nghiệm hơn cha mẹ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 69",
+              "exampleId": "u4-ex-036"
             },
             {
               "id": "u4-reading-2b2a7a2514c4",
               "word": "on a regular basis",
               "meaning": "một cách thường xuyên",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn ə ˈreɪɡjələr ˈbeɪsəs/",
+              "example": "Cooking with family members on a regular basis and making food preparation part of the school curriculum is likely to ensure that children become adults who can and do cook.",
+              "exampleTranslation": "Nấu ăn thường xuyên cùng gia đình và đưa việc chuẩn bị thức ăn vào chương trình học có thể giúp bảo đảm trẻ lớn lên biết nấu và thực sự nấu ăn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 69",
+              "exampleId": "u4-ex-037"
             },
             {
               "id": "u4-reading-2aed2fed07d6",
               "word": "food preparation",
               "meaning": "việc chuẩn bị thức ăn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/fuːd ˌprepərˈeɪʃən/",
+              "example": "Cooking with family members on a regular basis and making food preparation part of the school curriculum is likely to ensure that children become adults who can and do cook.",
+              "exampleTranslation": "Nấu ăn thường xuyên cùng gia đình và đưa việc chuẩn bị thức ăn vào chương trình học có thể giúp bảo đảm trẻ lớn lên biết nấu và thực sự nấu ăn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 69",
+              "exampleId": "u4-ex-037"
             },
             {
               "id": "u4-reading-24237a558bba",
               "word": "school curriculum",
               "meaning": "chương trình học ở trường",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/skuːl kərˈɪkjələm/",
+              "example": "Cooking with family members on a regular basis and making food preparation part of the school curriculum is likely to ensure that children become adults who can and do cook.",
+              "exampleTranslation": "Nấu ăn thường xuyên cùng gia đình và đưa việc chuẩn bị thức ăn vào chương trình học có thể giúp bảo đảm trẻ lớn lên biết nấu và thực sự nấu ăn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 69",
+              "exampleId": "u4-ex-037"
             },
             {
               "id": "u4-reading-27ce25259481",
               "word": "ensure",
               "meaning": "bảo đảm",
               "type": "word",
-              "pos": "verb"
+              "pos": "verb",
+              "ipa": "/enˈʃʊr/",
+              "example": "Cooking with family members on a regular basis and making food preparation part of the school curriculum is likely to ensure that children become adults who can and do cook.",
+              "exampleTranslation": "Nấu ăn thường xuyên cùng gia đình và đưa việc chuẩn bị thức ăn vào chương trình học có thể giúp bảo đảm trẻ lớn lên biết nấu và thực sự nấu ăn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 69",
+              "exampleId": "u4-ex-037"
             }
           ]
         }
@@ -673,77 +1147,143 @@ export default {
               "word": "prepare a meal",
               "meaning": "chuẩn bị một bữa ăn",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/priːˈper ə miːl/",
+              "example": "Mike suggests preparing a Mexican meal, but Jane thinks it might be too spicy for some people.",
+              "exampleTranslation": "Mike gợi ý chuẩn bị một bữa ăn kiểu Mexico, nhưng Jane nghĩ món ăn có thể quá cay với một số người.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 32",
+              "exampleId": "u4-ex-038"
             },
             {
               "id": "u4-listening-e888252ef7c2",
               "word": "too spicy",
               "meaning": "quá cay",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/tuː spaɪsi/",
+              "example": "Mike suggests preparing a Mexican meal, but Jane thinks it might be too spicy for some people.",
+              "exampleTranslation": "Mike gợi ý chuẩn bị một bữa ăn kiểu Mexico, nhưng Jane nghĩ món ăn có thể quá cay với một số người.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 32",
+              "exampleId": "u4-ex-038"
             },
             {
               "id": "u4-listening-b9b98ccddc18",
               "word": "roast chicken",
               "meaning": "gà quay; gà nướng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/roʊst ˈtʃɪkən/",
+              "example": "They choose salad and roast chicken because the meal is fairly simple to prepare.",
+              "exampleTranslation": "Họ chọn rau trộn và gà quay vì bữa ăn khá đơn giản để chế biến.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 32",
+              "exampleId": "u4-ex-039"
             },
             {
               "id": "u4-listening-fd450cd7b109",
               "word": "fairly simple to prepare",
               "meaning": "khá đơn giản để chế biến",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/ferli ˈsɪmpəl tə priːˈper/",
+              "example": "They choose salad and roast chicken because the meal is fairly simple to prepare.",
+              "exampleTranslation": "Họ chọn rau trộn và gà quay vì bữa ăn khá đơn giản để chế biến.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 32",
+              "exampleId": "u4-ex-039"
             },
             {
               "id": "u4-listening-c204424d2f98",
               "word": "boil potatoes",
               "meaning": "luộc khoai tây",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/bɔɪl pəˈteɪtoʊz/",
+              "example": "You could boil the potatoes and serve them with fish.",
+              "exampleTranslation": "Bạn có thể luộc khoai tây rồi dọn kèm với cá.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 33",
+              "exampleId": "u4-ex-040"
             },
             {
               "id": "u4-listening-36621798f2c9",
               "word": "serve them with fish",
               "meaning": "dọn chúng kèm với cá",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/sɜːrv ðəm wɪð fɪʃ/",
+              "example": "You could boil the potatoes and serve them with fish.",
+              "exampleTranslation": "Bạn có thể luộc khoai tây rồi dọn kèm với cá.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 33",
+              "exampleId": "u4-ex-040"
             },
             {
               "id": "u4-listening-2e520043c95c",
               "word": "fry potatoes",
               "meaning": "chiên khoai tây",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/fraɪ pəˈteɪtoʊz/",
+              "example": "She does not want to fry potatoes because she has not got much oil left.",
+              "exampleTranslation": "Cô ấy không muốn chiên khoai tây vì không còn nhiều dầu ăn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 33",
+              "exampleId": "u4-ex-041"
             },
             {
               "id": "u4-listening-ab7902bcbd91",
               "word": "oil",
               "meaning": "dầu ăn",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ɔɪl/",
+              "example": "She does not want to fry potatoes because she has not got much oil left.",
+              "exampleTranslation": "Cô ấy không muốn chiên khoai tây vì không còn nhiều dầu ăn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 33",
+              "exampleId": "u4-ex-041"
             },
             {
               "id": "u4-listening-69608641954e",
               "word": "take ages",
               "meaning": "mất rất nhiều thời gian",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/teɪk ˈeɪdʒəz/",
+              "example": "It takes ages to bake potatoes in the oven.",
+              "exampleTranslation": "Nướng khoai tây trong lò mất rất nhiều thời gian.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 33",
+              "exampleId": "u4-ex-042"
             },
             {
               "id": "u4-listening-49a9efc460e8",
               "word": "bake potatoes in the oven",
               "meaning": "nướng khoai tây trong lò",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/beɪk pəˈteɪtoʊz ɪn ðə ˈʌvən/",
+              "example": "It takes ages to bake potatoes in the oven.",
+              "exampleTranslation": "Nướng khoai tây trong lò mất rất nhiều thời gian.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 33",
+              "exampleId": "u4-ex-042"
             },
             {
               "id": "u4-listening-1ff093884647",
               "word": "strawberries",
               "meaning": "dâu tây",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈstrɔːˌberiːz/",
+              "example": "They bought strawberries and apples, but still need cucumbers.",
+              "exampleTranslation": "Họ đã mua dâu tây và táo, nhưng vẫn cần dưa chuột.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 34",
+              "exampleId": "u4-ex-043"
             },
             {
               "id": "u4-listening-8d07f55c1931",
@@ -751,30 +1291,51 @@ export default {
               "meaning": "dưa chuột",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ˈkjuːkʌmbəz/",
-              "example": "Cucumbers are good in salads.",
-              "exampleTranslation": "Dưa chuột ngon trong các món salad."
+              "ipa": "/ˈkjuːkəmbərz/",
+              "example": "They bought strawberries and apples, but still need cucumbers.",
+              "exampleTranslation": "Họ đã mua dâu tây và táo, nhưng vẫn cần dưa chuột.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 34",
+              "exampleId": "u4-ex-043"
             },
             {
               "id": "u4-listening-0cf089ed2d68",
               "word": "carrots and peas",
               "meaning": "cà rốt và đậu Hà Lan",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈkærəts ənd piːz/",
+              "example": "I got some nice carrots and peas at Best Buy.",
+              "exampleTranslation": "Tôi đã mua được cà rốt và đậu Hà Lan ngon ở Best Buy.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 34",
+              "exampleId": "u4-ex-044"
             },
             {
               "id": "u4-listening-39424bb7564f",
               "word": "on the way back",
               "meaning": "trên đường quay về",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn ðə weɪ bæk/",
+              "example": "Oh, I suppose we can go there on the way back to the station.",
+              "exampleTranslation": "Ồ, tôi nghĩ chúng ta có thể ghé đó trên đường quay lại nhà ga.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 182, track 34",
+              "exampleId": "u4-ex-045"
             },
             {
               "id": "u4-listening-ef94535ecbd9",
               "word": "cakes and pastries",
               "meaning": "bánh ngọt và bánh làm từ bột nhào",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/keɪks ənd ˈpeɪstriːz/",
+              "example": "They will buy cakes and pastries after getting lamb and chicken.",
+              "exampleTranslation": "Họ sẽ mua bánh ngọt và bánh làm từ bột nhào sau khi mua thịt cừu và thịt gà.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 34",
+              "exampleId": "u4-ex-046"
             },
             {
               "id": "u4-listening-9d23384be3fd",
@@ -783,8 +1344,11 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/læm/",
-              "example": "I'm cooking lamb chops for dinner.",
-              "exampleTranslation": "Tôi đang nấu sườn cừu cho bữa tối."
+              "example": "They will buy cakes and pastries after getting lamb and chicken.",
+              "exampleTranslation": "Họ sẽ mua bánh ngọt và bánh làm từ bột nhào sau khi mua thịt cừu và thịt gà.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 34",
+              "exampleId": "u4-ex-046"
             }
           ]
         },
@@ -799,126 +1363,234 @@ export default {
               "word": "food critic",
               "meaning": "nhà phê bình ẩm thực",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/fuːd ˈkrɪtɪk/",
+              "example": "The programme gets tips and recommendations from food critic Chris Griffin.",
+              "exampleTranslation": "Chương trình nhận lời khuyên và gợi ý từ nhà phê bình ẩm thực Chris Griffin.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 35",
+              "exampleId": "u4-ex-047"
             },
             {
               "id": "u4-listening-fd2171f9a5ff",
               "word": "tips and recommendations",
               "meaning": "lời khuyên và gợi ý",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/tɪps ənd ˌrekəmənˈdeɪʃənz/",
+              "example": "The programme gets tips and recommendations from food critic Chris Griffin.",
+              "exampleTranslation": "Chương trình nhận lời khuyên và gợi ý từ nhà phê bình ẩm thực Chris Griffin.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 35",
+              "exampleId": "u4-ex-047"
             },
             {
               "id": "u4-listening-cf9144f34901",
               "word": "peppercorns",
               "meaning": "hạt tiêu",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈpepərkɔːrnz/",
+              "example": "It's a steak in peppercorns - it's quite a typical French dish.",
+              "exampleTranslation": "Đó là món bít tết với hạt tiêu, một món khá điển hình của Pháp.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 182, track 35",
+              "exampleId": "u4-ex-048"
             },
             {
               "id": "u4-listening-119809a11813",
               "word": "a typical French dish",
               "meaning": "một món ăn điển hình của Pháp",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈtɪpəkəl frentʃ dɪʃ/",
+              "example": "It's a steak in peppercorns - it's quite a typical French dish.",
+              "exampleTranslation": "Đó là món bít tết với hạt tiêu, một món khá điển hình của Pháp.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 182, track 35",
+              "exampleId": "u4-ex-048"
             },
             {
               "id": "u4-listening-c1501860d7a3",
               "word": "steakhouse",
               "meaning": "nhà hàng chuyên bít tết",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈsteɪkˌhaʊs/",
+              "example": "So, is it a French restaurant or a steakhouse?",
+              "exampleTranslation": "Vậy đó là nhà hàng Pháp hay nhà hàng chuyên bít tết?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 182, track 35",
+              "exampleId": "u4-ex-049"
             },
             {
               "id": "u4-listening-ca52049c4519",
               "word": "a wide variety of dishes",
               "meaning": "nhiều món ăn đa dạng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə waɪd vərˈaɪəti əv ˈdɪʃəz/",
+              "example": "It has a wide variety of dishes.",
+              "exampleTranslation": "Nhà hàng có nhiều món ăn đa dạng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 182, track 35",
+              "exampleId": "u4-ex-050"
             },
             {
               "id": "u4-listening-22fa8664b862",
               "word": "one word of warning",
               "meaning": "một lời nhắc cần lưu ý",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/wʌn wɜːrd əv ˈwɔːrnɪŋ/",
+              "example": "One word of warning though, it gets really busy at weekends, so you should check they have places before you go.",
+              "exampleTranslation": "Tuy nhiên, có một lưu ý: cuối tuần nhà hàng rất đông, nên bạn cần kiểm tra còn chỗ trước khi đến.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 182, track 35",
+              "exampleId": "u4-ex-051"
             },
             {
               "id": "u4-listening-ae2902f95f46",
               "word": "get really busy",
               "meaning": "trở nên rất đông khách",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡet riːli bɪzi/",
+              "example": "One word of warning though, it gets really busy at weekends, so you should check they have places before you go.",
+              "exampleTranslation": "Tuy nhiên, có một lưu ý: cuối tuần nhà hàng rất đông, nên bạn cần kiểm tra còn chỗ trước khi đến.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 182, track 35",
+              "exampleId": "u4-ex-051"
             },
             {
               "id": "u4-listening-a2e1c40da1ae",
               "word": "lobster",
               "meaning": "tôm hùm",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈlɑːbstər/",
+              "example": "The Duke serves tasty lobster and also has a few vegetarian dishes.",
+              "exampleTranslation": "Nhà hàng Duke phục vụ tôm hùm ngon và cũng có vài món chay.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 35",
+              "exampleId": "u4-ex-052"
             },
             {
               "id": "u4-listening-d73b5ca7f173",
               "word": "vegetarian dishes",
               "meaning": "các món chay",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌvedʒəˈteˌriːən ˈdɪʃəz/",
+              "example": "The Duke serves tasty lobster and also has a few vegetarian dishes.",
+              "exampleTranslation": "Nhà hàng Duke phục vụ tôm hùm ngon và cũng có vài món chay.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 35",
+              "exampleId": "u4-ex-052"
             },
             {
               "id": "u4-listening-a8a79412bda4",
               "word": "low-cost",
               "meaning": "có giá thấp",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˌloʊˈkɔːst/",
+              "example": "The food isn't that low-cost though, so you might want to save going here for a special treat.",
+              "exampleTranslation": "Tuy nhiên, đồ ăn không rẻ đến thế, nên có lẽ bạn muốn dành việc đến đây cho một dịp tự thưởng đặc biệt.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 182, track 35",
+              "exampleId": "u4-ex-053"
             },
             {
               "id": "u4-listening-51fce1322fcd",
               "word": "a special treat",
               "meaning": "một dịp tự thưởng đặc biệt",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈspeʃəl triːt/",
+              "example": "The food isn't that low-cost though, so you might want to save going here for a special treat.",
+              "exampleTranslation": "Tuy nhiên, đồ ăn không rẻ đến thế, nên có lẽ bạn muốn dành việc đến đây cho một dịp tự thưởng đặc biệt.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 182, track 35",
+              "exampleId": "u4-ex-053"
             },
             {
               "id": "u4-listening-acb7d0f4e78d",
               "word": "on a budget",
               "meaning": "có ngân sách hạn chế",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn ə ˈbʌdʒɪt/",
+              "example": "What about people who are on a budget?",
+              "exampleTranslation": "Còn những người có ngân sách hạn chế thì sao?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 182, track 35",
+              "exampleId": "u4-ex-054"
             },
             {
               "id": "u4-listening-ff5ae34de483",
               "word": "a fashionable restaurant",
               "meaning": "một nhà hàng được ưa chuộng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈfæʃənəbəl ˈresˌtrɑːnt/",
+              "example": "The Tower in Market Street is a fashionable restaurant where people can get a good meal at a reasonable price.",
+              "exampleTranslation": "Tower trên phố Market là nhà hàng được ưa chuộng, nơi mọi người có thể ăn ngon với giá hợp lý.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 182, track 35",
+              "exampleId": "u4-ex-055"
             },
             {
               "id": "u4-listening-94827a803fbf",
               "word": "at a reasonable price",
               "meaning": "với giá hợp lý",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ət ə ˈriːzənəbəl praɪs/",
+              "example": "The Tower in Market Street is a fashionable restaurant where people can get a good meal at a reasonable price.",
+              "exampleTranslation": "Tower trên phố Market là nhà hàng được ưa chuộng, nơi mọi người có thể ăn ngon với giá hợp lý.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 182, track 35",
+              "exampleId": "u4-ex-055"
             },
             {
               "id": "u4-listening-9b1232824808",
               "word": "specialise in",
               "meaning": "chuyên về",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈspeʃəlaɪz ɪn/",
+              "example": "The restaurant specialises in Italian food, and its lasagne is especially good.",
+              "exampleTranslation": "Nhà hàng chuyên món Ý và món mì lá nướng ở đây đặc biệt ngon.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 35",
+              "exampleId": "u4-ex-056"
             },
             {
               "id": "u4-listening-6fda84f01357",
               "word": "lasagne",
               "meaning": "mì lá nướng kiểu Ý",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ləˈzɑːnjə/",
+              "example": "The restaurant specialises in Italian food, and its lasagne is especially good.",
+              "exampleTranslation": "Nhà hàng chuyên món Ý và món mì lá nướng ở đây đặc biệt ngon.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 35",
+              "exampleId": "u4-ex-056"
             },
             {
               "id": "u4-listening-0d6c14d8f3ae",
               "word": "food for thought",
               "meaning": "điều đáng suy ngẫm",
               "type": "phrase",
-              "pos": "idiom"
+              "pos": "idiom",
+              "ipa": "/fuːd fər θɔːt/",
+              "example": "You certainly have given us all food for thought.",
+              "exampleTranslation": "Anh chắc chắn đã cho tất cả chúng tôi nhiều điều đáng suy ngẫm.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 182, track 35",
+              "exampleId": "u4-ex-057"
             }
           ]
         },
@@ -933,126 +1605,234 @@ export default {
               "word": "chopsticks",
               "meaning": "đũa",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈtʃɑːpˌstɪks/",
+              "example": "People in Japan, China and Korea use chopsticks rather than knives and forks.",
+              "exampleTranslation": "Người Nhật, Trung Quốc và Hàn Quốc dùng đũa thay vì dao và nĩa.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 36",
+              "exampleId": "u4-ex-058"
             },
             {
               "id": "u4-listening-1f92aa910c43",
               "word": "knives and forks",
               "meaning": "dao và nĩa",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/naɪvz ənd fɔːrks/",
+              "example": "People in Japan, China and Korea use chopsticks rather than knives and forks.",
+              "exampleTranslation": "Người Nhật, Trung Quốc và Hàn Quốc dùng đũa thay vì dao và nĩa.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 36",
+              "exampleId": "u4-ex-058"
             },
             {
               "id": "u4-listening-c9e1a78afbea",
               "word": "stainless steel",
               "meaning": "thép không gỉ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈsteɪnləs stiːl/",
+              "example": "Korean chopsticks are made of stainless steel and are rough at the end.",
+              "exampleTranslation": "Đũa Hàn Quốc được làm bằng thép không gỉ và có phần đầu nhám.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 36",
+              "exampleId": "u4-ex-059"
             },
             {
               "id": "u4-listening-b95f07826c1b",
               "word": "rough at the end",
               "meaning": "nhám ở đầu",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/rʌf ət ðə end/",
+              "example": "Korean chopsticks are made of stainless steel and are rough at the end.",
+              "exampleTranslation": "Đũa Hàn Quốc được làm bằng thép không gỉ và có phần đầu nhám.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 36",
+              "exampleId": "u4-ex-059"
             },
             {
               "id": "u4-listening-5846d6001831",
               "word": "emperor",
               "meaning": "hoàng đế",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈempərər/",
+              "example": "The speaker says the emperor used silver chopsticks to detect poison in food.",
+              "exampleTranslation": "Người nói kể rằng hoàng đế dùng đũa bạc để phát hiện chất độc trong thức ăn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 36",
+              "exampleId": "u4-ex-060"
             },
             {
               "id": "u4-listening-5743abddddfa",
               "word": "poison",
               "meaning": "chất độc",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈpɔɪzən/",
+              "example": "The speaker says the emperor used silver chopsticks to detect poison in food.",
+              "exampleTranslation": "Người nói kể rằng hoàng đế dùng đũa bạc để phát hiện chất độc trong thức ăn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 36",
+              "exampleId": "u4-ex-060"
             },
             {
               "id": "u4-listening-f8eddcef64c0",
               "word": "tricky to use",
               "meaning": "khó sử dụng",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/trɪki tə juːz/",
+              "example": "They can be quite tricky to use, but in Korea people use a spoon to eat their rice.",
+              "exampleTranslation": "Chúng có thể khá khó sử dụng, nhưng ở Hàn Quốc người ta dùng thìa để ăn cơm.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 182, track 36",
+              "exampleId": "u4-ex-061"
             },
             {
               "id": "u4-listening-064dc0114f0d",
               "word": "bone and ivory",
               "meaning": "xương và ngà",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/boʊn ənd ˈaɪvəri/",
+              "example": "The speaker mentions chopsticks made from bone and ivory.",
+              "exampleTranslation": "Người nói đề cập đến đũa làm từ xương và ngà.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 36",
+              "exampleId": "u4-ex-062"
             },
             {
               "id": "u4-listening-a1a48821ed6b",
               "word": "in general terms",
               "meaning": "nói một cách khái quát",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn ˈdʒenərəl tɜːrmz/",
+              "example": "It is difficult to discuss Chinese food in general terms because China has many different cuisines.",
+              "exampleTranslation": "Khó nói khái quát về món Trung Quốc vì nước này có nhiều nền ẩm thực khác nhau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 36",
+              "exampleId": "u4-ex-063"
             },
             {
               "id": "u4-listening-ddfdbb6f4a12",
               "word": "cuisines",
               "meaning": "các nền ẩm thực",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/kwɪˈziːnz/",
+              "example": "It is difficult to discuss Chinese food in general terms because China has many different cuisines.",
+              "exampleTranslation": "Khó nói khái quát về món Trung Quốc vì nước này có nhiều nền ẩm thực khác nhau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 36",
+              "exampleId": "u4-ex-063"
             },
             {
               "id": "u4-listening-28de9adafe64",
               "word": "red peppers",
               "meaning": "ớt đỏ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/red ˈpepərz/",
+              "example": "Red peppers can be found in many Korean dishes.",
+              "exampleTranslation": "Ớt đỏ có mặt trong nhiều món ăn Hàn Quốc.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 36",
+              "exampleId": "u4-ex-064"
             },
             {
               "id": "u4-listening-6f7e42bb4a8b",
               "word": "influences from",
               "meaning": "ảnh hưởng từ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈɪnˌfluːənsɪz frəm/",
+              "example": "Japanese food has influences from Europe; tempura came from Portugal.",
+              "exampleTranslation": "Ẩm thực Nhật có ảnh hưởng từ châu Âu; món tempura bắt nguồn từ Bồ Đào Nha.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 36",
+              "exampleId": "u4-ex-065"
             },
             {
               "id": "u4-listening-eb145320a47a",
               "word": "tempura",
               "meaning": "món tẩm bột chiên của Nhật",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/temˈpʊrə/",
+              "example": "Japanese food has influences from Europe; tempura came from Portugal.",
+              "exampleTranslation": "Ẩm thực Nhật có ảnh hưởng từ châu Âu; món tempura bắt nguồn từ Bồ Đào Nha.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 36",
+              "exampleId": "u4-ex-065"
             },
             {
               "id": "u4-listening-295bcba314c8",
               "word": "play an important role",
               "meaning": "đóng vai trò quan trọng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/pleɪ ən ˌɪmˈpɔːrtənt roʊl/",
+              "example": "The speaker explains that meat traditionally plays a less important role partly due to the lack of space for keeping animals.",
+              "exampleTranslation": "Người nói giải thích rằng theo truyền thống, thịt có vai trò ít quan trọng hơn, một phần do thiếu không gian nuôi động vật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 36",
+              "exampleId": "u4-ex-066"
             },
             {
               "id": "u4-listening-28a1ef8c3701",
               "word": "due to the lack of space",
               "meaning": "do thiếu không gian",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/djuː tə ðə læk əv speɪs/",
+              "example": "The speaker explains that meat traditionally plays a less important role partly due to the lack of space for keeping animals.",
+              "exampleTranslation": "Người nói giải thích rằng theo truyền thống, thịt có vai trò ít quan trọng hơn, một phần do thiếu không gian nuôi động vật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 36",
+              "exampleId": "u4-ex-066"
             },
             {
               "id": "u4-listening-52133ddaf064",
               "word": "keep animals",
               "meaning": "nuôi động vật",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kiːp ˈænəməlz/",
+              "example": "The speaker explains that meat traditionally plays a less important role partly due to the lack of space for keeping animals.",
+              "exampleTranslation": "Người nói giải thích rằng theo truyền thống, thịt có vai trò ít quan trọng hơn, một phần do thiếu không gian nuôi động vật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 36",
+              "exampleId": "u4-ex-066"
             },
             {
               "id": "u4-listening-3f28ee5a2af1",
               "word": "barbecues",
               "meaning": "các bữa; món nướng ngoài trời",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈbɑːrbɪkˌjuːz/",
+              "example": "Barbecues are popular in Korea, and beef forms the basis of many special meals.",
+              "exampleTranslation": "Các món nướng ngoài trời phổ biến ở Hàn Quốc, và thịt bò là thành phần chính của nhiều bữa ăn đặc biệt.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 36",
+              "exampleId": "u4-ex-067"
             },
             {
               "id": "u4-listening-0a620e72baac",
               "word": "form the basis of",
               "meaning": "tạo thành nền tảng của",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/fɔːrm ðə ˈbeɪsəs əv/",
+              "example": "Barbecues are popular in Korea, and beef forms the basis of many special meals.",
+              "exampleTranslation": "Các món nướng ngoài trời phổ biến ở Hàn Quốc, và thịt bò là thành phần chính của nhiều bữa ăn đặc biệt.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 36",
+              "exampleId": "u4-ex-067"
             }
           ]
         },
@@ -1067,154 +1847,286 @@ export default {
               "word": "traditional dish",
               "meaning": "món ăn truyền thống",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/trəˈdɪʃənəl dɪʃ/",
+              "example": "Beijing duck is a tasty traditional dish.",
+              "exampleTranslation": "Vịt Bắc Kinh là một món ăn truyền thống ngon miệng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 37",
+              "exampleId": "u4-ex-068"
             },
             {
               "id": "u4-listening-88f492d5c586",
               "word": "kebabs",
               "meaning": "thịt hoặc rau xiên nướng",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/kəˈbɑːbz/",
+              "example": "Kebabs are tasty snacks and popular street food, especially among school pupils at lunchtime.",
+              "exampleTranslation": "Thịt xiên nướng là đồ ăn nhẹ ngon và đồ ăn đường phố phổ biến, đặc biệt với học sinh vào giờ trưa.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 37",
+              "exampleId": "u4-ex-069"
             },
             {
               "id": "u4-listening-e0033ac7fe3c",
               "word": "tasty snacks",
               "meaning": "đồ ăn nhẹ ngon miệng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/teɪsti snæks/",
+              "example": "Kebabs are tasty snacks and popular street food, especially among school pupils at lunchtime.",
+              "exampleTranslation": "Thịt xiên nướng là đồ ăn nhẹ ngon và đồ ăn đường phố phổ biến, đặc biệt với học sinh vào giờ trưa.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 37",
+              "exampleId": "u4-ex-069"
             },
             {
               "id": "u4-listening-674a7c862959",
               "word": "street food",
               "meaning": "đồ ăn đường phố",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/striːt fuːd/",
+              "example": "Kebabs are tasty snacks and popular street food, especially among school pupils at lunchtime.",
+              "exampleTranslation": "Thịt xiên nướng là đồ ăn nhẹ ngon và đồ ăn đường phố phổ biến, đặc biệt với học sinh vào giờ trưa.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 37",
+              "exampleId": "u4-ex-069"
             },
             {
               "id": "u4-listening-65a90dc0b5ca",
               "word": "school pupils",
               "meaning": "học sinh",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/skuːl ˈpjuːpəlz/",
+              "example": "Kebabs are tasty snacks and popular street food, especially among school pupils at lunchtime.",
+              "exampleTranslation": "Thịt xiên nướng là đồ ăn nhẹ ngon và đồ ăn đường phố phổ biến, đặc biệt với học sinh vào giờ trưa.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 37",
+              "exampleId": "u4-ex-069"
             },
             {
               "id": "u4-listening-a0ea5328f032",
               "word": "jellyfish",
               "meaning": "sứa",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈdʒeliːˌfɪʃ/",
+              "example": "The jellyfish added a nice texture to the dish, but did not taste of much.",
+              "exampleTranslation": "Sứa tạo cảm giác thú vị khi nhai, nhưng không có mùi vị rõ rệt.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 37",
+              "exampleId": "u4-ex-070"
             },
             {
               "id": "u4-listening-38a3c50b7c1f",
               "word": "texture",
               "meaning": "kết cấu; cảm giác của thức ăn khi nhai",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈtekstʃər/",
+              "example": "The jellyfish added a nice texture to the dish, but did not taste of much.",
+              "exampleTranslation": "Sứa tạo cảm giác thú vị khi nhai, nhưng không có mùi vị rõ rệt.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 37",
+              "exampleId": "u4-ex-070"
             },
             {
               "id": "u4-listening-7e7c8c50862d",
               "word": "not taste of much",
               "meaning": "không có mùi vị rõ rệt",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/nɑːt teɪst əv mʌtʃ/",
+              "example": "The jellyfish added a nice texture to the dish, but did not taste of much.",
+              "exampleTranslation": "Sứa tạo cảm giác thú vị khi nhai, nhưng không có mùi vị rõ rệt.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 37",
+              "exampleId": "u4-ex-070"
             },
             {
               "id": "u4-listening-4f7056cd2b4f",
               "word": "a strong taste",
               "meaning": "vị đậm",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə strɔːŋ teɪst/",
+              "example": "The hotpot had a strong taste and was placed on a hotplate in the centre of the table.",
+              "exampleTranslation": "Món lẩu có vị đậm và được đặt trên bếp điện ở giữa bàn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 37",
+              "exampleId": "u4-ex-071"
             },
             {
               "id": "u4-listening-8297490ad1d7",
               "word": "hotpot",
               "meaning": "lẩu",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈhɑːtˌpɔːt/",
+              "example": "The hotpot had a strong taste and was placed on a hotplate in the centre of the table.",
+              "exampleTranslation": "Món lẩu có vị đậm và được đặt trên bếp điện ở giữa bàn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 37",
+              "exampleId": "u4-ex-071"
             },
             {
               "id": "u4-listening-bb8cb54c2914",
               "word": "hotplate",
               "meaning": "bếp điện; đĩa gia nhiệt",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈhɑːtpleɪt/",
+              "example": "The hotpot had a strong taste and was placed on a hotplate in the centre of the table.",
+              "exampleTranslation": "Món lẩu có vị đậm và được đặt trên bếp điện ở giữa bàn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 37",
+              "exampleId": "u4-ex-071"
             },
             {
               "id": "u4-listening-b66faab4e5e6",
               "word": "raw food",
               "meaning": "thực phẩm sống",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/rɑː fuːd/",
+              "example": "Guests cooked raw food in the pot themselves, making the meal fun and sociable.",
+              "exampleTranslation": "Khách tự nấu thực phẩm sống trong nồi, khiến bữa ăn vui vẻ và tạo dịp giao lưu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 37",
+              "exampleId": "u4-ex-072"
             },
             {
               "id": "u4-listening-2817c11b7b27",
               "word": "sociable",
               "meaning": "có tính giao lưu; tạo dịp trò chuyện",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˈsoʊʃəbəl/",
+              "example": "Guests cooked raw food in the pot themselves, making the meal fun and sociable.",
+              "exampleTranslation": "Khách tự nấu thực phẩm sống trong nồi, khiến bữa ăn vui vẻ và tạo dịp giao lưu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 37",
+              "exampleId": "u4-ex-072"
             },
             {
               "id": "u4-listening-82177eb4fd6c",
               "word": "noodles and dumplings",
               "meaning": "mì và bánh bột có nhân, như há cảo",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈnuːdəlz ənd ˈdʌmplɪŋz/",
+              "example": "There are many different types of noodles and dumplings.",
+              "exampleTranslation": "Có nhiều loại mì và bánh bột có nhân khác nhau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 37",
+              "exampleId": "u4-ex-073"
             },
             {
               "id": "u4-listening-5333a426c79c",
               "word": "one of the highlights",
               "meaning": "một trong những điểm nổi bật",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/wʌn əv ðə ˈhaɪˌlaɪts/",
+              "example": "One of the highlights for me was learning how to make fresh noodles with a chef from Northern China.",
+              "exampleTranslation": "Một trong những điểm nổi bật với tôi là học cách làm mì tươi cùng một đầu bếp miền Bắc Trung Quốc.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 182, track 37",
+              "exampleId": "u4-ex-074"
             },
             {
               "id": "u4-listening-5d055ff280ca",
               "word": "wheat flour",
               "meaning": "bột mì",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/hwiːt ˈflaʊər/",
+              "example": "The recipe uses egg, salt and wheat flour, but making noodles by hand requires a skilful chef.",
+              "exampleTranslation": "Công thức dùng trứng, muối và bột mì, nhưng làm mì bằng tay đòi hỏi một đầu bếp khéo léo.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 37",
+              "exampleId": "u4-ex-075"
             },
             {
               "id": "u4-listening-6be81787e194",
               "word": "make noodles by hand",
               "meaning": "làm mì bằng tay",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/meɪk ˈnuːdəlz baɪ hænd/",
+              "example": "The recipe uses egg, salt and wheat flour, but making noodles by hand requires a skilful chef.",
+              "exampleTranslation": "Công thức dùng trứng, muối và bột mì, nhưng làm mì bằng tay đòi hỏi một đầu bếp khéo léo.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 37",
+              "exampleId": "u4-ex-075"
             },
             {
               "id": "u4-listening-1acb10fed272",
               "word": "a skilful chef",
               "meaning": "một đầu bếp khéo tay",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈskɪlfəl ʃef/",
+              "example": "The recipe uses egg, salt and wheat flour, but making noodles by hand requires a skilful chef.",
+              "exampleTranslation": "Công thức dùng trứng, muối và bột mì, nhưng làm mì bằng tay đòi hỏi một đầu bếp khéo léo.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 37",
+              "exampleId": "u4-ex-075"
             },
             {
               "id": "u4-listening-8ca3d5ce236b",
               "word": "basic ingredients",
               "meaning": "nguyên liệu cơ bản",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈbeɪsɪk ˌɪnˈɡriːdiːənts/",
+              "example": "Dumplings have basic ingredients of flour and water, but are flexible: you can fill them with raw prawns or vegetables.",
+              "exampleTranslation": "Bánh bột có nguyên liệu cơ bản là bột và nước, nhưng rất linh hoạt: bạn có thể dùng tôm sống hoặc rau làm nhân.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 37",
+              "exampleId": "u4-ex-076"
             },
             {
               "id": "u4-listening-800ad6207fe6",
               "word": "flexible",
               "meaning": "linh hoạt; dễ thay đổi",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˈfleksəbəl/",
+              "example": "Dumplings have basic ingredients of flour and water, but are flexible: you can fill them with raw prawns or vegetables.",
+              "exampleTranslation": "Bánh bột có nguyên liệu cơ bản là bột và nước, nhưng rất linh hoạt: bạn có thể dùng tôm sống hoặc rau làm nhân.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 37",
+              "exampleId": "u4-ex-076"
             },
             {
               "id": "u4-listening-44b720252b4c",
               "word": "raw prawns",
               "meaning": "tôm sống",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/rɑː prɔːnz/",
+              "example": "Dumplings have basic ingredients of flour and water, but are flexible: you can fill them with raw prawns or vegetables.",
+              "exampleTranslation": "Bánh bột có nguyên liệu cơ bản là bột và nước, nhưng rất linh hoạt: bạn có thể dùng tôm sống hoặc rau làm nhân.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 182, track 37",
+              "exampleId": "u4-ex-076"
             },
             {
               "id": "u4-listening-1c582b4ddaca",
               "word": "run out of time",
               "meaning": "hết thời gian",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/rʌn aʊt əv taɪm/",
+              "example": "Thanks Graham, that's really interesting, but unfortunately we've run out of time.",
+              "exampleTranslation": "Cảm ơn Graham, thật thú vị, nhưng tiếc là chúng ta đã hết thời gian.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 182, track 37",
+              "exampleId": "u4-ex-077"
             }
           ]
         }
@@ -1237,9 +2149,12 @@ export default {
               "meaning": "bắp cải",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ˈkæbɪdʒ/",
-              "example": "I’m making cabbage soup for lunch.",
-              "exampleTranslation": "Tôi đang nấu súp bắp cải cho bữa trưa."
+              "ipa": "/ˈkæbədʒ/",
+              "example": "I cook cabbage with ginger, chillies and garlic, then add soy sauce and spices.",
+              "exampleTranslation": "Tôi nấu bắp cải với gừng, ớt và tỏi, rồi thêm nước tương và gia vị.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 80, ingredient practice",
+              "exampleId": "u4-ex-078"
             },
             {
               "id": "u4-speaking-08ddff4ebe39",
@@ -1248,8 +2163,11 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/ˈdʒɪndʒər/",
-              "example": "I’m going to make ginger tea for my sore throat.",
-              "exampleTranslation": "Tôi sẽ làm trà gừng cho cổ họng đau của mình."
+              "example": "I cook cabbage with ginger, chillies and garlic, then add soy sauce and spices.",
+              "exampleTranslation": "Tôi nấu bắp cải với gừng, ớt và tỏi, rồi thêm nước tương và gia vị.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 80, ingredient practice",
+              "exampleId": "u4-ex-078"
             },
             {
               "id": "u4-speaking-d5a3a6d81f5f",
@@ -1257,9 +2175,12 @@ export default {
               "meaning": "ớt",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ˈtʃɪliz/",
-              "example": "I like to eat spicy food with chillies.",
-              "exampleTranslation": "Tôi thích ăn đồ ăn cay với ớt."
+              "ipa": "/ˈtʃɪliːz/",
+              "example": "I cook cabbage with ginger, chillies and garlic, then add soy sauce and spices.",
+              "exampleTranslation": "Tôi nấu bắp cải với gừng, ớt và tỏi, rồi thêm nước tương và gia vị.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 80, ingredient practice",
+              "exampleId": "u4-ex-078"
             },
             {
               "id": "u4-speaking-da72b5fbd6dd",
@@ -1268,8 +2189,11 @@ export default {
               "type": "phrase",
               "pos": "noun_phrase",
               "ipa": "/sɔɪ sɔːs/",
-              "example": "I like to use soy sauce in my stir-fry dishes.",
-              "exampleTranslation": "Tôi thích dùng xì dầu trong các món xào của mình."
+              "example": "I cook cabbage with ginger, chillies and garlic, then add soy sauce and spices.",
+              "exampleTranslation": "Tôi nấu bắp cải với gừng, ớt và tỏi, rồi thêm nước tương và gia vị.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 80, ingredient practice",
+              "exampleId": "u4-ex-078"
             },
             {
               "id": "u4-speaking-1b35cfba043c",
@@ -1277,9 +2201,12 @@ export default {
               "meaning": "gia vị",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ˈspaɪsɪz/",
-              "example": "I like to use spices in my cooking.",
-              "exampleTranslation": "Tôi thích dùng gia vị trong nấu ăn của mình."
+              "ipa": "/ˈspaɪsəz/",
+              "example": "I cook cabbage with ginger, chillies and garlic, then add soy sauce and spices.",
+              "exampleTranslation": "Tôi nấu bắp cải với gừng, ớt và tỏi, rồi thêm nước tương và gia vị.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 80, ingredient practice",
+              "exampleId": "u4-ex-078"
             },
             {
               "id": "u4-speaking-41024084d2e2",
@@ -1288,15 +2215,24 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/ˈɡɑːrlɪk/",
-              "example": "I’m going to make garlic bread.",
-              "exampleTranslation": "Tôi sẽ làm bánh mì tỏi."
+              "example": "I cook cabbage with ginger, chillies and garlic, then add soy sauce and spices.",
+              "exampleTranslation": "Tôi nấu bắp cải với gừng, ớt và tỏi, rồi thêm nước tương và gia vị.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 80, ingredient practice",
+              "exampleId": "u4-ex-078"
             },
             {
               "id": "u4-speaking-4e7a0cd864b4",
               "word": "quick to make",
               "meaning": "làm nhanh",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/kwɪk tə meɪk/",
+              "example": "Busy people often choose food that is quick to make and convenient.",
+              "exampleTranslation": "Người bận rộn thường chọn đồ ăn làm nhanh và tiện lợi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 82",
+              "exampleId": "u4-ex-079"
             },
             {
               "id": "u4-speaking-3320956b836c",
@@ -1304,191 +2240,350 @@ export default {
               "meaning": "tiện lợi",
               "type": "word",
               "pos": "adjective",
-              "ipa": "/kənˈviː.ni.ənt/",
-              "example": "The hotel is very convenient for the airport.",
-              "exampleTranslation": "Khách sạn nằm ở vị trí thuận tiện để đến sân bay."
+              "ipa": "/kənˈviːnjənt/",
+              "example": "Busy people often choose food that is quick to make and convenient.",
+              "exampleTranslation": "Người bận rộn thường chọn đồ ăn làm nhanh và tiện lợi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 82",
+              "exampleId": "u4-ex-079"
             },
             {
               "id": "u4-speaking-31f4cfc8354a",
               "word": "fresh and healthy",
               "meaning": "tươi và lành mạnh",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/freʃ ənd helθi/",
+              "example": "I'm not keen on sushi: it is fresh and healthy, but I can't stand the texture because it is too chewy for me.",
+              "exampleTranslation": "Tôi không thích sushi lắm: món này tươi và lành mạnh, nhưng tôi không chịu được cảm giác khi nhai vì quá dai.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 82",
+              "exampleId": "u4-ex-080"
             },
             {
               "id": "u4-speaking-0baa5408ad92",
               "word": "not keen on",
               "meaning": "không thích lắm",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/nɑːt kiːn ɑːn/",
+              "example": "I'm not keen on sushi: it is fresh and healthy, but I can't stand the texture because it is too chewy for me.",
+              "exampleTranslation": "Tôi không thích sushi lắm: món này tươi và lành mạnh, nhưng tôi không chịu được cảm giác khi nhai vì quá dai.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 82",
+              "exampleId": "u4-ex-080"
             },
             {
               "id": "u4-speaking-03210fc838eb",
               "word": "can't stand the texture",
               "meaning": "không chịu được cảm giác khi nhai",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kænt stænd ðə ˈtekstʃər/",
+              "example": "I'm not keen on sushi: it is fresh and healthy, but I can't stand the texture because it is too chewy for me.",
+              "exampleTranslation": "Tôi không thích sushi lắm: món này tươi và lành mạnh, nhưng tôi không chịu được cảm giác khi nhai vì quá dai.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 82",
+              "exampleId": "u4-ex-080"
             },
             {
               "id": "u4-speaking-71b58c48d750",
               "word": "too chewy",
               "meaning": "quá dai",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/tuː tʃuːi/",
+              "example": "I'm not keen on sushi: it is fresh and healthy, but I can't stand the texture because it is too chewy for me.",
+              "exampleTranslation": "Tôi không thích sushi lắm: món này tươi và lành mạnh, nhưng tôi không chịu được cảm giác khi nhai vì quá dai.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 82",
+              "exampleId": "u4-ex-080"
             },
             {
               "id": "u4-speaking-4c8882e074f7",
               "word": "risotto",
               "meaning": "cơm Ý nấu sệt với nước dùng",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˌriːˈsɔːˌtoʊ/",
+              "example": "To make risotto, fry rice in olive oil, add broth and use saffron for a yellow colour.",
+              "exampleTranslation": "Để làm risotto, đảo gạo trong dầu ô liu, thêm nước dùng và dùng nhụy hoa nghệ tây để tạo màu vàng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 39",
+              "exampleId": "u4-ex-081"
             },
             {
               "id": "u4-speaking-4267eb72e56d",
               "word": "olive oil",
               "meaning": "dầu ô liu",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈɑːləv ɔɪl/",
+              "example": "To make risotto, fry rice in olive oil, add broth and use saffron for a yellow colour.",
+              "exampleTranslation": "Để làm risotto, đảo gạo trong dầu ô liu, thêm nước dùng và dùng nhụy hoa nghệ tây để tạo màu vàng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 39",
+              "exampleId": "u4-ex-081"
             },
             {
               "id": "u4-speaking-915db8f30b8d",
               "word": "broth",
               "meaning": "nước dùng",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/brɔːθ/",
+              "example": "To make risotto, fry rice in olive oil, add broth and use saffron for a yellow colour.",
+              "exampleTranslation": "Để làm risotto, đảo gạo trong dầu ô liu, thêm nước dùng và dùng nhụy hoa nghệ tây để tạo màu vàng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 39",
+              "exampleId": "u4-ex-081"
             },
             {
               "id": "u4-speaking-822f39a2cb65",
               "word": "saffron",
               "meaning": "nhụy hoa nghệ tây",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈsæfrən/",
+              "example": "To make risotto, fry rice in olive oil, add broth and use saffron for a yellow colour.",
+              "exampleTranslation": "Để làm risotto, đảo gạo trong dầu ô liu, thêm nước dùng và dùng nhụy hoa nghệ tây để tạo màu vàng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 39",
+              "exampleId": "u4-ex-081"
             },
             {
               "id": "u4-speaking-7f18041501a6",
               "word": "creamy",
               "meaning": "béo mịn",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/kriːmi/",
+              "example": "This creamy dish is usually served as a starter, not as the main meal.",
+              "exampleTranslation": "Món ăn béo mịn này thường được dùng làm món khai vị, không phải món chính.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 39",
+              "exampleId": "u4-ex-082"
             },
             {
               "id": "u4-speaking-222731dd9b07",
               "word": "a starter",
               "meaning": "món khai vị",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈstɑːrtər/",
+              "example": "This creamy dish is usually served as a starter, not as the main meal.",
+              "exampleTranslation": "Món ăn béo mịn này thường được dùng làm món khai vị, không phải món chính.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 39",
+              "exampleId": "u4-ex-082"
             },
             {
               "id": "u4-speaking-096d41b3c5de",
               "word": "the main meal",
               "meaning": "bữa chính; món chính trong ngữ cảnh này",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðə meɪn miːl/",
+              "example": "This creamy dish is usually served as a starter, not as the main meal.",
+              "exampleTranslation": "Món ăn béo mịn này thường được dùng làm món khai vị, không phải món chính.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 39",
+              "exampleId": "u4-ex-082"
             },
             {
               "id": "u4-speaking-18ec0acb1282",
               "word": "waste food",
               "meaning": "lãng phí thức ăn",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/weɪst fuːd/",
+              "example": "Italians do not like to waste food, so leftover ingredients can be used in risotto.",
+              "exampleTranslation": "Người Ý không thích lãng phí thức ăn, nên nguyên liệu còn thừa có thể dùng để nấu risotto.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 39",
+              "exampleId": "u4-ex-083"
             },
             {
               "id": "u4-speaking-c3aba4d5283b",
               "word": "remind me of home",
               "meaning": "gợi tôi nhớ về nhà",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/riːˈmaɪnd mi əv hoʊm/",
+              "example": "My mother is fond of cooking risotto; it cheers me up and reminds me of home when I feel homesick.",
+              "exampleTranslation": "Mẹ tôi thích nấu risotto; món này làm tôi vui và gợi nhớ về nhà mỗi khi tôi nhớ nhà.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 39",
+              "exampleId": "u4-ex-084"
             },
             {
               "id": "u4-speaking-30c055ba3de2",
               "word": "be fond of cooking",
               "meaning": "thích nấu ăn",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː fɑːnd əv ˈkʊkɪŋ/",
+              "example": "My mother is fond of cooking risotto; it cheers me up and reminds me of home when I feel homesick.",
+              "exampleTranslation": "Mẹ tôi thích nấu risotto; món này làm tôi vui và gợi nhớ về nhà mỗi khi tôi nhớ nhà.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 39",
+              "exampleId": "u4-ex-084"
             },
             {
               "id": "u4-speaking-35f54eb9a0ea",
               "word": "cheer me up",
               "meaning": "làm tôi vui lên",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/tʃɪr mi ʌp/",
+              "example": "My mother is fond of cooking risotto; it cheers me up and reminds me of home when I feel homesick.",
+              "exampleTranslation": "Mẹ tôi thích nấu risotto; món này làm tôi vui và gợi nhớ về nhà mỗi khi tôi nhớ nhà.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 39",
+              "exampleId": "u4-ex-084"
             },
             {
               "id": "u4-speaking-040d683debd5",
               "word": "feel homesick",
               "meaning": "cảm thấy nhớ nhà",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/fiːl ˈhoʊmˌsɪk/",
+              "example": "My mother is fond of cooking risotto; it cheers me up and reminds me of home when I feel homesick.",
+              "exampleTranslation": "Mẹ tôi thích nấu risotto; món này làm tôi vui và gợi nhớ về nhà mỗi khi tôi nhớ nhà.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 39",
+              "exampleId": "u4-ex-084"
             },
             {
               "id": "u4-speaking-91dca0d90fe7",
               "word": "be proud of our cuisine",
               "meaning": "tự hào về nền ẩm thực của chúng tôi",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː praʊd əv aʊər kwɪˈziːn/",
+              "example": "We are proud of our cuisine, especially our traditional meat dishes.",
+              "exampleTranslation": "Chúng tôi tự hào về nền ẩm thực của mình, đặc biệt là những món thịt truyền thống.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 83",
+              "exampleId": "u4-ex-085"
             },
             {
               "id": "u4-speaking-5c17109d2074",
               "word": "juicy",
               "meaning": "mọng nước",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/dʒuːsi/",
+              "example": "The juicy lamb is slowly grilled with spices and served with rice.",
+              "exampleTranslation": "Thịt cừu mọng nước được nướng chậm với gia vị và ăn kèm cơm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 83",
+              "exampleId": "u4-ex-086"
             },
             {
               "id": "u4-speaking-28b14e1b8899",
               "word": "slowly grilled",
               "meaning": "được nướng chậm",
               "type": "phrase",
-              "pos": "participle_phrase"
+              "pos": "participle_phrase",
+              "ipa": "/sloʊli ɡrɪld/",
+              "example": "The juicy lamb is slowly grilled with spices and served with rice.",
+              "exampleTranslation": "Thịt cừu mọng nước được nướng chậm với gia vị và ăn kèm cơm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 83",
+              "exampleId": "u4-ex-086"
             },
             {
               "id": "u4-speaking-c6514168c080",
               "word": "serve with rice",
               "meaning": "ăn kèm với cơm",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/sɜːrv wɪð raɪs/",
+              "example": "The juicy lamb is slowly grilled with spices and served with rice.",
+              "exampleTranslation": "Thịt cừu mọng nước được nướng chậm với gia vị và ăn kèm cơm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 83",
+              "exampleId": "u4-ex-086"
             },
             {
               "id": "u4-speaking-f02990135436",
               "word": "filling",
               "meaning": "no bụng; giúp no lâu",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˈfɪlɪŋ/",
+              "example": "Pizza is filling, and you can choose different toppings.",
+              "exampleTranslation": "Pizza giúp no bụng, và bạn có thể chọn nhiều loại nguyên liệu phủ lên trên.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 84",
+              "exampleId": "u4-ex-087"
             },
             {
               "id": "u4-speaking-0b962bf7b152",
               "word": "toppings",
               "meaning": "nguyên liệu phủ lên trên món ăn",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈtɑːpɪŋz/",
+              "example": "Pizza is filling, and you can choose different toppings.",
+              "exampleTranslation": "Pizza giúp no bụng, và bạn có thể chọn nhiều loại nguyên liệu phủ lên trên.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 84",
+              "exampleId": "u4-ex-087"
             },
             {
               "id": "u4-speaking-9dffba463863",
               "word": "chop vegetables",
               "meaning": "thái rau",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/tʃɑːp ˈvedʒtəbəlz/",
+              "example": "I chop vegetables to make a soup that is healthy and economical.",
+              "exampleTranslation": "Tôi thái rau để nấu món súp lành mạnh và tiết kiệm chi phí.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 84",
+              "exampleId": "u4-ex-088"
             },
             {
               "id": "u4-speaking-f7feb1fadf22",
               "word": "economical",
               "meaning": "tiết kiệm chi phí",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˌekəˈnɑːmɪkəl/",
+              "example": "I chop vegetables to make a soup that is healthy and economical.",
+              "exampleTranslation": "Tôi thái rau để nấu món súp lành mạnh và tiết kiệm chi phí.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 84",
+              "exampleId": "u4-ex-088"
             },
             {
               "id": "u4-speaking-a27137553bdc",
               "word": "a special occasion",
               "meaning": "một dịp đặc biệt",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈspeʃəl əˈkeɪʒən/",
+              "example": "I'd like to describe a special occasion when I had a really enjoyable meal.",
+              "exampleTranslation": "Tôi muốn kể về một dịp đặc biệt khi tôi đã có một bữa ăn thật thú vị.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 85",
+              "exampleId": "u4-ex-089"
             },
             {
               "id": "u4-speaking-a36f9c74934a",
               "word": "an enjoyable meal",
               "meaning": "một bữa ăn thú vị",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ən ˌenˈdʒɔɪəbəl miːl/",
+              "example": "I'd like to describe a special occasion when I had a really enjoyable meal.",
+              "exampleTranslation": "Tôi muốn kể về một dịp đặc biệt khi tôi đã có một bữa ăn thật thú vị.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 85",
+              "exampleId": "u4-ex-089"
             }
           ]
         },
@@ -1504,7 +2599,12 @@ export default {
               "meaning": "Món đó được làm với ... và dọn kèm ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "It is made with rice noodles and served with fresh herbs."
+              "ipa": "/ɪt ɪz meɪd wɪð … ənd sɜːrvd wɪð …/",
+              "example": "It is made with rice noodles and served with fresh herbs.",
+              "exampleTranslation": "Món này được làm với bánh phở và dọn kèm rau thơm tươi.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 80–85; TB pp. 44–46",
+              "exampleId": "u4-ex-090"
             },
             {
               "id": "u4-speaking-0f1f3fe44e65",
@@ -1512,7 +2612,12 @@ export default {
               "meaning": "Điều khiến món đó đặc biệt là ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "What makes it special is the rich broth."
+              "ipa": "/hwʌt meɪks ɪt ˈspeʃəl ɪz …/",
+              "example": "What makes it special is the rich broth.",
+              "exampleTranslation": "Điều khiến món này đặc biệt là nước dùng đậm đà.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 80–85; TB pp. 44–46",
+              "exampleId": "u4-ex-091"
             },
             {
               "id": "u4-speaking-bbd62a248cf9",
@@ -1520,7 +2625,12 @@ export default {
               "meaning": "Tôi sẽ giới thiệu món này cho bất kỳ ai thích ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "I would recommend it to anyone who enjoys spicy food."
+              "ipa": "/aɪ wʊd ˌrekəˈmend ɪt tə ˈeniːˌwʌn huː ˌenˈdʒɔɪz …/",
+              "example": "I would recommend it to anyone who enjoys spicy food.",
+              "exampleTranslation": "Tôi sẽ giới thiệu món này cho bất kỳ ai thích đồ cay.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 80–85; TB pp. 44–46",
+              "exampleId": "u4-ex-092"
             },
             {
               "id": "u4-speaking-9f148632cd4f",
@@ -1528,35 +2638,64 @@ export default {
               "meaning": "Món đó gợi lại những kỷ niệm về ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "It brings back memories of family gatherings."
+              "ipa": "/ɪt brɪŋz bæk ˈmeməriːz əv …/",
+              "example": "It brings back memories of family gatherings.",
+              "exampleTranslation": "Món này gợi lại những kỷ niệm về những lần gia đình sum họp.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 80–85; TB pp. 44–46",
+              "exampleId": "u4-ex-093"
             },
             {
               "id": "u4-speaking-ec3d4641e79d",
               "word": "a balanced diet",
               "meaning": "chế độ ăn cân bằng",
               "type": "collocation",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈbælənst ˈdaɪət/",
+              "example": "A home-cooked meal can be part of a balanced diet.",
+              "exampleTranslation": "Bữa ăn nấu tại nhà có thể là một phần của chế độ ăn cân bằng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 80–85; TB pp. 44–46",
+              "exampleId": "u4-ex-094"
             },
             {
               "id": "u4-speaking-87d584e50114",
               "word": "a home-cooked meal",
               "meaning": "bữa ăn nấu tại nhà",
               "type": "collocation",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə hoʊm kʊkt miːl/",
+              "example": "A home-cooked meal can be part of a balanced diet.",
+              "exampleTranslation": "Bữa ăn nấu tại nhà có thể là một phần của chế độ ăn cân bằng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 80–85; TB pp. 44–46",
+              "exampleId": "u4-ex-094"
             },
             {
               "id": "u4-speaking-03b9ebd7ae81",
               "word": "rich in flavour",
               "meaning": "đậm đà hương vị",
               "type": "collocation",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/rɪtʃ ɪn ˈfleɪvər/",
+              "example": "The soup uses fresh local ingredients and is rich in flavour.",
+              "exampleTranslation": "Món súp dùng nguyên liệu địa phương tươi ngon và có hương vị đậm đà.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 80–85; TB pp. 44–46",
+              "exampleId": "u4-ex-095"
             },
             {
               "id": "u4-speaking-680f0eac8e6f",
               "word": "fresh local ingredients",
               "meaning": "nguyên liệu địa phương tươi ngon",
               "type": "collocation",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/freʃ ˈloʊkəl ˌɪnˈɡriːdiːənts/",
+              "example": "The soup uses fresh local ingredients and is rich in flavour.",
+              "exampleTranslation": "Món súp dùng nguyên liệu địa phương tươi ngon và có hương vị đậm đà.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 80–85; TB pp. 44–46",
+              "exampleId": "u4-ex-095"
             }
           ]
         },
@@ -1573,8 +2712,11 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/ˈbɜːrɡər/",
-              "example": "I had a burger for lunch.",
-              "exampleTranslation": "Tôi ăn một chiếc bánh burger cho bữa trưa."
+              "example": "I ordered a burger with salad, while my friend chose chips instead of mashed potato.",
+              "exampleTranslation": "Tôi gọi burger với rau trộn, còn bạn tôi chọn khoai tây chiên thay vì khoai tây nghiền.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 64, 75, 78, 80–85; TB pp. 38, 41, 43–46",
+              "exampleId": "u4-ex-119"
             },
             {
               "id": "u4-speaking-d9705d8ee25f",
@@ -1583,8 +2725,11 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/tʃɪps/",
-              "example": "I had chips with my sandwich.",
-              "exampleTranslation": "Tôi ăn khoai tây chiên với bánh mì kẹp của mình."
+              "example": "I ordered a burger with salad, while my friend chose chips instead of mashed potato.",
+              "exampleTranslation": "Tôi gọi burger với rau trộn, còn bạn tôi chọn khoai tây chiên thay vì khoai tây nghiền.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 64, 75, 78, 80–85; TB pp. 38, 41, 43–46",
+              "exampleId": "u4-ex-119"
             },
             {
               "id": "u4-speaking-c6c3fa689e29",
@@ -1593,8 +2738,11 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/ˈsæləd/",
-              "example": "I had a salad for lunch.",
-              "exampleTranslation": "Tôi ăn rau trộn cho bữa trưa."
+              "example": "I ordered a burger with salad, while my friend chose chips instead of mashed potato.",
+              "exampleTranslation": "Tôi gọi burger với rau trộn, còn bạn tôi chọn khoai tây chiên thay vì khoai tây nghiền.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 64, 75, 78, 80–85; TB pp. 38, 41, 43–46",
+              "exampleId": "u4-ex-119"
             },
             {
               "id": "u4-speaking-5d6e48caebf9",
@@ -1602,9 +2750,12 @@ export default {
               "meaning": "khoai tây nghiền",
               "type": "phrase",
               "pos": "noun_phrase",
-              "ipa": "/mæʃt pəˈteɪtoʊ/",
-              "example": "I love mashed potatoes with gravy.",
-              "exampleTranslation": "Tôi rất thích khoai tây nghiền với sốt thịt hầm."
+              "ipa": "/mæʃt pəˈteɪˌtoʊ/",
+              "example": "I ordered a burger with salad, while my friend chose chips instead of mashed potato.",
+              "exampleTranslation": "Tôi gọi burger với rau trộn, còn bạn tôi chọn khoai tây chiên thay vì khoai tây nghiền.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 64, 75, 78, 80–85; TB pp. 38, 41, 43–46",
+              "exampleId": "u4-ex-119"
             },
             {
               "id": "u4-speaking-f5903f51e341",
@@ -1613,8 +2764,11 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/ˈæpəlz/",
-              "example": "I like to eat apples.",
-              "exampleTranslation": "Tôi thích ăn táo."
+              "example": "For breakfast, I have yoghurt with apples and bananas.",
+              "exampleTranslation": "Vào bữa sáng, tôi ăn sữa chua với táo và chuối.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 64, 75, 78, 80–85; TB pp. 38, 41, 43–46",
+              "exampleId": "u4-ex-120"
             },
             {
               "id": "u4-speaking-e4ba5cbd251c",
@@ -1623,8 +2777,11 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/bəˈnænəz/",
-              "example": "I like to eat bananas.",
-              "exampleTranslation": "Tôi thích ăn chuối."
+              "example": "For breakfast, I have yoghurt with apples and bananas.",
+              "exampleTranslation": "Vào bữa sáng, tôi ăn sữa chua với táo và chuối.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 64, 75, 78, 80–85; TB pp. 38, 41, 43–46",
+              "exampleId": "u4-ex-120"
             },
             {
               "id": "u4-speaking-aa415c4e8890",
@@ -1633,8 +2790,11 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/biːf/",
-              "example": "I’m cooking beef stew for dinner.",
-              "exampleTranslation": "Tôi đang nấu thịt bò hầm cho bữa tối."
+              "example": "The stew is made with beef, tomatoes and onions.",
+              "exampleTranslation": "Món hầm được làm với thịt bò, cà chua và hành tây.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 64, 75, 78, 80–85; TB pp. 38, 41, 43–46",
+              "exampleId": "u4-ex-121"
             },
             {
               "id": "u4-speaking-040f4c812d02",
@@ -1642,9 +2802,12 @@ export default {
               "meaning": "bánh quy",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ˈbɪskɪts/",
-              "example": "Would you like a biscuit with your tea?",
-              "exampleTranslation": "Bạn có muốn một cái bánh quy với trà không?"
+              "ipa": "/ˈbɪskəts/",
+              "example": "I sometimes have chocolate biscuits with tea.",
+              "exampleTranslation": "Đôi khi tôi ăn bánh quy sô-cô-la với trà.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 64, 75, 78, 80–85; TB pp. 38, 41, 43–46",
+              "exampleId": "u4-ex-122"
             },
             {
               "id": "u4-speaking-7499aced4386",
@@ -1652,9 +2815,12 @@ export default {
               "meaning": "sô-cô-la",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ˈtʃɒklət/",
-              "example": "I love chocolate ice cream.",
-              "exampleTranslation": "Tôi yêu kem socola."
+              "ipa": "/ˈtʃɔːklət/",
+              "example": "I sometimes have chocolate biscuits with tea.",
+              "exampleTranslation": "Đôi khi tôi ăn bánh quy sô-cô-la với trà.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 64, 75, 78, 80–85; TB pp. 38, 41, 43–46",
+              "exampleId": "u4-ex-122"
             },
             {
               "id": "u4-speaking-873ac9ffea4d",
@@ -1663,8 +2829,11 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/tʃiːz/",
-              "example": "I like to eat cheese with crackers.",
-              "exampleTranslation": "Tôi thích ăn phô mai với bánh quy."
+              "example": "I use an egg and some cheese to make a quick breakfast.",
+              "exampleTranslation": "Tôi dùng một quả trứng và một ít phô mai để làm bữa sáng nhanh.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 64, 75, 78, 80–85; TB pp. 38, 41, 43–46",
+              "exampleId": "u4-ex-123"
             },
             {
               "id": "u4-speaking-34707c3f40df",
@@ -1673,8 +2842,11 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/eɡ/",
-              "example": "I'm going to make scrambled eggs for breakfast.",
-              "exampleTranslation": "Tôi sẽ làm trứng bác cho bữa sáng."
+              "example": "I use an egg and some cheese to make a quick breakfast.",
+              "exampleTranslation": "Tôi dùng một quả trứng và một ít phô mai để làm bữa sáng nhanh.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 64, 75, 78, 80–85; TB pp. 38, 41, 43–46",
+              "exampleId": "u4-ex-123"
             },
             {
               "id": "u4-speaking-20c526012014",
@@ -1682,16 +2854,25 @@ export default {
               "meaning": "cà chua",
               "type": "word",
               "pos": "noun",
-              "ipa": "/təˈmeɪtoʊz/",
-              "example": "Tomatoes are good in salads.",
-              "exampleTranslation": "Cà chua ngon trong các món salad."
+              "ipa": "/təˈmɑːtoʊz/",
+              "example": "The stew is made with beef, tomatoes and onions.",
+              "exampleTranslation": "Món hầm được làm với thịt bò, cà chua và hành tây.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 64, 75, 78, 80–85; TB pp. 38, 41, 43–46",
+              "exampleId": "u4-ex-121"
             },
             {
               "id": "u4-speaking-3b7a21fc282a",
               "word": "yoghurt",
               "meaning": "sữa chua",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈjoʊɡərt/",
+              "example": "For breakfast, I have yoghurt with apples and bananas.",
+              "exampleTranslation": "Vào bữa sáng, tôi ăn sữa chua với táo và chuối.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 64, 75, 78, 80–85; TB pp. 38, 41, 43–46",
+              "exampleId": "u4-ex-120"
             },
             {
               "id": "u4-speaking-5eb8c5e422fe",
@@ -1700,36 +2881,63 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/ˈʌnjənz/",
-              "example": "Onions are good in soups and stews.",
-              "exampleTranslation": "Hành tây ngon trong các món súp và hầm."
+              "example": "The stew is made with beef, tomatoes and onions.",
+              "exampleTranslation": "Món hầm được làm với thịt bò, cà chua và hành tây.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 64, 75, 78, 80–85; TB pp. 38, 41, 43–46",
+              "exampleId": "u4-ex-121"
             },
             {
               "id": "u4-speaking-8f9e588c3f86",
               "word": "mouth-watering",
               "meaning": "ngon hấp dẫn; khiến thèm ăn",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/maʊθ ˈwɔːtərɪŋ/",
+              "example": "Freshly cooked food looks mouth-watering, but cold leftovers can look unappetising.",
+              "exampleTranslation": "Đồ ăn vừa nấu trông ngon hấp dẫn, nhưng thức ăn thừa nguội có thể trông không ngon mắt.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 64, 75, 78, 80–85; TB pp. 38, 41, 43–46",
+              "exampleId": "u4-ex-124"
             },
             {
               "id": "u4-speaking-2504cf523ef4",
               "word": "unappetising",
               "meaning": "không ngon mắt; không hấp dẫn",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ʌnˈæpɪtaɪzɪŋ/",
+              "example": "Freshly cooked food looks mouth-watering, but cold leftovers can look unappetising.",
+              "exampleTranslation": "Đồ ăn vừa nấu trông ngon hấp dẫn, nhưng thức ăn thừa nguội có thể trông không ngon mắt.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 64, 75, 78, 80–85; TB pp. 38, 41, 43–46",
+              "exampleId": "u4-ex-124"
             },
             {
               "id": "u4-speaking-6bf6490b4229",
               "word": "follow a recipe",
               "meaning": "làm theo công thức nấu ăn",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈfɑːloʊ ə ˈresəpi/",
+              "example": "You do not need to be a highly trained chef to follow a simple recipe.",
+              "exampleTranslation": "Bạn không cần là đầu bếp được đào tạo bài bản để làm theo một công thức đơn giản.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 64, 75, 78, 80–85; TB pp. 38, 41, 43–46",
+              "exampleId": "u4-ex-125"
             },
             {
               "id": "u4-speaking-5b13e06ffd4b",
               "word": "highly trained chef",
               "meaning": "đầu bếp được đào tạo bài bản",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/haɪli treɪnd ʃef/",
+              "example": "You do not need to be a highly trained chef to follow a simple recipe.",
+              "exampleTranslation": "Bạn không cần là đầu bếp được đào tạo bài bản để làm theo một công thức đơn giản.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 64, 75, 78, 80–85; TB pp. 38, 41, 43–46",
+              "exampleId": "u4-ex-125"
             }
           ]
         }
@@ -1751,182 +2959,338 @@ export default {
               "word": "the highest proportion",
               "meaning": "tỷ lệ cao nhất",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðə ˈhaɪəst prəˈpɔːrʃən/",
+              "example": "Chinese food was chosen by the highest proportion of people, at just over a third.",
+              "exampleTranslation": "Đồ ăn Trung Quốc được tỷ lệ người cao nhất lựa chọn, chiếm hơn một phần ba một chút.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 70–73",
+              "exampleId": "u4-ex-096"
             },
             {
               "id": "u4-writing-bd860a284b30",
               "word": "a tiny proportion",
               "meaning": "một tỷ lệ rất nhỏ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə taɪni prəˈpɔːrʃən/",
+              "example": "Each of the least popular types attracted only a tiny proportion of people, at 1%.",
+              "exampleTranslation": "Mỗi loại ít được ưa chuộng nhất chỉ thu hút một tỷ lệ rất nhỏ, ở mức 1%.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 70–73",
+              "exampleId": "u4-ex-097"
             },
             {
               "id": "u4-writing-bf55de5c0b24",
               "word": "just over a third",
               "meaning": "hơn một phần ba một chút",
               "type": "phrase",
-              "pos": "number"
+              "pos": "number",
+              "ipa": "/dʒʌst ˈoʊvər ə θɜːrd/",
+              "example": "Chinese food was chosen by the highest proportion of people, at just over a third.",
+              "exampleTranslation": "Đồ ăn Trung Quốc được tỷ lệ người cao nhất lựa chọn, chiếm hơn một phần ba một chút.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 70–73",
+              "exampleId": "u4-ex-096"
             },
             {
               "id": "u4-writing-d4a20ee07887",
               "word": "approximately a quarter",
               "meaning": "khoảng một phần tư",
               "type": "phrase",
-              "pos": "number"
+              "pos": "number",
+              "ipa": "/əˈprɑːksəmətli ə ˈkwɔːrtər/",
+              "example": "Approximately a quarter of people preferred Indian takeaways.",
+              "exampleTranslation": "Khoảng một phần tư số người thích đồ ăn Ấn Độ mang về hơn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 70–73",
+              "exampleId": "u4-ex-098"
             },
             {
               "id": "u4-writing-56d06497219a",
               "word": "one in ten",
               "meaning": "một trong mười; một phần mười",
               "type": "phrase",
-              "pos": "number"
+              "pos": "number",
+              "ipa": "/wʌn ɪn ten/",
+              "example": "One in ten people chose Italian food.",
+              "exampleTranslation": "Một trong mười người chọn đồ ăn Ý.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 70–73",
+              "exampleId": "u4-ex-099"
             },
             {
               "id": "u4-writing-ca0be3524f04",
               "word": "the least popular type",
               "meaning": "loại ít được ưa chuộng nhất",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðə liːst ˈpɑːpjələr taɪp/",
+              "example": "Each of the least popular types attracted only a tiny proportion of people, at 1%.",
+              "exampleTranslation": "Mỗi loại ít được ưa chuộng nhất chỉ thu hút một tỷ lệ rất nhỏ, ở mức 1%.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 70–73",
+              "exampleId": "u4-ex-097"
             },
             {
               "id": "u4-writing-f02e690ebf0e",
               "word": "slightly more popular than",
               "meaning": "phổ biến hơn một chút so với",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/slaɪtli mɔːr ˈpɑːpjələr ðən/",
+              "example": "Italian takeaways were slightly more popular than British takeaways.",
+              "exampleTranslation": "Đồ ăn Ý mang về phổ biến hơn một chút so với đồ ăn Anh mang về.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 71",
+              "exampleId": "u4-ex-100"
             },
             {
               "id": "u4-writing-b266422e0b73",
               "word": "fewer people",
               "meaning": "ít người hơn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈfjuːər ˈpiːpəl/",
+              "example": "Fewer people liked Mexican food than Thai food.",
+              "exampleTranslation": "Ít người thích đồ ăn Mexico hơn đồ ăn Thái.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 71",
+              "exampleId": "u4-ex-101"
             },
             {
               "id": "u4-writing-e1d8523bce33",
               "word": "less land",
               "meaning": "ít diện tích đất hơn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/les lænd/",
+              "example": "India has less land than China.",
+              "exampleTranslation": "Ấn Độ có diện tích đất nhỏ hơn Trung Quốc.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 72",
+              "exampleId": "u4-ex-102"
             },
             {
               "id": "u4-writing-99320f2fcf78",
               "word": "just under",
               "meaning": "chỉ dưới mức ... một chút",
               "type": "phrase",
-              "pos": "adverb_phrase"
+              "pos": "adverb_phrase",
+              "ipa": "/dʒʌst ˈʌndər/",
+              "example": "The number rose from approximately 5000 in 1990 to just under 8000 in 2000.",
+              "exampleTranslation": "Con số tăng từ khoảng 5.000 năm 1990 lên chỉ dưới 8.000 một chút năm 2000.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 73",
+              "exampleId": "u4-ex-103"
             },
             {
               "id": "u4-writing-5b66784573b0",
               "word": "a little over",
               "meaning": "hơn ... một chút",
               "type": "phrase",
-              "pos": "adverb_phrase"
+              "pos": "adverb_phrase",
+              "ipa": "/ə ˈlɪtəl ˈoʊvər/",
+              "example": "In 1970 there were a little over 1000 Indian restaurants.",
+              "exampleTranslation": "Năm 1970 có hơn 1.000 nhà hàng Ấn Độ một chút.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 73",
+              "exampleId": "u4-ex-104"
             },
             {
               "id": "u4-writing-b80dadebcfe8",
               "word": "around half a million",
               "meaning": "khoảng nửa triệu",
               "type": "phrase",
-              "pos": "number"
+              "pos": "number",
+              "ipa": "/ərˈaʊn hæf ə ˈmɪljən/",
+              "example": "The figure of 500,070 can be described as around half a million.",
+              "exampleTranslation": "Con số 500.070 có thể được mô tả là khoảng nửa triệu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 72",
+              "exampleId": "u4-ex-105"
             },
             {
               "id": "u4-writing-b2876107b7ae",
               "word": "between ... and ...",
               "meaning": "trong khoảng từ ... đến ...",
               "type": "structure",
-              "pos": "sentence_pattern"
+              "pos": "sentence_pattern",
+              "ipa": "/biːtˈwiːn … ənd …/",
+              "example": "From 2007 to 2015 the number of restaurants was between 9000 and 9500.",
+              "exampleTranslation": "Từ năm 2007 đến 2015, số nhà hàng nằm trong khoảng từ 9.000 đến 9.500.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 73",
+              "exampleId": "u4-ex-106"
             },
             {
               "id": "u4-writing-0443ad4465fc",
               "word": "market share",
               "meaning": "thị phần",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈmɑːrkət ʃer/",
+              "example": "The chart compares the market share of four supermarkets.",
+              "exampleTranslation": "Biểu đồ so sánh thị phần của bốn siêu thị.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 73",
+              "exampleId": "u4-ex-107"
             },
             {
               "id": "u4-writing-a8a178e92df4",
               "word": "a rising trend",
               "meaning": "xu hướng tăng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈraɪzɪŋ trend/",
+              "example": "There was a rising trend from 1960 onwards.",
+              "exampleTranslation": "Có một xu hướng tăng từ năm 1960 trở đi.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 73",
+              "exampleId": "u4-ex-108"
             },
             {
               "id": "u4-writing-5dfd1dc34c43",
               "word": "from ... onwards",
               "meaning": "từ ... trở đi",
               "type": "structure",
-              "pos": "sentence_pattern"
+              "pos": "sentence_pattern",
+              "ipa": "/frəm … ˈɑːnwərdz/",
+              "example": "There was a rising trend from 1960 onwards.",
+              "exampleTranslation": "Có một xu hướng tăng từ năm 1960 trở đi.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 73",
+              "exampleId": "u4-ex-108"
             },
             {
               "id": "u4-writing-4a376620a1ed",
               "word": "remain stable",
               "meaning": "duy trì ổn định",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/riːˈmeɪn ˈsteɪbəl/",
+              "example": "Since 2007, the number has remained stable at just over 9000.",
+              "exampleTranslation": "Kể từ năm 2007, con số duy trì ổn định ở mức hơn 9.000 một chút.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 73",
+              "exampleId": "u4-ex-109"
             },
             {
               "id": "u4-writing-a07579b97d69",
               "word": "a significant increase",
               "meaning": "sự tăng đáng kể",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə səɡˈnɪfɪkənt ˈɪnˌkriːs/",
+              "example": "The task asks which ten-year period showed the first significant increase.",
+              "exampleTranslation": "Bài tập hỏi giai đoạn mười năm nào ghi nhận sự tăng đáng kể đầu tiên.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 74",
+              "exampleId": "u4-ex-110"
             },
             {
               "id": "u4-writing-09dbdd823dc6",
               "word": "overweight",
               "meaning": "thừa cân",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˌoʊvərˈweɪt/",
+              "example": "The chart divides the adult population into weight ranges: healthy or underweight, overweight, obese and severely obese.",
+              "exampleTranslation": "Biểu đồ chia dân số trưởng thành thành các nhóm cân nặng: khỏe mạnh hoặc thiếu cân, thừa cân, béo phì và béo phì nghiêm trọng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 74",
+              "exampleId": "u4-ex-111"
             },
             {
               "id": "u4-writing-d1f79e652718",
               "word": "obese",
               "meaning": "béo phì",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/əˈbiːs/",
+              "example": "The chart divides the adult population into weight ranges: healthy or underweight, overweight, obese and severely obese.",
+              "exampleTranslation": "Biểu đồ chia dân số trưởng thành thành các nhóm cân nặng: khỏe mạnh hoặc thiếu cân, thừa cân, béo phì và béo phì nghiêm trọng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 74",
+              "exampleId": "u4-ex-111"
             },
             {
               "id": "u4-writing-888d4413cfcf",
               "word": "severely obese",
               "meaning": "béo phì nghiêm trọng",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/səˈvɪrli əˈbiːs/",
+              "example": "The chart divides the adult population into weight ranges: healthy or underweight, overweight, obese and severely obese.",
+              "exampleTranslation": "Biểu đồ chia dân số trưởng thành thành các nhóm cân nặng: khỏe mạnh hoặc thiếu cân, thừa cân, béo phì và béo phì nghiêm trọng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 74",
+              "exampleId": "u4-ex-111"
             },
             {
               "id": "u4-writing-2a5dbaaa63ac",
               "word": "underweight",
               "meaning": "thiếu cân",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˈʌndərˌweɪt/",
+              "example": "The chart divides the adult population into weight ranges: healthy or underweight, overweight, obese and severely obese.",
+              "exampleTranslation": "Biểu đồ chia dân số trưởng thành thành các nhóm cân nặng: khỏe mạnh hoặc thiếu cân, thừa cân, béo phì và béo phì nghiêm trọng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 74",
+              "exampleId": "u4-ex-111"
             },
             {
               "id": "u4-writing-7c88062bc1a2",
               "word": "adult population",
               "meaning": "dân số trưởng thành",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈædəlt ˌpɑːpjəˈleɪʃən/",
+              "example": "The chart divides the adult population into weight ranges: healthy or underweight, overweight, obese and severely obese.",
+              "exampleTranslation": "Biểu đồ chia dân số trưởng thành thành các nhóm cân nặng: khỏe mạnh hoặc thiếu cân, thừa cân, béo phì và béo phì nghiêm trọng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 74",
+              "exampleId": "u4-ex-111"
             },
             {
               "id": "u4-writing-84a8b1d24dce",
               "word": "weight range",
               "meaning": "khoảng cân nặng; nhóm cân nặng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/weɪt reɪndʒ/",
+              "example": "The chart divides the adult population into weight ranges: healthy or underweight, overweight, obese and severely obese.",
+              "exampleTranslation": "Biểu đồ chia dân số trưởng thành thành các nhóm cân nặng: khỏe mạnh hoặc thiếu cân, thừa cân, béo phì và béo phì nghiêm trọng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 74",
+              "exampleId": "u4-ex-111"
             },
             {
               "id": "u4-writing-2c52f8a184e9",
               "word": "at a slightly lower rate",
               "meaning": "với tốc độ thấp hơn một chút",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ət ə slaɪtli ˈloʊər reɪt/",
+              "example": "The percentage continued to increase, but at a slightly lower rate.",
+              "exampleTranslation": "Tỷ lệ tiếp tục tăng, nhưng với tốc độ thấp hơn một chút.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 74, chart language practice",
+              "exampleId": "u4-ex-112"
             },
             {
               "id": "u4-writing-1e71e97fcbeb",
               "word": "more or less equally",
               "meaning": "gần như đồng đều",
               "type": "phrase",
-              "pos": "adverb_phrase"
+              "pos": "adverb_phrase",
+              "ipa": "/mɔːr ɔːr les ˈiːkwəli/",
+              "example": "The two main groups were distributed more or less equally.",
+              "exampleTranslation": "Hai nhóm chính được phân bố gần như đồng đều.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 74, chart language practice",
+              "exampleId": "u4-ex-113"
             }
           ]
         },
@@ -1942,7 +3306,12 @@ export default {
               "meaning": "Biểu đồ tròn thể hiện ..., còn biểu đồ cột minh họa ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "The pie chart shows food preferences, while the bar chart illustrates restaurant numbers."
+              "ipa": "/ðə paɪ tʃɑːrt ʃoʊz … hwaɪl ðə bɑːr tʃɑːrt ˈɪləˌstreɪts …/",
+              "example": "The pie chart shows food preferences, while the bar chart illustrates restaurant numbers.",
+              "exampleTranslation": "Biểu đồ tròn thể hiện sở thích ăn uống, còn biểu đồ cột minh họa số lượng nhà hàng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 70–74; TB pp. 39–41",
+              "exampleId": "u4-ex-114"
             },
             {
               "id": "u4-writing-58968a6ff539",
@@ -1950,7 +3319,12 @@ export default {
               "meaning": "Nhìn chung, ... là ... phổ biến nhất, và ... đã tăng.",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "Overall, Chinese food was the most popular takeaway, and restaurant numbers increased."
+              "ipa": "/ˈoʊvərˌɔːl … wəz ðə moʊs ˈpɑːpjələr … ənd … ˈɪnˌkriːst/",
+              "example": "Overall, Chinese food was the most popular takeaway, and restaurant numbers increased.",
+              "exampleTranslation": "Nhìn chung, đồ ăn Trung Quốc là loại mang về phổ biến nhất, và số nhà hàng đã tăng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 70–74; TB pp. 39–41",
+              "exampleId": "u4-ex-115"
             },
             {
               "id": "u4-writing-f63d5ab39e63",
@@ -1958,7 +3332,12 @@ export default {
               "meaning": "... chiếm xấp xỉ một phần tư ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "This group represented roughly a quarter of the population."
+              "ipa": "/… ˌreprɪˈzentɪd rʌfli ə ˈkwɔːrtər əv …/",
+              "example": "This group represented roughly a quarter of the population.",
+              "exampleTranslation": "Nhóm này chiếm xấp xỉ một phần tư dân số.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 70–74; TB pp. 39–41",
+              "exampleId": "u4-ex-116"
             },
             {
               "id": "u4-writing-d818f2339b24",
@@ -1966,7 +3345,12 @@ export default {
               "meaning": "... có quy mô tương tự ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "The overweight group was similar in size to the healthy-weight group."
+              "ipa": "/… wəz ˈsɪmələr ɪn saɪz tə …/",
+              "example": "The overweight group was similar in size to the healthy-weight group.",
+              "exampleTranslation": "Nhóm thừa cân có quy mô tương tự nhóm có cân nặng khỏe mạnh.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 70–74; TB pp. 39–41",
+              "exampleId": "u4-ex-117"
             },
             {
               "id": "u4-writing-26506ff95dc3",
@@ -1974,7 +3358,12 @@ export default {
               "meaning": "... tăng từ khoảng ... lên gần ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "The figure rose from about 500 to nearly 2,000."
+              "ipa": "/… roʊz frəm əˈbaʊt … tə nɪrli …/",
+              "example": "The figure rose from about 500 to nearly 2,000.",
+              "exampleTranslation": "Con số tăng từ khoảng 500 lên gần 2.000.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 70–74; TB pp. 39–41",
+              "exampleId": "u4-ex-118"
             }
           ]
         }

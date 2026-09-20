@@ -19,378 +19,702 @@ export default {
               "word": "globalisation",
               "meaning": "toàn cầu hóa",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˌɡloʊbələˈzeɪʃən/",
+              "example": "Globalisation has affected most aspects of our lives.",
+              "exampleTranslation": "Toàn cầu hóa đã ảnh hưởng đến phần lớn các khía cạnh trong cuộc sống của chúng ta.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-001"
             },
             {
               "id": "u3-reading-852805846189",
               "word": "affect",
               "meaning": "ảnh hưởng đến",
               "type": "word",
-              "pos": "verb"
+              "pos": "verb",
+              "ipa": "/əˈfekt/",
+              "example": "Globalisation has affected most aspects of our lives.",
+              "exampleTranslation": "Toàn cầu hóa đã ảnh hưởng đến phần lớn các khía cạnh trong cuộc sống của chúng ta.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-001"
             },
             {
               "id": "u3-reading-7334ee5fbd64",
               "word": "aspects of our lives",
               "meaning": "các khía cạnh của cuộc sống",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈæsˌpekts əv aʊər laɪvz/",
+              "example": "Globalisation has affected most aspects of our lives.",
+              "exampleTranslation": "Toàn cầu hóa đã ảnh hưởng đến phần lớn các khía cạnh trong cuộc sống của chúng ta.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-001"
             },
             {
               "id": "u3-reading-c2162b68e4f7",
               "word": "distance learning",
               "meaning": "học từ xa",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈdɪstəns ˈlɜːrnɪŋ/",
+              "example": "Distance learning allows people to study without attending a college every day.",
+              "exampleTranslation": "Học từ xa cho phép mọi người học mà không cần đến trường cao đẳng hằng ngày.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-002"
             },
             {
               "id": "u3-reading-1858a9f56d26",
               "word": "attend a college",
               "meaning": "theo học một trường cao đẳng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/əˈtend ə ˈkɑːlɪdʒ/",
+              "example": "Distance learning allows people to study without attending a college every day.",
+              "exampleTranslation": "Học từ xa cho phép mọi người học mà không cần đến trường cao đẳng hằng ngày.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-002"
             },
             {
               "id": "u3-reading-fbdcf48c2c01",
               "word": "blended learning",
               "meaning": "học kết hợp trực tiếp và trực tuyến",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈblendɪd ˈlɜːrnɪŋ/",
+              "example": "'Blended learning' means studying partly in a traditional way in the classroom and partly on line or via email.",
+              "exampleTranslation": "Học kết hợp nghĩa là học một phần theo cách truyền thống trong lớp, phần còn lại trực tuyến hoặc qua email.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-003"
             },
             {
               "id": "u3-reading-334d93b5132b",
               "word": "in a traditional way",
               "meaning": "theo cách truyền thống",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn ə trəˈdɪʃənəl weɪ/",
+              "example": "'Blended learning' means studying partly in a traditional way in the classroom and partly on line or via email.",
+              "exampleTranslation": "Học kết hợp nghĩa là học một phần theo cách truyền thống trong lớp, phần còn lại trực tuyến hoặc qua email.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-003"
             },
             {
               "id": "u3-reading-89af86d03fcc",
               "word": "via email",
               "meaning": "qua thư điện tử",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ˈvaɪə iːˈmeɪl/",
+              "example": "'Blended learning' means studying partly in a traditional way in the classroom and partly on line or via email.",
+              "exampleTranslation": "Học kết hợp nghĩa là học một phần theo cách truyền thống trong lớp, phần còn lại trực tuyến hoặc qua email.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-003"
             },
             {
               "id": "u3-reading-e7aaf7e3f6bf",
               "word": "lifelong learning",
               "meaning": "học tập suốt đời",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈlaɪˈflɔːŋ ˈlɜːrnɪŋ/",
+              "example": "Lifelong learning continues throughout our working lives and even into retirement.",
+              "exampleTranslation": "Học tập suốt đời tiếp diễn trong cả quãng đời làm việc và ngay cả khi nghỉ hưu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-004"
             },
             {
               "id": "u3-reading-73c19e6b04bd",
               "word": "working lives",
               "meaning": "quãng đời làm việc",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈwɜːrkɪŋ laɪvz/",
+              "example": "Lifelong learning continues throughout our working lives and even into retirement.",
+              "exampleTranslation": "Học tập suốt đời tiếp diễn trong cả quãng đời làm việc và ngay cả khi nghỉ hưu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-004"
             },
             {
               "id": "u3-reading-0b80c840b321",
               "word": "retirement",
               "meaning": "thời kỳ nghỉ hưu",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/riːˈtaɪərmənt/",
+              "example": "Lifelong learning continues throughout our working lives and even into retirement.",
+              "exampleTranslation": "Học tập suốt đời tiếp diễn trong cả quãng đời làm việc và ngay cả khi nghỉ hưu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-004"
             },
             {
               "id": "u3-reading-927a51d19307",
               "word": "webinars",
               "meaning": "hội thảo trực tuyến",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈwebɪnɑːrz/",
+              "example": "It is easy to attend 'webinars' or on line seminars without being away from our offices.",
+              "exampleTranslation": "Chúng ta dễ dàng tham gia hội thảo trực tuyến mà không phải rời văn phòng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-005"
             },
             {
               "id": "u3-reading-30647f3196b6",
               "word": "online seminars",
               "meaning": "các buổi chuyên đề trực tuyến",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈɔːnˌlaɪn ˈseməˌnɑːrz/",
+              "example": "It is easy to attend 'webinars' or on line seminars without being away from our offices.",
+              "exampleTranslation": "Chúng ta dễ dàng tham gia hội thảo trực tuyến mà không phải rời văn phòng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-005"
             },
             {
               "id": "u3-reading-c81a4183738a",
               "word": "get a qualification",
               "meaning": "đạt được bằng cấp; chứng chỉ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡet ə ˌkwɑːləfəˈkeɪʃən/",
+              "example": "Many adults go back to college later in life because it is so easy to get a qualification without giving up work or disrupting family life.",
+              "exampleTranslation": "Nhiều người trưởng thành quay lại trường vì có thể dễ dàng lấy bằng mà không phải nghỉ việc hay làm xáo trộn cuộc sống gia đình.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-006"
             },
             {
               "id": "u3-reading-3793da86cdee",
               "word": "give up work",
               "meaning": "ngừng làm việc",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡɪv ʌp wɜːrk/",
+              "example": "Many adults go back to college later in life because it is so easy to get a qualification without giving up work or disrupting family life.",
+              "exampleTranslation": "Nhiều người trưởng thành quay lại trường vì có thể dễ dàng lấy bằng mà không phải nghỉ việc hay làm xáo trộn cuộc sống gia đình.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-006"
             },
             {
               "id": "u3-reading-d35cbe81165d",
               "word": "disrupt family life",
               "meaning": "làm xáo trộn cuộc sống gia đình",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/dɪsˈrʌpt ˈfæməli laɪf/",
+              "example": "Many adults go back to college later in life because it is so easy to get a qualification without giving up work or disrupting family life.",
+              "exampleTranslation": "Nhiều người trưởng thành quay lại trường vì có thể dễ dàng lấy bằng mà không phải nghỉ việc hay làm xáo trộn cuộc sống gia đình.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-006"
             },
             {
               "id": "u3-reading-3836a0cf4806",
               "word": "benefit from",
               "meaning": "hưởng lợi từ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈbenəfɪt frəm/",
+              "example": "Students and employers benefit from international degree programmes and see them as a valuable opportunity.",
+              "exampleTranslation": "Sinh viên và người sử dụng lao động hưởng lợi từ chương trình đào tạo cấp bằng quốc tế và xem đó là cơ hội quý giá.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-007"
             },
             {
               "id": "u3-reading-a114e9249718",
               "word": "degree programmes",
               "meaning": "các chương trình đào tạo cấp bằng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/dɪɡri ˈproʊɡræmz/",
+              "example": "Students and employers benefit from international degree programmes and see them as a valuable opportunity.",
+              "exampleTranslation": "Sinh viên và người sử dụng lao động hưởng lợi từ chương trình đào tạo cấp bằng quốc tế và xem đó là cơ hội quý giá.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-007"
             },
             {
               "id": "u3-reading-4dd7b69db868",
               "word": "employers",
               "meaning": "người sử dụng lao động",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/emˈplɔɪərz/",
+              "example": "Students and employers benefit from international degree programmes and see them as a valuable opportunity.",
+              "exampleTranslation": "Sinh viên và người sử dụng lao động hưởng lợi từ chương trình đào tạo cấp bằng quốc tế và xem đó là cơ hội quý giá.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-007"
             },
             {
               "id": "u3-reading-4d415e901488",
               "word": "a valuable opportunity",
               "meaning": "một cơ hội quý giá",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈvæljəbəl ˌɑːpərˈtuːnəti/",
+              "example": "Students and employers benefit from international degree programmes and see them as a valuable opportunity.",
+              "exampleTranslation": "Sinh viên và người sử dụng lao động hưởng lợi từ chương trình đào tạo cấp bằng quốc tế và xem đó là cơ hội quý giá.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-007"
             },
             {
               "id": "u3-reading-003d2ee6b08e",
               "word": "internationally recognised degree",
               "meaning": "bằng cấp được quốc tế công nhận",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌɪnərˈnæʃənəli ˈrekəɡˌnaɪzd dɪɡri/",
+              "example": "Students can get an internationally recognised degree at a much cheaper price than going abroad and so can improve their chances of getting a good job.",
+              "exampleTranslation": "Sinh viên có thể lấy bằng được quốc tế công nhận với chi phí thấp hơn nhiều so với du học, qua đó tăng cơ hội tìm được việc tốt.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-008"
             },
             {
               "id": "u3-reading-a0d585eb88ac",
               "word": "at a much cheaper price",
               "meaning": "với chi phí thấp hơn nhiều",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ət ə mʌtʃ ˈtʃiːpər praɪs/",
+              "example": "Students can get an internationally recognised degree at a much cheaper price than going abroad and so can improve their chances of getting a good job.",
+              "exampleTranslation": "Sinh viên có thể lấy bằng được quốc tế công nhận với chi phí thấp hơn nhiều so với du học, qua đó tăng cơ hội tìm được việc tốt.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-008"
             },
             {
               "id": "u3-reading-9fc6168a6b6f",
               "word": "go abroad",
               "meaning": "ra nước ngoài",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡoʊ əˈbrɔːd/",
+              "example": "Students can get an internationally recognised degree at a much cheaper price than going abroad and so can improve their chances of getting a good job.",
+              "exampleTranslation": "Sinh viên có thể lấy bằng được quốc tế công nhận với chi phí thấp hơn nhiều so với du học, qua đó tăng cơ hội tìm được việc tốt.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-008"
             },
             {
               "id": "u3-reading-2607cb212610",
               "word": "improve their chances of",
               "meaning": "nâng cao cơ hội của họ trong việc",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˌɪmˈpruːv ðer ˈtʃænsəz əv/",
+              "example": "Students can get an internationally recognised degree at a much cheaper price than going abroad and so can improve their chances of getting a good job.",
+              "exampleTranslation": "Sinh viên có thể lấy bằng được quốc tế công nhận với chi phí thấp hơn nhiều so với du học, qua đó tăng cơ hội tìm được việc tốt.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-008"
             },
             {
               "id": "u3-reading-710b8bfa6c94",
               "word": "world-class degrees",
               "meaning": "bằng cấp có chất lượng hàng đầu thế giới",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈwɜːrldˌklæs dɪˈɡriːz/",
+              "example": "Universities offering world-class degrees gain access to ideas and knowledge, while international students enrich campus life.",
+              "exampleTranslation": "Các trường cấp bằng chất lượng hàng đầu tiếp cận được ý tưởng, tri thức, còn sinh viên quốc tế làm phong phú đời sống trong trường.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-009"
             },
             {
               "id": "u3-reading-8a92bf3c9c6f",
               "word": "access to ideas and knowledge",
               "meaning": "khả năng tiếp cận ý tưởng và kiến thức",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈækˌses tə aɪˈdiːəz ənd ˈnɑːlədʒ/",
+              "example": "Universities offering world-class degrees gain access to ideas and knowledge, while international students enrich campus life.",
+              "exampleTranslation": "Các trường cấp bằng chất lượng hàng đầu tiếp cận được ý tưởng, tri thức, còn sinh viên quốc tế làm phong phú đời sống trong trường.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-009"
             },
             {
               "id": "u3-reading-f40d4ebd383a",
               "word": "international students",
               "meaning": "sinh viên quốc tế",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌɪnərˈnæʃənəl ˈstuːdənts/",
+              "example": "Universities offering world-class degrees gain access to ideas and knowledge, while international students enrich campus life.",
+              "exampleTranslation": "Các trường cấp bằng chất lượng hàng đầu tiếp cận được ý tưởng, tri thức, còn sinh viên quốc tế làm phong phú đời sống trong trường.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-009"
             },
             {
               "id": "u3-reading-9e7ef9e260ae",
               "word": "enrich",
               "meaning": "làm phong phú thêm",
               "type": "word",
-              "pos": "verb"
+              "pos": "verb",
+              "ipa": "/enˈrɪtʃ/",
+              "example": "Universities offering world-class degrees gain access to ideas and knowledge, while international students enrich campus life.",
+              "exampleTranslation": "Các trường cấp bằng chất lượng hàng đầu tiếp cận được ý tưởng, tri thức, còn sinh viên quốc tế làm phong phú đời sống trong trường.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-009"
             },
             {
               "id": "u3-reading-47816595cc85",
               "word": "developing countries",
               "meaning": "các nước đang phát triển",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/dɪˈveləpɪŋ ˈkʌntriːz/",
+              "example": "In some developing countries, the elite have better access to international education.",
+              "exampleTranslation": "Ở một số nước đang phát triển, tầng lớp tinh hoa có điều kiện tiếp cận giáo dục quốc tế tốt hơn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-010"
             },
             {
               "id": "u3-reading-19119e671274",
               "word": "the elite",
               "meaning": "tầng lớp tinh hoa; nhóm giàu có, có đặc quyền",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ði eɪˈliːt/",
+              "example": "In some developing countries, the elite have better access to international education.",
+              "exampleTranslation": "Ở một số nước đang phát triển, tầng lớp tinh hoa có điều kiện tiếp cận giáo dục quốc tế tốt hơn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-010"
             },
             {
               "id": "u3-reading-c829f3536218",
               "word": "rural areas",
               "meaning": "vùng nông thôn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈrʊrəl ˈeriːəz/",
+              "example": "Many people in rural areas lack primary education, reliable internet connections or the money to own a computer.",
+              "exampleTranslation": "Nhiều người ở nông thôn thiếu giáo dục tiểu học, kết nối internet ổn định hoặc tiền để sở hữu máy tính.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-011"
             },
             {
               "id": "u3-reading-eab7600ab7ca",
               "word": "primary education",
               "meaning": "giáo dục tiểu học",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈpraɪˌmeri ˌedʒəˈkeɪʃən/",
+              "example": "Many people in rural areas lack primary education, reliable internet connections or the money to own a computer.",
+              "exampleTranslation": "Nhiều người ở nông thôn thiếu giáo dục tiểu học, kết nối internet ổn định hoặc tiền để sở hữu máy tính.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-011"
             },
             {
               "id": "u3-reading-2e1ae2e2fcc8",
               "word": "reliable internet connections",
               "meaning": "kết nối internet ổn định",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/riːˈlaɪəbəl ˈɪntərˌnet kəˈnekʃənz/",
+              "example": "Many people in rural areas lack primary education, reliable internet connections or the money to own a computer.",
+              "exampleTranslation": "Nhiều người ở nông thôn thiếu giáo dục tiểu học, kết nối internet ổn định hoặc tiền để sở hữu máy tính.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-011"
             },
             {
               "id": "u3-reading-bfb3be99c435",
               "word": "own a computer",
               "meaning": "sở hữu máy tính",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/oʊn ə kəmˈpjuːtər/",
+              "example": "Many people in rural areas lack primary education, reliable internet connections or the money to own a computer.",
+              "exampleTranslation": "Nhiều người ở nông thôn thiếu giáo dục tiểu học, kết nối internet ổn định hoặc tiền để sở hữu máy tính.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-011"
             },
             {
               "id": "u3-reading-bb7859820919",
               "word": "westernisation",
               "meaning": "sự Tây phương hóa",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˌwestərnəˈzeɪʃən/",
+              "example": "One concern people have about globalisation is that it can start to mean 'westernisation'. In other words, local knowledge can be lost.",
+              "exampleTranslation": "Một mối lo về toàn cầu hóa là nó có thể trở thành sự Tây phương hóa. Nói cách khác, tri thức địa phương có thể bị mất đi.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-012"
             },
             {
               "id": "u3-reading-059418c7c371",
               "word": "local knowledge",
               "meaning": "tri thức địa phương",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈloʊkəl ˈnɑːlədʒ/",
+              "example": "One concern people have about globalisation is that it can start to mean 'westernisation'. In other words, local knowledge can be lost.",
+              "exampleTranslation": "Một mối lo về toàn cầu hóa là nó có thể trở thành sự Tây phương hóa. Nói cách khác, tri thức địa phương có thể bị mất đi.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-012"
             },
             {
               "id": "u3-reading-d6b8c5a4e184",
               "word": "treat every culture with respect",
               "meaning": "tôn trọng mọi nền văn hóa",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/triːt ˈevəri ˈkʌltʃər wɪð riːˈspekt/",
+              "example": "Education should treat every culture with respect, use different approaches and encourage the flow of ideas and information.",
+              "exampleTranslation": "Giáo dục cần tôn trọng mọi nền văn hóa, sử dụng nhiều cách tiếp cận và khuyến khích trao đổi ý tưởng, thông tin.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-013"
             },
             {
               "id": "u3-reading-1f46b2fdd938",
               "word": "approaches",
               "meaning": "các cách tiếp cận",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/əˈproʊtʃəz/",
+              "example": "Education should treat every culture with respect, use different approaches and encourage the flow of ideas and information.",
+              "exampleTranslation": "Giáo dục cần tôn trọng mọi nền văn hóa, sử dụng nhiều cách tiếp cận và khuyến khích trao đổi ý tưởng, thông tin.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-013"
             },
             {
               "id": "u3-reading-36bab0fabc86",
               "word": "the flow of ideas and information",
               "meaning": "dòng trao đổi ý tưởng và thông tin",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðə floʊ əv aɪˈdiːəz ənd ˌɪnfərˈmeɪʃən/",
+              "example": "Education should treat every culture with respect, use different approaches and encourage the flow of ideas and information.",
+              "exampleTranslation": "Giáo dục cần tôn trọng mọi nền văn hóa, sử dụng nhiều cách tiếp cận và khuyến khích trao đổi ý tưởng, thông tin.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-013"
             },
             {
               "id": "u3-reading-f1f3bb07b9f6",
               "word": "educational institutions",
               "meaning": "các cơ sở giáo dục",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌedʒəˈkeɪʃənəl ˌɪnstɪˈtuːʃənz/",
+              "example": "Educational institutions have changed their focus due to globalisation.",
+              "exampleTranslation": "Các cơ sở giáo dục đã thay đổi trọng tâm do toàn cầu hóa.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-014"
             },
             {
               "id": "u3-reading-bc3cd97a3e13",
               "word": "change their focus",
               "meaning": "thay đổi trọng tâm",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/tʃeɪndʒ ðer ˈfoʊkəs/",
+              "example": "Educational institutions have changed their focus due to globalisation.",
+              "exampleTranslation": "Các cơ sở giáo dục đã thay đổi trọng tâm do toàn cầu hóa.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-014"
             },
             {
               "id": "u3-reading-6035bafe9ff8",
               "word": "overseas students",
               "meaning": "sinh viên nước ngoài",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈoʊvərˈsiːz ˈstuːdənts/",
+              "example": "Universities compete for overseas students using strategies such as education fairs, publicity material and advertisements.",
+              "exampleTranslation": "Các trường đại học cạnh tranh thu hút sinh viên nước ngoài bằng những chiến lược như hội chợ giáo dục, tài liệu quảng bá và quảng cáo.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-015"
             },
             {
               "id": "u3-reading-11c53ebb2509",
               "word": "compete for",
               "meaning": "cạnh tranh để có được",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kəmˈpiːt fər/",
+              "example": "Universities compete for overseas students using strategies such as education fairs, publicity material and advertisements.",
+              "exampleTranslation": "Các trường đại học cạnh tranh thu hút sinh viên nước ngoài bằng những chiến lược như hội chợ giáo dục, tài liệu quảng bá và quảng cáo.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-015"
             },
             {
               "id": "u3-reading-75e84f20cc44",
               "word": "strategies",
               "meaning": "các chiến lược",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈstrætədʒiːz/",
+              "example": "Universities compete for overseas students using strategies such as education fairs, publicity material and advertisements.",
+              "exampleTranslation": "Các trường đại học cạnh tranh thu hút sinh viên nước ngoài bằng những chiến lược như hội chợ giáo dục, tài liệu quảng bá và quảng cáo.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-015"
             },
             {
               "id": "u3-reading-de91f6efb3b3",
               "word": "education fairs",
               "meaning": "các hội chợ giáo dục",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌedʒəˈkeɪʃən ferz/",
+              "example": "Universities compete for overseas students using strategies such as education fairs, publicity material and advertisements.",
+              "exampleTranslation": "Các trường đại học cạnh tranh thu hút sinh viên nước ngoài bằng những chiến lược như hội chợ giáo dục, tài liệu quảng bá và quảng cáo.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-015"
             },
             {
               "id": "u3-reading-bf2dd8b54b04",
               "word": "publicity material",
               "meaning": "tài liệu quảng bá",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/pəˈblɪsəti məˈtɪriːəl/",
+              "example": "Universities compete for overseas students using strategies such as education fairs, publicity material and advertisements.",
+              "exampleTranslation": "Các trường đại học cạnh tranh thu hút sinh viên nước ngoài bằng những chiến lược như hội chợ giáo dục, tài liệu quảng bá và quảng cáo.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-015"
             },
             {
               "id": "u3-reading-c2bed9b2e06b",
               "word": "advertisements",
               "meaning": "các quảng cáo",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈædvərˌtaɪzmənts/",
+              "example": "Universities compete for overseas students using strategies such as education fairs, publicity material and advertisements.",
+              "exampleTranslation": "Các trường đại học cạnh tranh thu hút sinh viên nước ngoài bằng những chiến lược như hội chợ giáo dục, tài liệu quảng bá và quảng cáo.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-015"
             },
             {
               "id": "u3-reading-24f3436e40c6",
               "word": "emphasis on",
               "meaning": "sự chú trọng vào",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈemfəsəs ɑːn/",
+              "example": "There is more emphasis on customer care to help students settle in and understand the academic culture of the host country.",
+              "exampleTranslation": "Việc chăm sóc người học được chú trọng hơn để giúp sinh viên thích nghi và hiểu văn hóa học thuật của nước sở tại.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-016"
             },
             {
               "id": "u3-reading-a4abf52d7e58",
               "word": "customer care",
               "meaning": "chăm sóc khách hàng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈkʌstəmər ker/",
+              "example": "There is more emphasis on customer care to help students settle in and understand the academic culture of the host country.",
+              "exampleTranslation": "Việc chăm sóc người học được chú trọng hơn để giúp sinh viên thích nghi và hiểu văn hóa học thuật của nước sở tại.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-016"
             },
             {
               "id": "u3-reading-2de56e9ffa62",
               "word": "settle in",
               "meaning": "thích nghi với môi trường mới",
               "type": "phrase",
-              "pos": "phrasal_verb"
+              "pos": "phrasal_verb",
+              "ipa": "/ˈsetəl ɪn/",
+              "example": "There is more emphasis on customer care to help students settle in and understand the academic culture of the host country.",
+              "exampleTranslation": "Việc chăm sóc người học được chú trọng hơn để giúp sinh viên thích nghi và hiểu văn hóa học thuật của nước sở tại.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-016"
             },
             {
               "id": "u3-reading-345085f5125e",
               "word": "academic culture",
               "meaning": "văn hóa học thuật",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌækəˈdemɪk ˈkʌltʃər/",
+              "example": "There is more emphasis on customer care to help students settle in and understand the academic culture of the host country.",
+              "exampleTranslation": "Việc chăm sóc người học được chú trọng hơn để giúp sinh viên thích nghi và hiểu văn hóa học thuật của nước sở tại.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-016"
             },
             {
               "id": "u3-reading-6fa5040563c5",
               "word": "host country",
               "meaning": "nước sở tại",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/hoʊst kʌntri/",
+              "example": "There is more emphasis on customer care to help students settle in and understand the academic culture of the host country.",
+              "exampleTranslation": "Việc chăm sóc người học được chú trọng hơn để giúp sinh viên thích nghi và hiểu văn hóa học thuật của nước sở tại.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-016"
             },
             {
               "id": "u3-reading-4f95ea6255fc",
               "word": "developed countries",
               "meaning": "các nước phát triển",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/dɪˈveləpt ˈkʌntriːz/",
+              "example": "The benefits should reach both developed countries and poorer nations, without leaving anyone behind.",
+              "exampleTranslation": "Lợi ích cần đến được cả các nước phát triển lẫn những quốc gia nghèo hơn, không bỏ ai lại phía sau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-017"
             },
             {
               "id": "u3-reading-1b320047e4f7",
               "word": "leave ... behind",
               "meaning": "bỏ ... lại phía sau",
               "type": "structure",
-              "pos": "phrasal_verb"
+              "pos": "phrasal_verb",
+              "ipa": "/liːv … bɪˈhaɪnd/",
+              "example": "The benefits should reach both developed countries and poorer nations, without leaving anyone behind.",
+              "exampleTranslation": "Lợi ích cần đến được cả các nước phát triển lẫn những quốc gia nghèo hơn, không bỏ ai lại phía sau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 45, Reading",
+              "exampleId": "u3-ex-017"
             }
           ]
         },
@@ -405,266 +729,494 @@ export default {
               "word": "work-based learning",
               "meaning": "học tập gắn với công việc",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/wɜːrk beɪst ˈlɜːrnɪŋ/",
+              "example": "The trend towards work-based learning creates a closer connection with employers so school leavers are well prepared to do well at work.",
+              "exampleTranslation": "Xu hướng học gắn với công việc tạo liên hệ chặt chẽ hơn với nhà tuyển dụng, giúp học sinh rời trường được chuẩn bị tốt để làm việc hiệu quả.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-018"
             },
             {
               "id": "u3-reading-e5d7086e58b5",
               "word": "a trend towards",
               "meaning": "xu hướng hướng tới",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə trend tɔːrdz/",
+              "example": "The trend towards work-based learning creates a closer connection with employers so school leavers are well prepared to do well at work.",
+              "exampleTranslation": "Xu hướng học gắn với công việc tạo liên hệ chặt chẽ hơn với nhà tuyển dụng, giúp học sinh rời trường được chuẩn bị tốt để làm việc hiệu quả.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-018"
             },
             {
               "id": "u3-reading-7c2b21242a11",
               "word": "a closer connection",
               "meaning": "mối liên hệ chặt chẽ hơn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈkloʊsər kəˈnekʃən/",
+              "example": "The trend towards work-based learning creates a closer connection with employers so school leavers are well prepared to do well at work.",
+              "exampleTranslation": "Xu hướng học gắn với công việc tạo liên hệ chặt chẽ hơn với nhà tuyển dụng, giúp học sinh rời trường được chuẩn bị tốt để làm việc hiệu quả.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-018"
             },
             {
               "id": "u3-reading-432900e80a97",
               "word": "school leavers",
               "meaning": "học sinh vừa rời trường phổ thông",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/skuːl ˈliːvərz/",
+              "example": "The trend towards work-based learning creates a closer connection with employers so school leavers are well prepared to do well at work.",
+              "exampleTranslation": "Xu hướng học gắn với công việc tạo liên hệ chặt chẽ hơn với nhà tuyển dụng, giúp học sinh rời trường được chuẩn bị tốt để làm việc hiệu quả.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-018"
             },
             {
               "id": "u3-reading-d7d948c1f282",
               "word": "be well prepared",
               "meaning": "được chuẩn bị tốt",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː wel priːˈperd/",
+              "example": "The trend towards work-based learning creates a closer connection with employers so school leavers are well prepared to do well at work.",
+              "exampleTranslation": "Xu hướng học gắn với công việc tạo liên hệ chặt chẽ hơn với nhà tuyển dụng, giúp học sinh rời trường được chuẩn bị tốt để làm việc hiệu quả.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-018"
             },
             {
               "id": "u3-reading-52373e5ae87f",
               "word": "do well at work",
               "meaning": "làm việc tốt",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/duː wel ət wɜːrk/",
+              "example": "The trend towards work-based learning creates a closer connection with employers so school leavers are well prepared to do well at work.",
+              "exampleTranslation": "Xu hướng học gắn với công việc tạo liên hệ chặt chẽ hơn với nhà tuyển dụng, giúp học sinh rời trường được chuẩn bị tốt để làm việc hiệu quả.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-018"
             },
             {
               "id": "u3-reading-24824ff7254d",
               "word": "apprenticeships",
               "meaning": "các chương trình học nghề qua thực hành",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/əˈprentəsˌʃɪps/",
+              "example": "In apprenticeships, young people learn trades by working with an expert, such as an experienced electrician.",
+              "exampleTranslation": "Trong chương trình học nghề thực hành, người trẻ học nghề bằng cách làm cùng chuyên gia, chẳng hạn một thợ điện giàu kinh nghiệm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-019"
             },
             {
               "id": "u3-reading-f09e30851ec8",
               "word": "an expert",
               "meaning": "một chuyên gia; người thành thạo",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ən ˈekspərt/",
+              "example": "In apprenticeships, young people learn trades by working with an expert, such as an experienced electrician.",
+              "exampleTranslation": "Trong chương trình học nghề thực hành, người trẻ học nghề bằng cách làm cùng chuyên gia, chẳng hạn một thợ điện giàu kinh nghiệm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-019"
             },
             {
               "id": "u3-reading-4e5f021cb925",
               "word": "trades",
               "meaning": "các nghề thủ công hoặc kỹ thuật",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/treɪdz/",
+              "example": "In apprenticeships, young people learn trades by working with an expert, such as an experienced electrician.",
+              "exampleTranslation": "Trong chương trình học nghề thực hành, người trẻ học nghề bằng cách làm cùng chuyên gia, chẳng hạn một thợ điện giàu kinh nghiệm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-019"
             },
             {
               "id": "u3-reading-6d73ff976ef1",
               "word": "electricians",
               "meaning": "thợ điện",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ɪlekˈtrɪʃənz/",
+              "example": "In apprenticeships, young people learn trades by working with an expert, such as an experienced electrician.",
+              "exampleTranslation": "Trong chương trình học nghề thực hành, người trẻ học nghề bằng cách làm cùng chuyên gia, chẳng hạn một thợ điện giàu kinh nghiệm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-019"
             },
             {
               "id": "u3-reading-fb20c0cf7736",
               "word": "at all levels",
               "meaning": "ở mọi cấp độ",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ət ɔːl ˈlevəlz/",
+              "example": "The trend now is for a closer connection between education and the workplace at all levels and in many different types of job.",
+              "exampleTranslation": "Xu hướng hiện nay là gắn kết giáo dục với nơi làm việc chặt chẽ hơn ở mọi cấp độ và nhiều loại nghề khác nhau.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-020"
             },
             {
               "id": "u3-reading-6aee6a168674",
               "word": "grammar schools",
               "meaning": "trường trung học tuyển sinh theo năng lực ở Anh",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈɡræmər skuːlz/",
+              "example": "Some pupils went to grammar schools, while others studied work-based subjects at technical schools.",
+              "exampleTranslation": "Một số học sinh vào trường tuyển theo năng lực, còn các em khác học môn nghề tại trường kỹ thuật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-021"
             },
             {
               "id": "u3-reading-ace67e7072cd",
               "word": "technical schools",
               "meaning": "trường kỹ thuật",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈteknɪkəl skuːlz/",
+              "example": "Some pupils went to grammar schools, while others studied work-based subjects at technical schools.",
+              "exampleTranslation": "Một số học sinh vào trường tuyển theo năng lực, còn các em khác học môn nghề tại trường kỹ thuật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-021"
             },
             {
               "id": "u3-reading-a5735a8f42bc",
               "word": "work-based subjects",
               "meaning": "các môn học gắn với nghề nghiệp",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/wɜːrk beɪst ˈsʌbdʒɪkts/",
+              "example": "Some pupils went to grammar schools, while others studied work-based subjects at technical schools.",
+              "exampleTranslation": "Một số học sinh vào trường tuyển theo năng lực, còn các em khác học môn nghề tại trường kỹ thuật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-021"
             },
             {
               "id": "u3-reading-da98b96e9889",
               "word": "in practice",
               "meaning": "trên thực tế",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn ˈpræktəs/",
+              "example": "In practice, dividing pupils into academic and non-academic groups did not produce good results, so a more equal system was introduced.",
+              "exampleTranslation": "Trên thực tế, chia học sinh thành nhóm học thuật và không học thuật không đem lại kết quả tốt nên một hệ thống công bằng hơn được áp dụng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-022"
             },
             {
               "id": "u3-reading-e53e80bc4c9e",
               "word": "academic and non-academic",
               "meaning": "thiên về học thuật và không thiên về học thuật",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/ˌækəˈdemɪk ənd nɑːˌnækəˈdemɪk/",
+              "example": "In practice, dividing pupils into academic and non-academic groups did not produce good results, so a more equal system was introduced.",
+              "exampleTranslation": "Trên thực tế, chia học sinh thành nhóm học thuật và không học thuật không đem lại kết quả tốt nên một hệ thống công bằng hơn được áp dụng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-022"
             },
             {
               "id": "u3-reading-6287101584cf",
               "word": "produce good results",
               "meaning": "mang lại kết quả tốt",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/prəˈduːs ɡʊd rɪˈzʌlts/",
+              "example": "In practice, dividing pupils into academic and non-academic groups did not produce good results, so a more equal system was introduced.",
+              "exampleTranslation": "Trên thực tế, chia học sinh thành nhóm học thuật và không học thuật không đem lại kết quả tốt nên một hệ thống công bằng hơn được áp dụng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-022"
             },
             {
               "id": "u3-reading-b98cbb6ccf60",
               "word": "an equal system",
               "meaning": "một hệ thống công bằng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ən ˈiːkwəl ˈsɪstəm/",
+              "example": "In practice, dividing pupils into academic and non-academic groups did not produce good results, so a more equal system was introduced.",
+              "exampleTranslation": "Trên thực tế, chia học sinh thành nhóm học thuật và không học thuật không đem lại kết quả tốt nên một hệ thống công bằng hơn được áp dụng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-022"
             },
             {
               "id": "u3-reading-ad78319b81ba",
               "word": "vocational qualifications",
               "meaning": "bằng cấp nghề",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/voʊˈkeɪʃənəl ˌkwɑːləfəˈkeɪʃənz/",
+              "example": "Vocational qualifications and certificates show practical skills gained through quality training.",
+              "exampleTranslation": "Bằng nghề và chứng chỉ thể hiện kỹ năng thực hành có được qua đào tạo chất lượng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-023"
             },
             {
               "id": "u3-reading-f78c06aa55a0",
               "word": "certificates",
               "meaning": "các chứng chỉ",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/sərˈtɪfɪkəts/",
+              "example": "Vocational qualifications and certificates show practical skills gained through quality training.",
+              "exampleTranslation": "Bằng nghề và chứng chỉ thể hiện kỹ năng thực hành có được qua đào tạo chất lượng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-023"
             },
             {
               "id": "u3-reading-f17224b8eb4c",
               "word": "practical skills",
               "meaning": "kỹ năng thực hành",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈpræktəkəl skɪlz/",
+              "example": "Vocational qualifications and certificates show practical skills gained through quality training.",
+              "exampleTranslation": "Bằng nghề và chứng chỉ thể hiện kỹ năng thực hành có được qua đào tạo chất lượng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-023"
             },
             {
               "id": "u3-reading-ea78c1fa0259",
               "word": "quality training",
               "meaning": "đào tạo có chất lượng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈkwɑːləti ˈtreɪnɪŋ/",
+              "example": "Vocational qualifications and certificates show practical skills gained through quality training.",
+              "exampleTranslation": "Bằng nghề và chứng chỉ thể hiện kỹ năng thực hành có được qua đào tạo chất lượng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-023"
             },
             {
               "id": "u3-reading-fa4ee7c1a5f2",
               "word": "practical experience",
               "meaning": "kinh nghiệm thực tế",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈpræktəkəl ɪkˈspɪriːəns/",
+              "example": "Partnerships between companies and universities link practical experience to specialised qualifications at Masters and doctorate level.",
+              "exampleTranslation": "Hợp tác giữa doanh nghiệp và đại học kết nối kinh nghiệm thực tế với bằng cấp chuyên biệt ở bậc thạc sĩ và tiến sĩ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-024"
             },
             {
               "id": "u3-reading-baace681c80b",
               "word": "specialised qualifications",
               "meaning": "bằng cấp chuyên biệt",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈspeʃəlaɪzd ˌkwɑːləfəˈkeɪʃənz/",
+              "example": "Partnerships between companies and universities link practical experience to specialised qualifications at Masters and doctorate level.",
+              "exampleTranslation": "Hợp tác giữa doanh nghiệp và đại học kết nối kinh nghiệm thực tế với bằng cấp chuyên biệt ở bậc thạc sĩ và tiến sĩ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-024"
             },
             {
               "id": "u3-reading-397984f7fe04",
               "word": "partnerships",
               "meaning": "các quan hệ hợp tác",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈpɑːrtnərˌʃɪps/",
+              "example": "Partnerships between companies and universities link practical experience to specialised qualifications at Masters and doctorate level.",
+              "exampleTranslation": "Hợp tác giữa doanh nghiệp và đại học kết nối kinh nghiệm thực tế với bằng cấp chuyên biệt ở bậc thạc sĩ và tiến sĩ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-024"
             },
             {
               "id": "u3-reading-9c0736a282d7",
               "word": "Masters",
               "meaning": "bậc thạc sĩ",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈmæstərz/",
+              "example": "Partnerships between companies and universities link practical experience to specialised qualifications at Masters and doctorate level.",
+              "exampleTranslation": "Hợp tác giữa doanh nghiệp và đại học kết nối kinh nghiệm thực tế với bằng cấp chuyên biệt ở bậc thạc sĩ và tiến sĩ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-024"
             },
             {
               "id": "u3-reading-83fac3731f47",
               "word": "doctorate level",
               "meaning": "bậc tiến sĩ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈdɑːktərət ˈlevəl/",
+              "example": "Partnerships between companies and universities link practical experience to specialised qualifications at Masters and doctorate level.",
+              "exampleTranslation": "Hợp tác giữa doanh nghiệp và đại học kết nối kinh nghiệm thực tế với bằng cấp chuyên biệt ở bậc thạc sĩ và tiến sĩ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-024"
             },
             {
               "id": "u3-reading-ec1e25923901",
               "word": "deliver a course online",
               "meaning": "giảng dạy khóa học trực tuyến",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/dɪˈlɪvər ə kɔːrs ˈɔːnˌlaɪn/",
+              "example": "A course can be delivered online, so employees do not have to miss work to attend classes.",
+              "exampleTranslation": "Khóa học có thể được giảng dạy trực tuyến để người lao động không phải nghỉ làm đi học.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-025"
             },
             {
               "id": "u3-reading-561eba1f3586",
               "word": "miss work",
               "meaning": "nghỉ làm; vắng mặt ở nơi làm việc",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/mɪs wɜːrk/",
+              "example": "A course can be delivered online, so employees do not have to miss work to attend classes.",
+              "exampleTranslation": "Khóa học có thể được giảng dạy trực tuyến để người lao động không phải nghỉ làm đi học.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-025"
             },
             {
               "id": "u3-reading-914d08b41847",
               "word": "retired employees",
               "meaning": "những người lao động đã nghỉ hưu",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/riːˈtaɪərd emˈplɔɪiːz/",
+              "example": "Older or recently retired employees have been given the opportunity to develop new skills as tutors, mentors and coaches for the work-based part of these courses.",
+              "exampleTranslation": "Người lao động lớn tuổi hoặc mới nghỉ hưu có cơ hội phát triển kỹ năng mới trong vai trò người hướng dẫn, cố vấn và huấn luyện cho phần thực hành nghề của khóa học.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-026"
             },
             {
               "id": "u3-reading-21a56657277c",
               "word": "tutors",
               "meaning": "người hướng dẫn học tập; gia sư",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈtuːtərz/",
+              "example": "Older or recently retired employees have been given the opportunity to develop new skills as tutors, mentors and coaches for the work-based part of these courses.",
+              "exampleTranslation": "Người lao động lớn tuổi hoặc mới nghỉ hưu có cơ hội phát triển kỹ năng mới trong vai trò người hướng dẫn, cố vấn và huấn luyện cho phần thực hành nghề của khóa học.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-026"
             },
             {
               "id": "u3-reading-168fcbe623de",
               "word": "mentors",
               "meaning": "người cố vấn",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈmenˌtɔːrz/",
+              "example": "Older or recently retired employees have been given the opportunity to develop new skills as tutors, mentors and coaches for the work-based part of these courses.",
+              "exampleTranslation": "Người lao động lớn tuổi hoặc mới nghỉ hưu có cơ hội phát triển kỹ năng mới trong vai trò người hướng dẫn, cố vấn và huấn luyện cho phần thực hành nghề của khóa học.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-026"
             },
             {
               "id": "u3-reading-abd9c14e8314",
               "word": "coaches",
               "meaning": "người huấn luyện",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈkoʊtʃɪz/",
+              "example": "Older or recently retired employees have been given the opportunity to develop new skills as tutors, mentors and coaches for the work-based part of these courses.",
+              "exampleTranslation": "Người lao động lớn tuổi hoặc mới nghỉ hưu có cơ hội phát triển kỹ năng mới trong vai trò người hướng dẫn, cố vấn và huấn luyện cho phần thực hành nghề của khóa học.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-026"
             },
             {
               "id": "u3-reading-f94e9fc30bbd",
               "word": "fields such as nursing",
               "meaning": "các lĩnh vực như điều dưỡng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/fiːldz sʌtʃ əz ˈnɜːrsɪŋ/",
+              "example": "Training in fields such as nursing has influenced work-based learning in other careers.",
+              "exampleTranslation": "Đào tạo trong những lĩnh vực như điều dưỡng đã ảnh hưởng đến cách học gắn với công việc ở các nghề khác.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-027"
             },
             {
               "id": "u3-reading-8a91bb34721c",
               "word": "careers",
               "meaning": "các nghề nghiệp",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/kərˈɪrz/",
+              "example": "Training in fields such as nursing has influenced work-based learning in other careers.",
+              "exampleTranslation": "Đào tạo trong những lĩnh vực như điều dưỡng đã ảnh hưởng đến cách học gắn với công việc ở các nghề khác.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-027"
             },
             {
               "id": "u3-reading-b9f35367f758",
               "word": "lecturers",
               "meaning": "giảng viên",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈlektʃərərz/",
+              "example": "Lecturers may teach students with different amounts of work experience at different stages of their lives.",
+              "exampleTranslation": "Giảng viên có thể dạy sinh viên với mức kinh nghiệm làm việc khác nhau ở các giai đoạn khác nhau của cuộc đời.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-028"
             },
             {
               "id": "u3-reading-b3a21cb88cf1",
               "word": "work experience",
               "meaning": "kinh nghiệm làm việc",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/wɜːrk ɪkˈspɪriːəns/",
+              "example": "Lecturers may teach students with different amounts of work experience at different stages of their lives.",
+              "exampleTranslation": "Giảng viên có thể dạy sinh viên với mức kinh nghiệm làm việc khác nhau ở các giai đoạn khác nhau của cuộc đời.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-028"
             },
             {
               "id": "u3-reading-e029fe6f686f",
               "word": "at different stages of their lives",
               "meaning": "ở các giai đoạn khác nhau của cuộc đời",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ət ˈdɪfrənt ˈsteɪdʒəz əv ðer laɪvz/",
+              "example": "Lecturers may teach students with different amounts of work experience at different stages of their lives.",
+              "exampleTranslation": "Giảng viên có thể dạy sinh viên với mức kinh nghiệm làm việc khác nhau ở các giai đoạn khác nhau của cuộc đời.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 48, Reading",
+              "exampleId": "u3-ex-028"
             }
           ]
         }
@@ -686,35 +1238,65 @@ export default {
               "word": "take a seat",
               "meaning": "mời ngồi",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/teɪk ə siːt/",
+              "example": "Take a seat. We are delighted you are joining us as a store assistant, and we hope you look forward to the challenge.",
+              "exampleTranslation": "Mời ngồi. Chúng tôi rất vui vì bạn sẽ làm nhân viên bán hàng và hy vọng bạn mong chờ thử thách này.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 180, track 27",
+              "exampleId": "u3-ex-029"
             },
             {
               "id": "u3-listening-0e3c2fa7db90",
               "word": "delighted",
               "meaning": "rất vui mừng",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/dɪˈlaɪtəd/",
+              "example": "Take a seat. We are delighted you are joining us as a store assistant, and we hope you look forward to the challenge.",
+              "exampleTranslation": "Mời ngồi. Chúng tôi rất vui vì bạn sẽ làm nhân viên bán hàng và hy vọng bạn mong chờ thử thách này.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 180, track 27",
+              "exampleId": "u3-ex-029"
             },
             {
               "id": "u3-listening-21042519083f",
               "word": "store assistant",
               "meaning": "nhân viên bán hàng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/stɔːr əˈsɪstənt/",
+              "example": "Take a seat. We are delighted you are joining us as a store assistant, and we hope you look forward to the challenge.",
+              "exampleTranslation": "Mời ngồi. Chúng tôi rất vui vì bạn sẽ làm nhân viên bán hàng và hy vọng bạn mong chờ thử thách này.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 180, track 27",
+              "exampleId": "u3-ex-029"
             },
             {
               "id": "u3-listening-beb52198fd77",
               "word": "look forward to the challenge",
               "meaning": "mong chờ thử thách sắp tới",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/lʊk ˈfɔːrwərd tə ðə ˈtʃæləndʒ/",
+              "example": "Take a seat. We are delighted you are joining us as a store assistant, and we hope you look forward to the challenge.",
+              "exampleTranslation": "Mời ngồi. Chúng tôi rất vui vì bạn sẽ làm nhân viên bán hàng và hy vọng bạn mong chờ thử thách này.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 180, track 27",
+              "exampleId": "u3-ex-029"
             },
             {
               "id": "u3-listening-d44b2b59a403",
               "word": "finish a course",
               "meaning": "hoàn thành một khóa học",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈfɪnɪʃ ə kɔːrs/",
+              "example": "We know you've just finished a course in Information Technology, so we've decided to put you in the computing and phones section of our department store.",
+              "exampleTranslation": "Chúng tôi biết bạn vừa hoàn thành khóa công nghệ thông tin nên quyết định bố trí bạn ở khu máy tính và điện thoại của cửa hàng bách hóa.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 180, track 27",
+              "exampleId": "u3-ex-030"
             },
             {
               "id": "u3-listening-3729b5060bf7",
@@ -723,15 +1305,24 @@ export default {
               "type": "phrase",
               "pos": "noun_phrase",
               "ipa": "/ˌɪnfərˈmeɪʃən tekˈnɑːlədʒi/",
-              "example": "Information technology has revolutionized the way we live and work.",
-              "exampleTranslation": "Công nghệ thông tin đã cách mạng hóa cách chúng ta sống và làm việc."
+              "example": "We know you've just finished a course in Information Technology, so we've decided to put you in the computing and phones section of our department store.",
+              "exampleTranslation": "Chúng tôi biết bạn vừa hoàn thành khóa công nghệ thông tin nên quyết định bố trí bạn ở khu máy tính và điện thoại của cửa hàng bách hóa.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 180, track 27",
+              "exampleId": "u3-ex-030"
             },
             {
               "id": "u3-listening-9e8a66afb842",
               "word": "computing and phones section",
               "meaning": "khu máy tính và điện thoại",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/kəmˈpjuːtɪŋ ənd foʊnz ˈsekʃən/",
+              "example": "We know you've just finished a course in Information Technology, so we've decided to put you in the computing and phones section of our department store.",
+              "exampleTranslation": "Chúng tôi biết bạn vừa hoàn thành khóa công nghệ thông tin nên quyết định bố trí bạn ở khu máy tính và điện thoại của cửa hàng bách hóa.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 180, track 27",
+              "exampleId": "u3-ex-030"
             },
             {
               "id": "u3-listening-0aaa04750811",
@@ -739,79 +1330,142 @@ export default {
               "meaning": "cửa hàng bách hóa",
               "type": "phrase",
               "pos": "noun_phrase",
-              "ipa": "/dɪˈpɑːt.mənt stɔːr/",
-              "example": "She bought a new dress from the department store.",
-              "exampleTranslation": "Cô ấy mua một chiếc váy mới từ cửa hàng bách hóa."
+              "ipa": "/dɪˈpɑːrtmənt stɔːr/",
+              "example": "We know you've just finished a course in Information Technology, so we've decided to put you in the computing and phones section of our department store.",
+              "exampleTranslation": "Chúng tôi biết bạn vừa hoàn thành khóa công nghệ thông tin nên quyết định bố trí bạn ở khu máy tính và điện thoại của cửa hàng bách hóa.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 180, track 27",
+              "exampleId": "u3-ex-030"
             },
             {
               "id": "u3-listening-e32179a39a71",
               "word": "audio equipment",
               "meaning": "thiết bị âm thanh",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈɑːdiːˌoʊ ɪˈkwɪpmənt/",
+              "example": "You will be based in the computing section near the audio equipment, where we sell a wider range of computer equipment and smart watches.",
+              "exampleTranslation": "Bạn sẽ làm việc ở khu máy tính gần thiết bị âm thanh, nơi chúng tôi bán nhiều loại thiết bị máy tính và đồng hồ thông minh hơn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 180–181, track 27",
+              "exampleId": "u3-ex-031"
             },
             {
               "id": "u3-listening-9460090d6559",
               "word": "be based in",
               "meaning": "làm việc tại; được bố trí ở",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː beɪst ɪn/",
+              "example": "You will be based in the computing section near the audio equipment, where we sell a wider range of computer equipment and smart watches.",
+              "exampleTranslation": "Bạn sẽ làm việc ở khu máy tính gần thiết bị âm thanh, nơi chúng tôi bán nhiều loại thiết bị máy tính và đồng hồ thông minh hơn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 180–181, track 27",
+              "exampleId": "u3-ex-031"
             },
             {
               "id": "u3-listening-6f32194eef66",
               "word": "a wider range of",
               "meaning": "nhiều loại ... đa dạng hơn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈwaɪdər reɪndʒ əv/",
+              "example": "You will be based in the computing section near the audio equipment, where we sell a wider range of computer equipment and smart watches.",
+              "exampleTranslation": "Bạn sẽ làm việc ở khu máy tính gần thiết bị âm thanh, nơi chúng tôi bán nhiều loại thiết bị máy tính và đồng hồ thông minh hơn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 180–181, track 27",
+              "exampleId": "u3-ex-031"
             },
             {
               "id": "u3-listening-8b0757afb0bf",
               "word": "computer equipment",
               "meaning": "thiết bị máy tính",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/kəmˈpjuːtər ɪˈkwɪpmənt/",
+              "example": "You will be based in the computing section near the audio equipment, where we sell a wider range of computer equipment and smart watches.",
+              "exampleTranslation": "Bạn sẽ làm việc ở khu máy tính gần thiết bị âm thanh, nơi chúng tôi bán nhiều loại thiết bị máy tính và đồng hồ thông minh hơn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 180–181, track 27",
+              "exampleId": "u3-ex-031"
             },
             {
               "id": "u3-listening-092332da927e",
               "word": "smart watches",
               "meaning": "đồng hồ thông minh",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/smɑːrt ˈwɑːtʃəz/",
+              "example": "You will be based in the computing section near the audio equipment, where we sell a wider range of computer equipment and smart watches.",
+              "exampleTranslation": "Bạn sẽ làm việc ở khu máy tính gần thiết bị âm thanh, nơi chúng tôi bán nhiều loại thiết bị máy tính và đồng hồ thông minh hơn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 180–181, track 27",
+              "exampleId": "u3-ex-031"
             },
             {
               "id": "u3-listening-9c1989612087",
               "word": "attract customers",
               "meaning": "thu hút khách hàng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/əˈtrækt ˈkʌstəmərz/",
+              "example": "To attract customers, the store has a completely new look and has been renamed; it will be known as Moving Images.",
+              "exampleTranslation": "Để thu hút khách hàng, cửa hàng có diện mạo mới hoàn toàn và được đổi tên; nó sẽ được gọi là Moving Images.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 27",
+              "exampleId": "u3-ex-032"
             },
             {
               "id": "u3-listening-3258170ca045",
               "word": "a completely new look",
               "meaning": "diện mạo hoàn toàn mới",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə kəmˈpliːtli njuː lʊk/",
+              "example": "To attract customers, the store has a completely new look and has been renamed; it will be known as Moving Images.",
+              "exampleTranslation": "Để thu hút khách hàng, cửa hàng có diện mạo mới hoàn toàn và được đổi tên; nó sẽ được gọi là Moving Images.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 27",
+              "exampleId": "u3-ex-032"
             },
             {
               "id": "u3-listening-9e84869d369b",
               "word": "rename",
               "meaning": "đổi tên",
               "type": "word",
-              "pos": "verb"
+              "pos": "verb",
+              "ipa": "/riːˈneɪm/",
+              "example": "To attract customers, the store has a completely new look and has been renamed; it will be known as Moving Images.",
+              "exampleTranslation": "Để thu hút khách hàng, cửa hàng có diện mạo mới hoàn toàn và được đổi tên; nó sẽ được gọi là Moving Images.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 27",
+              "exampleId": "u3-ex-032"
             },
             {
               "id": "u3-listening-fabce72a16d5",
               "word": "be known as",
               "meaning": "được gọi là",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː noʊn əz/",
+              "example": "To attract customers, the store has a completely new look and has been renamed; it will be known as Moving Images.",
+              "exampleTranslation": "Để thu hút khách hàng, cửa hàng có diện mạo mới hoàn toàn và được đổi tên; nó sẽ được gọi là Moving Images.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 27",
+              "exampleId": "u3-ex-032"
             },
             {
               "id": "u3-listening-bead11588ac2",
               "word": "move on",
               "meaning": "chuyển sang phần tiếp theo",
               "type": "phrase",
-              "pos": "phrasal_verb"
+              "pos": "phrasal_verb",
+              "ipa": "/muːv ɑːn/",
+              "example": "Do you have any questions before we move on?",
+              "exampleTranslation": "Bạn có câu hỏi nào trước khi chúng ta chuyển sang phần tiếp theo không?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 181, track 27",
+              "exampleId": "u3-ex-033"
             }
           ]
         },
@@ -826,231 +1480,429 @@ export default {
               "word": "book a place",
               "meaning": "đăng ký giữ một chỗ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/bʊk ə pleɪs/",
+              "example": "I would like to book a place on Food Photography, not Food Technology.",
+              "exampleTranslation": "Tôi muốn đăng ký một chỗ trong khóa Nhiếp ảnh món ăn, không phải Công nghệ thực phẩm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 180, track 26",
+              "exampleId": "u3-ex-034"
             },
             {
               "id": "u3-listening-74723dcbeaff",
               "word": "food photography",
               "meaning": "nhiếp ảnh món ăn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/fuːd fəˈtɑːɡrəfi/",
+              "example": "I would like to book a place on Food Photography, not Food Technology.",
+              "exampleTranslation": "Tôi muốn đăng ký một chỗ trong khóa Nhiếp ảnh món ăn, không phải Công nghệ thực phẩm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 180, track 26",
+              "exampleId": "u3-ex-034"
             },
             {
               "id": "u3-listening-7edfd3141e0a",
               "word": "food technology",
               "meaning": "công nghệ thực phẩm",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/fuːd tekˈnɑːlədʒi/",
+              "example": "I would like to book a place on Food Photography, not Food Technology.",
+              "exampleTranslation": "Tôi muốn đăng ký một chỗ trong khóa Nhiếp ảnh món ăn, không phải Công nghệ thực phẩm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 180, track 26",
+              "exampleId": "u3-ex-034"
             },
             {
               "id": "u3-listening-3c78de08bc3b",
               "word": "in luck",
               "meaning": "gặp may",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn lʌk/",
+              "example": "You are in luck: there are spaces left, although we have taken ten bookings and the course is limited to twelve participants.",
+              "exampleTranslation": "Bạn gặp may đấy: vẫn còn chỗ dù chúng tôi đã nhận mười đăng ký và khóa học chỉ giới hạn mười hai người.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 180, track 26",
+              "exampleId": "u3-ex-035"
             },
             {
               "id": "u3-listening-8f575e4ef0e7",
               "word": "spaces left",
               "meaning": "những chỗ còn lại",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈspeɪsəz left/",
+              "example": "You are in luck: there are spaces left, although we have taken ten bookings and the course is limited to twelve participants.",
+              "exampleTranslation": "Bạn gặp may đấy: vẫn còn chỗ dù chúng tôi đã nhận mười đăng ký và khóa học chỉ giới hạn mười hai người.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 180, track 26",
+              "exampleId": "u3-ex-035"
             },
             {
               "id": "u3-listening-3b3d69ad60e6",
               "word": "take bookings",
               "meaning": "nhận đăng ký; nhận đặt chỗ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/teɪk ˈbʊkɪŋz/",
+              "example": "You are in luck: there are spaces left, although we have taken ten bookings and the course is limited to twelve participants.",
+              "exampleTranslation": "Bạn gặp may đấy: vẫn còn chỗ dù chúng tôi đã nhận mười đăng ký và khóa học chỉ giới hạn mười hai người.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 180, track 26",
+              "exampleId": "u3-ex-035"
             },
             {
               "id": "u3-listening-150d047fc2f8",
               "word": "limited to twelve participants",
               "meaning": "giới hạn ở mười hai người tham gia",
               "type": "phrase",
-              "pos": "participle_phrase"
+              "pos": "participle_phrase",
+              "ipa": "/ˈlɪmətəd tə twelv pɑːrˈtɪsəpənts/",
+              "example": "You are in luck: there are spaces left, although we have taken ten bookings and the course is limited to twelve participants.",
+              "exampleTranslation": "Bạn gặp may đấy: vẫn còn chỗ dù chúng tôi đã nhận mười đăng ký và khóa học chỉ giới hạn mười hai người.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 180, track 26",
+              "exampleId": "u3-ex-035"
             },
             {
               "id": "u3-listening-1b3075d28b2e",
               "word": "check the details",
               "meaning": "kiểm tra thông tin chi tiết",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/tʃek ðə ˈdiːteɪlz/",
+              "example": "Can I check the details on the leaflet?",
+              "exampleTranslation": "Tôi có thể kiểm tra các thông tin trên tờ giới thiệu không?",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-036"
             },
             {
               "id": "u3-listening-73e47f3ae78b",
               "word": "leaflet",
               "meaning": "tờ thông tin; tờ rơi",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈliːflət/",
+              "example": "Can I check the details on the leaflet?",
+              "exampleTranslation": "Tôi có thể kiểm tra các thông tin trên tờ giới thiệu không?",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-036"
             },
             {
               "id": "u3-listening-2784a4868d47",
               "word": "an early start",
               "meaning": "việc bắt đầu từ sớm",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ən ɜːrli stɑːrt/",
+              "example": "According to the leaflet, it is an early start and the class lasts longer than a couple of hours.",
+              "exampleTranslation": "Theo tờ giới thiệu, lớp bắt đầu sớm và kéo dài hơn khoảng hai giờ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-037"
             },
             {
               "id": "u3-listening-584ed0155bc1",
               "word": "a couple of hours",
               "meaning": "khoảng hai giờ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈkʌpəl əv ˈaʊərz/",
+              "example": "According to the leaflet, it is an early start and the class lasts longer than a couple of hours.",
+              "exampleTranslation": "Theo tờ giới thiệu, lớp bắt đầu sớm và kéo dài hơn khoảng hai giờ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-037"
             },
             {
               "id": "u3-listening-2961a6d1c8dc",
               "word": "according to",
               "meaning": "theo như",
               "type": "phrase",
-              "pos": "preposition"
+              "pos": "preposition",
+              "ipa": "/əˈkɔːrdɪŋ tə/",
+              "example": "According to the leaflet, it is an early start and the class lasts longer than a couple of hours.",
+              "exampleTranslation": "Theo tờ giới thiệu, lớp bắt đầu sớm và kéo dài hơn khoảng hai giờ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-037"
             },
             {
               "id": "u3-listening-ab036a166cf8",
               "word": "digital camera",
               "meaning": "máy ảnh kỹ thuật số",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈdɪdʒətəl ˈkæmərə/",
+              "example": "You will learn the basics of using a digital camera, including camera angles, close-up shots, wide-angle shots and shots taken from above.",
+              "exampleTranslation": "Bạn sẽ học kiến thức cơ bản về máy ảnh kỹ thuật số, gồm góc chụp, ảnh cận cảnh, ảnh góc rộng và ảnh từ trên xuống.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-038"
             },
             {
               "id": "u3-listening-e3576203715c",
               "word": "the basics of",
               "meaning": "kiến thức cơ bản về",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðə ˈbeɪsɪks əv/",
+              "example": "You will learn the basics of using a digital camera, including camera angles, close-up shots, wide-angle shots and shots taken from above.",
+              "exampleTranslation": "Bạn sẽ học kiến thức cơ bản về máy ảnh kỹ thuật số, gồm góc chụp, ảnh cận cảnh, ảnh góc rộng và ảnh từ trên xuống.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-038"
             },
             {
               "id": "u3-listening-59dcb0a66183",
               "word": "camera angles",
               "meaning": "các góc chụp",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈkæmərə ˈæŋɡəlz/",
+              "example": "You will learn the basics of using a digital camera, including camera angles, close-up shots, wide-angle shots and shots taken from above.",
+              "exampleTranslation": "Bạn sẽ học kiến thức cơ bản về máy ảnh kỹ thuật số, gồm góc chụp, ảnh cận cảnh, ảnh góc rộng và ảnh từ trên xuống.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-038"
             },
             {
               "id": "u3-listening-44653f39b181",
               "word": "close-up shots",
               "meaning": "ảnh chụp cận cảnh",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈkloʊˌsʌp ʃɑːts/",
+              "example": "You will learn the basics of using a digital camera, including camera angles, close-up shots, wide-angle shots and shots taken from above.",
+              "exampleTranslation": "Bạn sẽ học kiến thức cơ bản về máy ảnh kỹ thuật số, gồm góc chụp, ảnh cận cảnh, ảnh góc rộng và ảnh từ trên xuống.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-038"
             },
             {
               "id": "u3-listening-d692b570183b",
               "word": "wide-angle shots",
               "meaning": "ảnh chụp góc rộng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/waɪd ˈæŋɡəl ʃɑːts/",
+              "example": "You will learn the basics of using a digital camera, including camera angles, close-up shots, wide-angle shots and shots taken from above.",
+              "exampleTranslation": "Bạn sẽ học kiến thức cơ bản về máy ảnh kỹ thuật số, gồm góc chụp, ảnh cận cảnh, ảnh góc rộng và ảnh từ trên xuống.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-038"
             },
             {
               "id": "u3-listening-f2584678e34d",
               "word": "shots taken from above",
               "meaning": "ảnh chụp từ trên xuống",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ʃɑːts ˈteɪkən frəm əˈbʌv/",
+              "example": "You will learn the basics of using a digital camera, including camera angles, close-up shots, wide-angle shots and shots taken from above.",
+              "exampleTranslation": "Bạn sẽ học kiến thức cơ bản về máy ảnh kỹ thuật số, gồm góc chụp, ảnh cận cảnh, ảnh góc rộng và ảnh từ trên xuống.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-038"
             },
             {
               "id": "u3-listening-40d0e7fd6578",
               "word": "edit pictures",
               "meaning": "chỉnh sửa ảnh",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈedət ˈpɪktʃərz/",
+              "example": "The purpose of the workshop is to take good photos in the first place, rather than edit pictures later.",
+              "exampleTranslation": "Mục đích buổi học là chụp ảnh đẹp ngay từ đầu thay vì chỉnh sửa ảnh về sau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-039"
             },
             {
               "id": "u3-listening-e19c1a8bc576",
               "word": "the purpose of the workshop",
               "meaning": "mục đích của buổi học thực hành",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðə ˈpɜːrpəs əv ðə ˈwɜːrkˌʃɑːp/",
+              "example": "The purpose of the workshop is to take good photos in the first place, rather than edit pictures later.",
+              "exampleTranslation": "Mục đích buổi học là chụp ảnh đẹp ngay từ đầu thay vì chỉnh sửa ảnh về sau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-039"
             },
             {
               "id": "u3-listening-b554986556dd",
               "word": "in the first place",
               "meaning": "ngay từ đầu",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn ðə fɜːrst pleɪs/",
+              "example": "The purpose of the workshop is to take good photos in the first place, rather than edit pictures later.",
+              "exampleTranslation": "Mục đích buổi học là chụp ảnh đẹp ngay từ đầu thay vì chỉnh sửa ảnh về sau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-039"
             },
             {
               "id": "u3-listening-87b047e1d2f9",
               "word": "hands-on session",
               "meaning": "buổi học thực hành trực tiếp",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌhænˈzɔːn ˈseʃən/",
+              "example": "This practical course includes a hands-on session on location at a hotel just round the corner, where you have the opportunity to practise taking photographs.",
+              "exampleTranslation": "Khóa học thực hành này có buổi thực tập tại một khách sạn ngay gần đó, nơi bạn có cơ hội luyện chụp ảnh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-040"
             },
             {
               "id": "u3-listening-3a57fcac367f",
               "word": "on location",
               "meaning": "tại địa điểm thực tế",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn loʊˈkeɪʃən/",
+              "example": "This practical course includes a hands-on session on location at a hotel just round the corner, where you have the opportunity to practise taking photographs.",
+              "exampleTranslation": "Khóa học thực hành này có buổi thực tập tại một khách sạn ngay gần đó, nơi bạn có cơ hội luyện chụp ảnh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-040"
             },
             {
               "id": "u3-listening-29024c8b51c9",
               "word": "just round the corner",
               "meaning": "ở ngay gần đó",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/dʒʌst raʊnd ðə ˈkɔːrnər/",
+              "example": "This practical course includes a hands-on session on location at a hotel just round the corner, where you have the opportunity to practise taking photographs.",
+              "exampleTranslation": "Khóa học thực hành này có buổi thực tập tại một khách sạn ngay gần đó, nơi bạn có cơ hội luyện chụp ảnh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-040"
             },
             {
               "id": "u3-listening-9e678c17abe7",
               "word": "have the opportunity to",
               "meaning": "có cơ hội làm gì",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/hæv ðə ˌɑːpərˈtuːnəti tə/",
+              "example": "This practical course includes a hands-on session on location at a hotel just round the corner, where you have the opportunity to practise taking photographs.",
+              "exampleTranslation": "Khóa học thực hành này có buổi thực tập tại một khách sạn ngay gần đó, nơi bạn có cơ hội luyện chụp ảnh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-040"
             },
             {
               "id": "u3-listening-a479c0ddb64b",
               "word": "practise taking photographs",
               "meaning": "luyện chụp ảnh",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈpræktɪs ˈteɪkɪŋ ˈfoʊtəˌɡræfs/",
+              "example": "This practical course includes a hands-on session on location at a hotel just round the corner, where you have the opportunity to practise taking photographs.",
+              "exampleTranslation": "Khóa học thực hành này có buổi thực tập tại một khách sạn ngay gần đó, nơi bạn có cơ hội luyện chụp ảnh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-040"
             },
             {
               "id": "u3-listening-3fb663e34a3f",
               "word": "a practical course",
               "meaning": "một khóa học thực hành",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈpræktəkəl kɔːrs/",
+              "example": "This practical course includes a hands-on session on location at a hotel just round the corner, where you have the opportunity to practise taking photographs.",
+              "exampleTranslation": "Khóa học thực hành này có buổi thực tập tại một khách sạn ngay gần đó, nơi bạn có cơ hội luyện chụp ảnh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-040"
             },
             {
               "id": "u3-listening-b6fa71fd78d9",
               "word": "the full fee",
               "meaning": "toàn bộ học phí",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðə fʊl fi/",
+              "example": "The full fee for the course is $55 and that includes a light lunch and refreshments at the hotel.",
+              "exampleTranslation": "Toàn bộ học phí là 55 đô la, bao gồm bữa trưa nhẹ cùng đồ ăn nhẹ và thức uống tại khách sạn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-041"
             },
             {
               "id": "u3-listening-5fea3a78bc27",
               "word": "a light lunch",
               "meaning": "bữa trưa nhẹ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə laɪt lʌntʃ/",
+              "example": "The full fee for the course is $55 and that includes a light lunch and refreshments at the hotel.",
+              "exampleTranslation": "Toàn bộ học phí là 55 đô la, bao gồm bữa trưa nhẹ cùng đồ ăn nhẹ và thức uống tại khách sạn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-041"
             },
             {
               "id": "u3-listening-6c71b2fbb0ee",
               "word": "refreshments",
               "meaning": "đồ ăn nhẹ và thức uống",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/rəˈfreʃmənts/",
+              "example": "The full fee for the course is $55 and that includes a light lunch and refreshments at the hotel.",
+              "exampleTranslation": "Toàn bộ học phí là 55 đô la, bao gồm bữa trưa nhẹ cùng đồ ăn nhẹ và thức uống tại khách sạn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-041"
             },
             {
               "id": "u3-listening-b874b1f61e81",
               "word": "bring along",
               "meaning": "mang theo",
               "type": "phrase",
-              "pos": "phrasal_verb"
+              "pos": "phrasal_verb",
+              "ipa": "/brɪŋ əˈlɔːŋ/",
+              "example": "You do not need to bring along drinks and snacks; we just need your details to confirm your place.",
+              "exampleTranslation": "Bạn không cần mang đồ uống hay đồ ăn vặt; chúng tôi chỉ cần thông tin của bạn để xác nhận chỗ đăng ký.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-042"
             },
             {
               "id": "u3-listening-be85f181f161",
               "word": "drinks and snacks",
               "meaning": "đồ uống và đồ ăn vặt",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/drɪŋks ənd snæks/",
+              "example": "You do not need to bring along drinks and snacks; we just need your details to confirm your place.",
+              "exampleTranslation": "Bạn không cần mang đồ uống hay đồ ăn vặt; chúng tôi chỉ cần thông tin của bạn để xác nhận chỗ đăng ký.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-042"
             },
             {
               "id": "u3-listening-09c6356b016f",
               "word": "confirm your place",
               "meaning": "xác nhận chỗ đăng ký của bạn",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kənˈfɜːrm jər pleɪs/",
+              "example": "You do not need to bring along drinks and snacks; we just need your details to confirm your place.",
+              "exampleTranslation": "Bạn không cần mang đồ uống hay đồ ăn vặt; chúng tôi chỉ cần thông tin của bạn để xác nhận chỗ đăng ký.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 28",
+              "exampleId": "u3-ex-042"
             }
           ]
         }
@@ -1073,9 +1925,12 @@ export default {
               "meaning": "các lực lượng ứng cứu khẩn cấp",
               "type": "phrase",
               "pos": "noun_phrase",
-              "ipa": "/ɪˈmɜːrdʒənsi ˈsɜːrvɪsɪz/",
-              "example": "The emergency services arrived quickly.",
-              "exampleTranslation": "Dịch vụ khẩn cấp đã đến nhanh chóng."
+              "ipa": "/ˈiːmərdʒənsi ˈsɜːrvəsəz/",
+              "example": "Jobs in emergency services, farming, research and development, entertainment, travel and transport, and tourism require different skills.",
+              "exampleTranslation": "Công việc trong các ngành ứng cứu khẩn cấp, nông nghiệp, nghiên cứu phát triển, giải trí, đi lại vận tải và du lịch đòi hỏi những kỹ năng khác nhau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, employment vocabulary",
+              "exampleId": "u3-ex-043"
             },
             {
               "id": "u3-speaking-41e6aa382c64",
@@ -1084,15 +1939,24 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/ˈfɑːrmɪŋ/",
-              "example": "Farming is an important industry in many countries.",
-              "exampleTranslation": "Nông nghiệp là một ngành công nghiệp quan trọng ở nhiều quốc gia."
+              "example": "Jobs in emergency services, farming, research and development, entertainment, travel and transport, and tourism require different skills.",
+              "exampleTranslation": "Công việc trong các ngành ứng cứu khẩn cấp, nông nghiệp, nghiên cứu phát triển, giải trí, đi lại vận tải và du lịch đòi hỏi những kỹ năng khác nhau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, employment vocabulary",
+              "exampleId": "u3-ex-043"
             },
             {
               "id": "u3-speaking-28191c082cdc",
               "word": "research and development",
               "meaning": "nghiên cứu và phát triển",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈriːsərtʃ ənd dɪˈveləpmənt/",
+              "example": "Jobs in emergency services, farming, research and development, entertainment, travel and transport, and tourism require different skills.",
+              "exampleTranslation": "Công việc trong các ngành ứng cứu khẩn cấp, nông nghiệp, nghiên cứu phát triển, giải trí, đi lại vận tải và du lịch đòi hỏi những kỹ năng khác nhau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, employment vocabulary",
+              "exampleId": "u3-ex-043"
             },
             {
               "id": "u3-speaking-b34564f1c4cd",
@@ -1100,9 +1964,12 @@ export default {
               "meaning": "ngành giải trí",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ˌentərˈteɪnmənt/",
-              "example": "The entertainment industry is a major source of employment.",
-              "exampleTranslation": "Ngành giải trí là một nguồn việc làm chính."
+              "ipa": "/ˌenərˈteɪnmənt/",
+              "example": "Jobs in emergency services, farming, research and development, entertainment, travel and transport, and tourism require different skills.",
+              "exampleTranslation": "Công việc trong các ngành ứng cứu khẩn cấp, nông nghiệp, nghiên cứu phát triển, giải trí, đi lại vận tải và du lịch đòi hỏi những kỹ năng khác nhau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, employment vocabulary",
+              "exampleId": "u3-ex-043"
             },
             {
               "id": "u3-speaking-eb40af85e49e",
@@ -1111,8 +1978,11 @@ export default {
               "type": "phrase",
               "pos": "noun_phrase",
               "ipa": "/ˈtrævəl ənd ˈtrænspɔːrt/",
-              "example": "Travel and transport are essential for economic growth.",
-              "exampleTranslation": "Du lịch và vận tải là rất quan trọng cho sự phát triển kinh tế."
+              "example": "Jobs in emergency services, farming, research and development, entertainment, travel and transport, and tourism require different skills.",
+              "exampleTranslation": "Công việc trong các ngành ứng cứu khẩn cấp, nông nghiệp, nghiên cứu phát triển, giải trí, đi lại vận tải và du lịch đòi hỏi những kỹ năng khác nhau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, employment vocabulary",
+              "exampleId": "u3-ex-043"
             },
             {
               "id": "u3-speaking-8bd0f4bb7d22",
@@ -1120,212 +1990,389 @@ export default {
               "meaning": "ngành du lịch",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ˈtʊrɪzəm/",
-              "example": "Tourism is a major source of revenue for many countries.",
-              "exampleTranslation": "Du lịch là một nguồn thu chính cho nhiều quốc gia."
+              "ipa": "/ˈtʊˌrɪzəm/",
+              "example": "Jobs in emergency services, farming, research and development, entertainment, travel and transport, and tourism require different skills.",
+              "exampleTranslation": "Công việc trong các ngành ứng cứu khẩn cấp, nông nghiệp, nghiên cứu phát triển, giải trí, đi lại vận tải và du lịch đòi hỏi những kỹ năng khác nhau.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, employment vocabulary",
+              "exampleId": "u3-ex-043"
             },
             {
               "id": "u3-speaking-9794daccc95e",
               "word": "feel amazed",
               "meaning": "cảm thấy kinh ngạc",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/fiːl əˈmeɪzd/",
+              "example": "I feel amazed by this amazing job and thrilled by every thrilling experience.",
+              "exampleTranslation": "Tôi cảm thấy kinh ngạc trước công việc tuyệt vời này và hào hứng với mỗi trải nghiệm đầy phấn khích.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, -ed/-ing adjectives",
+              "exampleId": "u3-ex-044"
             },
             {
               "id": "u3-speaking-6fc9dfd6e738",
               "word": "an amazing job",
               "meaning": "một công việc tuyệt vời",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ən əˈmeɪzɪŋ dʒɑːb/",
+              "example": "I feel amazed by this amazing job and thrilled by every thrilling experience.",
+              "exampleTranslation": "Tôi cảm thấy kinh ngạc trước công việc tuyệt vời này và hào hứng với mỗi trải nghiệm đầy phấn khích.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, -ed/-ing adjectives",
+              "exampleId": "u3-ex-044"
             },
             {
               "id": "u3-speaking-b53260d7721d",
               "word": "feel thrilled",
               "meaning": "cảm thấy rất hào hứng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/fiːl θrɪld/",
+              "example": "I feel amazed by this amazing job and thrilled by every thrilling experience.",
+              "exampleTranslation": "Tôi cảm thấy kinh ngạc trước công việc tuyệt vời này và hào hứng với mỗi trải nghiệm đầy phấn khích.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, -ed/-ing adjectives",
+              "exampleId": "u3-ex-044"
             },
             {
               "id": "u3-speaking-912f78665707",
               "word": "a thrilling experience",
               "meaning": "một trải nghiệm đầy phấn khích",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈθrɪlɪŋ ɪkˈspɪriːəns/",
+              "example": "I feel amazed by this amazing job and thrilled by every thrilling experience.",
+              "exampleTranslation": "Tôi cảm thấy kinh ngạc trước công việc tuyệt vời này và hào hứng với mỗi trải nghiệm đầy phấn khích.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, -ed/-ing adjectives",
+              "exampleId": "u3-ex-044"
             },
             {
               "id": "u3-speaking-a541c5a84bfb",
               "word": "feel bored",
               "meaning": "cảm thấy chán",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/fiːl bɔːrd/",
+              "example": "A boring task makes me feel bored, but a challenging job makes me feel challenged.",
+              "exampleTranslation": "Nhiệm vụ nhàm chán khiến tôi thấy chán, còn công việc đầy thử thách khiến tôi thấy được thử thách.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, -ed/-ing adjectives",
+              "exampleId": "u3-ex-045"
             },
             {
               "id": "u3-speaking-c395ec05c7b4",
               "word": "a boring task",
               "meaning": "một nhiệm vụ nhàm chán",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈbɔːrɪŋ tæsk/",
+              "example": "A boring task makes me feel bored, but a challenging job makes me feel challenged.",
+              "exampleTranslation": "Nhiệm vụ nhàm chán khiến tôi thấy chán, còn công việc đầy thử thách khiến tôi thấy được thử thách.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, -ed/-ing adjectives",
+              "exampleId": "u3-ex-045"
             },
             {
               "id": "u3-speaking-cb542e55357a",
               "word": "feel challenged",
               "meaning": "cảm thấy được thử thách",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/fiːl ˈtʃæləndʒd/",
+              "example": "A boring task makes me feel bored, but a challenging job makes me feel challenged.",
+              "exampleTranslation": "Nhiệm vụ nhàm chán khiến tôi thấy chán, còn công việc đầy thử thách khiến tôi thấy được thử thách.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, -ed/-ing adjectives",
+              "exampleId": "u3-ex-045"
             },
             {
               "id": "u3-speaking-0f2bfa9ebcff",
               "word": "a challenging job",
               "meaning": "một công việc đầy thử thách",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈtʃæləndʒɪŋ dʒɑːb/",
+              "example": "A boring task makes me feel bored, but a challenging job makes me feel challenged.",
+              "exampleTranslation": "Nhiệm vụ nhàm chán khiến tôi thấy chán, còn công việc đầy thử thách khiến tôi thấy được thử thách.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, -ed/-ing adjectives",
+              "exampleId": "u3-ex-045"
             },
             {
               "id": "u3-speaking-e659aae074bb",
               "word": "feel fascinated",
               "meaning": "cảm thấy rất hứng thú",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/fiːl ˈfæsəˌneɪtəd/",
+              "example": "I felt fascinated by the fascinating subject, tired after a tiring day, and embarrassed by an embarrassing experience.",
+              "exampleTranslation": "Tôi thấy hứng thú với môn học hấp dẫn, mệt sau một ngày mệt mỏi và ngượng ngùng vì một trải nghiệm đáng xấu hổ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, -ed/-ing adjectives",
+              "exampleId": "u3-ex-046"
             },
             {
               "id": "u3-speaking-cdd509caa935",
               "word": "a fascinating subject",
               "meaning": "một môn học hấp dẫn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈfæsəˌneɪtɪŋ ˈsʌbdʒekt/",
+              "example": "I felt fascinated by the fascinating subject, tired after a tiring day, and embarrassed by an embarrassing experience.",
+              "exampleTranslation": "Tôi thấy hứng thú với môn học hấp dẫn, mệt sau một ngày mệt mỏi và ngượng ngùng vì một trải nghiệm đáng xấu hổ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, -ed/-ing adjectives",
+              "exampleId": "u3-ex-046"
             },
             {
               "id": "u3-speaking-0967789e9a08",
               "word": "feel tired",
               "meaning": "cảm thấy mệt",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/fiːl ˈtaɪərd/",
+              "example": "I felt fascinated by the fascinating subject, tired after a tiring day, and embarrassed by an embarrassing experience.",
+              "exampleTranslation": "Tôi thấy hứng thú với môn học hấp dẫn, mệt sau một ngày mệt mỏi và ngượng ngùng vì một trải nghiệm đáng xấu hổ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, -ed/-ing adjectives",
+              "exampleId": "u3-ex-046"
             },
             {
               "id": "u3-speaking-80a3f0ada7f3",
               "word": "a tiring day",
               "meaning": "một ngày mệt mỏi",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈtaɪrɪŋ deɪ/",
+              "example": "I felt fascinated by the fascinating subject, tired after a tiring day, and embarrassed by an embarrassing experience.",
+              "exampleTranslation": "Tôi thấy hứng thú với môn học hấp dẫn, mệt sau một ngày mệt mỏi và ngượng ngùng vì một trải nghiệm đáng xấu hổ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, -ed/-ing adjectives",
+              "exampleId": "u3-ex-046"
             },
             {
               "id": "u3-speaking-1a72ecd2bfa1",
               "word": "feel embarrassed",
               "meaning": "cảm thấy ngượng ngùng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/fiːl ɪmˈberəst/",
+              "example": "I felt fascinated by the fascinating subject, tired after a tiring day, and embarrassed by an embarrassing experience.",
+              "exampleTranslation": "Tôi thấy hứng thú với môn học hấp dẫn, mệt sau một ngày mệt mỏi và ngượng ngùng vì một trải nghiệm đáng xấu hổ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, -ed/-ing adjectives",
+              "exampleId": "u3-ex-046"
             },
             {
               "id": "u3-speaking-653617a16ba3",
               "word": "an embarrassing experience",
               "meaning": "một trải nghiệm gây ngượng ngùng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ən ɪmˈberəsɪŋ ɪkˈspɪriːəns/",
+              "example": "I felt fascinated by the fascinating subject, tired after a tiring day, and embarrassed by an embarrassing experience.",
+              "exampleTranslation": "Tôi thấy hứng thú với môn học hấp dẫn, mệt sau một ngày mệt mỏi và ngượng ngùng vì một trải nghiệm đáng xấu hổ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, -ed/-ing adjectives",
+              "exampleId": "u3-ex-046"
             },
             {
               "id": "u3-speaking-a3a4f8f2b3b9",
               "word": "give a presentation",
               "meaning": "thuyết trình",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡɪv ə ˌprezənˈteɪʃən/",
+              "example": "After working long hours, I had to give a presentation in front of my colleagues.",
+              "exampleTranslation": "Sau nhiều giờ làm việc, tôi phải thuyết trình trước các đồng nghiệp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–60, Speaking",
+              "exampleId": "u3-ex-047"
             },
             {
               "id": "u3-speaking-e7643152d082",
               "word": "in front of my colleagues",
               "meaning": "trước mặt các đồng nghiệp",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn frʌnt əv maɪ ˈkɑːliːɡz/",
+              "example": "After working long hours, I had to give a presentation in front of my colleagues.",
+              "exampleTranslation": "Sau nhiều giờ làm việc, tôi phải thuyết trình trước các đồng nghiệp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–60, Speaking",
+              "exampleId": "u3-ex-047"
             },
             {
               "id": "u3-speaking-693149b7043f",
               "word": "work long hours",
               "meaning": "làm việc nhiều giờ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/wɜːrk lɔːŋ ˈaʊərz/",
+              "example": "After working long hours, I had to give a presentation in front of my colleagues.",
+              "exampleTranslation": "Sau nhiều giờ làm việc, tôi phải thuyết trình trước các đồng nghiệp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–60, Speaking",
+              "exampleId": "u3-ex-047"
             },
             {
               "id": "u3-speaking-6ab13461007f",
               "word": "a part-time course",
               "meaning": "một khóa học bán thời gian",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈpɑːrtˈtaɪm kɔːrs/",
+              "example": "I'm doing a part-time fashion and textiles course. I'm at Milton College, in the centre of the city. I'm in my third year.",
+              "exampleTranslation": "Tôi đang học khóa thời trang và dệt may bán thời gian tại Milton College ở trung tâm thành phố. Tôi đang học năm thứ ba.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 181, track 29",
+              "exampleId": "u3-ex-048"
             },
             {
               "id": "u3-speaking-150de8248bda",
               "word": "fashion and textiles",
               "meaning": "thời trang và dệt may",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈfæʃən ənd ˈtekˌstaɪlz/",
+              "example": "I'm doing a part-time fashion and textiles course. I'm at Milton College, in the centre of the city. I'm in my third year.",
+              "exampleTranslation": "Tôi đang học khóa thời trang và dệt may bán thời gian tại Milton College ở trung tâm thành phố. Tôi đang học năm thứ ba.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 181, track 29",
+              "exampleId": "u3-ex-048"
             },
             {
               "id": "u3-speaking-a9305cae7a73",
               "word": "in my third year",
               "meaning": "đang học năm thứ ba",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn maɪ θɜːrd jɪr/",
+              "example": "I'm doing a part-time fashion and textiles course. I'm at Milton College, in the centre of the city. I'm in my third year.",
+              "exampleTranslation": "Tôi đang học khóa thời trang và dệt may bán thời gian tại Milton College ở trung tâm thành phố. Tôi đang học năm thứ ba.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 181, track 29",
+              "exampleId": "u3-ex-048"
             },
             {
               "id": "u3-speaking-03aecd05f965",
               "word": "wool and leather",
               "meaning": "len và da thuộc",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/wʊl ənd ˈleðər/",
+              "example": "I enjoy working with wool and leather, but my new scarf is made out of plastic.",
+              "exampleTranslation": "Tôi thích làm việc với len và da thuộc, nhưng chiếc khăn mới của tôi lại làm bằng nhựa.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 29",
+              "exampleId": "u3-ex-049"
             },
             {
               "id": "u3-speaking-fcba3ab51980",
               "word": "be made out of",
               "meaning": "được làm từ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː meɪd aʊt əv/",
+              "example": "I enjoy working with wool and leather, but my new scarf is made out of plastic.",
+              "exampleTranslation": "Tôi thích làm việc với len và da thuộc, nhưng chiếc khăn mới của tôi lại làm bằng nhựa.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 29",
+              "exampleId": "u3-ex-049"
             },
             {
               "id": "u3-speaking-1106dede47c7",
               "word": "computer software",
               "meaning": "phần mềm máy tính",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/kəmˈpjuːtər ˈsɔːfˌwer/",
+              "example": "I'd really like to learn how to use computer software to create new designs. This should also help me create new shades of colour.",
+              "exampleTranslation": "Tôi rất muốn học cách dùng phần mềm máy tính để tạo thiết kế mới. Điều đó cũng giúp tôi tạo ra các sắc độ màu mới.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 181, track 29",
+              "exampleId": "u3-ex-050"
             },
             {
               "id": "u3-speaking-3c2f2435d1d7",
               "word": "create new designs",
               "meaning": "tạo các mẫu thiết kế mới",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kriːˈeɪt njuː dɪˈzaɪnz/",
+              "example": "I'd really like to learn how to use computer software to create new designs. This should also help me create new shades of colour.",
+              "exampleTranslation": "Tôi rất muốn học cách dùng phần mềm máy tính để tạo thiết kế mới. Điều đó cũng giúp tôi tạo ra các sắc độ màu mới.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 181, track 29",
+              "exampleId": "u3-ex-050"
             },
             {
               "id": "u3-speaking-34b0f7c57945",
               "word": "shades of colour",
               "meaning": "các sắc độ màu",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ʃeɪdz əv ˈkʌlər/",
+              "example": "I'd really like to learn how to use computer software to create new designs. This should also help me create new shades of colour.",
+              "exampleTranslation": "Tôi rất muốn học cách dùng phần mềm máy tính để tạo thiết kế mới. Điều đó cũng giúp tôi tạo ra các sắc độ màu mới.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 181, track 29",
+              "exampleId": "u3-ex-050"
             },
             {
               "id": "u3-speaking-0d522c46a598",
               "word": "fashion photographer",
               "meaning": "nhiếp ảnh gia thời trang",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈfæʃən fəˈtɑːɡrəfər/",
+              "example": "If I get some experience at college fashion shows, my dream of becoming a fashion photographer may come true.",
+              "exampleTranslation": "Nếu tích lũy kinh nghiệm tại các buổi trình diễn thời trang của trường, ước mơ trở thành nhiếp ảnh gia thời trang của tôi có thể thành hiện thực.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 29",
+              "exampleId": "u3-ex-051"
             },
             {
               "id": "u3-speaking-7f34e7685559",
               "word": "get some experience",
               "meaning": "tích lũy kinh nghiệm",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡet sʌm ɪkˈspɪriːəns/",
+              "example": "If I get some experience at college fashion shows, my dream of becoming a fashion photographer may come true.",
+              "exampleTranslation": "Nếu tích lũy kinh nghiệm tại các buổi trình diễn thời trang của trường, ước mơ trở thành nhiếp ảnh gia thời trang của tôi có thể thành hiện thực.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 29",
+              "exampleId": "u3-ex-051"
             },
             {
               "id": "u3-speaking-f6e386d72ceb",
               "word": "fashion shows",
               "meaning": "các buổi trình diễn thời trang",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈfæʃən ʃoʊz/",
+              "example": "If I get some experience at college fashion shows, my dream of becoming a fashion photographer may come true.",
+              "exampleTranslation": "Nếu tích lũy kinh nghiệm tại các buổi trình diễn thời trang của trường, ước mơ trở thành nhiếp ảnh gia thời trang của tôi có thể thành hiện thực.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 29",
+              "exampleId": "u3-ex-051"
             },
             {
               "id": "u3-speaking-e468b2ca950d",
               "word": "my dream will come true",
               "meaning": "ước mơ của tôi sẽ thành hiện thực",
               "type": "phrase",
-              "pos": "expression"
+              "pos": "expression",
+              "ipa": "/maɪ driːm wɪl kʌm truː/",
+              "example": "If I get some experience at college fashion shows, my dream of becoming a fashion photographer may come true.",
+              "exampleTranslation": "Nếu tích lũy kinh nghiệm tại các buổi trình diễn thời trang của trường, ước mơ trở thành nhiếp ảnh gia thời trang của tôi có thể thành hiện thực.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 29",
+              "exampleId": "u3-ex-051"
             }
           ]
         },
@@ -1340,133 +2387,247 @@ export default {
               "word": "introduce your talk",
               "meaning": "mở đầu bài nói",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˌɪntrəˈduːs jər tɔːk/",
+              "example": "Make notes and cover all the points, then introduce your talk by saying, “I'd like to tell you about a learning experience.”",
+              "exampleTranslation": "Hãy ghi chú và đề cập đủ mọi ý, rồi mở đầu bằng câu: “Tôi muốn kể với bạn về một trải nghiệm học tập.”",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 61–63, Speaking Part 2",
+              "exampleId": "u3-ex-052"
             },
             {
               "id": "u3-speaking-fd61bfdf6846",
               "word": "make notes",
               "meaning": "ghi chú",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/meɪk noʊts/",
+              "example": "Make notes and cover all the points, then introduce your talk by saying, “I'd like to tell you about a learning experience.”",
+              "exampleTranslation": "Hãy ghi chú và đề cập đủ mọi ý, rồi mở đầu bằng câu: “Tôi muốn kể với bạn về một trải nghiệm học tập.”",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 61–63, Speaking Part 2",
+              "exampleId": "u3-ex-052"
             },
             {
               "id": "u3-speaking-1808b783a797",
               "word": "cover all the points",
               "meaning": "đề cập đủ mọi ý",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈkʌvər ɔːl ðə pɔɪnts/",
+              "example": "Make notes and cover all the points, then introduce your talk by saying, “I'd like to tell you about a learning experience.”",
+              "exampleTranslation": "Hãy ghi chú và đề cập đủ mọi ý, rồi mở đầu bằng câu: “Tôi muốn kể với bạn về một trải nghiệm học tập.”",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 61–63, Speaking Part 2",
+              "exampleId": "u3-ex-052"
             },
             {
               "id": "u3-speaking-6a440c7ac02a",
               "word": "I'd like to tell you about ...",
               "meaning": "Tôi muốn kể với bạn về ...",
               "type": "structure",
-              "pos": "sentence_pattern"
+              "pos": "sentence_pattern",
+              "ipa": "/aɪd laɪk tə tel juː əˈbaʊt …/",
+              "example": "Make notes and cover all the points, then introduce your talk by saying, “I'd like to tell you about a learning experience.”",
+              "exampleTranslation": "Hãy ghi chú và đề cập đủ mọi ý, rồi mở đầu bằng câu: “Tôi muốn kể với bạn về một trải nghiệm học tập.”",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 61–63, Speaking Part 2",
+              "exampleId": "u3-ex-052"
             },
             {
               "id": "u3-speaking-5d165f571709",
               "word": "an active and sporty person",
               "meaning": "một người năng động và thích thể thao",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ən ˈæktɪv ənd spɔːrti ˈpɜːrsən/",
+              "example": "I am an active and sporty person, so I decided to learn to ski.",
+              "exampleTranslation": "Tôi là người năng động, thích thể thao nên quyết định học trượt tuyết.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 31",
+              "exampleId": "u3-ex-053"
             },
             {
               "id": "u3-speaking-9442389eb134",
               "word": "learn to ski",
               "meaning": "học trượt tuyết",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/lɜːrn tə ski/",
+              "example": "I am an active and sporty person, so I decided to learn to ski.",
+              "exampleTranslation": "Tôi là người năng động, thích thể thao nên quyết định học trượt tuyết.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 31",
+              "exampleId": "u3-ex-053"
             },
             {
               "id": "u3-speaking-f8b8b63b07e7",
               "word": "chair lift",
               "meaning": "ghế cáp treo",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/tʃer lɪft/",
+              "example": "After taking the chair lift to the nursery slope, I fell over while learning to keep my balance; I preferred learning in a group to learning individually.",
+              "exampleTranslation": "Sau khi đi cáp treo đến dốc cho người mới học, tôi bị ngã khi tập giữ thăng bằng; tôi thích học theo nhóm hơn học riêng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 31",
+              "exampleId": "u3-ex-054"
             },
             {
               "id": "u3-speaking-458571e5ffdf",
               "word": "nursery slope",
               "meaning": "dốc trượt dành cho người mới học",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈnɜːrsəri sloʊp/",
+              "example": "After taking the chair lift to the nursery slope, I fell over while learning to keep my balance; I preferred learning in a group to learning individually.",
+              "exampleTranslation": "Sau khi đi cáp treo đến dốc cho người mới học, tôi bị ngã khi tập giữ thăng bằng; tôi thích học theo nhóm hơn học riêng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 31",
+              "exampleId": "u3-ex-054"
             },
             {
               "id": "u3-speaking-824a51b8d81b",
               "word": "fall over",
               "meaning": "ngã",
               "type": "phrase",
-              "pos": "phrasal_verb"
+              "pos": "phrasal_verb",
+              "ipa": "/fɑːl ˈoʊvər/",
+              "example": "After taking the chair lift to the nursery slope, I fell over while learning to keep my balance; I preferred learning in a group to learning individually.",
+              "exampleTranslation": "Sau khi đi cáp treo đến dốc cho người mới học, tôi bị ngã khi tập giữ thăng bằng; tôi thích học theo nhóm hơn học riêng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 31",
+              "exampleId": "u3-ex-054"
             },
             {
               "id": "u3-speaking-fea473d37928",
               "word": "keep my balance",
               "meaning": "giữ thăng bằng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kiːp maɪ ˈbæləns/",
+              "example": "After taking the chair lift to the nursery slope, I fell over while learning to keep my balance; I preferred learning in a group to learning individually.",
+              "exampleTranslation": "Sau khi đi cáp treo đến dốc cho người mới học, tôi bị ngã khi tập giữ thăng bằng; tôi thích học theo nhóm hơn học riêng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 31",
+              "exampleId": "u3-ex-054"
             },
             {
               "id": "u3-speaking-086a790d9ecc",
               "word": "learn in a group",
               "meaning": "học theo nhóm",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/lɜːrn ɪn ə ɡruːp/",
+              "example": "After taking the chair lift to the nursery slope, I fell over while learning to keep my balance; I preferred learning in a group to learning individually.",
+              "exampleTranslation": "Sau khi đi cáp treo đến dốc cho người mới học, tôi bị ngã khi tập giữ thăng bằng; tôi thích học theo nhóm hơn học riêng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 31",
+              "exampleId": "u3-ex-054"
             },
             {
               "id": "u3-speaking-8d177c0a1277",
               "word": "learn individually",
               "meaning": "học riêng; học cá nhân",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/lɜːrn ˌɪndɪˈvɪdʒəli/",
+              "example": "After taking the chair lift to the nursery slope, I fell over while learning to keep my balance; I preferred learning in a group to learning individually.",
+              "exampleTranslation": "Sau khi đi cáp treo đến dốc cho người mới học, tôi bị ngã khi tập giữ thăng bằng; tôi thích học theo nhóm hơn học riêng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 31",
+              "exampleId": "u3-ex-054"
             },
             {
               "id": "u3-speaking-eedeef79fda3",
               "word": "win a competition",
               "meaning": "thắng một cuộc thi",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/wɪn ə ˌkɑːmpəˈtɪʃən/",
+              "example": "I won a skiing competition and received a silver cup.",
+              "exampleTranslation": "Tôi thắng một cuộc thi trượt tuyết và nhận được cúp bạc.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 31",
+              "exampleId": "u3-ex-055"
             },
             {
               "id": "u3-speaking-cde1477c42a7",
               "word": "a silver cup",
               "meaning": "cúp bạc",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈsɪlvər kʌp/",
+              "example": "I won a skiing competition and received a silver cup.",
+              "exampleTranslation": "Tôi thắng một cuộc thi trượt tuyết và nhận được cúp bạc.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 31",
+              "exampleId": "u3-ex-055"
             },
             {
               "id": "u3-speaking-86c8920be2a9",
               "word": "learning experience",
               "meaning": "trải nghiệm học tập",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈlɜːrnɪŋ ɪkˈspɪriːəns/",
+              "example": "The learning experience was thrilling: I skied downhill for the very first time and felt proud of myself at the bottom of the slope.",
+              "exampleTranslation": "Trải nghiệm học tập thật hào hứng: tôi lần đầu trượt xuống dốc và thấy tự hào khi đến chân dốc.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 31",
+              "exampleId": "u3-ex-056"
             },
             {
               "id": "u3-speaking-6b902b948705",
               "word": "ski downhill",
               "meaning": "trượt tuyết xuống dốc",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ski ˈdaʊnˈhɪl/",
+              "example": "The learning experience was thrilling: I skied downhill for the very first time and felt proud of myself at the bottom of the slope.",
+              "exampleTranslation": "Trải nghiệm học tập thật hào hứng: tôi lần đầu trượt xuống dốc và thấy tự hào khi đến chân dốc.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 31",
+              "exampleId": "u3-ex-056"
             },
             {
               "id": "u3-speaking-4a13530b4151",
               "word": "for the very first time",
               "meaning": "lần đầu tiên trong đời",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/fər ðə veri fɜːrst taɪm/",
+              "example": "The learning experience was thrilling: I skied downhill for the very first time and felt proud of myself at the bottom of the slope.",
+              "exampleTranslation": "Trải nghiệm học tập thật hào hứng: tôi lần đầu trượt xuống dốc và thấy tự hào khi đến chân dốc.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 31",
+              "exampleId": "u3-ex-056"
             },
             {
               "id": "u3-speaking-66c9a7d5fb5b",
               "word": "feel proud of myself",
               "meaning": "cảm thấy tự hào về bản thân",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/fiːl praʊd əv ˌmaɪˈself/",
+              "example": "The learning experience was thrilling: I skied downhill for the very first time and felt proud of myself at the bottom of the slope.",
+              "exampleTranslation": "Trải nghiệm học tập thật hào hứng: tôi lần đầu trượt xuống dốc và thấy tự hào khi đến chân dốc.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 31",
+              "exampleId": "u3-ex-056"
             },
             {
               "id": "u3-speaking-9c8282c7c7ec",
               "word": "the bottom of the slope",
               "meaning": "chân dốc",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðə ˈbɑːtəm əv ðə sloʊp/",
+              "example": "The learning experience was thrilling: I skied downhill for the very first time and felt proud of myself at the bottom of the slope.",
+              "exampleTranslation": "Trải nghiệm học tập thật hào hứng: tôi lần đầu trượt xuống dốc và thấy tự hào khi đến chân dốc.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 181, track 31",
+              "exampleId": "u3-ex-056"
             }
           ]
         },
@@ -1482,7 +2643,12 @@ export default {
               "meaning": "Hiện tôi đang học ... tại ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "I'm currently studying business at a local university."
+              "ipa": "/aɪm ˈkɜːrəntli ˈstʌdiːɪŋ … ət …/",
+              "example": "I'm currently studying business at a local university.",
+              "exampleTranslation": "Hiện tôi đang học kinh doanh tại một trường đại học địa phương.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 58–63; TB pp. 35–37",
+              "exampleId": "u3-ex-057"
             },
             {
               "id": "u3-speaking-2d029e4f9e00",
@@ -1490,7 +2656,12 @@ export default {
               "meaning": "Phần đáng quý nhất trong khóa học của tôi là ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "The most rewarding part of my course is solving real problems."
+              "ipa": "/ðə moʊs riːˈwɔːrdɪŋ pɑːrt əv maɪ kɔːrs ɪz …/",
+              "example": "The most rewarding part of my course is solving real problems.",
+              "exampleTranslation": "Phần đáng quý nhất trong khóa học của tôi là giải quyết những vấn đề thực tế.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 58–63; TB pp. 35–37",
+              "exampleId": "u3-ex-058"
             },
             {
               "id": "u3-speaking-c9bf18cc47f9",
@@ -1498,7 +2669,12 @@ export default {
               "meaning": "Lúc đầu, tôi thấy khó để ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "At first, I found it difficult to speak in front of others."
+              "ipa": "/ət fɜːrst aɪ faʊnd ɪt ˈdɪfəkəlt tə …/",
+              "example": "At first, I found it difficult to speak in front of others.",
+              "exampleTranslation": "Lúc đầu, tôi thấy khó nói trước người khác.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 58–63; TB pp. 35–37",
+              "exampleId": "u3-ex-059"
             },
             {
               "id": "u3-speaking-41e7c9278331",
@@ -1506,7 +2682,12 @@ export default {
               "meaning": "Nhờ luyện tập, tôi dần trở nên ... hơn.",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "With practice, I gradually became more confident."
+              "ipa": "/wɪð ˈpræktəs aɪ ˈɡrædʒuːəli biːˈkeɪm mɔːr …/",
+              "example": "With practice, I gradually became more confident.",
+              "exampleTranslation": "Nhờ luyện tập, tôi dần trở nên tự tin hơn.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 58–63; TB pp. 35–37",
+              "exampleId": "u3-ex-060"
             },
             {
               "id": "u3-speaking-83363e451d06",
@@ -1514,28 +2695,51 @@ export default {
               "meaning": "Trải nghiệm này đã dạy tôi cách ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "This experience taught me how to work in a team."
+              "ipa": "/ðɪs ɪkˈspɪriːəns tɔːt mi haʊ tə …/",
+              "example": "This experience taught me how to work in a team.",
+              "exampleTranslation": "Trải nghiệm này dạy tôi cách làm việc trong nhóm.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 58–63; TB pp. 35–37",
+              "exampleId": "u3-ex-061"
             },
             {
               "id": "u3-speaking-6e891451de8a",
               "word": "gain practical experience",
               "meaning": "tích lũy kinh nghiệm thực tế",
               "type": "collocation",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡeɪn ˈpræktəkəl ɪkˈspɪriːəns/",
+              "example": "The course helped me gain practical experience, develop transferable skills and step outside my comfort zone.",
+              "exampleTranslation": "Khóa học giúp tôi tích lũy kinh nghiệm thực tế, phát triển kỹ năng áp dụng trong nhiều công việc và bước ra khỏi vùng an toàn.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 58–63, Speaking extension",
+              "exampleId": "u3-ex-062"
             },
             {
               "id": "u3-speaking-fc51231133e5",
               "word": "develop transferable skills",
               "meaning": "phát triển kỹ năng có thể áp dụng trong nhiều công việc",
               "type": "collocation",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/dɪˈveləp trænsˈfɜːrəbəl skɪlz/",
+              "example": "The course helped me gain practical experience, develop transferable skills and step outside my comfort zone.",
+              "exampleTranslation": "Khóa học giúp tôi tích lũy kinh nghiệm thực tế, phát triển kỹ năng áp dụng trong nhiều công việc và bước ra khỏi vùng an toàn.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 58–63, Speaking extension",
+              "exampleId": "u3-ex-062"
             },
             {
               "id": "u3-speaking-1fe55cb7a97b",
               "word": "step outside my comfort zone",
               "meaning": "bước ra khỏi vùng an toàn của bản thân",
               "type": "collocation",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/step ˈaʊtˈsaɪd maɪ ˈkʌmfərt zoʊn/",
+              "example": "The course helped me gain practical experience, develop transferable skills and step outside my comfort zone.",
+              "exampleTranslation": "Khóa học giúp tôi tích lũy kinh nghiệm thực tế, phát triển kỹ năng áp dụng trong nhiều công việc và bước ra khỏi vùng an toàn.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 58–63, Speaking extension",
+              "exampleId": "u3-ex-062"
             }
           ]
         },
@@ -1552,8 +2756,11 @@ export default {
               "type": "phrase",
               "pos": "noun_phrase",
               "ipa": "/hoʊˈtel ənd ˈkeɪtərɪŋ/",
-              "example": "The hotel and catering industry is a major employer.",
-              "exampleTranslation": "Ngành khách sạn và dịch vụ ăn uống là một nhà tuyển dụng chính."
+              "example": "Career sectors include hotel and catering, construction, health care, sports and leisure, art and design, and retail.",
+              "exampleTranslation": "Các lĩnh vực nghề nghiệp gồm khách sạn và dịch vụ ăn uống, xây dựng, chăm sóc sức khỏe, thể thao giải trí, mỹ thuật thiết kế và bán lẻ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 58, career sectors",
+              "exampleId": "u3-ex-078"
             },
             {
               "id": "u3-speaking-7a01adea4b8a",
@@ -1562,15 +2769,24 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/kənˈstrʌkʃən/",
-              "example": "The construction of the new bridge was completed ahead of schedule.",
-              "exampleTranslation": "Việc xây dựng cây cầu mới đã hoàn thành sớm hơn kế hoạch."
+              "example": "Career sectors include hotel and catering, construction, health care, sports and leisure, art and design, and retail.",
+              "exampleTranslation": "Các lĩnh vực nghề nghiệp gồm khách sạn và dịch vụ ăn uống, xây dựng, chăm sóc sức khỏe, thể thao giải trí, mỹ thuật thiết kế và bán lẻ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 58, career sectors",
+              "exampleId": "u3-ex-078"
             },
             {
               "id": "u3-speaking-9da4925c250a",
               "word": "health care",
               "meaning": "chăm sóc sức khỏe",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/helθ ker/",
+              "example": "Career sectors include hotel and catering, construction, health care, sports and leisure, art and design, and retail.",
+              "exampleTranslation": "Các lĩnh vực nghề nghiệp gồm khách sạn và dịch vụ ăn uống, xây dựng, chăm sóc sức khỏe, thể thao giải trí, mỹ thuật thiết kế và bán lẻ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 58, career sectors",
+              "exampleId": "u3-ex-078"
             },
             {
               "id": "u3-speaking-7503b0e51b1b",
@@ -1578,9 +2794,12 @@ export default {
               "meaning": "thể thao và giải trí",
               "type": "phrase",
               "pos": "noun_phrase",
-              "ipa": "/spɔːrts ənd ˈliːʒər/",
-              "example": "Sports and leisure activities are good for mental health.",
-              "exampleTranslation": "Các hoạt động thể thao và giải trí tốt cho sức khỏe tinh thần."
+              "ipa": "/spɔːrts ənd ˈleʒər/",
+              "example": "Career sectors include hotel and catering, construction, health care, sports and leisure, art and design, and retail.",
+              "exampleTranslation": "Các lĩnh vực nghề nghiệp gồm khách sạn và dịch vụ ăn uống, xây dựng, chăm sóc sức khỏe, thể thao giải trí, mỹ thuật thiết kế và bán lẻ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 58, career sectors",
+              "exampleId": "u3-ex-078"
             },
             {
               "id": "u3-speaking-f09222229aa1",
@@ -1589,8 +2808,11 @@ export default {
               "type": "phrase",
               "pos": "noun_phrase",
               "ipa": "/ɑːrt ənd dɪˈzaɪn/",
-              "example": "Art and design are important for creative expression.",
-              "exampleTranslation": "Nghệ thuật và thiết kế quan trọng cho việc thể hiện sáng tạo."
+              "example": "Career sectors include hotel and catering, construction, health care, sports and leisure, art and design, and retail.",
+              "exampleTranslation": "Các lĩnh vực nghề nghiệp gồm khách sạn và dịch vụ ăn uống, xây dựng, chăm sóc sức khỏe, thể thao giải trí, mỹ thuật thiết kế và bán lẻ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 58, career sectors",
+              "exampleId": "u3-ex-078"
             },
             {
               "id": "u3-speaking-1778c2d9b45b",
@@ -1598,72 +2820,129 @@ export default {
               "meaning": "ngành bán lẻ",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ˈriːteɪl/",
-              "example": "Retail sales were up by 10% this year.",
-              "exampleTranslation": "Doanh số bán lẻ tăng 10% trong năm nay."
+              "ipa": "/ˈriːˌteɪl/",
+              "example": "Career sectors include hotel and catering, construction, health care, sports and leisure, art and design, and retail.",
+              "exampleTranslation": "Các lĩnh vực nghề nghiệp gồm khách sạn và dịch vụ ăn uống, xây dựng, chăm sóc sức khỏe, thể thao giải trí, mỹ thuật thiết kế và bán lẻ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 58, career sectors",
+              "exampleId": "u3-ex-078"
             },
             {
               "id": "u3-speaking-f59ac0828b9a",
               "word": "chef",
               "meaning": "đầu bếp",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ʃef/",
+              "example": "You could become a chef or a badminton coach, or study building engineering, computing or medicine.",
+              "exampleTranslation": "Bạn có thể trở thành đầu bếp hay huấn luyện viên cầu lông, hoặc học kỹ thuật xây dựng, tin học hay ngành y.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, career choices",
+              "exampleId": "u3-ex-079"
             },
             {
               "id": "u3-speaking-8fd8924ebe1f",
               "word": "building engineering",
               "meaning": "kỹ thuật xây dựng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈbɪldɪŋ ˈendʒəˈnɪrɪŋ/",
+              "example": "You could become a chef or a badminton coach, or study building engineering, computing or medicine.",
+              "exampleTranslation": "Bạn có thể trở thành đầu bếp hay huấn luyện viên cầu lông, hoặc học kỹ thuật xây dựng, tin học hay ngành y.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, career choices",
+              "exampleId": "u3-ex-079"
             },
             {
               "id": "u3-speaking-bf8d4d19a9ee",
               "word": "badminton coach",
               "meaning": "huấn luyện viên cầu lông",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈbædˌmɪntən koʊtʃ/",
+              "example": "You could become a chef or a badminton coach, or study building engineering, computing or medicine.",
+              "exampleTranslation": "Bạn có thể trở thành đầu bếp hay huấn luyện viên cầu lông, hoặc học kỹ thuật xây dựng, tin học hay ngành y.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, career choices",
+              "exampleId": "u3-ex-079"
             },
             {
               "id": "u3-speaking-2ddeaa83d089",
               "word": "computing",
               "meaning": "ngành máy tính; tin học",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/kəmˈpjuːtɪŋ/",
+              "example": "You could become a chef or a badminton coach, or study building engineering, computing or medicine.",
+              "exampleTranslation": "Bạn có thể trở thành đầu bếp hay huấn luyện viên cầu lông, hoặc học kỹ thuật xây dựng, tin học hay ngành y.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, career choices",
+              "exampleId": "u3-ex-079"
             },
             {
               "id": "u3-speaking-a82ce870f999",
               "word": "medicine",
               "meaning": "ngành y",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈmedəsən/",
+              "example": "You could become a chef or a badminton coach, or study building engineering, computing or medicine.",
+              "exampleTranslation": "Bạn có thể trở thành đầu bếp hay huấn luyện viên cầu lông, hoặc học kỹ thuật xây dựng, tin học hay ngành y.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, career choices",
+              "exampleId": "u3-ex-079"
             },
             {
               "id": "u3-speaking-85e98d6ab08a",
               "word": "graphic designer",
               "meaning": "nhà thiết kế đồ họa",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈɡræfɪk dɪˈzaɪnər/",
+              "example": "A graphic designer and a web designer may find design interesting, while others prefer shop management or fitness training and find design not very exciting.",
+              "exampleTranslation": "Nhà thiết kế đồ họa và thiết kế web có thể thấy thiết kế thú vị, còn người khác thích quản lý cửa hàng hoặc tập luyện thể lực và thấy thiết kế không hấp dẫn lắm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, career choices",
+              "exampleId": "u3-ex-080"
             },
             {
               "id": "u3-speaking-687fb7c51c67",
               "word": "web designer",
               "meaning": "nhà thiết kế web",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/web dɪˈzaɪnər/",
+              "example": "A graphic designer and a web designer may find design interesting, while others prefer shop management or fitness training and find design not very exciting.",
+              "exampleTranslation": "Nhà thiết kế đồ họa và thiết kế web có thể thấy thiết kế thú vị, còn người khác thích quản lý cửa hàng hoặc tập luyện thể lực và thấy thiết kế không hấp dẫn lắm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, career choices",
+              "exampleId": "u3-ex-080"
             },
             {
               "id": "u3-speaking-53c6521e9360",
               "word": "shop management",
               "meaning": "quản lý cửa hàng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ʃɑːp ˈmænədʒmənt/",
+              "example": "A graphic designer and a web designer may find design interesting, while others prefer shop management or fitness training and find design not very exciting.",
+              "exampleTranslation": "Nhà thiết kế đồ họa và thiết kế web có thể thấy thiết kế thú vị, còn người khác thích quản lý cửa hàng hoặc tập luyện thể lực và thấy thiết kế không hấp dẫn lắm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, career choices",
+              "exampleId": "u3-ex-080"
             },
             {
               "id": "u3-speaking-acb12c64719c",
               "word": "fitness training",
               "meaning": "tập luyện thể lực",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈfɪtnəs ˈtreɪnɪŋ/",
+              "example": "A graphic designer and a web designer may find design interesting, while others prefer shop management or fitness training and find design not very exciting.",
+              "exampleTranslation": "Nhà thiết kế đồ họa và thiết kế web có thể thấy thiết kế thú vị, còn người khác thích quản lý cửa hàng hoặc tập luyện thể lực và thấy thiết kế không hấp dẫn lắm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, career choices",
+              "exampleId": "u3-ex-080"
             },
             {
               "id": "u3-speaking-5360a4ab6b98",
@@ -1671,9 +2950,12 @@ export default {
               "meaning": "không thú vị lắm",
               "type": "phrase",
               "pos": "adjective_phrase",
-              "ipa": "/nɑːt ˈveri ɪkˈsaɪtɪŋ/",
-              "example": "The movie was not very exciting.",
-              "exampleTranslation": "Bộ phim không thú vị lắm."
+              "ipa": "/nɑːt veri ɪkˈsaɪtɪŋ/",
+              "example": "A graphic designer and a web designer may find design interesting, while others prefer shop management or fitness training and find design not very exciting.",
+              "exampleTranslation": "Nhà thiết kế đồ họa và thiết kế web có thể thấy thiết kế thú vị, còn người khác thích quản lý cửa hàng hoặc tập luyện thể lực và thấy thiết kế không hấp dẫn lắm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, career choices",
+              "exampleId": "u3-ex-080"
             },
             {
               "id": "u3-speaking-637ab2808704",
@@ -1681,9 +2963,12 @@ export default {
               "meaning": "thú vị",
               "type": "word",
               "pos": "adjective",
-              "ipa": "/ˈɪntrəstɪŋ/",
-              "example": "The book was interesting and informative.",
-              "exampleTranslation": "Cuốn sách thú vị và cung cấp thông tin bổ ích."
+              "ipa": "/ˈɪntərəstɪŋ/",
+              "example": "A graphic designer and a web designer may find design interesting, while others prefer shop management or fitness training and find design not very exciting.",
+              "exampleTranslation": "Nhà thiết kế đồ họa và thiết kế web có thể thấy thiết kế thú vị, còn người khác thích quản lý cửa hàng hoặc tập luyện thể lực và thấy thiết kế không hấp dẫn lắm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 58–59, career choices",
+              "exampleId": "u3-ex-080"
             }
           ]
         }
@@ -1705,280 +2990,520 @@ export default {
               "word": "line graph",
               "meaning": "biểu đồ đường",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/laɪn ɡræf/",
+              "example": "We can present data in a line graph, a bar chart, a pie chart or a table.",
+              "exampleTranslation": "Chúng ta có thể trình bày dữ liệu bằng biểu đồ đường, biểu đồ cột, biểu đồ tròn hoặc bảng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 49, chart types",
+              "exampleId": "u3-ex-063"
             },
             {
               "id": "u3-writing-2bad31af89c6",
               "word": "bar chart",
               "meaning": "biểu đồ cột",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/bɑːr tʃɑːrt/",
+              "example": "We can present data in a line graph, a bar chart, a pie chart or a table.",
+              "exampleTranslation": "Chúng ta có thể trình bày dữ liệu bằng biểu đồ đường, biểu đồ cột, biểu đồ tròn hoặc bảng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 49, chart types",
+              "exampleId": "u3-ex-063"
             },
             {
               "id": "u3-writing-f78aabb54625",
               "word": "pie chart",
               "meaning": "biểu đồ tròn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/paɪ tʃɑːrt/",
+              "example": "We can present data in a line graph, a bar chart, a pie chart or a table.",
+              "exampleTranslation": "Chúng ta có thể trình bày dữ liệu bằng biểu đồ đường, biểu đồ cột, biểu đồ tròn hoặc bảng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 49, chart types",
+              "exampleId": "u3-ex-063"
             },
             {
               "id": "u3-writing-0d4fc4a78d37",
               "word": "table",
               "meaning": "bảng số liệu",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈteɪbəl/",
+              "example": "We can present data in a line graph, a bar chart, a pie chart or a table.",
+              "exampleTranslation": "Chúng ta có thể trình bày dữ liệu bằng biểu đồ đường, biểu đồ cột, biểu đồ tròn hoặc bảng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 49, chart types",
+              "exampleId": "u3-ex-063"
             },
             {
               "id": "u3-writing-93493920f449",
               "word": "an upward trend",
               "meaning": "xu hướng tăng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ən ˈʌpwərd trend/",
+              "example": "The graph shows an upward trend and a steady rise throughout the period: the percentage rose gradually, increasing from 17% to 20%, or by three percentage points.",
+              "exampleTranslation": "Biểu đồ cho thấy xu hướng tăng và sự tăng đều suốt giai đoạn: tỷ lệ tăng dần từ 17% lên 20%, tức tăng ba điểm phần trăm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 51, graph description",
+              "exampleId": "u3-ex-064"
             },
             {
               "id": "u3-writing-da6d2ee379c3",
               "word": "a steady rise",
               "meaning": "sự gia tăng đều đặn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə stedi raɪz/",
+              "example": "The graph shows an upward trend and a steady rise throughout the period: the percentage rose gradually, increasing from 17% to 20%, or by three percentage points.",
+              "exampleTranslation": "Biểu đồ cho thấy xu hướng tăng và sự tăng đều suốt giai đoạn: tỷ lệ tăng dần từ 17% lên 20%, tức tăng ba điểm phần trăm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 51, graph description",
+              "exampleId": "u3-ex-064"
             },
             {
               "id": "u3-writing-363156ec72f4",
               "word": "rise gradually",
               "meaning": "tăng dần",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/raɪz ˈɡrædʒuːəli/",
+              "example": "The graph shows an upward trend and a steady rise throughout the period: the percentage rose gradually, increasing from 17% to 20%, or by three percentage points.",
+              "exampleTranslation": "Biểu đồ cho thấy xu hướng tăng và sự tăng đều suốt giai đoạn: tỷ lệ tăng dần từ 17% lên 20%, tức tăng ba điểm phần trăm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 51, graph description",
+              "exampleId": "u3-ex-064"
             },
             {
               "id": "u3-writing-be7cf762ea82",
               "word": "increase from ... to ...",
               "meaning": "tăng từ ... lên ...",
               "type": "structure",
-              "pos": "sentence_pattern"
+              "pos": "sentence_pattern",
+              "ipa": "/ɪnˈkriːs frəm … tə …/",
+              "example": "The graph shows an upward trend and a steady rise throughout the period: the percentage rose gradually, increasing from 17% to 20%, or by three percentage points.",
+              "exampleTranslation": "Biểu đồ cho thấy xu hướng tăng và sự tăng đều suốt giai đoạn: tỷ lệ tăng dần từ 17% lên 20%, tức tăng ba điểm phần trăm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 51, graph description",
+              "exampleId": "u3-ex-064"
             },
             {
               "id": "u3-writing-c2052749fe35",
               "word": "increase by ...",
               "meaning": "tăng thêm một lượng ...",
               "type": "structure",
-              "pos": "sentence_pattern"
+              "pos": "sentence_pattern",
+              "ipa": "/ɪnˈkriːs baɪ …/",
+              "example": "The graph shows an upward trend and a steady rise throughout the period: the percentage rose gradually, increasing from 17% to 20%, or by three percentage points.",
+              "exampleTranslation": "Biểu đồ cho thấy xu hướng tăng và sự tăng đều suốt giai đoạn: tỷ lệ tăng dần từ 17% lên 20%, tức tăng ba điểm phần trăm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 51, graph description",
+              "exampleId": "u3-ex-064"
             },
             {
               "id": "u3-writing-ab42b9596700",
               "word": "a decrease in",
               "meaning": "sự giảm xuống về",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈdiːˌkriːs ɪn/",
+              "example": "After a drop or decrease, the figures returned to their original level; the graph shows a fall followed by a rise, or a decline followed by growth.",
+              "exampleTranslation": "Sau khi giảm, số liệu trở lại mức ban đầu; biểu đồ thể hiện một đợt giảm tiếp theo là tăng, hay sự suy giảm rồi tăng trưởng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 52, graph description",
+              "exampleId": "u3-ex-065"
             },
             {
               "id": "u3-writing-8fcc17ece632",
               "word": "a fall followed by a rise",
               "meaning": "một đợt giảm tiếp theo là một đợt tăng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə fɑːl ˈfɑːloʊd baɪ ə raɪz/",
+              "example": "After a drop or decrease, the figures returned to their original level; the graph shows a fall followed by a rise, or a decline followed by growth.",
+              "exampleTranslation": "Sau khi giảm, số liệu trở lại mức ban đầu; biểu đồ thể hiện một đợt giảm tiếp theo là tăng, hay sự suy giảm rồi tăng trưởng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 52, graph description",
+              "exampleId": "u3-ex-065"
             },
             {
               "id": "u3-writing-d90ee9ccf6be",
               "word": "drop",
               "meaning": "giảm; sự sụt giảm",
               "type": "word",
-              "pos": "noun_verb"
+              "pos": "noun_verb",
+              "ipa": "/drɑːp/",
+              "example": "After a drop or decrease, the figures returned to their original level; the graph shows a fall followed by a rise, or a decline followed by growth.",
+              "exampleTranslation": "Sau khi giảm, số liệu trở lại mức ban đầu; biểu đồ thể hiện một đợt giảm tiếp theo là tăng, hay sự suy giảm rồi tăng trưởng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 52, graph description",
+              "exampleId": "u3-ex-065"
             },
             {
               "id": "u3-writing-fd5f8cbed3d0",
               "word": "decline",
               "meaning": "giảm; sự suy giảm",
               "type": "word",
-              "pos": "noun_verb"
+              "pos": "noun_verb",
+              "ipa": "/dɪˈklaɪn/",
+              "example": "After a drop or decrease, the figures returned to their original level; the graph shows a fall followed by a rise, or a decline followed by growth.",
+              "exampleTranslation": "Sau khi giảm, số liệu trở lại mức ban đầu; biểu đồ thể hiện một đợt giảm tiếp theo là tăng, hay sự suy giảm rồi tăng trưởng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 52, graph description",
+              "exampleId": "u3-ex-065"
             },
             {
               "id": "u3-writing-19c64195eb8f",
               "word": "growth",
               "meaning": "sự tăng trưởng",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ɡroʊθ/",
+              "example": "After a drop or decrease, the figures returned to their original level; the graph shows a fall followed by a rise, or a decline followed by growth.",
+              "exampleTranslation": "Sau khi giảm, số liệu trở lại mức ban đầu; biểu đồ thể hiện một đợt giảm tiếp theo là tăng, hay sự suy giảm rồi tăng trưởng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 52, graph description",
+              "exampleId": "u3-ex-065"
             },
             {
               "id": "u3-writing-8331b239a82f",
               "word": "throughout the period",
               "meaning": "trong suốt giai đoạn",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/θruːˈaʊt ðə ˈpɪriːəd/",
+              "example": "The graph shows an upward trend and a steady rise throughout the period: the percentage rose gradually, increasing from 17% to 20%, or by three percentage points.",
+              "exampleTranslation": "Biểu đồ cho thấy xu hướng tăng và sự tăng đều suốt giai đoạn: tỷ lệ tăng dần từ 17% lên 20%, tức tăng ba điểm phần trăm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 51, graph description",
+              "exampleId": "u3-ex-064"
             },
             {
               "id": "u3-writing-40257e15c193",
               "word": "at all points",
               "meaning": "ở tất cả các thời điểm",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ət ɔːl pɔɪnts/",
+              "example": "At all points, non-graduates were more likely than recent graduates to be unemployed or out of work.",
+              "exampleTranslation": "Ở mọi thời điểm, người không có bằng đại học có khả năng thất nghiệp cao hơn người mới tốt nghiệp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 52, model answer",
+              "exampleId": "u3-ex-066"
             },
             {
               "id": "u3-writing-c983ae37b4a4",
               "word": "return to",
               "meaning": "trở về mức",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/riːˈtɜːrn tə/",
+              "example": "After a drop or decrease, the figures returned to their original level; the graph shows a fall followed by a rise, or a decline followed by growth.",
+              "exampleTranslation": "Sau khi giảm, số liệu trở lại mức ban đầu; biểu đồ thể hiện một đợt giảm tiếp theo là tăng, hay sự suy giảm rồi tăng trưởng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 52, graph description",
+              "exampleId": "u3-ex-065"
             },
             {
               "id": "u3-writing-f1c9f487bdd9",
               "word": "recent graduates",
               "meaning": "những người mới tốt nghiệp đại học",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈriːsənt ˈɡrædʒuəts/",
+              "example": "At all points, non-graduates were more likely than recent graduates to be unemployed or out of work.",
+              "exampleTranslation": "Ở mọi thời điểm, người không có bằng đại học có khả năng thất nghiệp cao hơn người mới tốt nghiệp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 52, model answer",
+              "exampleId": "u3-ex-066"
             },
             {
               "id": "u3-writing-3f786edc8d4c",
               "word": "non-graduates",
               "meaning": "những người không có bằng đại học",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/nɑːn ˈɡrædʒuəts/",
+              "example": "At all points, non-graduates were more likely than recent graduates to be unemployed or out of work.",
+              "exampleTranslation": "Ở mọi thời điểm, người không có bằng đại học có khả năng thất nghiệp cao hơn người mới tốt nghiệp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 52, model answer",
+              "exampleId": "u3-ex-066"
             },
             {
               "id": "u3-writing-ef65af02d658",
               "word": "unemployed",
               "meaning": "thất nghiệp",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˌʌnemˈplɔɪd/",
+              "example": "At all points, non-graduates were more likely than recent graduates to be unemployed or out of work.",
+              "exampleTranslation": "Ở mọi thời điểm, người không có bằng đại học có khả năng thất nghiệp cao hơn người mới tốt nghiệp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 52, model answer",
+              "exampleId": "u3-ex-066"
             },
             {
               "id": "u3-writing-9a626ce3a327",
               "word": "out of work",
               "meaning": "không có việc làm",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/aʊt əv wɜːrk/",
+              "example": "At all points, non-graduates were more likely than recent graduates to be unemployed or out of work.",
+              "exampleTranslation": "Ở mọi thời điểm, người không có bằng đại học có khả năng thất nghiệp cao hơn người mới tốt nghiệp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 52, model answer",
+              "exampleId": "u3-ex-066"
             },
             {
               "id": "u3-writing-56a3c84e8ca7",
               "word": "full-time education",
               "meaning": "giáo dục toàn thời gian",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈfʊlˌtaɪm ˌedʒəˈkeɪʃən/",
+              "example": "The chart compares participation in full-time education and employer-funded training.",
+              "exampleTranslation": "Biểu đồ so sánh mức tham gia giáo dục toàn thời gian và đào tạo do người sử dụng lao động tài trợ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 51, bar chart",
+              "exampleId": "u3-ex-067"
             },
             {
               "id": "u3-writing-bf6209b9887a",
               "word": "employer-funded training",
               "meaning": "đào tạo do người sử dụng lao động tài trợ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/emˈplɔɪər ˈfʌndəd ˈtreɪnɪŋ/",
+              "example": "The chart compares participation in full-time education and employer-funded training.",
+              "exampleTranslation": "Biểu đồ so sánh mức tham gia giáo dục toàn thời gian và đào tạo do người sử dụng lao động tài trợ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 51, bar chart",
+              "exampleId": "u3-ex-067"
             },
             {
               "id": "u3-writing-3ea38fc32095",
               "word": "participation",
               "meaning": "sự tham gia",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/pɑːrˌtɪsəˈpeɪʃən/",
+              "example": "The chart compares participation in full-time education and employer-funded training.",
+              "exampleTranslation": "Biểu đồ so sánh mức tham gia giáo dục toàn thời gian và đào tạo do người sử dụng lao động tài trợ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 51, bar chart",
+              "exampleId": "u3-ex-067"
             },
             {
               "id": "u3-writing-75e80550328e",
               "word": "new entrants",
               "meaning": "những người mới tham gia; mới nhập học",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/njuː ˈentrənts/",
+              "example": "The table gives new entrants to teacher training programmes, while other charts show the percentage or proportion in each group.",
+              "exampleTranslation": "Bảng cho biết số người mới vào chương trình đào tạo giáo viên, còn các biểu đồ khác thể hiện tỷ lệ phần trăm hoặc tỷ trọng của từng nhóm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 49–53, charts",
+              "exampleId": "u3-ex-068"
             },
             {
               "id": "u3-writing-0aaef76fa4be",
               "word": "teacher training programmes",
               "meaning": "các chương trình đào tạo giáo viên",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈtiːtʃər ˈtreɪnɪŋ ˈproʊɡræmz/",
+              "example": "The table gives new entrants to teacher training programmes, while other charts show the percentage or proportion in each group.",
+              "exampleTranslation": "Bảng cho biết số người mới vào chương trình đào tạo giáo viên, còn các biểu đồ khác thể hiện tỷ lệ phần trăm hoặc tỷ trọng của từng nhóm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 49–53, charts",
+              "exampleId": "u3-ex-068"
             },
             {
               "id": "u3-writing-8975c9b4ea06",
               "word": "percentage",
               "meaning": "tỷ lệ phần trăm",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/pərˈsenədʒ/",
+              "example": "The table gives new entrants to teacher training programmes, while other charts show the percentage or proportion in each group.",
+              "exampleTranslation": "Bảng cho biết số người mới vào chương trình đào tạo giáo viên, còn các biểu đồ khác thể hiện tỷ lệ phần trăm hoặc tỷ trọng của từng nhóm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 49–53, charts",
+              "exampleId": "u3-ex-068"
             },
             {
               "id": "u3-writing-40b149bf4da1",
               "word": "proportion",
               "meaning": "tỷ trọng; tỷ lệ",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/prəˈpɔːrʃən/",
+              "example": "The table gives new entrants to teacher training programmes, while other charts show the percentage or proportion in each group.",
+              "exampleTranslation": "Bảng cho biết số người mới vào chương trình đào tạo giáo viên, còn các biểu đồ khác thể hiện tỷ lệ phần trăm hoặc tỷ trọng của từng nhóm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB pp. 49–53, charts",
+              "exampleId": "u3-ex-068"
             },
             {
               "id": "u3-writing-3ced9ca051c1",
               "word": "over a third",
               "meaning": "hơn một phần ba",
               "type": "phrase",
-              "pos": "number"
+              "pos": "number",
+              "ipa": "/ˈoʊvər ə θɜːrd/",
+              "example": "The most popular option attracted over a third, the option in second place a little under a third, another just under a sixth, and the least popular about one in ten.",
+              "exampleTranslation": "Lựa chọn phổ biến nhất thu hút hơn một phần ba, lựa chọn đứng thứ hai ít hơn một phần ba một chút, lựa chọn khác dưới một phần sáu một chút, còn lựa chọn ít phổ biến nhất khoảng một phần mười.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 52, proportion language",
+              "exampleId": "u3-ex-069"
             },
             {
               "id": "u3-writing-9e2fd309192b",
               "word": "a little under a third",
               "meaning": "ít hơn một phần ba một chút",
               "type": "phrase",
-              "pos": "number"
+              "pos": "number",
+              "ipa": "/ə ˈlɪtəl ˈʌndər ə θɜːrd/",
+              "example": "The most popular option attracted over a third, the option in second place a little under a third, another just under a sixth, and the least popular about one in ten.",
+              "exampleTranslation": "Lựa chọn phổ biến nhất thu hút hơn một phần ba, lựa chọn đứng thứ hai ít hơn một phần ba một chút, lựa chọn khác dưới một phần sáu một chút, còn lựa chọn ít phổ biến nhất khoảng một phần mười.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 52, proportion language",
+              "exampleId": "u3-ex-069"
             },
             {
               "id": "u3-writing-2a3e726853ea",
               "word": "about one in ten",
               "meaning": "khoảng một trong mười",
               "type": "phrase",
-              "pos": "number"
+              "pos": "number",
+              "ipa": "/əˈbaʊt wʌn ɪn ten/",
+              "example": "The most popular option attracted over a third, the option in second place a little under a third, another just under a sixth, and the least popular about one in ten.",
+              "exampleTranslation": "Lựa chọn phổ biến nhất thu hút hơn một phần ba, lựa chọn đứng thứ hai ít hơn một phần ba một chút, lựa chọn khác dưới một phần sáu một chút, còn lựa chọn ít phổ biến nhất khoảng một phần mười.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 52, proportion language",
+              "exampleId": "u3-ex-069"
             },
             {
               "id": "u3-writing-a5996987e246",
               "word": "just under a sixth",
               "meaning": "chỉ dưới một phần sáu một chút",
               "type": "phrase",
-              "pos": "number"
+              "pos": "number",
+              "ipa": "/dʒʌst ˈʌndər ə sɪksθ/",
+              "example": "The most popular option attracted over a third, the option in second place a little under a third, another just under a sixth, and the least popular about one in ten.",
+              "exampleTranslation": "Lựa chọn phổ biến nhất thu hút hơn một phần ba, lựa chọn đứng thứ hai ít hơn một phần ba một chút, lựa chọn khác dưới một phần sáu một chút, còn lựa chọn ít phổ biến nhất khoảng một phần mười.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 52, proportion language",
+              "exampleId": "u3-ex-069"
             },
             {
               "id": "u3-writing-04e414516c8b",
               "word": "in second place",
               "meaning": "ở vị trí thứ hai",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn ˈsekənd pleɪs/",
+              "example": "The most popular option attracted over a third, the option in second place a little under a third, another just under a sixth, and the least popular about one in ten.",
+              "exampleTranslation": "Lựa chọn phổ biến nhất thu hút hơn một phần ba, lựa chọn đứng thứ hai ít hơn một phần ba một chút, lựa chọn khác dưới một phần sáu một chút, còn lựa chọn ít phổ biến nhất khoảng một phần mười.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 52, proportion language",
+              "exampleId": "u3-ex-069"
             },
             {
               "id": "u3-writing-19f783b1620b",
               "word": "the least popular",
               "meaning": "ít phổ biến nhất",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/ðə liːst ˈpɑːpjələr/",
+              "example": "The most popular option attracted over a third, the option in second place a little under a third, another just under a sixth, and the least popular about one in ten.",
+              "exampleTranslation": "Lựa chọn phổ biến nhất thu hút hơn một phần ba, lựa chọn đứng thứ hai ít hơn một phần ba một chút, lựa chọn khác dưới một phần sáu một chút, còn lựa chọn ít phổ biến nhất khoảng một phần mười.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 52, proportion language",
+              "exampleId": "u3-ex-069"
             },
             {
               "id": "u3-writing-c79548af4955",
               "word": "literacy rate",
               "meaning": "tỷ lệ biết đọc, biết viết",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈlɪtərəsi reɪt/",
+              "example": "Use the vertical axis and horizontal axis to make comparisons of literacy rates by region and gender and identify the greatest difference.",
+              "exampleTranslation": "Hãy dùng trục tung và trục hoành để so sánh tỷ lệ biết đọc viết theo vùng và giới tính, rồi xác định sự chênh lệch lớn nhất.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 53, Writing task",
+              "exampleId": "u3-ex-070"
             },
             {
               "id": "u3-writing-230ebc7aeb6f",
               "word": "region and gender",
               "meaning": "vùng địa lý và giới tính",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈriːdʒən ənd ˈdʒendər/",
+              "example": "Use the vertical axis and horizontal axis to make comparisons of literacy rates by region and gender and identify the greatest difference.",
+              "exampleTranslation": "Hãy dùng trục tung và trục hoành để so sánh tỷ lệ biết đọc viết theo vùng và giới tính, rồi xác định sự chênh lệch lớn nhất.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 53, Writing task",
+              "exampleId": "u3-ex-070"
             },
             {
               "id": "u3-writing-fb4093ba9477",
               "word": "vertical axis",
               "meaning": "trục tung",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈvɜːrtɪkəl ˈæksəs/",
+              "example": "Use the vertical axis and horizontal axis to make comparisons of literacy rates by region and gender and identify the greatest difference.",
+              "exampleTranslation": "Hãy dùng trục tung và trục hoành để so sánh tỷ lệ biết đọc viết theo vùng và giới tính, rồi xác định sự chênh lệch lớn nhất.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 53, Writing task",
+              "exampleId": "u3-ex-070"
             },
             {
               "id": "u3-writing-b9fc968e037f",
               "word": "horizontal axis",
               "meaning": "trục hoành",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌhɔːrəˈzɑːntəl ˈæksəs/",
+              "example": "Use the vertical axis and horizontal axis to make comparisons of literacy rates by region and gender and identify the greatest difference.",
+              "exampleTranslation": "Hãy dùng trục tung và trục hoành để so sánh tỷ lệ biết đọc viết theo vùng và giới tính, rồi xác định sự chênh lệch lớn nhất.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 53, Writing task",
+              "exampleId": "u3-ex-070"
             },
             {
               "id": "u3-writing-38d64db4ac4b",
               "word": "make comparisons",
               "meaning": "đưa ra các so sánh",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/meɪk kəmˈperəsənz/",
+              "example": "Use the vertical axis and horizontal axis to make comparisons of literacy rates by region and gender and identify the greatest difference.",
+              "exampleTranslation": "Hãy dùng trục tung và trục hoành để so sánh tỷ lệ biết đọc viết theo vùng và giới tính, rồi xác định sự chênh lệch lớn nhất.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 53, Writing task",
+              "exampleId": "u3-ex-070"
             },
             {
               "id": "u3-writing-e35147b9a16d",
               "word": "the greatest difference",
               "meaning": "sự chênh lệch lớn nhất",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðə ˈɡreɪtəst ˈdɪfərəns/",
+              "example": "Use the vertical axis and horizontal axis to make comparisons of literacy rates by region and gender and identify the greatest difference.",
+              "exampleTranslation": "Hãy dùng trục tung và trục hoành để so sánh tỷ lệ biết đọc viết theo vùng và giới tính, rồi xác định sự chênh lệch lớn nhất.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 53, Writing task",
+              "exampleId": "u3-ex-070"
             }
           ]
         },
@@ -1994,7 +3519,12 @@ export default {
               "meaning": "Biểu đồ so sánh ... xét về ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "The chart compares seven regions in terms of literacy rates."
+              "ipa": "/ðə tʃɑːrt kəmˈperz … ɪn tɜːrmz əv …/",
+              "example": "The chart compares seven regions in terms of literacy rates.",
+              "exampleTranslation": "Biểu đồ so sánh bảy vùng xét về tỷ lệ biết đọc, biết viết.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 49–53; TB pp. 30–32",
+              "exampleId": "u3-ex-071"
             },
             {
               "id": "u3-writing-5c37d44b5fb5",
@@ -2002,7 +3532,12 @@ export default {
               "meaning": "Nhìn chung, ... cho thấy xu hướng tăng.",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "Overall, the proportion of graduates showed an upward trend."
+              "ipa": "/ˈoʊvərˌɔːl … ʃoʊd ən ˈʌpwərd trend/",
+              "example": "Overall, the proportion of graduates showed an upward trend.",
+              "exampleTranslation": "Nhìn chung, tỷ lệ người tốt nghiệp đại học cho thấy xu hướng tăng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 49–53; TB pp. 30–32",
+              "exampleId": "u3-ex-072"
             },
             {
               "id": "u3-writing-3f39e473bd54",
@@ -2010,7 +3545,12 @@ export default {
               "meaning": "... chiếm ...% tổng số.",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "Full-time students accounted for 60% of the total."
+              "ipa": "/… əˈkaʊnəd fər … pərˈsent əv ðə ˈtoʊtəl/",
+              "example": "Full-time students accounted for 60% of the total.",
+              "exampleTranslation": "Sinh viên toàn thời gian chiếm 60% tổng số.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 49–53; TB pp. 30–32",
+              "exampleId": "u3-ex-073"
             },
             {
               "id": "u3-writing-b1b286223068",
@@ -2018,7 +3558,12 @@ export default {
               "meaning": "... giữ ổn định ở mức ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "The rate remained stable at 20%."
+              "ipa": "/… riːˈmeɪnd ˈsteɪbəl ət …/",
+              "example": "The rate remained stable at 20%.",
+              "exampleTranslation": "Tỷ lệ giữ ổn định ở mức 20%.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 49–53; TB pp. 30–32",
+              "exampleId": "u3-ex-074"
             },
             {
               "id": "u3-writing-a6d5e13c8326",
@@ -2026,7 +3571,12 @@ export default {
               "meaning": "... tăng thêm ... điểm phần trăm.",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "The rate rose from 20% to 25%, an increase of five percentage points."
+              "ipa": "/… roʊz baɪ … pərˈsenədʒ pɔɪnts/",
+              "example": "The rate rose from 20% to 25%, an increase of five percentage points.",
+              "exampleTranslation": "Tỷ lệ tăng từ 20% lên 25%, tức tăng năm điểm phần trăm.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 49–53; TB pp. 30–32",
+              "exampleId": "u3-ex-075"
             },
             {
               "id": "u3-writing-ac0de098f460",
@@ -2034,7 +3584,12 @@ export default {
               "meaning": "... cao gấp đôi ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "The male unemployment rate was twice as high as the female rate."
+              "ipa": "/… wəz twaɪs əz haɪ əz …/",
+              "example": "The male unemployment rate was twice as high as the female rate.",
+              "exampleTranslation": "Tỷ lệ thất nghiệp của nam cao gấp đôi tỷ lệ của nữ.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 49–53; TB pp. 30–32",
+              "exampleId": "u3-ex-076"
             },
             {
               "id": "u3-writing-05073fc3c94b",
@@ -2042,7 +3597,12 @@ export default {
               "meaning": "... cao hơn ..., lần lượt ở mức ...% và ...%.",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "The rate for men was higher than that for women, at 80% and 60%, respectively."
+              "ipa": "/… wəz ˈhaɪər ðən … ət … pərˈsent ənd … pərˈsent rɪˈspektɪvli/",
+              "example": "The rate for men was higher than that for women, at 80% and 60%, respectively.",
+              "exampleTranslation": "Tỷ lệ của nam cao hơn nữ, lần lượt là 80% và 60%.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 49–53; TB pp. 30–32",
+              "exampleId": "u3-ex-077"
             }
           ]
         }

@@ -19,7 +19,13 @@ export default {
               "word": "shopping malls",
               "meaning": "các trung tâm mua sắm",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈʃɑːpɪŋ mɔːlz/",
+              "example": "Shopping malls have always been places where young people hang out.",
+              "exampleTranslation": "Trung tâm mua sắm từ lâu đã là nơi giới trẻ tụ tập thư giãn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-001"
             },
             {
               "id": "u5-reading-ee6ee4a837d2",
@@ -28,43 +34,76 @@ export default {
               "type": "phrase",
               "pos": "phrasal_verb",
               "ipa": "/hæŋ aʊt/",
-              "example": "I’m going to hang out with my friends.",
-              "exampleTranslation": "Tôi sẽ đi chơi với bạn bè của mình."
+              "example": "Shopping malls have always been places where young people hang out.",
+              "exampleTranslation": "Trung tâm mua sắm từ lâu đã là nơi giới trẻ tụ tập thư giãn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-001"
             },
             {
               "id": "u5-reading-3239c590b6b7",
               "word": "a food court",
               "meaning": "khu ăn uống tập trung",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə fuːd kɔːrt/",
+              "example": "However, the world has moved on, and just providing shops and a food court is no longer enough to keep malls alive.",
+              "exampleTranslation": "Tuy nhiên, thế giới đã thay đổi, và chỉ cung cấp cửa hàng cùng khu ăn uống không còn đủ để duy trì hoạt động của các trung tâm mua sắm.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-002"
             },
             {
               "id": "u5-reading-8fdcf7f9b13c",
               "word": "keep malls alive",
               "meaning": "duy trì hoạt động của các trung tâm mua sắm",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kiːp mɔːlz əˈlaɪv/",
+              "example": "However, the world has moved on, and just providing shops and a food court is no longer enough to keep malls alive.",
+              "exampleTranslation": "Tuy nhiên, thế giới đã thay đổi, và chỉ cung cấp cửa hàng cùng khu ăn uống không còn đủ để duy trì hoạt động của các trung tâm mua sắm.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-002"
             },
             {
               "id": "u5-reading-92c9bb96cdd1",
               "word": "online shopping",
               "meaning": "mua sắm trực tuyến",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈɔːnˌlaɪn ˈʃɑːpɪŋ/",
+              "example": "As online shopping grows, malls need to change to survive.",
+              "exampleTranslation": "Khi mua sắm trực tuyến phát triển, các trung tâm mua sắm cần thay đổi để tồn tại.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-003"
             },
             {
               "id": "u5-reading-ac06935fdaa4",
               "word": "change to survive",
               "meaning": "thay đổi để tồn tại",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/tʃeɪndʒ tə sərˈvaɪv/",
+              "example": "As online shopping grows, malls need to change to survive.",
+              "exampleTranslation": "Khi mua sắm trực tuyến phát triển, các trung tâm mua sắm cần thay đổi để tồn tại.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-003"
             },
             {
               "id": "u5-reading-7d9bbabe9972",
               "word": "be home to",
               "meaning": "là nơi có",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː hoʊm tə/",
+              "example": "The article describes Asia as home to some of the world's largest malls.",
+              "exampleTranslation": "Bài đọc mô tả châu Á là nơi có một số trung tâm mua sắm lớn nhất thế giới.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-004"
             },
             {
               "id": "u5-reading-885ab308bfb5",
@@ -73,22 +112,37 @@ export default {
               "type": "word",
               "pos": "verb",
               "ipa": "/ˈspeʃəlaɪz/",
-              "example": "I specialise in computer science.",
-              "exampleTranslation": "Tôi chuyên về khoa học máy tính."
+              "example": "Some malls may specialise in electrical items or fashion for young people.",
+              "exampleTranslation": "Một số trung tâm mua sắm có thể chuyên về các mặt hàng điện hoặc thời trang cho giới trẻ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-005"
             },
             {
               "id": "u5-reading-158ad0485fcd",
               "word": "electrical items",
               "meaning": "các mặt hàng điện",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ɪˈlektrɪkəl ˈaɪtəmz/",
+              "example": "Some malls may specialise in electrical items or fashion for young people.",
+              "exampleTranslation": "Một số trung tâm mua sắm có thể chuyên về các mặt hàng điện hoặc thời trang cho giới trẻ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-005"
             },
             {
               "id": "u5-reading-308301fb06e9",
               "word": "downtown",
               "meaning": "khu trung tâm thành phố",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈdaʊnˈtaʊn/",
+              "example": "Malls are becoming 'the new downtown', with cinemas, bowling alleys, climbing walls and even concert halls.",
+              "exampleTranslation": "Trung tâm mua sắm đang trở thành “khu trung tâm mới”, với rạp phim, khu bowling, vách leo núi và cả phòng hòa nhạc.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-006"
             },
             {
               "id": "u5-reading-a25199b8dfc1",
@@ -96,16 +150,25 @@ export default {
               "meaning": "các khu chơi bowling",
               "type": "phrase",
               "pos": "noun_phrase",
-              "ipa": "/ˈboʊlɪŋ ˈæliz/",
-              "example": "We went to the bowling alley last night.",
-              "exampleTranslation": "Chúng tôi đã đi đến sân chơi bowling tối qua."
+              "ipa": "/ˈboʊlɪŋ ˈæliːz/",
+              "example": "Malls are becoming 'the new downtown', with cinemas, bowling alleys, climbing walls and even concert halls.",
+              "exampleTranslation": "Trung tâm mua sắm đang trở thành “khu trung tâm mới”, với rạp phim, khu bowling, vách leo núi và cả phòng hòa nhạc.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-006"
             },
             {
               "id": "u5-reading-419a02dec887",
               "word": "climbing walls",
               "meaning": "các bức tường leo núi nhân tạo",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈklaɪmɪŋ wɔːlz/",
+              "example": "Malls are becoming 'the new downtown', with cinemas, bowling alleys, climbing walls and even concert halls.",
+              "exampleTranslation": "Trung tâm mua sắm đang trở thành “khu trung tâm mới”, với rạp phim, khu bowling, vách leo núi và cả phòng hòa nhạc.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-006"
             },
             {
               "id": "u5-reading-3718c206a99d",
@@ -114,50 +177,89 @@ export default {
               "type": "phrase",
               "pos": "noun_phrase",
               "ipa": "/ˈkɑːnsərt hɔːlz/",
-              "example": "We went to the concert hall to see a show.",
-              "exampleTranslation": "Chúng tôi đã đi đến nhà hát để xem một buổi biểu diễn."
+              "example": "Malls are becoming 'the new downtown', with cinemas, bowling alleys, climbing walls and even concert halls.",
+              "exampleTranslation": "Trung tâm mua sắm đang trở thành “khu trung tâm mới”, với rạp phim, khu bowling, vách leo núi và cả phòng hòa nhạc.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-006"
             },
             {
               "id": "u5-reading-22219949db49",
               "word": "a recreation centre",
               "meaning": "trung tâm vui chơi, giải trí",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˌrekriːˈeɪʃən ˈsentər/",
+              "example": "Xanadu is a recreation centre for a family day out, with activities such as skiing on ski slopes.",
+              "exampleTranslation": "Xanadu là trung tâm giải trí cho ngày cả gia đình đi chơi, với các hoạt động như trượt tuyết trên dốc.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-007"
             },
             {
               "id": "u5-reading-715a7a41a7cf",
               "word": "a family day out",
               "meaning": "một ngày cả gia đình đi chơi",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈfæməli deɪ aʊt/",
+              "example": "Xanadu is a recreation centre for a family day out, with activities such as skiing on ski slopes.",
+              "exampleTranslation": "Xanadu là trung tâm giải trí cho ngày cả gia đình đi chơi, với các hoạt động như trượt tuyết trên dốc.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-007"
             },
             {
               "id": "u5-reading-3560f4fd1940",
               "word": "ski slopes",
               "meaning": "các dốc trượt tuyết",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ski sloʊps/",
+              "example": "Xanadu is a recreation centre for a family day out, with activities such as skiing on ski slopes.",
+              "exampleTranslation": "Xanadu là trung tâm giải trí cho ngày cả gia đình đi chơi, với các hoạt động như trượt tuyết trên dốc.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-007"
             },
             {
               "id": "u5-reading-5d4881ae8001",
               "word": "minigolf",
               "meaning": "gôn mini",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈmɪniɡɑːlf/",
+              "example": "Visitors can enjoy minigolf, go-karts, balloon rides and billiards at Xanadu.",
+              "exampleTranslation": "Du khách có thể chơi gôn mini, đua xe nhỏ, đi khinh khí cầu và chơi bi-a tại Xanadu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-008"
             },
             {
               "id": "u5-reading-1063d856a555",
               "word": "go-karts",
               "meaning": "xe đua nhỏ dùng để giải trí",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ɡoʊ kɑːrts/",
+              "example": "Visitors can enjoy minigolf, go-karts, balloon rides and billiards at Xanadu.",
+              "exampleTranslation": "Du khách có thể chơi gôn mini, đua xe nhỏ, đi khinh khí cầu và chơi bi-a tại Xanadu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-008"
             },
             {
               "id": "u5-reading-983d4fda76ab",
               "word": "balloon rides",
               "meaning": "các chuyến đi khinh khí cầu",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/bəˈluːn raɪdz/",
+              "example": "Visitors can enjoy minigolf, go-karts, balloon rides and billiards at Xanadu.",
+              "exampleTranslation": "Du khách có thể chơi gôn mini, đua xe nhỏ, đi khinh khí cầu và chơi bi-a tại Xanadu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-008"
             },
             {
               "id": "u5-reading-0516eecb58da",
@@ -166,148 +268,271 @@ export default {
               "type": "word",
               "pos": "noun",
               "ipa": "/ˈbɪljərdz/",
-              "example": "Do you want to play billiards?",
-              "exampleTranslation": "Bạn có muốn chơi bi-a không?"
+              "example": "Visitors can enjoy minigolf, go-karts, balloon rides and billiards at Xanadu.",
+              "exampleTranslation": "Du khách có thể chơi gôn mini, đua xe nhỏ, đi khinh khí cầu và chơi bi-a tại Xanadu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-008"
             },
             {
               "id": "u5-reading-d64a0da69d8d",
               "word": "grab a burger",
               "meaning": "ăn vội một chiếc bánh burger",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡræb ə ˈbɜːrɡər/",
+              "example": "Visitors can grab a burger, but malls may also offer fine dining in expensive restaurants.",
+              "exampleTranslation": "Khách có thể ăn vội một chiếc burger, nhưng trung tâm mua sắm cũng có thể cung cấp trải nghiệm ẩm thực cao cấp tại nhà hàng đắt tiền.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-009"
             },
             {
               "id": "u5-reading-a5cf08e93647",
               "word": "fine dining",
               "meaning": "trải nghiệm ẩm thực cao cấp",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/faɪn ˈdaɪnɪŋ/",
+              "example": "Visitors can grab a burger, but malls may also offer fine dining in expensive restaurants.",
+              "exampleTranslation": "Khách có thể ăn vội một chiếc burger, nhưng trung tâm mua sắm cũng có thể cung cấp trải nghiệm ẩm thực cao cấp tại nhà hàng đắt tiền.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-009"
             },
             {
               "id": "u5-reading-e96f7b7bbc41",
               "word": "spas",
               "meaning": "các cơ sở chăm sóc sức khỏe và làm đẹp",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/spɑːz/",
+              "example": "Future malls may include spas, fitness centres and art galleries.",
+              "exampleTranslation": "Trung tâm mua sắm tương lai có thể có spa, trung tâm thể hình và phòng trưng bày nghệ thuật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-010"
             },
             {
               "id": "u5-reading-5ac26364f056",
               "word": "fitness centres",
               "meaning": "các trung tâm thể hình",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈfɪtnəs ˈsentərz/",
+              "example": "Future malls may include spas, fitness centres and art galleries.",
+              "exampleTranslation": "Trung tâm mua sắm tương lai có thể có spa, trung tâm thể hình và phòng trưng bày nghệ thuật.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-010"
             },
             {
               "id": "u5-reading-52b3d4501f25",
               "word": "office space",
               "meaning": "diện tích văn phòng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈɔːfɪs speɪs/",
+              "example": "More apartments and office space will allow people to live, work and shop in one location.",
+              "exampleTranslation": "Thêm căn hộ và diện tích văn phòng sẽ cho phép mọi người sống, làm việc và mua sắm tại cùng một địa điểm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-011"
             },
             {
               "id": "u5-reading-68b6d765b99e",
               "word": "in one location",
               "meaning": "tại cùng một địa điểm",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn wʌn loʊˈkeɪʃən/",
+              "example": "More apartments and office space will allow people to live, work and shop in one location.",
+              "exampleTranslation": "Thêm căn hộ và diện tích văn phòng sẽ cho phép mọi người sống, làm việc và mua sắm tại cùng một địa điểm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-011"
             },
             {
               "id": "u5-reading-df50f82a12c1",
               "word": "remain in business",
               "meaning": "tiếp tục kinh doanh",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/riːˈmeɪn ɪn ˈbɪznəs/",
+              "example": "Mall owners need new ideas to remain in business.",
+              "exampleTranslation": "Chủ trung tâm mua sắm cần ý tưởng mới để tiếp tục kinh doanh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-012"
             },
             {
               "id": "u5-reading-3f4b139003c0",
               "word": "a growing trend",
               "meaning": "một xu hướng đang phát triển",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈɡroʊɪŋ trend/",
+              "example": "One growing trend is the seasonal changes in the mall.",
+              "exampleTranslation": "Một xu hướng đang phát triển là sự thay đổi theo mùa trong trung tâm mua sắm.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-013"
             },
             {
               "id": "u5-reading-c0c9a39b107b",
               "word": "seasonal changes",
               "meaning": "những thay đổi theo mùa",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈsiːzənəl ˈtʃeɪndʒəz/",
+              "example": "One growing trend is the seasonal changes in the mall.",
+              "exampleTranslation": "Một xu hướng đang phát triển là sự thay đổi theo mùa trong trung tâm mua sắm.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-013"
             },
             {
               "id": "u5-reading-8f7ec88e8808",
               "word": "pop-ups",
               "meaning": "các cửa hàng hoặc điểm bán mở tạm thời",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/pɑːp ʌps/",
+              "example": "Pop-ups are temporary shops, stalls and kiosks set up for particular seasons and events.",
+              "exampleTranslation": "Pop-up là cửa hàng, quầy hàng và ki-ốt tạm thời được mở cho những mùa và sự kiện cụ thể.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-014"
             },
             {
               "id": "u5-reading-724610fbc43a",
               "word": "temporary shops",
               "meaning": "cửa hàng tạm thời",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈtempərˌeri ʃɑːps/",
+              "example": "Pop-ups are temporary shops, stalls and kiosks set up for particular seasons and events.",
+              "exampleTranslation": "Pop-up là cửa hàng, quầy hàng và ki-ốt tạm thời được mở cho những mùa và sự kiện cụ thể.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-014"
             },
             {
               "id": "u5-reading-d677ad73b6ec",
               "word": "stalls and kiosks",
               "meaning": "quầy hàng và ki-ốt",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/stɔːlz ənd ˈkiːˌɔːsks/",
+              "example": "Pop-ups are temporary shops, stalls and kiosks set up for particular seasons and events.",
+              "exampleTranslation": "Pop-up là cửa hàng, quầy hàng và ki-ốt tạm thời được mở cho những mùa và sự kiện cụ thể.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-014"
             },
             {
               "id": "u5-reading-8ac14c8648a3",
               "word": "urban beach",
               "meaning": "bãi biển nhân tạo trong đô thị",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈɜːrbən biːtʃ/",
+              "example": "Brent Cross has an urban beach in summer and promotions and events in its main lobby.",
+              "exampleTranslation": "Brent Cross có bãi biển nhân tạo vào mùa hè cùng các chương trình quảng bá và sự kiện tại sảnh chính.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-015"
             },
             {
               "id": "u5-reading-64ea4025d2f7",
               "word": "main lobby",
               "meaning": "sảnh chính",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/meɪn lɑːbi/",
+              "example": "Brent Cross has an urban beach in summer and promotions and events in its main lobby.",
+              "exampleTranslation": "Brent Cross có bãi biển nhân tạo vào mùa hè cùng các chương trình quảng bá và sự kiện tại sảnh chính.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-015"
             },
             {
               "id": "u5-reading-d5e2e72a1863",
               "word": "promotions and events",
               "meaning": "các chương trình quảng bá và sự kiện",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/pərˈmoʊʃənz ənd iːˈvents/",
+              "example": "Brent Cross has an urban beach in summer and promotions and events in its main lobby.",
+              "exampleTranslation": "Brent Cross có bãi biển nhân tạo vào mùa hè cùng các chương trình quảng bá và sự kiện tại sảnh chính.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-015"
             },
             {
               "id": "u5-reading-d5ffebae2350",
               "word": "bungee jumping",
               "meaning": "nhảy bungee",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/bʌndʒi ˈdʒʌmpɪŋ/",
+              "example": "Activities range from bungee jumping for children to free health checks.",
+              "exampleTranslation": "Các hoạt động trải rộng từ nhảy bungee cho trẻ em đến kiểm tra sức khỏe miễn phí.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-016"
             },
             {
               "id": "u5-reading-30ead44d059a",
               "word": "free health checks",
               "meaning": "kiểm tra sức khỏe miễn phí",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/fri helθ tʃeks/",
+              "example": "Activities range from bungee jumping for children to free health checks.",
+              "exampleTranslation": "Các hoạt động trải rộng từ nhảy bungee cho trẻ em đến kiểm tra sức khỏe miễn phí.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-016"
             },
             {
               "id": "u5-reading-aa24e12724cb",
               "word": "consider the environment",
               "meaning": "cân nhắc yếu tố môi trường",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kənˈsɪdər ðə ɪnˈvaɪrənmənt/",
+              "example": "Designers must consider the environment, with more open-air malls and natural features.",
+              "exampleTranslation": "Nhà thiết kế phải cân nhắc môi trường, với nhiều trung tâm mua sắm ngoài trời và yếu tố thiên nhiên hơn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-017"
             },
             {
               "id": "u5-reading-502c8cc5aea4",
               "word": "open-air malls",
               "meaning": "các trung tâm mua sắm ngoài trời",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈoʊpən er mɔːlz/",
+              "example": "Designers must consider the environment, with more open-air malls and natural features.",
+              "exampleTranslation": "Nhà thiết kế phải cân nhắc môi trường, với nhiều trung tâm mua sắm ngoài trời và yếu tố thiên nhiên hơn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-017"
             },
             {
               "id": "u5-reading-c41d6e4956b6",
               "word": "natural features",
               "meaning": "các yếu tố thiên nhiên",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈnætʃərəl ˈfiːtʃərz/",
+              "example": "Designers must consider the environment, with more open-air malls and natural features.",
+              "exampleTranslation": "Nhà thiết kế phải cân nhắc môi trường, với nhiều trung tâm mua sắm ngoài trời và yếu tố thiên nhiên hơn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-017"
             },
             {
               "id": "u5-reading-1415b3e0aa64",
@@ -315,51 +540,90 @@ export default {
               "meaning": "giao thông công cộng",
               "type": "phrase",
               "pos": "noun_phrase",
-              "ipa": "/ˌpʌblɪk ˈtrænspɔːrt/",
-              "example": "I usually take public transport to work.",
-              "exampleTranslation": "Tôi thường đi phương tiện giao thông công cộng đến nơi làm việc của mình."
+              "ipa": "/ˈpʌblɪk ˈtrænspɔːrt/",
+              "example": "Mall designers will have to make sure people can get there by public transport.",
+              "exampleTranslation": "Nhà thiết kế trung tâm mua sắm sẽ phải bảo đảm mọi người có thể đến đó bằng giao thông công cộng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-018"
             },
             {
               "id": "u5-reading-d845c318971a",
               "word": "natural sources of heat and light",
               "meaning": "nguồn nhiệt và ánh sáng tự nhiên",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈnætʃərəl ˈsɔːrsəz əv hiːt ənd laɪt/",
+              "example": "They will also need to use more natural sources of heat and light.",
+              "exampleTranslation": "Họ cũng sẽ cần sử dụng nhiều nguồn nhiệt và ánh sáng tự nhiên hơn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-019"
             },
             {
               "id": "u5-reading-d0c24cc7a9fa",
               "word": "waterfalls",
               "meaning": "thác nước",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈwɔːtərˌfɔːlz/",
+              "example": "Future malls may have plants, trees, grass and even waterfalls.",
+              "exampleTranslation": "Trung tâm mua sắm tương lai có thể có cây cối, cỏ và cả thác nước.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-020"
             },
             {
               "id": "u5-reading-8d2b6eda3829",
               "word": "virtual malls",
               "meaning": "các trung tâm mua sắm ảo",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈvɜːrtʃuːəl mɔːlz/",
+              "example": "Virtual malls and new technology could help shoppers find bargains.",
+              "exampleTranslation": "Trung tâm mua sắm ảo và công nghệ mới có thể giúp người mua tìm được món hàng giá hời.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-021"
             },
             {
               "id": "u5-reading-5aaa0023d11a",
               "word": "find bargains",
               "meaning": "tìm được món hàng giá hời",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/faɪnd ˈbɑːrɡənz/",
+              "example": "Virtual malls and new technology could help shoppers find bargains.",
+              "exampleTranslation": "Trung tâm mua sắm ảo và công nghệ mới có thể giúp người mua tìm được món hàng giá hời.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-021"
             },
             {
               "id": "u5-reading-dbc085afa0aa",
               "word": "creative innovations",
               "meaning": "những đổi mới sáng tạo",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/kriːˈeɪtɪv ˌɪnəˈveɪʃənz/",
+              "example": "With all these creative innovations, the mall will go from strength to strength.",
+              "exampleTranslation": "Với tất cả những đổi mới sáng tạo này, trung tâm mua sắm sẽ ngày càng phát triển vững mạnh.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-022"
             },
             {
               "id": "u5-reading-7b28840b7a2d",
               "word": "go from strength to strength",
               "meaning": "ngày càng phát triển vững mạnh",
               "type": "phrase",
-              "pos": "idiom"
+              "pos": "idiom",
+              "ipa": "/ɡoʊ frəm streŋkθ tə streŋkθ/",
+              "example": "With all these creative innovations, the mall will go from strength to strength.",
+              "exampleTranslation": "Với tất cả những đổi mới sáng tạo này, trung tâm mua sắm sẽ ngày càng phát triển vững mạnh.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 87",
+              "exampleId": "u5-ex-022"
             }
           ]
         },
@@ -374,7 +638,13 @@ export default {
               "word": "chain stores",
               "meaning": "các cửa hàng thuộc chuỗi",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/tʃeɪn stɔːrz/",
+              "example": "Chain stores often look identical in every town.",
+              "exampleTranslation": "Các cửa hàng thuộc chuỗi thường trông giống hệt nhau ở mọi thị trấn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-023"
             },
             {
               "id": "u5-reading-319e2ba078f5",
@@ -382,44 +652,77 @@ export default {
               "meaning": "giống hệt nhau",
               "type": "word",
               "pos": "adjective",
-              "ipa": "/aɪˈdɛntɪkəl/",
-              "example": "The twins have identical faces but different personalities.",
-              "exampleTranslation": "Cặp song sinh có khuôn mặt giống hệt nhau nhưng tính cách khác nhau."
+              "ipa": "/aɪˈdentɪkəl/",
+              "example": "Chain stores often look identical in every town.",
+              "exampleTranslation": "Các cửa hàng thuộc chuỗi thường trông giống hệt nhau ở mọi thị trấn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-023"
             },
             {
               "id": "u5-reading-aace20dfd75f",
               "word": "reveal the local culture",
               "meaning": "thể hiện văn hóa địa phương",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/riːˈviːl ðə ˈloʊkəl ˈkʌltʃər/",
+              "example": "Markets reveal the local culture and agriculture of a place.",
+              "exampleTranslation": "Chợ thể hiện văn hóa và nền nông nghiệp địa phương.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-024"
             },
             {
               "id": "u5-reading-3f52a423f8eb",
               "word": "agriculture",
               "meaning": "nông nghiệp",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈæɡrɪˌkʌltʃər/",
+              "example": "Markets reveal the local culture and agriculture of a place.",
+              "exampleTranslation": "Chợ thể hiện văn hóa và nền nông nghiệp địa phương.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-024"
             },
             {
               "id": "u5-reading-982882e70a56",
               "word": "farmers' markets",
               "meaning": "chợ nông sản do nông dân bán trực tiếp",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈfɑːrmərz ˈmɑːrkəts/",
+              "example": "Farmers' markets sell fresh produce directly to customers.",
+              "exampleTranslation": "Chợ nông sản bán nông sản tươi trực tiếp cho khách hàng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-025"
             },
             {
               "id": "u5-reading-575074cd0080",
               "word": "fresh produce",
               "meaning": "nông sản tươi",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/freʃ ˈproʊduːs/",
+              "example": "Farmers' markets sell fresh produce directly to customers.",
+              "exampleTranslation": "Chợ nông sản bán nông sản tươi trực tiếp cho khách hàng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-025"
             },
             {
               "id": "u5-reading-8c9cdebad78d",
               "word": "craft and antique markets",
               "meaning": "chợ đồ thủ công và đồ cổ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/kræft ənd ænˈtiːk ˈmɑːrkəts/",
+              "example": "Craft and antique markets are good places to find something unique.",
+              "exampleTranslation": "Chợ đồ thủ công và đồ cổ là nơi thích hợp để tìm món đồ độc đáo.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-026"
             },
             {
               "id": "u5-reading-c2720445a452",
@@ -428,43 +731,76 @@ export default {
               "type": "word",
               "pos": "adjective",
               "ipa": "/juːˈniːk/",
-              "example": "She has a unique style of singing that no one can imitate.",
-              "exampleTranslation": "Cô ấy có phong cách hát độc đáo mà không ai có thể bắt chước."
+              "example": "Craft and antique markets are good places to find something unique.",
+              "exampleTranslation": "Chợ đồ thủ công và đồ cổ là nơi thích hợp để tìm món đồ độc đáo.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-026"
             },
             {
               "id": "u5-reading-6bfbd709d5fd",
               "word": "consumer",
               "meaning": "người tiêu dùng",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/kənˈsuːmər/",
+              "example": "Farmers sell directly to the consumer, avoiding packaging, shipping and advertising that increase costs.",
+              "exampleTranslation": "Nông dân bán trực tiếp cho người tiêu dùng, tránh việc đóng gói, vận chuyển và quảng cáo làm tăng chi phí.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-027"
             },
             {
               "id": "u5-reading-71669691cb0b",
               "word": "packaging",
               "meaning": "bao bì; việc đóng gói",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈpækɪdʒɪŋ/",
+              "example": "Farmers sell directly to the consumer, avoiding packaging, shipping and advertising that increase costs.",
+              "exampleTranslation": "Nông dân bán trực tiếp cho người tiêu dùng, tránh việc đóng gói, vận chuyển và quảng cáo làm tăng chi phí.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-027"
             },
             {
               "id": "u5-reading-740062676a31",
               "word": "shipping",
               "meaning": "vận chuyển hàng",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈʃɪpɪŋ/",
+              "example": "Farmers sell directly to the consumer, avoiding packaging, shipping and advertising that increase costs.",
+              "exampleTranslation": "Nông dân bán trực tiếp cho người tiêu dùng, tránh việc đóng gói, vận chuyển và quảng cáo làm tăng chi phí.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-027"
             },
             {
               "id": "u5-reading-d27a4a108065",
               "word": "advertising",
               "meaning": "quảng cáo",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈædvərˌtaɪzɪŋ/",
+              "example": "Farmers sell directly to the consumer, avoiding packaging, shipping and advertising that increase costs.",
+              "exampleTranslation": "Nông dân bán trực tiếp cho người tiêu dùng, tránh việc đóng gói, vận chuyển và quảng cáo làm tăng chi phí.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-027"
             },
             {
               "id": "u5-reading-07633449a0e2",
               "word": "increase costs",
               "meaning": "làm tăng chi phí",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɪnˈkriːs kɑːsts/",
+              "example": "Farmers sell directly to the consumer, avoiding packaging, shipping and advertising that increase costs.",
+              "exampleTranslation": "Nông dân bán trực tiếp cho người tiêu dùng, tránh việc đóng gói, vận chuyển và quảng cáo làm tăng chi phí.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-027"
             },
             {
               "id": "u5-reading-344ea21b816d",
@@ -472,93 +808,168 @@ export default {
               "meaning": "được sản xuất hàng loạt",
               "type": "word",
               "pos": "adjective",
-              "ipa": "/ˌmæs prəˈdjuːst/",
-              "example": "These cups are mass-produced in a factory.",
-              "exampleTranslation": "Những chiếc cốc này được sản xuất hàng loạt trong nhà máy."
+              "ipa": "/mæs prəˈduːst/",
+              "example": "You can often find unusual products and those that are not mass-produced.",
+              "exampleTranslation": "Bạn thường có thể tìm thấy sản phẩm khác lạ và những món không được sản xuất hàng loạt.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-028"
             },
             {
               "id": "u5-reading-8de42f1a9978",
               "word": "vary hugely",
               "meaning": "khác nhau rất nhiều",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/veri hjuːdʒli/",
+              "example": "Food markets vary hugely according to where they are in the world.",
+              "exampleTranslation": "Chợ thực phẩm khác nhau rất nhiều tùy theo vị trí trên thế giới.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-029"
             },
             {
               "id": "u5-reading-182072537ada",
               "word": "moose",
               "meaning": "nai sừng tấm",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/muːs/",
+              "example": "The Helsinki market mentioned in the text sells moose, reindeer and bear salami.",
+              "exampleTranslation": "Khu chợ Helsinki được nhắc trong bài bán thịt nai sừng tấm, tuần lộc và xúc xích khô làm từ thịt gấu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-030"
             },
             {
               "id": "u5-reading-6e84cef3835a",
               "word": "reindeer",
               "meaning": "tuần lộc",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈreɪnˌdɪr/",
+              "example": "The Helsinki market mentioned in the text sells moose, reindeer and bear salami.",
+              "exampleTranslation": "Khu chợ Helsinki được nhắc trong bài bán thịt nai sừng tấm, tuần lộc và xúc xích khô làm từ thịt gấu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-030"
             },
             {
               "id": "u5-reading-c7647006fa89",
               "word": "salami",
               "meaning": "xúc xích khô",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/səˈlɑːmi/",
+              "example": "The Helsinki market mentioned in the text sells moose, reindeer and bear salami.",
+              "exampleTranslation": "Khu chợ Helsinki được nhắc trong bài bán thịt nai sừng tấm, tuần lộc và xúc xích khô làm từ thịt gấu.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-030"
             },
             {
               "id": "u5-reading-944624f1c8b3",
               "word": "locally produced",
               "meaning": "được sản xuất tại địa phương",
               "type": "phrase",
-              "pos": "participle_phrase"
+              "pos": "participle_phrase",
+              "ipa": "/ˈloʊkəli prəˈduːst/",
+              "example": "Wherever you are, food will be locally produced and reasonably priced.",
+              "exampleTranslation": "Dù bạn ở đâu, thực phẩm cũng được sản xuất tại địa phương và có giá hợp lý.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-031"
             },
             {
               "id": "u5-reading-9e7dbefd1fbb",
               "word": "reasonably priced",
               "meaning": "có giá hợp lý",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/ˈriːzənəbli praɪst/",
+              "example": "Wherever you are, food will be locally produced and reasonably priced.",
+              "exampleTranslation": "Dù bạn ở đâu, thực phẩm cũng được sản xuất tại địa phương và có giá hợp lý.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-031"
             },
             {
               "id": "u5-reading-186bf3a25d7f",
               "word": "second-hand clothes",
               "meaning": "quần áo đã qua sử dụng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈsekənd hænd kloʊðz/",
+              "example": "Some markets sell second-hand clothes, while others specialise in vintage or ethically made clothes.",
+              "exampleTranslation": "Một số chợ bán quần áo đã qua sử dụng, còn những chợ khác chuyên đồ phong cách thời trước hoặc quần áo được sản xuất theo chuẩn mực đạo đức.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-032"
             },
             {
               "id": "u5-reading-887d814b0666",
               "word": "vintage",
               "meaning": "thuộc phong cách thời trước",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˈvɪntɪdʒ/",
+              "example": "Some markets sell second-hand clothes, while others specialise in vintage or ethically made clothes.",
+              "exampleTranslation": "Một số chợ bán quần áo đã qua sử dụng, còn những chợ khác chuyên đồ phong cách thời trước hoặc quần áo được sản xuất theo chuẩn mực đạo đức.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-032"
             },
             {
               "id": "u5-reading-889538faf7fe",
               "word": "ethically made clothes",
               "meaning": "quần áo được sản xuất theo chuẩn mực đạo đức",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈeθɪkəli meɪd kloʊðz/",
+              "example": "Some markets sell second-hand clothes, while others specialise in vintage or ethically made clothes.",
+              "exampleTranslation": "Một số chợ bán quần áo đã qua sử dụng, còn những chợ khác chuyên đồ phong cách thời trước hoặc quần áo được sản xuất theo chuẩn mực đạo đức.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-032"
             },
             {
               "id": "u5-reading-76302b65785e",
               "word": "create a unique look",
               "meaning": "tạo diện mạo riêng biệt",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kriːˈeɪt ə juːˈniːk lʊk/",
+              "example": "London's markets attract shoppers who want to create a unique look.",
+              "exampleTranslation": "Các khu chợ London thu hút người mua muốn tạo diện mạo riêng biệt.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-033"
             },
             {
               "id": "u5-reading-7759708a6d54",
               "word": "a market stall",
               "meaning": "một quầy hàng ở chợ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈmɑːrkət stɔːl/",
+              "example": "New designers may sell original clothes at a market stall, where shoppers can buy them at a bargain price.",
+              "exampleTranslation": "Nhà thiết kế mới có thể bán quần áo độc đáo tại quầy chợ, nơi người mua có thể mua với giá hời.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-034"
             },
             {
               "id": "u5-reading-1c7a346862a7",
               "word": "at a bargain price",
               "meaning": "với giá hời",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ət ə ˈbɑːrɡən praɪs/",
+              "example": "New designers may sell original clothes at a market stall, where shoppers can buy them at a bargain price.",
+              "exampleTranslation": "Nhà thiết kế mới có thể bán quần áo độc đáo tại quầy chợ, nơi người mua có thể mua với giá hời.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-034"
             },
             {
               "id": "u5-reading-72740711ad0f",
@@ -566,51 +977,90 @@ export default {
               "meaning": "chợ đồ cũ",
               "type": "phrase",
               "pos": "noun_phrase",
-              "ipa": "/fliː ˈmɑːkɪt/",
-              "example": "I like to go to the flea market and look for bargains.",
-              "exampleTranslation": "Tôi thích đi chợ trời và tìm kiếm những món hời"
+              "ipa": "/fli ˈmɑːrkət/",
+              "example": "At a flea market, people can sell unwanted items, antiques and local crafts.",
+              "exampleTranslation": "Tại chợ đồ cũ, mọi người có thể bán các món không còn cần, đồ cổ và đồ thủ công địa phương.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-035"
             },
             {
               "id": "u5-reading-238d53b07f36",
               "word": "unwanted items",
               "meaning": "các món đồ không còn cần đến",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ənˈwɔːntɪd ˈaɪtəmz/",
+              "example": "At a flea market, people can sell unwanted items, antiques and local crafts.",
+              "exampleTranslation": "Tại chợ đồ cũ, mọi người có thể bán các món không còn cần, đồ cổ và đồ thủ công địa phương.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-035"
             },
             {
               "id": "u5-reading-72d04990d33a",
               "word": "local crafts",
               "meaning": "đồ thủ công địa phương",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈloʊkəl kræfs/",
+              "example": "At a flea market, people can sell unwanted items, antiques and local crafts.",
+              "exampleTranslation": "Tại chợ đồ cũ, mọi người có thể bán các món không còn cần, đồ cổ và đồ thủ công địa phương.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-035"
             },
             {
               "id": "u5-reading-e5812a10ae5b",
               "word": "vendors",
               "meaning": "những người bán hàng",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈvendərz/",
+              "example": "In some parts of the world there may not even be stalls; rather, vendors lay out their goods on a sheet on the ground.",
+              "exampleTranslation": "Ở một số nơi trên thế giới thậm chí không có quầy; thay vào đó, người bán bày hàng trên tấm vải trải dưới đất.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-036"
             },
             {
               "id": "u5-reading-8764fbed373e",
               "word": "lay out their goods",
               "meaning": "bày hàng hóa ra",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/leɪ aʊt ðer ɡʊdz/",
+              "example": "In some parts of the world there may not even be stalls; rather, vendors lay out their goods on a sheet on the ground.",
+              "exampleTranslation": "Ở một số nơi trên thế giới thậm chí không có quầy; thay vào đó, người bán bày hàng trên tấm vải trải dưới đất.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-036"
             },
             {
               "id": "u5-reading-6bca37a7d276",
               "word": "a sheet on the ground",
               "meaning": "tấm vải trải trên mặt đất",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ʃiːt ɑːn ðə ɡraʊnd/",
+              "example": "In some parts of the world there may not even be stalls; rather, vendors lay out their goods on a sheet on the ground.",
+              "exampleTranslation": "Ở một số nơi trên thế giới thậm chí không có quầy; thay vào đó, người bán bày hàng trên tấm vải trải dưới đất.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-036"
             },
             {
               "id": "u5-reading-3eba39898e23",
               "word": "car boot sales",
               "meaning": "chợ bán đồ cũ từ cốp xe",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/kɑːr buːt seɪlz/",
+              "example": "At car boot sales, people sell unwanted items from their cars.",
+              "exampleTranslation": "Tại chợ đồ cũ từ cốp xe, mọi người bán các món không còn cần từ ô tô của mình.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-037"
             },
             {
               "id": "u5-reading-d64a5d7120fa",
@@ -618,135 +1068,246 @@ export default {
               "meaning": "hàng thủ công mỹ nghệ",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ˈhændikræfts/",
-              "example": "She sells her handicrafts at the local market every weekend",
-              "exampleTranslation": "Cô ấy bán đồ thủ công của mình ở chợ địa phương vào mỗi cuối tuần"
+              "ipa": "/ˈhændiːˌkræfts/",
+              "example": "Tourists buy souvenirs such as handicrafts typical of the region.",
+              "exampleTranslation": "Du khách mua quà lưu niệm như hàng thủ công đặc trưng của vùng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-038"
             },
             {
               "id": "u5-reading-0eaaf3559ae0",
               "word": "typical of the region",
               "meaning": "đặc trưng của vùng",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/ˈtɪpəkəl əv ðə ˈriːdʒən/",
+              "example": "Tourists buy souvenirs such as handicrafts typical of the region.",
+              "exampleTranslation": "Du khách mua quà lưu niệm như hàng thủ công đặc trưng của vùng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-038"
             },
             {
               "id": "u5-reading-756e39972de5",
               "word": "souvenirs",
               "meaning": "quà lưu niệm",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˌsuːvəˈnɪrz/",
+              "example": "Tourists buy souvenirs such as handicrafts typical of the region.",
+              "exampleTranslation": "Du khách mua quà lưu niệm như hàng thủ công đặc trưng của vùng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-038"
             },
             {
               "id": "u5-reading-8d500dbc6177",
               "word": "traditional textiles",
               "meaning": "vải dệt truyền thống",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/trəˈdɪʃənəl ˈtekˌstaɪlz/",
+              "example": "Guadalajara offers traditional textiles, glassware and ceramics.",
+              "exampleTranslation": "Guadalajara có vải dệt truyền thống, đồ thủy tinh và đồ gốm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-039"
             },
             {
               "id": "u5-reading-f72660d8110b",
               "word": "glassware",
               "meaning": "đồ thủy tinh",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈɡlæsˌwer/",
+              "example": "Guadalajara offers traditional textiles, glassware and ceramics.",
+              "exampleTranslation": "Guadalajara có vải dệt truyền thống, đồ thủy tinh và đồ gốm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-039"
             },
             {
               "id": "u5-reading-a5d08be1703d",
               "word": "ceramics",
               "meaning": "đồ gốm",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/sərˈæmɪks/",
+              "example": "Guadalajara offers traditional textiles, glassware and ceramics.",
+              "exampleTranslation": "Guadalajara có vải dệt truyền thống, đồ thủy tinh và đồ gốm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-039"
             },
             {
               "id": "u5-reading-74d417329c3f",
               "word": "original designs",
               "meaning": "các thiết kế độc đáo",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ərˈɪdʒənəl dɪˈzaɪnz/",
+              "example": "Markets in Seoul offer original designs at affordable prices.",
+              "exampleTranslation": "Các khu chợ ở Seoul cung cấp thiết kế độc đáo với giá phải chăng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-040"
             },
             {
               "id": "u5-reading-18fde2e30346",
               "word": "affordable prices",
               "meaning": "giá phải chăng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/əˈfɔːrdəbəl ˈpraɪsəz/",
+              "example": "Markets in Seoul offer original designs at affordable prices.",
+              "exampleTranslation": "Các khu chợ ở Seoul cung cấp thiết kế độc đáo với giá phải chăng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-040"
             },
             {
               "id": "u5-reading-d3a696656b20",
               "word": "hand-made rugs and carpets",
               "meaning": "thảm nhỏ và thảm lớn làm thủ công",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/hænd meɪd rʌɡz ənd ˈkɑːrpəts/",
+              "example": "The passage mentions hand-made rugs and carpets in the Middle East, and handloom fabrics and silk scarves in India.",
+              "exampleTranslation": "Bài đọc đề cập đến thảm nhỏ và lớn làm thủ công ở Trung Đông, cùng vải dệt khung cửi và khăn lụa ở Ấn Độ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-041"
             },
             {
               "id": "u5-reading-f9a56ef4e351",
               "word": "handloom fabrics",
               "meaning": "vải dệt bằng khung cửi thủ công",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈhændˌluːm ˈfæbrɪks/",
+              "example": "The passage mentions hand-made rugs and carpets in the Middle East, and handloom fabrics and silk scarves in India.",
+              "exampleTranslation": "Bài đọc đề cập đến thảm nhỏ và lớn làm thủ công ở Trung Đông, cùng vải dệt khung cửi và khăn lụa ở Ấn Độ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-041"
             },
             {
               "id": "u5-reading-141191706ecb",
               "word": "silk scarves",
               "meaning": "khăn lụa",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/sɪlk skɑːrvz/",
+              "example": "The passage mentions hand-made rugs and carpets in the Middle East, and handloom fabrics and silk scarves in India.",
+              "exampleTranslation": "Bài đọc đề cập đến thảm nhỏ và lớn làm thủ công ở Trung Đông, cùng vải dệt khung cửi và khăn lụa ở Ấn Độ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-041"
             },
             {
               "id": "u5-reading-3d79358809bc",
               "word": "seasonal markets",
               "meaning": "chợ họp theo mùa",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈsiːzənəl ˈmɑːrkəts/",
+              "example": "Seasonal markets sell decorations and gifts for the festive season.",
+              "exampleTranslation": "Chợ theo mùa bán đồ trang trí và quà tặng cho mùa lễ hội.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-042"
             },
             {
               "id": "u5-reading-c63b92ef0b30",
               "word": "the festive season",
               "meaning": "mùa lễ hội",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðə ˈfestɪv ˈsiːzən/",
+              "example": "Seasonal markets sell decorations and gifts for the festive season.",
+              "exampleTranslation": "Chợ theo mùa bán đồ trang trí và quà tặng cho mùa lễ hội.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-042"
             },
             {
               "id": "u5-reading-ef4a7878907e",
               "word": "wooden huts",
               "meaning": "những gian nhà nhỏ bằng gỗ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈwʊdən hʌts/",
+              "example": "Prague's wooden huts sell embroidered lace, scented candles and Christmas tree ornaments.",
+              "exampleTranslation": "Những gian nhà gỗ ở Praha bán ren thêu, nến thơm và đồ trang trí cây thông Giáng sinh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-043"
             },
             {
               "id": "u5-reading-2a33105a7fef",
               "word": "embroidered lace",
               "meaning": "ren thêu",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/emˈbrɔɪdərd leɪs/",
+              "example": "Prague's wooden huts sell embroidered lace, scented candles and Christmas tree ornaments.",
+              "exampleTranslation": "Những gian nhà gỗ ở Praha bán ren thêu, nến thơm và đồ trang trí cây thông Giáng sinh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-043"
             },
             {
               "id": "u5-reading-cbf3c29df7a6",
               "word": "scented candles",
               "meaning": "nến thơm",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈsentɪd ˈkændəlz/",
+              "example": "Prague's wooden huts sell embroidered lace, scented candles and Christmas tree ornaments.",
+              "exampleTranslation": "Những gian nhà gỗ ở Praha bán ren thêu, nến thơm và đồ trang trí cây thông Giáng sinh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-043"
             },
             {
               "id": "u5-reading-358e55b543ad",
               "word": "Christmas tree ornaments",
               "meaning": "đồ trang trí cây thông Giáng sinh",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈkrɪsməs tri ˈɔːrnəmənts/",
+              "example": "Prague's wooden huts sell embroidered lace, scented candles and Christmas tree ornaments.",
+              "exampleTranslation": "Những gian nhà gỗ ở Praha bán ren thêu, nến thơm và đồ trang trí cây thông Giáng sinh.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-043"
             },
             {
               "id": "u5-reading-7f3b407ebad0",
               "word": "puppets and dolls",
               "meaning": "con rối và búp bê",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈpʌpəts ənd dɑːlz/",
+              "example": "The puppets and dolls are dressed in traditional costumes.",
+              "exampleTranslation": "Những con rối và búp bê được mặc trang phục truyền thống.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-044"
             },
             {
               "id": "u5-reading-50cb43d02ff9",
               "word": "traditional costumes",
               "meaning": "trang phục truyền thống",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/trəˈdɪʃənəl ˈkɑːstuːmz/",
+              "example": "The puppets and dolls are dressed in traditional costumes.",
+              "exampleTranslation": "Những con rối và búp bê được mặc trang phục truyền thống.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 91",
+              "exampleId": "u5-ex-044"
             }
           ]
         }
@@ -768,217 +1329,403 @@ export default {
               "word": "summer sale",
               "meaning": "đợt giảm giá mùa hè",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈsʌmər seɪl/",
+              "example": "The store is reducing prices for its summer sale.",
+              "exampleTranslation": "Cửa hàng đang giảm giá trong đợt khuyến mãi mùa hè.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 40",
+              "exampleId": "u5-ex-045"
             },
             {
               "id": "u5-listening-fa1b69d8a6f2",
               "word": "reduce prices",
               "meaning": "giảm giá",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/rəˈduːs ˈpraɪsəz/",
+              "example": "The store is reducing prices for its summer sale.",
+              "exampleTranslation": "Cửa hàng đang giảm giá trong đợt khuyến mãi mùa hè.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 40",
+              "exampleId": "u5-ex-045"
             },
             {
               "id": "u5-listening-ab43a7f44e71",
               "word": "holiday season",
               "meaning": "mùa nghỉ lễ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈhɑːləˌdeɪ ˈsiːzən/",
+              "example": "And, just in time for the holiday season, our T-shirts and swimwear are on special offer too.",
+              "exampleTranslation": "Và đúng dịp mùa nghỉ lễ, áo phông và đồ bơi của chúng tôi cũng đang có giá ưu đãi.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 183, track 40",
+              "exampleId": "u5-ex-046"
             },
             {
               "id": "u5-listening-2d42c7701081",
               "word": "swimwear",
               "meaning": "đồ bơi",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈswɪmˌwer/",
+              "example": "And, just in time for the holiday season, our T-shirts and swimwear are on special offer too.",
+              "exampleTranslation": "Và đúng dịp mùa nghỉ lễ, áo phông và đồ bơi của chúng tôi cũng đang có giá ưu đãi.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 183, track 40",
+              "exampleId": "u5-ex-046"
             },
             {
               "id": "u5-listening-ceb12ffa1385",
               "word": "on special offer",
               "meaning": "đang được bán với giá ưu đãi",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn ˈspeʃəl ˈɔːfər/",
+              "example": "And, just in time for the holiday season, our T-shirts and swimwear are on special offer too.",
+              "exampleTranslation": "Và đúng dịp mùa nghỉ lễ, áo phông và đồ bơi của chúng tôi cũng đang có giá ưu đãi.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 183, track 40",
+              "exampleId": "u5-ex-046"
             },
             {
               "id": "u5-listening-d8fc049957a9",
               "word": "a good selection",
               "meaning": "nhiều lựa chọn phong phú",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ɡʊd səˈlekʃən/",
+              "example": "You'll find a good selection of styles and colours in our footwear department situated right next to the coffee shop.",
+              "exampleTranslation": "Bạn sẽ thấy nhiều lựa chọn kiểu dáng và màu sắc ở khu giày dép ngay cạnh quán cà phê.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 183, track 40",
+              "exampleId": "u5-ex-047"
             },
             {
               "id": "u5-listening-1e635f4100a6",
               "word": "footwear department",
               "meaning": "khu bán giày dép",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈfʊtˌwer dɪˈpɑːrtmənt/",
+              "example": "You'll find a good selection of styles and colours in our footwear department situated right next to the coffee shop.",
+              "exampleTranslation": "Bạn sẽ thấy nhiều lựa chọn kiểu dáng và màu sắc ở khu giày dép ngay cạnh quán cà phê.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 183, track 40",
+              "exampleId": "u5-ex-047"
             },
             {
               "id": "u5-listening-6bd43a6c84b3",
               "word": "half price",
               "meaning": "bằng một nửa giá thông thường",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/hæf praɪs/",
+              "example": "There is a wide choice of sports shoes at half price.",
+              "exampleTranslation": "Có nhiều lựa chọn giày thể thao với giá chỉ bằng một nửa thông thường.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 40",
+              "exampleId": "u5-ex-048"
             },
             {
               "id": "u5-listening-f306524cd0f6",
               "word": "a wide choice",
               "meaning": "nhiều lựa chọn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə waɪd tʃɔɪs/",
+              "example": "There is a wide choice of sports shoes at half price.",
+              "exampleTranslation": "Có nhiều lựa chọn giày thể thao với giá chỉ bằng một nửa thông thường.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 40",
+              "exampleId": "u5-ex-048"
             },
             {
               "id": "u5-listening-9b97cd1c8385",
               "word": "miss out",
               "meaning": "bỏ lỡ cơ hội",
               "type": "phrase",
-              "pos": "phrasal_verb"
+              "pos": "phrasal_verb",
+              "ipa": "/mɪs aʊt/",
+              "example": "Hurry before the sale ends, or you will miss out.",
+              "exampleTranslation": "Hãy nhanh lên trước khi đợt giảm giá kết thúc, nếu không bạn sẽ bỏ lỡ cơ hội.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 40",
+              "exampleId": "u5-ex-049"
             },
             {
               "id": "u5-listening-230b8ff32314",
               "word": "keep the sun off your face",
               "meaning": "che nắng cho mặt",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kiːp ðə sʌn ɔːf jər feɪs/",
+              "example": "It's very nice - I like the colour, and it'll definitely keep the sun off your face.",
+              "exampleTranslation": "Nó đẹp đấy, tôi thích màu này, và chắc chắn nó sẽ che nắng cho mặt bạn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 183, track 40",
+              "exampleId": "u5-ex-050"
             },
             {
               "id": "u5-listening-cd60b53c73b7",
               "word": "clothing stalls",
               "meaning": "các quầy quần áo",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈkloʊðɪŋ stɔːlz/",
+              "example": "Jess missed the clothing stalls because she was looking at jewellery and found a cheap necklace.",
+              "exampleTranslation": "Jess bỏ qua các quầy quần áo vì đang xem trang sức và tìm được một chiếc dây chuyền rẻ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 40",
+              "exampleId": "u5-ex-051"
             },
             {
               "id": "u5-listening-c3ac08675e7d",
               "word": "jewellery",
               "meaning": "đồ trang sức",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈdʒuːəlri/",
+              "example": "Jess missed the clothing stalls because she was looking at jewellery and found a cheap necklace.",
+              "exampleTranslation": "Jess bỏ qua các quầy quần áo vì đang xem trang sức và tìm được một chiếc dây chuyền rẻ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 40",
+              "exampleId": "u5-ex-051"
             },
             {
               "id": "u5-listening-731f46507cc5",
               "word": "necklace",
               "meaning": "dây chuyền",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈnekləs/",
+              "example": "Jess missed the clothing stalls because she was looking at jewellery and found a cheap necklace.",
+              "exampleTranslation": "Jess bỏ qua các quầy quần áo vì đang xem trang sức và tìm được một chiếc dây chuyền rẻ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 40",
+              "exampleId": "u5-ex-051"
             },
             {
               "id": "u5-listening-f9c16caf69b9",
               "word": "under one roof",
               "meaning": "trong cùng một tòa nhà",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ˈʌndər wʌn ruːf/",
+              "example": "There are at least fifty shops under one roof.",
+              "exampleTranslation": "Có ít nhất năm mươi cửa hàng trong cùng một tòa nhà.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 40",
+              "exampleId": "u5-ex-052"
             },
             {
               "id": "u5-listening-efefc1222ff5",
               "word": "a new branch",
               "meaning": "một chi nhánh mới",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə njuː bræntʃ/",
+              "example": "The sporting goods company is opening a new branch after enjoying a lot of success.",
+              "exampleTranslation": "Công ty đồ thể thao đang mở chi nhánh mới sau khi đạt nhiều thành công.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 41",
+              "exampleId": "u5-ex-053"
             },
             {
               "id": "u5-listening-35accea02564",
               "word": "sporting goods company",
               "meaning": "công ty kinh doanh đồ thể thao",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈspɔːrtɪŋ ɡʊdz ˈkʌmpəˌni/",
+              "example": "The sporting goods company is opening a new branch after enjoying a lot of success.",
+              "exampleTranslation": "Công ty đồ thể thao đang mở chi nhánh mới sau khi đạt nhiều thành công.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 41",
+              "exampleId": "u5-ex-053"
             },
             {
               "id": "u5-listening-ee9ecf368faf",
               "word": "enjoy a lot of success",
               "meaning": "đạt nhiều thành công",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˌenˈdʒɔɪ ə lɑːt əv səkˈses/",
+              "example": "The sporting goods company is opening a new branch after enjoying a lot of success.",
+              "exampleTranslation": "Công ty đồ thể thao đang mở chi nhánh mới sau khi đạt nhiều thành công.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 41",
+              "exampleId": "u5-ex-053"
             },
             {
               "id": "u5-listening-5a0ce224a457",
               "word": "striker",
               "meaning": "tiền đạo",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈstraɪkər/",
+              "example": "The Danish striker will open the store before the team's home match.",
+              "exampleTranslation": "Tiền đạo người Đan Mạch sẽ khai trương cửa hàng trước trận đấu sân nhà của đội.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 41",
+              "exampleId": "u5-ex-054"
             },
             {
               "id": "u5-listening-6ad9344f276c",
               "word": "home match",
               "meaning": "trận đấu trên sân nhà",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/hoʊm mætʃ/",
+              "example": "The Danish striker will open the store before the team's home match.",
+              "exampleTranslation": "Tiền đạo người Đan Mạch sẽ khai trương cửa hàng trước trận đấu sân nhà của đội.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 41",
+              "exampleId": "u5-ex-054"
             },
             {
               "id": "u5-listening-6dbef52ba941",
               "word": "explore the city centre",
               "meaning": "khám phá trung tâm thành phố",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɪksˈplɔːr ðə sɪti ˈsentər/",
+              "example": "While exploring the city centre, tourists can buy boxes of tea that make good presents.",
+              "exampleTranslation": "Trong khi khám phá trung tâm thành phố, du khách có thể mua những hộp trà thích hợp làm quà.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 41",
+              "exampleId": "u5-ex-055"
             },
             {
               "id": "u5-listening-5893637c771c",
               "word": "make good presents",
               "meaning": "thích hợp làm quà",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/meɪk ɡʊd ˈprezənts/",
+              "example": "While exploring the city centre, tourists can buy boxes of tea that make good presents.",
+              "exampleTranslation": "Trong khi khám phá trung tâm thành phố, du khách có thể mua những hộp trà thích hợp làm quà.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 41",
+              "exampleId": "u5-ex-055"
             },
             {
               "id": "u5-listening-0b19f4e02ef8",
               "word": "electronic stores",
               "meaning": "các cửa hàng điện tử",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌɪˌlekˈtrɑːnɪk stɔːrz/",
+              "example": "Cheap cameras in electronic stores seem good quality, but tourists have made complaints about them breaking.",
+              "exampleTranslation": "Máy ảnh rẻ ở cửa hàng điện tử có vẻ chất lượng tốt, nhưng du khách đã phàn nàn vì chúng bị hỏng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 41",
+              "exampleId": "u5-ex-056"
             },
             {
               "id": "u5-listening-48532080bc66",
               "word": "good quality",
               "meaning": "chất lượng tốt",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ɡʊd ˈkwɑːləti/",
+              "example": "Cheap cameras in electronic stores seem good quality, but tourists have made complaints about them breaking.",
+              "exampleTranslation": "Máy ảnh rẻ ở cửa hàng điện tử có vẻ chất lượng tốt, nhưng du khách đã phàn nàn vì chúng bị hỏng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 41",
+              "exampleId": "u5-ex-056"
             },
             {
               "id": "u5-listening-87dcf0c7e423",
               "word": "complaints",
               "meaning": "các lời phàn nàn",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/kəmˈpleɪnts/",
+              "example": "Cheap cameras in electronic stores seem good quality, but tourists have made complaints about them breaking.",
+              "exampleTranslation": "Máy ảnh rẻ ở cửa hàng điện tử có vẻ chất lượng tốt, nhưng du khách đã phàn nàn vì chúng bị hỏng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 41",
+              "exampleId": "u5-ex-056"
             },
             {
               "id": "u5-listening-0877f27d0332",
               "word": "opening days and times",
               "meaning": "ngày và giờ mở cửa",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈoʊpənɪŋ deɪz ənd taɪmz/",
+              "example": "Our opening days and times are as follows.",
+              "exampleTranslation": "Ngày và giờ mở cửa của chúng tôi như sau.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 183, track 41",
+              "exampleId": "u5-ex-057"
             },
             {
               "id": "u5-listening-5e23a49167d1",
               "word": "as follows",
               "meaning": "như sau",
               "type": "phrase",
-              "pos": "expression"
+              "pos": "expression",
+              "ipa": "/əz ˈfɑːloʊz/",
+              "example": "Our opening days and times are as follows.",
+              "exampleTranslation": "Ngày và giờ mở cửa của chúng tôi như sau.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 183, track 41",
+              "exampleId": "u5-ex-057"
             },
             {
               "id": "u5-listening-aa36d44e87d2",
               "word": "shirts and jackets",
               "meaning": "áo sơ mi và áo khoác",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ʃɜːrts ənd ˈdʒækɪts/",
+              "example": "Shirts and jackets are popular online, but the shop sells more trousers than any other item.",
+              "exampleTranslation": "Áo sơ mi và áo khoác bán chạy trên mạng, nhưng tại cửa hàng quần dài bán chạy hơn mọi mặt hàng khác.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 41",
+              "exampleId": "u5-ex-058"
             },
             {
               "id": "u5-listening-1b5f82125c8e",
               "word": "trousers",
               "meaning": "quần dài",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈtraʊzərz/",
+              "example": "Shirts and jackets are popular online, but the shop sells more trousers than any other item.",
+              "exampleTranslation": "Áo sơ mi và áo khoác bán chạy trên mạng, nhưng tại cửa hàng quần dài bán chạy hơn mọi mặt hàng khác.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 41",
+              "exampleId": "u5-ex-058"
             },
             {
               "id": "u5-listening-3264326a88a4",
               "word": "invest money in",
               "meaning": "đầu tư tiền vào",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˌɪnˈvest mʌni ɪn/",
+              "example": "The owner invested money in printed T-shirts, but may change his designs if fashions change.",
+              "exampleTranslation": "Chủ cửa hàng đầu tư tiền vào áo phông in hình, nhưng có thể đổi thiết kế nếu xu hướng thời trang thay đổi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 42",
+              "exampleId": "u5-ex-059"
             },
             {
               "id": "u5-listening-0aeecb54131a",
               "word": "fashions change",
               "meaning": "xu hướng thời trang thay đổi",
               "type": "phrase",
-              "pos": "expression"
+              "pos": "expression",
+              "ipa": "/ˈfæʃənz tʃeɪndʒ/",
+              "example": "The owner invested money in printed T-shirts, but may change his designs if fashions change.",
+              "exampleTranslation": "Chủ cửa hàng đầu tư tiền vào áo phông in hình, nhưng có thể đổi thiết kế nếu xu hướng thời trang thay đổi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 183, track 42",
+              "exampleId": "u5-ex-059"
             }
           ]
         },
@@ -993,91 +1740,169 @@ export default {
               "word": "adventure writer",
               "meaning": "tác giả truyện phiêu lưu",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ædˈventʃər ˈraɪtər/",
+              "example": "The adventure writer will sign copies of his latest book at the bookshop.",
+              "exampleTranslation": "Tác giả truyện phiêu lưu sẽ ký tặng các bản sách mới nhất tại hiệu sách.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 43",
+              "exampleId": "u5-ex-060"
             },
             {
               "id": "u5-listening-935f85b8f6ac",
               "word": "sign copies of his latest book",
               "meaning": "ký tặng các bản sách mới nhất của ông ấy",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/saɪn ˈkɑːpiːz əv hɪz ˈleɪtəst bʊk/",
+              "example": "The adventure writer will sign copies of his latest book at the bookshop.",
+              "exampleTranslation": "Tác giả truyện phiêu lưu sẽ ký tặng các bản sách mới nhất tại hiệu sách.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 43",
+              "exampleId": "u5-ex-060"
             },
             {
               "id": "u5-listening-ac25f96e882b",
               "word": "be expected to arrive",
               "meaning": "dự kiến đến",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː ɪkˈspektəd tə ərˈaɪv/",
+              "example": "He is expected to arrive at quarter past two and stay until half past three.",
+              "exampleTranslation": "Ông dự kiến đến lúc hai giờ mười lăm và ở lại đến ba giờ rưỡi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 43",
+              "exampleId": "u5-ex-061"
             },
             {
               "id": "u5-listening-967a2ec179e8",
               "word": "quarter past two",
               "meaning": "hai giờ mười lăm",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈkwɔːrtər pæst tuː/",
+              "example": "He is expected to arrive at quarter past two and stay until half past three.",
+              "exampleTranslation": "Ông dự kiến đến lúc hai giờ mười lăm và ở lại đến ba giờ rưỡi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 43",
+              "exampleId": "u5-ex-061"
             },
             {
               "id": "u5-listening-9fff5732fa0d",
               "word": "half past three",
               "meaning": "ba giờ rưỡi",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/hæf pæst θri/",
+              "example": "He is expected to arrive at quarter past two and stay until half past three.",
+              "exampleTranslation": "Ông dự kiến đến lúc hai giờ mười lăm và ở lại đến ba giờ rưỡi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 43",
+              "exampleId": "u5-ex-061"
             },
             {
               "id": "u5-listening-1d8726b54ea2",
               "word": "queues start to form",
               "meaning": "các hàng người bắt đầu hình thành",
               "type": "phrase",
-              "pos": "expression"
+              "pos": "expression",
+              "ipa": "/kjuːz stɑːrt tə fɔːrm/",
+              "example": "Queues will start to form as early as noon.",
+              "exampleTranslation": "Các hàng người sẽ bắt đầu hình thành từ sớm, vào lúc mười hai giờ trưa.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 43",
+              "exampleId": "u5-ex-062"
             },
             {
               "id": "u5-listening-b198f3cd8e70",
               "word": "noon",
               "meaning": "buổi trưa; mười hai giờ trưa",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/nuːn/",
+              "example": "Queues will start to form as early as noon.",
+              "exampleTranslation": "Các hàng người sẽ bắt đầu hình thành từ sớm, vào lúc mười hai giờ trưa.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 43",
+              "exampleId": "u5-ex-062"
             },
             {
               "id": "u5-listening-d72e279e2c99",
               "word": "complain about",
               "meaning": "phàn nàn về",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kəmˈpleɪn əˈbaʊt/",
+              "example": "The speaker complains about litter, although the service in the shops was good.",
+              "exampleTranslation": "Người nói phàn nàn về rác, dù cách phục vụ trong các cửa hàng tốt.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 44",
+              "exampleId": "u5-ex-063"
             },
             {
               "id": "u5-listening-310fdb894dca",
               "word": "the service",
               "meaning": "dịch vụ; cách phục vụ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ðə ˈsɜːrvəs/",
+              "example": "The speaker complains about litter, although the service in the shops was good.",
+              "exampleTranslation": "Người nói phàn nàn về rác, dù cách phục vụ trong các cửa hàng tốt.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 44",
+              "exampleId": "u5-ex-063"
             },
             {
               "id": "u5-listening-e006a7a2b1b1",
               "word": "rubbish bins",
               "meaning": "thùng rác",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈrʌbɪʃ bɪnz/",
+              "example": "I think it was because there weren't enough rubbish bins for people to put their empty cans and sweet wrappers in.",
+              "exampleTranslation": "Tôi nghĩ nguyên nhân là không có đủ thùng rác để mọi người bỏ lon rỗng và vỏ kẹo.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 184, track 44",
+              "exampleId": "u5-ex-064"
             },
             {
               "id": "u5-listening-6966923d6633",
               "word": "empty cans",
               "meaning": "lon rỗng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/empti kænz/",
+              "example": "I think it was because there weren't enough rubbish bins for people to put their empty cans and sweet wrappers in.",
+              "exampleTranslation": "Tôi nghĩ nguyên nhân là không có đủ thùng rác để mọi người bỏ lon rỗng và vỏ kẹo.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 184, track 44",
+              "exampleId": "u5-ex-064"
             },
             {
               "id": "u5-listening-0c3079df42f6",
               "word": "sweet wrappers",
               "meaning": "vỏ kẹo",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/swiːt ˈræpərz/",
+              "example": "I think it was because there weren't enough rubbish bins for people to put their empty cans and sweet wrappers in.",
+              "exampleTranslation": "Tôi nghĩ nguyên nhân là không có đủ thùng rác để mọi người bỏ lon rỗng và vỏ kẹo.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 184, track 44",
+              "exampleId": "u5-ex-064"
             },
             {
               "id": "u5-listening-c1711d24103a",
               "word": "well worth a visit",
               "meaning": "rất đáng đến thăm",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/wel wɜːrθ ə ˈvɪzɪt/",
+              "example": "But, apart from that, I would say that it's well worth a visit.",
+              "exampleTranslation": "Nhưng ngoài điều đó ra, tôi cho rằng nơi này rất đáng ghé thăm.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 184, track 44",
+              "exampleId": "u5-ex-065"
             }
           ]
         },
@@ -1092,182 +1917,338 @@ export default {
               "word": "tour leader",
               "meaning": "người dẫn đoàn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/tʊr ˈliːdər/",
+              "example": "The tour leader can arrange tickets for tonight's performance.",
+              "exampleTranslation": "Người dẫn đoàn có thể sắp xếp vé cho buổi biểu diễn tối nay.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-066"
             },
             {
               "id": "u5-listening-b6e135d60a0f",
               "word": "tonight's performance",
               "meaning": "buổi biểu diễn tối nay",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/təˈnaɪts pərˈfɔːrməns/",
+              "example": "The tour leader can arrange tickets for tonight's performance.",
+              "exampleTranslation": "Người dẫn đoàn có thể sắp xếp vé cho buổi biểu diễn tối nay.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-066"
             },
             {
               "id": "u5-listening-9e9e2b14b0ab",
               "word": "on this site",
               "meaning": "tại địa điểm này",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn ðɪs saɪt/",
+              "example": "A theatre on this site used to put on musicals, but it had to be rebuilt after a fire.",
+              "exampleTranslation": "Một nhà hát tại địa điểm này từng tổ chức nhạc kịch, nhưng đã phải xây lại sau một vụ cháy.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-067"
             },
             {
               "id": "u5-listening-f5f8086b802d",
               "word": "put on musicals",
               "meaning": "tổ chức biểu diễn nhạc kịch",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/pʊt ɑːn ˈmjuːzɪkəlz/",
+              "example": "A theatre on this site used to put on musicals, but it had to be rebuilt after a fire.",
+              "exampleTranslation": "Một nhà hát tại địa điểm này từng tổ chức nhạc kịch, nhưng đã phải xây lại sau một vụ cháy.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-067"
             },
             {
               "id": "u5-listening-8cb15a3d0329",
               "word": "be rebuilt after a fire",
               "meaning": "được xây lại sau một vụ cháy",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː riːˈbɪlt ˈæftər ə ˈfaɪər/",
+              "example": "A theatre on this site used to put on musicals, but it had to be rebuilt after a fire.",
+              "exampleTranslation": "Một nhà hát tại địa điểm này từng tổ chức nhạc kịch, nhưng đã phải xây lại sau một vụ cháy.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-067"
             },
             {
               "id": "u5-listening-9f982b08995d",
               "word": "striking modern design",
               "meaning": "thiết kế hiện đại nổi bật",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈstraɪkɪŋ ˈmɑːdərn dɪˈzaɪn/",
+              "example": "The theatre has a striking modern design and attracts well-known performers.",
+              "exampleTranslation": "Nhà hát có thiết kế hiện đại nổi bật và thu hút các nghệ sĩ nổi tiếng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-068"
             },
             {
               "id": "u5-listening-8a8963137a8f",
               "word": "well-known performers",
               "meaning": "các nghệ sĩ nổi tiếng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈwelˈnoʊn pərˈfɔːrmərz/",
+              "example": "The theatre has a striking modern design and attracts well-known performers.",
+              "exampleTranslation": "Nhà hát có thiết kế hiện đại nổi bật và thu hút các nghệ sĩ nổi tiếng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-068"
             },
             {
               "id": "u5-listening-1f04876d057b",
               "word": "make our way down to",
               "meaning": "di chuyển đến",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/meɪk aʊər weɪ daʊn tə/",
+              "example": "We will make our way down to Market Place and arrive by quarter to ten at the latest.",
+              "exampleTranslation": "Chúng ta sẽ di chuyển đến Market Place và đến nơi muộn nhất lúc chín giờ bốn mươi lăm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-069"
             },
             {
               "id": "u5-listening-02dc03929063",
               "word": "at the latest",
               "meaning": "muộn nhất",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ət ðə ˈleɪtəst/",
+              "example": "We will make our way down to Market Place and arrive by quarter to ten at the latest.",
+              "exampleTranslation": "Chúng ta sẽ di chuyển đến Market Place và đến nơi muộn nhất lúc chín giờ bốn mươi lăm.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-069"
             },
             {
               "id": "u5-listening-fd1398e10a2d",
               "word": "craft market",
               "meaning": "chợ đồ thủ công",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/kræft ˈmɑːrkət/",
+              "example": "The craft market has hand-painted local pottery, leather goods and jewellery stalls.",
+              "exampleTranslation": "Chợ thủ công có đồ gốm địa phương vẽ tay, đồ da và các quầy trang sức.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-070"
             },
             {
               "id": "u5-listening-a40699245a2d",
               "word": "hand-painted local pottery",
               "meaning": "đồ gốm địa phương vẽ tay",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/hænd ˈpeɪntɪd ˈloʊkəl ˈpɑːtəri/",
+              "example": "The craft market has hand-painted local pottery, leather goods and jewellery stalls.",
+              "exampleTranslation": "Chợ thủ công có đồ gốm địa phương vẽ tay, đồ da và các quầy trang sức.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-070"
             },
             {
               "id": "u5-listening-e6bb51967f7e",
               "word": "leather goods",
               "meaning": "đồ da",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈleðər ɡʊdz/",
+              "example": "The craft market has hand-painted local pottery, leather goods and jewellery stalls.",
+              "exampleTranslation": "Chợ thủ công có đồ gốm địa phương vẽ tay, đồ da và các quầy trang sức.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-070"
             },
             {
               "id": "u5-listening-732e4ce5eccd",
               "word": "jewellery stalls",
               "meaning": "các quầy trang sức",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈdʒuːəlri stɔːlz/",
+              "example": "The craft market has hand-painted local pottery, leather goods and jewellery stalls.",
+              "exampleTranslation": "Chợ thủ công có đồ gốm địa phương vẽ tay, đồ da và các quầy trang sức.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-070"
             },
             {
               "id": "u5-listening-364d78e6fc3d",
               "word": "disappointed",
               "meaning": "thất vọng",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˌdɪsəˈpɔɪnɪd/",
+              "example": "But if you're looking for clothes, I'm afraid you'll be disappointed.",
+              "exampleTranslation": "Nhưng nếu bạn đang tìm quần áo, tôi e rằng bạn sẽ thất vọng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-071"
             },
             {
               "id": "u5-listening-fb47b2bf9ece",
               "word": "local cheeses",
               "meaning": "các loại phô mai địa phương",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈloʊkəl ˈtʃiːzɪz/",
+              "example": "Local cheeses, peach juice and pomegranate juice are on sale at the Regional Food Centre.",
+              "exampleTranslation": "Phô mai địa phương, nước ép đào và nước ép lựu được bày bán tại Trung tâm Thực phẩm Vùng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-072"
             },
             {
               "id": "u5-listening-d1458b67275c",
               "word": "peach juice",
               "meaning": "nước ép đào",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/piːtʃ dʒuːs/",
+              "example": "Local cheeses, peach juice and pomegranate juice are on sale at the Regional Food Centre.",
+              "exampleTranslation": "Phô mai địa phương, nước ép đào và nước ép lựu được bày bán tại Trung tâm Thực phẩm Vùng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-072"
             },
             {
               "id": "u5-listening-9a0140c8404d",
               "word": "pomegranate juice",
               "meaning": "nước ép lựu",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌpɑːməˈɡrænət dʒuːs/",
+              "example": "Local cheeses, peach juice and pomegranate juice are on sale at the Regional Food Centre.",
+              "exampleTranslation": "Phô mai địa phương, nước ép đào và nước ép lựu được bày bán tại Trung tâm Thực phẩm Vùng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-072"
             },
             {
               "id": "u5-listening-cefd7da7e20c",
               "word": "on sale",
               "meaning": "đang được bày bán",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn seɪl/",
+              "example": "Local cheeses, peach juice and pomegranate juice are on sale at the Regional Food Centre.",
+              "exampleTranslation": "Phô mai địa phương, nước ép đào và nước ép lựu được bày bán tại Trung tâm Thực phẩm Vùng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-072"
             },
             {
               "id": "u5-listening-de595e28d7ce",
               "word": "open-air dining area",
               "meaning": "khu ăn uống ngoài trời",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈoʊpən er ˈdaɪnɪŋ ˈeriːə/",
+              "example": "You can buy food from the stalls and eat in the open-air dining area.",
+              "exampleTranslation": "Bạn có thể mua đồ ăn ở các quầy rồi dùng bữa tại khu ăn uống ngoài trời.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-073"
             },
             {
               "id": "u5-listening-198f85ca7377",
               "word": "exhibition centre",
               "meaning": "trung tâm triển lãm",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌeksəˈbɪʃən ˈsentər/",
+              "example": "The exhibition centre on the outskirts of the city is a huge venue.",
+              "exampleTranslation": "Trung tâm triển lãm ở vùng ngoại ô thành phố là một địa điểm tổ chức rất lớn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-074"
             },
             {
               "id": "u5-listening-fa964ff5959a",
               "word": "on the outskirts of the city",
               "meaning": "ở vùng ngoại ô thành phố",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn ðə ˈaʊtˌskɜːrts əv ðə sɪti/",
+              "example": "The exhibition centre on the outskirts of the city is a huge venue.",
+              "exampleTranslation": "Trung tâm triển lãm ở vùng ngoại ô thành phố là một địa điểm tổ chức rất lớn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-074"
             },
             {
               "id": "u5-listening-cca50e9face2",
               "word": "a huge venue",
               "meaning": "một địa điểm tổ chức rất lớn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə hjuːdʒ ˈvenjuː/",
+              "example": "The exhibition centre on the outskirts of the city is a huge venue.",
+              "exampleTranslation": "Trung tâm triển lãm ở vùng ngoại ô thành phố là một địa điểm tổ chức rất lớn.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-074"
             },
             {
               "id": "u5-listening-b7d7ef0bfeb9",
               "word": "devoted to footwear",
               "meaning": "dành riêng cho giày dép",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/dɪˈvoʊtɪd tə ˈfʊtˌwer/",
+              "example": "A whole hall is devoted to footwear, but visitors should avoid the blue doors at the entrance.",
+              "exampleTranslation": "Cả một sảnh dành riêng cho giày dép, nhưng khách nên tránh những cửa màu xanh ở lối vào.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-075"
             },
             {
               "id": "u5-listening-3902eb874fcc",
               "word": "entrance",
               "meaning": "lối vào",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈentrəns/",
+              "example": "A whole hall is devoted to footwear, but visitors should avoid the blue doors at the entrance.",
+              "exampleTranslation": "Cả một sảnh dành riêng cho giày dép, nhưng khách nên tránh những cửa màu xanh ở lối vào.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-075"
             },
             {
               "id": "u5-listening-ea4c55ca1f43",
               "word": "exhausted",
               "meaning": "kiệt sức",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ɪɡˈzɔːstɪd/",
+              "example": "If shopping has exhausted you, you can rest your weary feet in the cafe.",
+              "exampleTranslation": "Nếu mua sắm làm bạn kiệt sức, bạn có thể cho đôi chân mỏi nghỉ ngơi trong quán cà phê.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-076"
             },
             {
               "id": "u5-listening-9b98d4a1c7e7",
               "word": "rest your weary feet",
               "meaning": "cho đôi chân mỏi được nghỉ ngơi",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/rest jər wɪri fiːt/",
+              "example": "If shopping has exhausted you, you can rest your weary feet in the cafe.",
+              "exampleTranslation": "Nếu mua sắm làm bạn kiệt sức, bạn có thể cho đôi chân mỏi nghỉ ngơi trong quán cà phê.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 45",
+              "exampleId": "u5-ex-076"
             }
           ]
         }
@@ -1289,7 +2270,13 @@ export default {
               "word": "a traditional food market",
               "meaning": "một khu chợ thực phẩm truyền thống",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə trəˈdɪʃənəl fuːd ˈmɑːrkət/",
+              "example": "Covent Garden is no longer a traditional food market; it now has all sorts of independent shops.",
+              "exampleTranslation": "Covent Garden không còn là chợ thực phẩm truyền thống; hiện nơi này có đủ loại cửa hàng độc lập.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 46",
+              "exampleId": "u5-ex-077"
             },
             {
               "id": "u5-speaking-9efb8d3af819",
@@ -1297,191 +2284,350 @@ export default {
               "meaning": "đủ các loại",
               "type": "phrase",
               "pos": "quantifier",
-              "ipa": "/ɔːl sɔːts əv/",
-              "example": "She likes all sorts of music.",
-              "exampleTranslation": "Cô ấy thích mọi loại nhạc."
+              "ipa": "/ɔːl sɔːrts əv/",
+              "example": "Covent Garden is no longer a traditional food market; it now has all sorts of independent shops.",
+              "exampleTranslation": "Covent Garden không còn là chợ thực phẩm truyền thống; hiện nơi này có đủ loại cửa hàng độc lập.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 46",
+              "exampleId": "u5-ex-077"
             },
             {
               "id": "u5-speaking-4ac2211d156b",
               "word": "independent shops",
               "meaning": "các cửa hàng độc lập",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌɪndɪˈpendənt ʃɑːps/",
+              "example": "Covent Garden is no longer a traditional food market; it now has all sorts of independent shops.",
+              "exampleTranslation": "Covent Garden không còn là chợ thực phẩm truyền thống; hiện nơi này có đủ loại cửa hàng độc lập.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 46",
+              "exampleId": "u5-ex-077"
             },
             {
               "id": "u5-speaking-b3b9b4fdc610",
               "word": "an amazing selection",
               "meaning": "một sự lựa chọn đa dạng đáng kinh ngạc",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ən əˈmeɪzɪŋ səˈlekʃən/",
+              "example": "There is an amazing selection of clothes, books, and arts and crafts.",
+              "exampleTranslation": "Có nhiều lựa chọn đáng kinh ngạc về quần áo, sách, đồ mỹ thuật và thủ công.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 46",
+              "exampleId": "u5-ex-078"
             },
             {
               "id": "u5-speaking-c6e4092bcfad",
               "word": "arts and crafts",
               "meaning": "đồ mỹ thuật và thủ công",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ɑːrts ənd kræfs/",
+              "example": "There is an amazing selection of clothes, books, and arts and crafts.",
+              "exampleTranslation": "Có nhiều lựa chọn đáng kinh ngạc về quần áo, sách, đồ mỹ thuật và thủ công.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 46",
+              "exampleId": "u5-ex-078"
             },
             {
               "id": "u5-speaking-2f5dc581185a",
               "word": "have a great atmosphere",
               "meaning": "có bầu không khí rất dễ chịu",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/hæv ə ɡreɪt ˈætməsˌfɪr/",
+              "example": "The market has a great atmosphere, with street performers making it lively and friendly.",
+              "exampleTranslation": "Khu chợ có bầu không khí dễ chịu, với các nghệ sĩ đường phố khiến nơi này sôi động và thân thiện.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 46",
+              "exampleId": "u5-ex-079"
             },
             {
               "id": "u5-speaking-6a06500a1996",
               "word": "street performers",
               "meaning": "nghệ sĩ đường phố",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/striːt pərˈfɔːrmərz/",
+              "example": "The market has a great atmosphere, with street performers making it lively and friendly.",
+              "exampleTranslation": "Khu chợ có bầu không khí dễ chịu, với các nghệ sĩ đường phố khiến nơi này sôi động và thân thiện.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 46",
+              "exampleId": "u5-ex-079"
             },
             {
               "id": "u5-speaking-52ecc5c777fb",
               "word": "lively and friendly",
               "meaning": "sôi động và thân thiện",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/laɪvli ənd frendli/",
+              "example": "The market has a great atmosphere, with street performers making it lively and friendly.",
+              "exampleTranslation": "Khu chợ có bầu không khí dễ chịu, với các nghệ sĩ đường phố khiến nơi này sôi động và thân thiện.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 46",
+              "exampleId": "u5-ex-079"
             },
             {
               "id": "u5-speaking-ba11f4e35fdd",
               "word": "out-of-the-way",
               "meaning": "ở xa; khó đến",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/aʊt əv ðə weɪ/",
+              "example": "I avoid the big malls because they're often out-of-the-way - you need a car to get to them.",
+              "exampleTranslation": "Tôi tránh các trung tâm mua sắm lớn vì chúng thường ở xa, bạn cần ô tô để đến đó.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 184, track 46",
+              "exampleId": "u5-ex-080"
             },
             {
               "id": "u5-speaking-fe0541df3ce0",
               "word": "be keen on fashion",
               "meaning": "rất thích thời trang",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/biː kiːn ɑːn ˈfæʃən/",
+              "example": "Well, I'm keen on fashion and like to go clothes shopping whenever I can.",
+              "exampleTranslation": "Tôi rất thích thời trang và muốn đi mua quần áo bất cứ khi nào có thể.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 184, track 46",
+              "exampleId": "u5-ex-081"
             },
             {
               "id": "u5-speaking-b9bae61c20b3",
               "word": "go clothes shopping",
               "meaning": "đi mua quần áo",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡoʊ kloʊðz ˈʃɑːpɪŋ/",
+              "example": "Well, I'm keen on fashion and like to go clothes shopping whenever I can.",
+              "exampleTranslation": "Tôi rất thích thời trang và muốn đi mua quần áo bất cứ khi nào có thể.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 184, track 46",
+              "exampleId": "u5-ex-081"
             },
             {
               "id": "u5-speaking-522f556a15cb",
               "word": "try on clothes",
               "meaning": "thử quần áo",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/traɪ ɑːn kloʊðz/",
+              "example": "I love trying on clothes even if I can't afford to buy them!",
+              "exampleTranslation": "Tôi thích thử quần áo ngay cả khi không đủ tiền mua chúng!",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 184, track 46",
+              "exampleId": "u5-ex-082"
             },
             {
               "id": "u5-speaking-b8e6d541c84f",
               "word": "can't afford to buy",
               "meaning": "không đủ tiền mua",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kænt əˈfɔːrd tə baɪ/",
+              "example": "I love trying on clothes even if I can't afford to buy them!",
+              "exampleTranslation": "Tôi thích thử quần áo ngay cả khi không đủ tiền mua chúng!",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 184, track 46",
+              "exampleId": "u5-ex-082"
             },
             {
               "id": "u5-speaking-ffd770285c34",
               "word": "go to the sales",
               "meaning": "đi mua sắm trong đợt giảm giá",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡoʊ tə ðə seɪlz/",
+              "example": "I love going to the sales because I can find designer shoes at reasonable prices.",
+              "exampleTranslation": "Tôi thích mua sắm trong đợt giảm giá vì có thể tìm được giày hàng hiệu với giá hợp lý.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 46",
+              "exampleId": "u5-ex-083"
             },
             {
               "id": "u5-speaking-b2fe5f056638",
               "word": "designer shoes",
               "meaning": "giày của thương hiệu hoặc nhà thiết kế nổi tiếng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/dɪˈzaɪnər ʃuːz/",
+              "example": "I love going to the sales because I can find designer shoes at reasonable prices.",
+              "exampleTranslation": "Tôi thích mua sắm trong đợt giảm giá vì có thể tìm được giày hàng hiệu với giá hợp lý.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 46",
+              "exampleId": "u5-ex-083"
             },
             {
               "id": "u5-speaking-0693cbaf1fc0",
               "word": "at reasonable prices",
               "meaning": "với giá hợp lý",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ət ˈriːzənəbəl ˈpraɪsəz/",
+              "example": "I love going to the sales because I can find designer shoes at reasonable prices.",
+              "exampleTranslation": "Tôi thích mua sắm trong đợt giảm giá vì có thể tìm được giày hàng hiệu với giá hợp lý.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 46",
+              "exampleId": "u5-ex-083"
             },
             {
               "id": "u5-speaking-c187bdbc1ae7",
               "word": "original gifts",
               "meaning": "những món quà độc đáo",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ərˈɪdʒənəl ɡɪfs/",
+              "example": "I enjoy buying original gifts that nobody else has.",
+              "exampleTranslation": "Tôi thích mua những món quà độc đáo mà không ai khác có.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 46",
+              "exampleId": "u5-ex-084"
             },
             {
               "id": "u5-speaking-85dc74c5b564",
               "word": "inconvenient",
               "meaning": "bất tiện",
               "type": "word",
-              "pos": "adjective"
+              "pos": "adjective",
+              "ipa": "/ˌɪnkənˈviːnjənt/",
+              "example": "Small shops can be inconvenient because of the lack of choice.",
+              "exampleTranslation": "Cửa hàng nhỏ có thể bất tiện vì thiếu lựa chọn.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 102–103, opinion practice",
+              "exampleId": "u5-ex-085"
             },
             {
               "id": "u5-speaking-2f3dde660871",
               "word": "lack of choice",
               "meaning": "thiếu lựa chọn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/læk əv tʃɔɪs/",
+              "example": "Small shops can be inconvenient because of the lack of choice.",
+              "exampleTranslation": "Cửa hàng nhỏ có thể bất tiện vì thiếu lựa chọn.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 102–103, opinion practice",
+              "exampleId": "u5-ex-085"
             },
             {
               "id": "u5-speaking-f67ba06d8869",
               "word": "a landmark",
               "meaning": "một địa điểm nổi bật, dễ nhận biết",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈlændˌmɑːrk/",
+              "example": "The department store is a landmark, and it is large and spacious.",
+              "exampleTranslation": "Cửa hàng bách hóa là một địa điểm nổi bật, vừa lớn vừa rộng rãi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 47",
+              "exampleId": "u5-ex-086"
             },
             {
               "id": "u5-speaking-a705a5ccab4c",
               "word": "large and spacious",
               "meaning": "lớn và rộng rãi",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/lɑːrdʒ ənd ˈspeɪʃəs/",
+              "example": "The department store is a landmark, and it is large and spacious.",
+              "exampleTranslation": "Cửa hàng bách hóa là một địa điểm nổi bật, vừa lớn vừa rộng rãi.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 47",
+              "exampleId": "u5-ex-086"
             },
             {
               "id": "u5-speaking-3df595130ac6",
               "word": "in a good location",
               "meaning": "ở một vị trí thuận tiện",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn ə ɡʊd loʊˈkeɪʃən/",
+              "example": "It is in a good location near the station and a multi-storey car park.",
+              "exampleTranslation": "Nó nằm ở vị trí thuận tiện gần nhà ga và bãi đỗ xe nhiều tầng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 47",
+              "exampleId": "u5-ex-087"
             },
             {
               "id": "u5-speaking-b13900f8d4ae",
               "word": "multi-storey car park",
               "meaning": "bãi đỗ xe nhiều tầng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/mʌlti stɔːri kɑːr pɑːrk/",
+              "example": "It is in a good location near the station and a multi-storey car park.",
+              "exampleTranslation": "Nó nằm ở vị trí thuận tiện gần nhà ga và bãi đỗ xe nhiều tầng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 47",
+              "exampleId": "u5-ex-087"
             },
             {
               "id": "u5-speaking-7a79de8f0649",
               "word": "on the ground floor",
               "meaning": "ở tầng trệt",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɑːn ðə ɡraʊnd flɔːr/",
+              "example": "I like looking at gold jewellery in the department on the ground floor.",
+              "exampleTranslation": "Tôi thích ngắm trang sức vàng tại khu bán hàng ở tầng trệt.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 47",
+              "exampleId": "u5-ex-088"
             },
             {
               "id": "u5-speaking-76c0f8835e2d",
               "word": "gold jewellery",
               "meaning": "trang sức bằng vàng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ɡoʊld ˈdʒuːəlri/",
+              "example": "I like looking at gold jewellery in the department on the ground floor.",
+              "exampleTranslation": "Tôi thích ngắm trang sức vàng tại khu bán hàng ở tầng trệt.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 184, track 47",
+              "exampleId": "u5-ex-088"
             },
             {
               "id": "u5-speaking-7d2cf189a767",
               "word": "sales assistants",
               "meaning": "nhân viên bán hàng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/seɪlz əˈsɪstənts/",
+              "example": "All the sales assistants are very friendly and helpful too.",
+              "exampleTranslation": "Tất cả nhân viên bán hàng cũng rất thân thiện và nhiệt tình giúp đỡ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 184, track 47",
+              "exampleId": "u5-ex-089"
             },
             {
               "id": "u5-speaking-b423fb33379e",
               "word": "friendly and helpful",
               "meaning": "thân thiện và nhiệt tình giúp đỡ",
               "type": "phrase",
-              "pos": "adjective_phrase"
+              "pos": "adjective_phrase",
+              "ipa": "/frendli ənd ˈhelpfəl/",
+              "example": "All the sales assistants are very friendly and helpful too.",
+              "exampleTranslation": "Tất cả nhân viên bán hàng cũng rất thân thiện và nhiệt tình giúp đỡ.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 184, track 47",
+              "exampleId": "u5-ex-089"
             },
             {
               "id": "u5-speaking-a4b5d8a008e9",
               "word": "close down",
               "meaning": "đóng cửa ngừng kinh doanh",
               "type": "phrase",
-              "pos": "phrasal_verb"
+              "pos": "phrasal_verb",
+              "ipa": "/kloʊz daʊn/",
+              "example": "The small shop may close down if it loses too many customers.",
+              "exampleTranslation": "Cửa hàng nhỏ có thể ngừng kinh doanh nếu mất quá nhiều khách hàng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 104–105, shopping discussion",
+              "exampleId": "u5-ex-090"
             }
           ]
         },
@@ -1497,7 +2643,12 @@ export default {
               "meaning": "Cửa hàng tôi thường ghé nhất là ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "The shop I visit most often is a small bookshop near my school."
+              "ipa": "/ðə ʃɑːp aɪ ˈvɪzɪt moʊs ˈɔːfən ɪz …/",
+              "example": "The shop I visit most often is a small bookshop near my school.",
+              "exampleTranslation": "Cửa hàng tôi ghé thường xuyên nhất là một hiệu sách nhỏ gần trường.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 102–105; TB pp. 53–55",
+              "exampleId": "u5-ex-091"
             },
             {
               "id": "u5-speaking-a3384fc759ec",
@@ -1505,7 +2656,12 @@ export default {
               "meaning": "Cửa hàng cung cấp nhiều loại ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "It offers a wide range of affordable clothes."
+              "ipa": "/ɪt ˈɔːfərz ə waɪd reɪndʒ əv …/",
+              "example": "It offers a wide range of affordable clothes.",
+              "exampleTranslation": "Cửa hàng cung cấp nhiều loại quần áo giá phải chăng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 102–105; TB pp. 53–55",
+              "exampleId": "u5-ex-092"
             },
             {
               "id": "u5-speaking-87fe564ddaed",
@@ -1513,7 +2669,12 @@ export default {
               "meaning": "Tôi thường đến đó mỗi khi cần ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "I usually go there whenever I need a gift."
+              "ipa": "/aɪ ˈjuːʒəli ɡoʊ ðer hweˈnevər aɪ niːd …/",
+              "example": "I usually go there whenever I need a gift.",
+              "exampleTranslation": "Tôi thường đến đó mỗi khi cần mua quà.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 102–105; TB pp. 53–55",
+              "exampleId": "u5-ex-093"
             },
             {
               "id": "u5-speaking-4e9659a92db4",
@@ -1521,35 +2682,64 @@ export default {
               "meaning": "Điều khiến tôi tiếp tục quay lại là ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "What keeps me coming back is the friendly service."
+              "ipa": "/hwʌt kiːps mi ˈkʌmɪŋ bæk ɪz …/",
+              "example": "What keeps me coming back is the friendly service.",
+              "exampleTranslation": "Điều khiến tôi tiếp tục quay lại là cách phục vụ thân thiện.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 102–105; TB pp. 53–55",
+              "exampleId": "u5-ex-094"
             },
             {
               "id": "u5-speaking-820c0a55cde4",
               "word": "good value for money",
               "meaning": "đáng đồng tiền",
               "type": "collocation",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ɡʊd ˈvæljuː fər mʌni/",
+              "example": "I compare prices to find products that offer good value for money.",
+              "exampleTranslation": "Tôi so sánh giá để tìm sản phẩm đáng đồng tiền.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 102–105; TB pp. 53–55",
+              "exampleId": "u5-ex-095"
             },
             {
               "id": "u5-speaking-1af8f21ae640",
               "word": "compare prices",
               "meaning": "so sánh giá",
               "type": "collocation",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/kəmˈper ˈpraɪsəz/",
+              "example": "I compare prices to find products that offer good value for money.",
+              "exampleTranslation": "Tôi so sánh giá để tìm sản phẩm đáng đồng tiền.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 102–105; TB pp. 53–55",
+              "exampleId": "u5-ex-095"
             },
             {
               "id": "u5-speaking-d9a0a7304428",
               "word": "stick to a budget",
               "meaning": "chi tiêu trong ngân sách đã định",
               "type": "collocation",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/stɪk tə ə ˈbʌdʒɪt/",
+              "example": "I try to stick to a budget and avoid making an impulse purchase.",
+              "exampleTranslation": "Tôi cố chi tiêu trong ngân sách đã định và tránh mua hàng bốc đồng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 102–105; TB pp. 53–55",
+              "exampleId": "u5-ex-096"
             },
             {
               "id": "u5-speaking-2394c9fb0322",
               "word": "make an impulse purchase",
               "meaning": "mua hàng bốc đồng",
               "type": "collocation",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/meɪk ən ˈɪmpəls ˈpɜːrtʃəs/",
+              "example": "I try to stick to a budget and avoid making an impulse purchase.",
+              "exampleTranslation": "Tôi cố chi tiêu trong ngân sách đã định và tránh mua hàng bốc đồng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 102–105; TB pp. 53–55",
+              "exampleId": "u5-ex-096"
             }
           ]
         },
@@ -1565,9 +2755,12 @@ export default {
               "meaning": "mua quần áo",
               "type": "phrase",
               "pos": "verb_phrase",
-              "ipa": "/baɪ kləʊðz/",
-              "example": "I need to buy some new clothes.",
-              "exampleTranslation": "Tôi cần mua một số quần áo mới."
+              "ipa": "/baɪ kloʊðz/",
+              "example": "I often buy clothes at a department store in the shopping centre.",
+              "exampleTranslation": "Tôi thường mua quần áo ở cửa hàng bách hóa trong trung tâm mua sắm.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 86–87, 98, 102–105; TB pp. 47, 50, 53–55",
+              "exampleId": "u5-ex-129"
             },
             {
               "id": "u5-speaking-430db3866f0f",
@@ -1575,9 +2768,12 @@ export default {
               "meaning": "mua hoặc thuê căn hộ",
               "type": "phrase",
               "pos": "verb_phrase",
-              "ipa": "/baɪ ɔːr rent ən əˈpɑːtmənt/",
-              "example": "I’m looking to buy or rent an apartment.",
-              "exampleTranslation": "Tôi đang tìm kiếm để mua hoặc thuê một căn hộ."
+              "ipa": "/baɪ ɔːr rent ən əˈpɑːrtmənt/",
+              "example": "Some large malls even have places where people can buy or rent an apartment.",
+              "exampleTranslation": "Một số trung tâm mua sắm lớn thậm chí có nơi để mọi người mua hoặc thuê căn hộ.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 86–87, 98, 102–105; TB pp. 47, 50, 53–55",
+              "exampleId": "u5-ex-130"
             },
             {
               "id": "u5-speaking-25da5f64f404",
@@ -1585,9 +2781,12 @@ export default {
               "meaning": "kiểm tra sức khỏe",
               "type": "phrase",
               "pos": "verb_phrase",
-              "ipa": "/tʃek jɔːr helθ/",
-              "example": "You should check your health regularly.",
-              "exampleTranslation": "Bạn nên kiểm tra sức khỏe của mình thường xuyên."
+              "ipa": "/tʃek jər helθ/",
+              "example": "You can check your health or have a beauty treatment during a day at the mall.",
+              "exampleTranslation": "Bạn có thể kiểm tra sức khỏe hoặc sử dụng dịch vụ làm đẹp trong một ngày ở trung tâm mua sắm.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 86–87, 98, 102–105; TB pp. 47, 50, 53–55",
+              "exampleId": "u5-ex-131"
             },
             {
               "id": "u5-speaking-f291aa26b126",
@@ -1595,16 +2794,25 @@ export default {
               "meaning": "đi leo núi; leo vách",
               "type": "phrase",
               "pos": "verb_phrase",
-              "ipa": "/ɡəʊ ˈklaɪmɪŋ/",
-              "example": "I’m planning to go climbing next weekend.",
-              "exampleTranslation": "Tôi đang lên kế hoạch để đi leo núi vào cuối tuần tới."
+              "ipa": "/ɡoʊ ˈklaɪmɪŋ/",
+              "example": "At some recreation centres, visitors can go climbing or go in a hot-air balloon.",
+              "exampleTranslation": "Tại một số trung tâm giải trí, khách có thể leo vách hoặc đi khinh khí cầu.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 86–87, 98, 102–105; TB pp. 47, 50, 53–55",
+              "exampleId": "u5-ex-132"
             },
             {
               "id": "u5-speaking-c02178dbba0f",
               "word": "go in a hot-air balloon",
               "meaning": "đi khinh khí cầu",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡoʊ ɪn ə hɑːt er bəˈluːn/",
+              "example": "At some recreation centres, visitors can go climbing or go in a hot-air balloon.",
+              "exampleTranslation": "Tại một số trung tâm giải trí, khách có thể leo vách hoặc đi khinh khí cầu.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 86–87, 98, 102–105; TB pp. 47, 50, 53–55",
+              "exampleId": "u5-ex-132"
             },
             {
               "id": "u5-speaking-e66c62752028",
@@ -1613,8 +2821,11 @@ export default {
               "type": "phrase",
               "pos": "verb_phrase",
               "ipa": "/ɡoʊ tə ðə biːtʃ/",
-              "example": "I love going to the beach in the summer.",
-              "exampleTranslation": "Tôi thích đi đến bãi biển vào mùa hè."
+              "example": "In summer, I would rather go to the beach than spend the whole day shopping.",
+              "exampleTranslation": "Vào mùa hè, tôi thích đi biển hơn dành cả ngày mua sắm.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 86–87, 98, 102–105; TB pp. 47, 50, 53–55",
+              "exampleId": "u5-ex-133"
             },
             {
               "id": "u5-speaking-d1b8a42a402c",
@@ -1623,8 +2834,11 @@ export default {
               "type": "phrase",
               "pos": "verb_phrase",
               "ipa": "/hæv ə snæk/",
-              "example": "I usually have a snack in the afternoon.",
-              "exampleTranslation": "Tôi thường ăn vặt vào buổi chiều."
+              "example": "We usually have a snack at the coffee shop after shopping.",
+              "exampleTranslation": "Chúng tôi thường ăn nhẹ ở quán cà phê sau khi mua sắm.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 86–87, 98, 102–105; TB pp. 47, 50, 53–55",
+              "exampleId": "u5-ex-134"
             },
             {
               "id": "u5-speaking-94fbe61c960d",
@@ -1632,9 +2846,12 @@ export default {
               "meaning": "sử dụng dịch vụ làm đẹp",
               "type": "phrase",
               "pos": "verb_phrase",
-              "ipa": "/hæv ə ˈbjuːti ˈtriːtmənt/",
-              "example": "I’m going to have a beauty treatment tomorrow.",
-              "exampleTranslation": "Tôi sẽ làm đẹp vào ngày mai."
+              "ipa": "/hæv ə bjuːti ˈtriːtmənt/",
+              "example": "You can check your health or have a beauty treatment during a day at the mall.",
+              "exampleTranslation": "Bạn có thể kiểm tra sức khỏe hoặc sử dụng dịch vụ làm đẹp trong một ngày ở trung tâm mua sắm.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 86–87, 98, 102–105; TB pp. 47, 50, 53–55",
+              "exampleId": "u5-ex-131"
             },
             {
               "id": "u5-speaking-96573baca981",
@@ -1643,8 +2860,11 @@ export default {
               "type": "phrase",
               "pos": "verb_phrase",
               "ipa": "/hæv ən ɪkˈspensɪv miːl/",
-              "example": "We had an expensive meal at a fancy restaurant last night.",
-              "exampleTranslation": "Chúng tôi đã có một bữa tối đắt tiền tại một nhà hàng sang trọng vào tối qua."
+              "example": "For a special occasion, we might have an expensive meal at the mall.",
+              "exampleTranslation": "Vào dịp đặc biệt, chúng tôi có thể ăn một bữa đắt tiền ở trung tâm mua sắm.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 86–87, 98, 102–105; TB pp. 47, 50, 53–55",
+              "exampleId": "u5-ex-135"
             },
             {
               "id": "u5-speaking-e316b528b8d4",
@@ -1652,9 +2872,12 @@ export default {
               "meaning": "xem phim",
               "type": "phrase",
               "pos": "verb_phrase",
-              "ipa": "/siː ə fɪlm/",
-              "example": "I’m going to see a film tonight.",
-              "exampleTranslation": "Tôi sẽ đi xem phim tối nay."
+              "ipa": "/si ə fɪlm/",
+              "example": "The mall offers places to see a film or see an art exhibition.",
+              "exampleTranslation": "Trung tâm mua sắm có nơi để xem phim hoặc xem triển lãm nghệ thuật.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 86–87, 98, 102–105; TB pp. 47, 50, 53–55",
+              "exampleId": "u5-ex-136"
             },
             {
               "id": "u5-speaking-4c768dbec7b1",
@@ -1662,9 +2885,12 @@ export default {
               "meaning": "xem triển lãm nghệ thuật",
               "type": "phrase",
               "pos": "verb_phrase",
-              "ipa": "/siː ən ɑːrt ˌeksɪˈbɪʃən/",
-              "example": "We went to see an art exhibition last weekend.",
-              "exampleTranslation": "Chúng tôi đã đi xem triển lãm nghệ thuật vào cuối tuần trước."
+              "ipa": "/si ən ɑːrt ˌeksəˈbɪʃən/",
+              "example": "The mall offers places to see a film or see an art exhibition.",
+              "exampleTranslation": "Trung tâm mua sắm có nơi để xem phim hoặc xem triển lãm nghệ thuật.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 86–87, 98, 102–105; TB pp. 47, 50, 53–55",
+              "exampleId": "u5-ex-136"
             },
             {
               "id": "u5-speaking-c798e5b18ed8",
@@ -1672,9 +2898,12 @@ export default {
               "meaning": "quán cà phê",
               "type": "phrase",
               "pos": "noun_phrase",
-              "ipa": "/ˈkɒf.i ʃɒp/",
-              "example": "I like to work at the coffee shop because it has a nice atmosphere.",
-              "exampleTranslation": "Tôi thích làm việc ở quán cà phê vì nó có không khí dễ chịu."
+              "ipa": "/kɑːfi ʃɑːp/",
+              "example": "We usually have a snack at the coffee shop after shopping.",
+              "exampleTranslation": "Chúng tôi thường ăn nhẹ ở quán cà phê sau khi mua sắm.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 86–87, 98, 102–105; TB pp. 47, 50, 53–55",
+              "exampleId": "u5-ex-134"
             },
             {
               "id": "u5-speaking-0aaa04750811",
@@ -1682,9 +2911,12 @@ export default {
               "meaning": "cửa hàng bách hóa",
               "type": "phrase",
               "pos": "noun_phrase",
-              "ipa": "/dɪˈpɑːt.mənt stɔːr/",
-              "example": "She bought a new dress from the department store.",
-              "exampleTranslation": "Cô ấy mua một chiếc váy mới từ cửa hàng bách hóa."
+              "ipa": "/dɪˈpɑːrtmənt stɔːr/",
+              "example": "I often buy clothes at a department store in the shopping centre.",
+              "exampleTranslation": "Tôi thường mua quần áo ở cửa hàng bách hóa trong trung tâm mua sắm.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 86–87, 98, 102–105; TB pp. 47, 50, 53–55",
+              "exampleId": "u5-ex-129"
             },
             {
               "id": "u5-speaking-7acde59a619e",
@@ -1692,9 +2924,12 @@ export default {
               "meaning": "chợ ngoài trời",
               "type": "phrase",
               "pos": "noun_phrase",
-              "ipa": "/ˈaʊt.dɔːr ˈmɑː.kɪt/",
-              "example": "You can find fresh fruits and vegetables at the outdoor market.",
-              "exampleTranslation": "Bạn có thể tìm thấy trái cây và rau quả tươi tại chợ ngoài trời."
+              "ipa": "/ˈaʊtˌdɔːr ˈmɑːrkət/",
+              "example": "I buy fresh produce at an outdoor market, but get household goods at the supermarket.",
+              "exampleTranslation": "Tôi mua nông sản tươi ở chợ ngoài trời, nhưng mua đồ gia dụng tại siêu thị.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 86–87, 98, 102–105; TB pp. 47, 50, 53–55",
+              "exampleId": "u5-ex-137"
             },
             {
               "id": "u5-speaking-8e27caa26057",
@@ -1702,9 +2937,12 @@ export default {
               "meaning": "trung tâm mua sắm",
               "type": "phrase",
               "pos": "noun_phrase",
-              "ipa": "/ˈʃɒp.ɪŋ ˌsen.tər/",
-              "example": "He went to the shopping centre to buy a new laptop.",
-              "exampleTranslation": "Anh ấy đi đến trung tâm mua sắm để mua một chiếc laptop mới."
+              "ipa": "/ˈʃɑːpɪŋ ˈsentər/",
+              "example": "I often buy clothes at a department store in the shopping centre.",
+              "exampleTranslation": "Tôi thường mua quần áo ở cửa hàng bách hóa trong trung tâm mua sắm.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 86–87, 98, 102–105; TB pp. 47, 50, 53–55",
+              "exampleId": "u5-ex-129"
             },
             {
               "id": "u5-speaking-16d1c76df24f",
@@ -1712,9 +2950,12 @@ export default {
               "meaning": "siêu thị",
               "type": "word",
               "pos": "noun",
-              "ipa": "/ˈsuː.pəˌmɑː.kɪt/",
-              "example": "They usually do their grocery shopping at the supermarket.",
-              "exampleTranslation": "Họ thường mua đồ tạp hóa ở siêu thị."
+              "ipa": "/ˈsuːpərˌmɑːrkɪt/",
+              "example": "I buy fresh produce at an outdoor market, but get household goods at the supermarket.",
+              "exampleTranslation": "Tôi mua nông sản tươi ở chợ ngoài trời, nhưng mua đồ gia dụng tại siêu thị.",
+              "exampleKind": "practice",
+              "exampleSource": "Bổ sung ứng dụng từ SB pp. 86–87, 98, 102–105; TB pp. 47, 50, 53–55",
+              "exampleId": "u5-ex-137"
             }
           ]
         }
@@ -1736,252 +2977,468 @@ export default {
               "word": "advantages and disadvantages",
               "meaning": "ưu điểm và nhược điểm",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ædˈvæntɪdʒɪz ənd ˌdɪsədˈvænɪdʒz/",
+              "example": "The essay weighs the advantages and disadvantages of online shopping, including positive aspects and benefits as well as negative aspects and drawbacks.",
+              "exampleTranslation": "Bài luận cân nhắc ưu điểm và nhược điểm của mua sắm trực tuyến, bao gồm các mặt tích cực và lợi ích cũng như các mặt tiêu cực và hạn chế.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 92–94, essay language",
+              "exampleId": "u5-ex-097"
             },
             {
               "id": "u5-writing-eaaf20822256",
               "word": "positive aspects",
               "meaning": "các mặt tích cực",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈpɑːzətɪv ˈæsˌpekts/",
+              "example": "The essay weighs the advantages and disadvantages of online shopping, including positive aspects and benefits as well as negative aspects and drawbacks.",
+              "exampleTranslation": "Bài luận cân nhắc ưu điểm và nhược điểm của mua sắm trực tuyến, bao gồm các mặt tích cực và lợi ích cũng như các mặt tiêu cực và hạn chế.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 92–94, essay language",
+              "exampleId": "u5-ex-097"
             },
             {
               "id": "u5-writing-8c19d5c1b56e",
               "word": "negative aspects",
               "meaning": "các mặt tiêu cực",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈneɡətɪv ˈæsˌpekts/",
+              "example": "The essay weighs the advantages and disadvantages of online shopping, including positive aspects and benefits as well as negative aspects and drawbacks.",
+              "exampleTranslation": "Bài luận cân nhắc ưu điểm và nhược điểm của mua sắm trực tuyến, bao gồm các mặt tích cực và lợi ích cũng như các mặt tiêu cực và hạn chế.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 92–94, essay language",
+              "exampleId": "u5-ex-097"
             },
             {
               "id": "u5-writing-dc353fa31a83",
               "word": "drawbacks",
               "meaning": "những hạn chế; bất lợi",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈdrɔːˌbæks/",
+              "example": "The essay weighs the advantages and disadvantages of online shopping, including positive aspects and benefits as well as negative aspects and drawbacks.",
+              "exampleTranslation": "Bài luận cân nhắc ưu điểm và nhược điểm của mua sắm trực tuyến, bao gồm các mặt tích cực và lợi ích cũng như các mặt tiêu cực và hạn chế.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 92–94, essay language",
+              "exampleId": "u5-ex-097"
             },
             {
               "id": "u5-writing-20c658fac0a1",
               "word": "benefits",
               "meaning": "những lợi ích",
               "type": "word",
-              "pos": "noun"
+              "pos": "noun",
+              "ipa": "/ˈbenəfɪts/",
+              "example": "The essay weighs the advantages and disadvantages of online shopping, including positive aspects and benefits as well as negative aspects and drawbacks.",
+              "exampleTranslation": "Bài luận cân nhắc ưu điểm và nhược điểm của mua sắm trực tuyến, bao gồm các mặt tích cực và lợi ích cũng như các mặt tiêu cực và hạn chế.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 92–94, essay language",
+              "exampleId": "u5-ex-097"
             },
             {
               "id": "u5-writing-4548a440db0a",
               "word": "all things considered",
               "meaning": "sau khi cân nhắc mọi mặt",
               "type": "phrase",
-              "pos": "expression"
+              "pos": "expression",
+              "ipa": "/ɔːl θɪŋz kənˈsɪdərd/",
+              "example": "All things considered, in my view, small shops still play an important role.",
+              "exampleTranslation": "Sau khi cân nhắc mọi mặt, theo tôi, cửa hàng nhỏ vẫn đóng vai trò quan trọng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 92, opinion language",
+              "exampleId": "u5-ex-098"
             },
             {
               "id": "u5-writing-307d2975d5d3",
               "word": "in my view",
               "meaning": "theo quan điểm của tôi",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/ɪn maɪ vjuː/",
+              "example": "All things considered, in my view, small shops still play an important role.",
+              "exampleTranslation": "Sau khi cân nhắc mọi mặt, theo tôi, cửa hàng nhỏ vẫn đóng vai trò quan trọng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 92, opinion language",
+              "exampleId": "u5-ex-098"
             },
             {
               "id": "u5-writing-80c6cfb7ee91",
               "word": "personally",
               "meaning": "về phần tôi; theo ý kiến cá nhân",
               "type": "word",
-              "pos": "adverb"
+              "pos": "adverb",
+              "ipa": "/ˈpɜːrsənəli/",
+              "example": "Personally, I prefer shopping locally.",
+              "exampleTranslation": "Về phần tôi, tôi thích mua sắm tại địa phương hơn.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 92, opinion language",
+              "exampleId": "u5-ex-099"
             },
             {
               "id": "u5-writing-b40c7acd622e",
               "word": "a wider range of products",
               "meaning": "nhiều loại sản phẩm đa dạng hơn",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈwaɪdər reɪndʒ əv ˈprɑːdəks/",
+              "example": "A wider range of products is available online.",
+              "exampleTranslation": "Có nhiều loại sản phẩm đa dạng hơn trên mạng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 93",
+              "exampleId": "u5-ex-100"
             },
             {
               "id": "u5-writing-086d54905746",
               "word": "choose things in person",
               "meaning": "trực tiếp lựa chọn đồ",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/tʃuːz θɪŋz ɪn ˈpɜːrsən/",
+              "example": "I prefer going to shops and choosing things in person.",
+              "exampleTranslation": "Tôi thích đến cửa hàng và trực tiếp lựa chọn đồ hơn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 93",
+              "exampleId": "u5-ex-101"
             },
             {
               "id": "u5-writing-f61002677867",
               "word": "save money on petrol",
               "meaning": "tiết kiệm tiền xăng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/seɪv mʌni ɑːn ˈpetroʊl/",
+              "example": "You save money on petrol, parking or bus fares.",
+              "exampleTranslation": "Bạn tiết kiệm tiền xăng, phí đỗ xe hoặc vé xe buýt.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 93",
+              "exampleId": "u5-ex-102"
             },
             {
               "id": "u5-writing-486630c98118",
               "word": "bus fares",
               "meaning": "tiền vé xe buýt",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/bʌs ferz/",
+              "example": "You save money on petrol, parking or bus fares.",
+              "exampleTranslation": "Bạn tiết kiệm tiền xăng, phí đỗ xe hoặc vé xe buýt.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 93",
+              "exampleId": "u5-ex-102"
             },
             {
               "id": "u5-writing-c022aa6a29d2",
               "word": "credit card details",
               "meaning": "thông tin thẻ tín dụng",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈkredət kɑːrd ˈdiːteɪlz/",
+              "example": "Some customers worry about sharing their credit card details online.",
+              "exampleTranslation": "Một số khách hàng lo ngại việc chia sẻ thông tin thẻ tín dụng trên mạng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 93, online shopping discussion",
+              "exampleId": "u5-ex-103"
             },
             {
               "id": "u5-writing-50d064191eae",
               "word": "pay for postage",
               "meaning": "trả phí gửi hàng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/peɪ fər ˈpoʊstədʒ/",
+              "example": "You often have to pay for postage and wait for your goods.",
+              "exampleTranslation": "Bạn thường phải trả phí gửi hàng và chờ nhận hàng.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 93",
+              "exampleId": "u5-ex-104"
             },
             {
               "id": "u5-writing-e6325144a2a6",
               "word": "support local shops",
               "meaning": "ủng hộ cửa hàng địa phương",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/səˈpɔːrt ˈloʊkəl ʃɑːps/",
+              "example": "I think it is better to support local shops.",
+              "exampleTranslation": "Tôi nghĩ ủng hộ cửa hàng địa phương tốt hơn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 93",
+              "exampleId": "u5-ex-105"
             },
             {
               "id": "u5-writing-e45a71df46eb",
               "word": "a threat to small shops",
               "meaning": "mối đe dọa đối với cửa hàng nhỏ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə θret tə smɔːl ʃɑːps/",
+              "example": "Do you agree that supermarkets are a threat to small shops and local communities?",
+              "exampleTranslation": "Bạn có đồng ý rằng siêu thị là mối đe dọa đối với cửa hàng nhỏ và cộng đồng địa phương không?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 93",
+              "exampleId": "u5-ex-106"
             },
             {
               "id": "u5-writing-dae8f81407c3",
               "word": "local communities",
               "meaning": "cộng đồng địa phương",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈloʊkəl kəmˈjuːnətiːz/",
+              "example": "Do you agree that supermarkets are a threat to small shops and local communities?",
+              "exampleTranslation": "Bạn có đồng ý rằng siêu thị là mối đe dọa đối với cửa hàng nhỏ và cộng đồng địa phương không?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 93",
+              "exampleId": "u5-ex-106"
             },
             {
               "id": "u5-writing-2ca715d42ff2",
               "word": "agree to some extent",
               "meaning": "đồng ý ở một mức độ nhất định",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/əɡri tə sʌm ɪkˈstent/",
+              "example": "I agree to some extent that supermarkets have an impact on small shops.",
+              "exampleTranslation": "Tôi đồng ý ở một mức độ nhất định rằng siêu thị có ảnh hưởng đến cửa hàng nhỏ.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 93, argument practice",
+              "exampleId": "u5-ex-107"
             },
             {
               "id": "u5-writing-83bd369a0da4",
               "word": "have an impact on",
               "meaning": "có ảnh hưởng đến",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/hæv ən ˈɪmpækt ɑːn/",
+              "example": "I agree to some extent that supermarkets have an impact on small shops.",
+              "exampleTranslation": "Tôi đồng ý ở một mức độ nhất định rằng siêu thị có ảnh hưởng đến cửa hàng nhỏ.",
+              "exampleKind": "practice",
+              "exampleSource": "SB p. 93, argument practice",
+              "exampleId": "u5-ex-107"
             },
             {
               "id": "u5-writing-48ca52131304",
               "word": "outweigh the disadvantages",
               "meaning": "lớn hơn các bất lợi",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈaʊtˌweɪ ðə ˌdɪsədˈvænɪdʒz/",
+              "example": "Do the advantages of supermarkets outweigh the disadvantages?",
+              "exampleTranslation": "Lợi ích của siêu thị có lớn hơn các bất lợi không?",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 94",
+              "exampleId": "u5-ex-108"
             },
             {
               "id": "u5-writing-64c646889a43",
               "word": "queues at the checkout",
               "meaning": "hàng người chờ ở quầy thanh toán",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/kjuːz ət ðə ˈtʃeˌkaʊt/",
+              "example": "There are sometimes queues at the checkout.",
+              "exampleTranslation": "Đôi khi có hàng người chờ ở quầy thanh toán.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 94",
+              "exampleId": "u5-ex-109"
             },
             {
               "id": "u5-writing-8d1447dfe644",
               "word": "strong competition",
               "meaning": "sự cạnh tranh mạnh mẽ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/strɔːŋ ˌkɑːmpəˈtɪʃən/",
+              "example": "There are often several to choose from and there is strong competition between them.",
+              "exampleTranslation": "Thường có nhiều nơi để lựa chọn và có sự cạnh tranh mạnh mẽ giữa chúng.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 94",
+              "exampleId": "u5-ex-110"
             },
             {
               "id": "u5-writing-daad5cc86d8c",
               "word": "both sides of the argument",
               "meaning": "cả hai phía của lập luận",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/boʊθ saɪdz əv ðə ˈɑːrɡjəmənt/",
+              "example": "I will consider both sides of the argument and give my own view.",
+              "exampleTranslation": "Tôi sẽ xem xét cả hai phía của lập luận và đưa ra quan điểm của mình.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 94",
+              "exampleId": "u5-ex-111"
             },
             {
               "id": "u5-writing-06577792d39e",
               "word": "a cashless society",
               "meaning": "xã hội không dùng tiền mặt",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ə ˈkæʃləs səˈsaɪəti/",
+              "example": "In a cashless society, people use cards and other forms of payment instead of cash.",
+              "exampleTranslation": "Trong xã hội không dùng tiền mặt, mọi người dùng thẻ và các hình thức thanh toán khác thay cho tiền mặt.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 95",
+              "exampleId": "u5-ex-112"
             },
             {
               "id": "u5-writing-231b9e764943",
               "word": "forms of payment",
               "meaning": "các hình thức thanh toán",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/fɔːrmz əv ˈpeɪmənt/",
+              "example": "In a cashless society, people use cards and other forms of payment instead of cash.",
+              "exampleTranslation": "Trong xã hội không dùng tiền mặt, mọi người dùng thẻ và các hình thức thanh toán khác thay cho tiền mặt.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 95",
+              "exampleId": "u5-ex-112"
             },
             {
               "id": "u5-writing-8b77a978bbdf",
               "word": "supporting evidence",
               "meaning": "bằng chứng hỗ trợ lập luận",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/səˈpɔːrtɪŋ ˈevədəns/",
+              "example": "A well-developed argument needs supporting evidence and examples.",
+              "exampleTranslation": "Một lập luận được phát triển tốt cần bằng chứng hỗ trợ và ví dụ.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 95",
+              "exampleId": "u5-ex-113"
             },
             {
               "id": "u5-writing-9ed2b3fb9721",
               "word": "refund money",
               "meaning": "hoàn tiền",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ˈriːˌfʌnd mʌni/",
+              "example": "Some supermarkets will refund money if the same goods cost less at another supermarket.",
+              "exampleTranslation": "Một số siêu thị sẽ hoàn tiền nếu cùng món hàng có giá thấp hơn ở siêu thị khác.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 95",
+              "exampleId": "u5-ex-114"
             },
             {
               "id": "u5-writing-72689a80a45a",
               "word": "free delivery",
               "meaning": "giao hàng miễn phí",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/fri dɪˈlɪvəri/",
+              "example": "You can sometimes get free delivery on some days of the week.",
+              "exampleTranslation": "Đôi khi bạn được giao hàng miễn phí vào một số ngày trong tuần.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 95",
+              "exampleId": "u5-ex-115"
             },
             {
               "id": "u5-writing-7af9758c89b8",
               "word": "insurance and foreign currency",
               "meaning": "bảo hiểm và ngoại tệ",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌɪnˈʃʊrəns ənd ˈfɑːrən ˈkɜːrənsi/",
+              "example": "You can now buy insurance and foreign currency at large supermarkets.",
+              "exampleTranslation": "Hiện bạn có thể mua bảo hiểm và ngoại tệ tại các siêu thị lớn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 95",
+              "exampleId": "u5-ex-116"
             },
             {
               "id": "u5-writing-2f964b57623f",
               "word": "loyalty cards",
               "meaning": "thẻ khách hàng thân thiết",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈlɔɪəlti kɑːrdz/",
+              "example": "Some large supermarkets offer loyalty cards.",
+              "exampleTranslation": "Một số siêu thị lớn cung cấp thẻ khách hàng thân thiết.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 95",
+              "exampleId": "u5-ex-117"
             },
             {
               "id": "u5-writing-60e0faab86f2",
               "word": "family-run shops",
               "meaning": "cửa hàng do gia đình điều hành",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈfæməli rʌn ʃɑːps/",
+              "example": "Many small, family-run shops do not have enough customers to survive.",
+              "exampleTranslation": "Nhiều cửa hàng nhỏ do gia đình điều hành không có đủ khách hàng để tồn tại.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 96",
+              "exampleId": "u5-ex-118"
             },
             {
               "id": "u5-writing-120dd2df1014",
               "word": "return items",
               "meaning": "trả lại hàng",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/riːˈtɜːrn ˈaɪtəmz/",
+              "example": "I often return items because the size or colour is wrong for me.",
+              "exampleTranslation": "Tôi thường trả lại hàng vì kích cỡ hoặc màu sắc không phù hợp.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 96",
+              "exampleId": "u5-ex-119"
             },
             {
               "id": "u5-writing-df6491763e6a",
               "word": "knowledgeable staff",
               "meaning": "nhân viên am hiểu sản phẩm",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˈnɑːlədʒəbəl stæf/",
+              "example": "For instance, music shops often have knowledgeable staff who can advise customers.",
+              "exampleTranslation": "Chẳng hạn, cửa hàng nhạc thường có nhân viên am hiểu có thể tư vấn cho khách.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 96",
+              "exampleId": "u5-ex-120"
             },
             {
               "id": "u5-writing-c91970d7cd2c",
               "word": "give character to a town",
               "meaning": "tạo nét riêng cho một thị trấn",
               "type": "phrase",
-              "pos": "verb_phrase"
+              "pos": "verb_phrase",
+              "ipa": "/ɡɪv ˈkerɪktər tə ə taʊn/",
+              "example": "Finally, small, local shops give character to a town.",
+              "exampleTranslation": "Cuối cùng, các cửa hàng nhỏ ở địa phương tạo nét riêng cho một thị trấn.",
+              "exampleKind": "book",
+              "exampleSource": "SB p. 96",
+              "exampleId": "u5-ex-121"
             },
             {
               "id": "u5-writing-5d942fc89e2d",
               "word": "for instance",
               "meaning": "chẳng hạn",
               "type": "phrase",
-              "pos": "prepositional_phrase"
+              "pos": "prepositional_phrase",
+              "ipa": "/fər ˈɪnstəns/",
+              "example": "For instance, music shops often have knowledgeable staff who can advise customers.",
+              "exampleTranslation": "Chẳng hạn, cửa hàng nhạc thường có nhân viên am hiểu có thể tư vấn cho khách.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 96",
+              "exampleId": "u5-ex-120"
             },
             {
               "id": "u5-writing-4deb304f9daa",
               "word": "entertainment facilities",
               "meaning": "các tiện ích giải trí",
               "type": "phrase",
-              "pos": "noun_phrase"
+              "pos": "noun_phrase",
+              "ipa": "/ˌenərˈteɪnmənt fəˈsɪlətiːz/",
+              "example": "Malls plan to offer more entertainment facilities, such as cinemas and bowling alleys.",
+              "exampleTranslation": "Trung tâm mua sắm dự định cung cấp thêm tiện ích giải trí như rạp phim và khu bowling.",
+              "exampleKind": "adapted",
+              "exampleSource": "SB p. 97",
+              "exampleId": "u5-ex-122"
             }
           ]
         },
@@ -1997,7 +3454,12 @@ export default {
               "meaning": "Một ưu điểm lớn của ... là ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "One major advantage of online shopping is that it saves time."
+              "ipa": "/wʌn ˈmeɪdʒər ædˈvæntɪdʒ əv … ɪz ðæt …/",
+              "example": "One major advantage of online shopping is that it saves time.",
+              "exampleTranslation": "Một ưu điểm lớn của mua sắm trực tuyến là tiết kiệm thời gian.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 92–97; TB pp. 48–50",
+              "exampleId": "u5-ex-123"
             },
             {
               "id": "u5-writing-f67cec1d810a",
@@ -2005,7 +3467,12 @@ export default {
               "meaning": "Một hạn chế có thể có là ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "A possible drawback is the cost of returning goods."
+              "ipa": "/ə ˈpɑːsəbəl ˈdrɔːˌbæk ɪz …/",
+              "example": "A possible drawback is the cost of returning goods.",
+              "exampleTranslation": "Một hạn chế có thể có là chi phí trả lại hàng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 92–97; TB pp. 48–50",
+              "exampleId": "u5-ex-124"
             },
             {
               "id": "u5-writing-4405963ccc39",
@@ -2013,7 +3480,12 @@ export default {
               "meaning": "Điều này có thể được minh họa bằng ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "This can be illustrated by the experience of small family shops."
+              "ipa": "/ðɪs kæn biː ˈɪləˌstreɪtəd baɪ …/",
+              "example": "This can be illustrated by the experience of small family shops.",
+              "exampleTranslation": "Điều này có thể được minh họa bằng trải nghiệm của các cửa hàng nhỏ do gia đình điều hành.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 92–97; TB pp. 48–50",
+              "exampleId": "u5-ex-125"
             },
             {
               "id": "u5-writing-9d6c4890c669",
@@ -2021,7 +3493,12 @@ export default {
               "meaning": "Mặc dù ... đem lại một số lợi ích, ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "Although online shopping offers several benefits, local shops remain useful."
+              "ipa": "/ˌɔːlˈðoʊ … ˈɔːfərz ˈsevərəl ˈbenəfɪts …/",
+              "example": "Although online shopping offers several benefits, local shops remain useful.",
+              "exampleTranslation": "Mặc dù mua sắm trực tuyến có nhiều lợi ích, cửa hàng địa phương vẫn hữu ích.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 92–97; TB pp. 48–50",
+              "exampleId": "u5-ex-126"
             },
             {
               "id": "u5-writing-45e7c4894ac1",
@@ -2029,7 +3506,12 @@ export default {
               "meaning": "Tôi cho rằng lợi ích lớn hơn bất lợi vì ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "I believe the advantages outweigh the disadvantages because customers gain more choice."
+              "ipa": "/aɪ bɪˈliːv ðə ædˈvæntɪdʒɪz ˈaʊtˌweɪ ðə ˌdɪsədˈvænɪdʒz bɪˈkɑːz …/",
+              "example": "I believe the advantages outweigh the disadvantages because customers gain more choice.",
+              "exampleTranslation": "Tôi cho rằng lợi ích lớn hơn bất lợi vì khách hàng có thêm lựa chọn.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 92–97; TB pp. 48–50",
+              "exampleId": "u5-ex-127"
             },
             {
               "id": "u5-writing-a051be963121",
@@ -2037,7 +3519,12 @@ export default {
               "meaning": "Tóm lại, tôi cho rằng ...",
               "type": "structure",
               "pos": "sentence_pattern",
-              "example": "In conclusion, I would argue that both kinds of shop have a role to play."
+              "ipa": "/ɪn kənˈkluːʒən aɪ wʊd ˈɑːrɡjuː ðæt …/",
+              "example": "In conclusion, I would argue that both kinds of shop have a role to play.",
+              "exampleTranslation": "Tóm lại, tôi cho rằng cả hai loại cửa hàng đều có vai trò riêng.",
+              "exampleKind": "practice",
+              "exampleSource": "SB pp. 92–97; TB pp. 48–50",
+              "exampleId": "u5-ex-128"
             }
           ]
         }
